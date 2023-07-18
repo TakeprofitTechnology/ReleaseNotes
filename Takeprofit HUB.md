@@ -5,7 +5,7 @@
 
 
 ### Changes
-Inner book generation is optimized.
+* Inner book generation is optimized.
 
 Version 1.204-1.205 (29 June, 2023)
 Features:
