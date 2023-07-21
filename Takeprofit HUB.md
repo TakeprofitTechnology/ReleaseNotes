@@ -1,10 +1,8 @@
 # Takeprofit Hub
 ## Version 1.206 (7 July, 2023)
 ### Features
-
 ### Changes
 * Inner book generation is optimized.
-
 ## **Version 1.204-1.205 (29 June, 2023)**
 ### Features
 * Added display of password complexity when creating a new user.
