@@ -1,5 +1,5 @@
 # Takeprofit Hub
-## **Version 1.206 (7 July, 2023)**
+## Version 1.206 (7 July, 2023)
 ### Features
 
 
