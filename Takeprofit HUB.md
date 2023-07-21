@@ -2,8 +2,6 @@
 ## Version 1.206 (7 July, 2023)
 ### Features
 
-
-
 ### Changes
 * Inner book generation is optimized.
 
