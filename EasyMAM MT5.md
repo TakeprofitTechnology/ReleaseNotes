@@ -3,52 +3,52 @@
 ## Version 6.05-6.06 (9 June, 2023)
 
 ### Changes
-* Code refactoring done;
+* Code refactoring done.
 * Made optimization of reading logs.
 
 ## Version 6.03-6.04 (10 May, 2023)
 
 ### Changes
-* Fixed behavior and added error logs in case if master or slave account was deleted;
+* Fixed behavior and added error logs in case if master or slave account was deleted.
 * Added clearing the cache from the information about the rest connection, for the correct GUI work.
 
 ## Version 6.02 (19 Apr, 2023)
 
 ### Changes
-* “VolumeClosed” field for slave account now filled with same value as in “VolumeClosed” as on master account;
-* Added error in log in case if “VolumeClosed” field on slave account not equal value in “VolumeClosed” field on master account;
-* Added info in log about “date range” in case of “date range” incentive calculation;
-* Incentive payment for non-existent account was blocked;
-* Fixed log error in case of incentive calculation;
-* “DelayBetweenStepsInMs” parameter was added;
-* Blocked the ability to attach slave account to the master account with a different currency;
+* “VolumeClosed” field for slave account now filled with same value as in “VolumeClosed” as on master account.
+* Added error in log in case if “VolumeClosed” field on slave account not equal value in “VolumeClosed” field on master account.
+* Added info in log about “date range” in case of “date range” incentive calculation.
+* Incentive payment for non-existent account was blocked.
+* Fixed log error in case of incentive calculation.
+* “DelayBetweenStepsInMs” parameter was added.
+* Blocked the ability to attach slave account to the master account with a different currency.
 * Blocked the ability to set account for incentive calculation with currency differs from slave/masters accounts currency.
 
 ## Version 6.00 (06 Apr, 2023)
 
 ### Changes
-* The “UsedCurrencyProfitStep” parameter was removed from settings. Now EasyMAM always round up profit digits to the number of symbols entered in the "currency" group setting in MT5 admin;
-* “UsedSymbolVolumeStep” parameter was added;
-* The application has been reassembled;
-* Setting support in “XML” was removed;
-* Detach error in case when “UsedCurrencyProfitStep” - true, was fixed;
-* Distribution error in case when “UsedCurrencyProfitStep” - true, was fixed;
-* “Incentive” tab was added in web GUI;
-* “PnL” column was added in web GUI in “Slave” tab;
+* The “UsedCurrencyProfitStep” parameter was removed from settings. Now EasyMAM always round up profit digits to the number of symbols entered in the "currency" group setting in MT5 admin.
+* “UsedSymbolVolumeStep” parameter was added.
+* The application has been reassembled.
+* Setting support in “XML” was removed.
+* Detach error in case when “UsedCurrencyProfitStep” - true, was fixed.
+* Distribution error in case when “UsedCurrencyProfitStep” - true, was fixed.
+* “Incentive” tab was added in web GUI.
+* “PnL” column was added in web GUI in “Slave” tab.
 * Manual input of date range for calculation incentive was blocked.
 
 ## Version 5.84-5.86 (15 Mar, 2023)
 
 ### Changes
 
-* Added function for calculation incentive in specified interval of days;
+* Added function for calculation incentive in specified interval of days.
 * Removed dots from logs that end with numbers.
 
 ## Version 5.82-5.83 (15 Mar, 2023)
 
 ### Changes
 
-* Slave accounts detach with the "true" value of the “IgnoreOpenTrades” parameter has been fixed;
+* Slave accounts detach with the "true" value of the “IgnoreOpenTrades” parameter has been fixed.
 * Fixed a bug with the allocation of deals between slaves accounts due to a duplicate deal.
 
 ## Version 5.81 (10 Mar, 2023)
@@ -73,16 +73,16 @@
 
 ### Changes
 
-* Log about “UserNotFound” error has been changed;
-* Removed console.bat file;
+* Log about “UserNotFound” error has been changed.
+* Removed console.bat file.
 * Inner logic optimization (code refactoring).
 
 ## Version 5.76 (14 Feb, 2023)
 
 ### Changes
 
-* Replaced AsyncProducerConsumerQueue to Channel;
-* Added Polly using in repeated actions;
+* Replaced AsyncProducerConsumerQueue to Channel.
+* Added Polly using in repeated actions.
 * Migrated from XML to JSON setting file.
 
 ## Version 5.75 (16 Dec, 2022)
@@ -107,29 +107,29 @@
 
 ### Changes
 
-* Updated authorization page in the GUI;  
-* Added “AllowIncentivePayment” parameter in web GUI;
+* Updated authorization page in the GUI.  
+* Added “AllowIncentivePayment” parameter in web GUI.
 * Added confirmation for detach in GUI.
 
 ## Version 5.70 (8 Nov, 2022)
 
 ### Changes
 
-* Added check of master positions volume and slave’s deals on hot detach;  
+* Added check of master positions volume and slave’s deals on hot detach.  
 * Added check of deals deleting on masters and slaves accounts.
 
 ## Version 5.69 (16 Oct, 2022)
 
 ### Changes
 
-* Made a new visualization for the GUI, adapted to work with a large number of accounts;
+* Made a new visualization for the GUI, adapted to work with a large number of accounts.
 * Added manager rights check.
 
 ## Version 5.68 (29 Sep, 2022)
 
 ### Changes
 
-* Added “IncentivePaymentAfterDetach” to block incentive payment after detach;  
+* Added “IncentivePaymentAfterDetach” to block incentive payment after detach.  
 * Added the check of group owner of slaves and masters.
 
 ## Version 5.67 (13 Sep, 2022)
@@ -142,9 +142,9 @@
 
 ### Changes
 
-* Fixed bug of discrepancies in position volumes that occurred when redistributing a position during hot deletion;
-* Fixed a bug that occurred when there was a discrepancy between the server time and the application time;
-* Information about config file added in GUI menu;
+* Fixed bug of discrepancies in position volumes that occurred when redistributing a position during hot deletion.
+* Fixed a bug that occurred when there was a discrepancy between the server time and the application time.
+* Information about config file added in GUI menu.
 * Added balance discrepancy highlighting of “master” and “slaves” accounts in web GUI.
 
 ## Version 5.61-5-65 (26 Aug, 2022)
