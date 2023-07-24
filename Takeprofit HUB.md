@@ -1,10 +1,34 @@
 # Takeprofit Hub
 
+## Version 1.210 (24 July, 2023)
+### Features
+* REST API is added.
+### Changes
+* GUI working logic optimization - additional GUI libraries were added.
+* Firefox GUI representation is improved.
+* Market watch is improved with updated frontend libraries.
+* GUI minor improvemnets.
+* Quote processing bug is fixed.
+* Quote subscription (FIX) bug is fixed.
+
+* ## Version 1.209 (10 July, 2023)
+### Changes
+* Minor redesign of the GUI.
+*
+## Version 1.207 (5 July, 2023)
+### Changes
+* Bug fixed: under some conditions there was an exception when adding new hub symbol.
+*
 ## Version 1.206 (7 July, 2023)
 ### Features
+* Synthetic symbols generation is added (for this version there are only quotes).
+* The execution time in milliseconds is added to margin account report.
 ### Changes
 * Inner book generation is optimized.
-* 
+* BidPriceAtConfirmation data was added for margin account report.
+* AskPriceAtConfirmation data was added for margin account report.
+* Bug fixed: db disconnection process is handled correct starting this version.
+
 ## **Version 1.204-1.205 (29 June, 2023)**
 ### Features
 * Added display of password complexity when creating a new user.
