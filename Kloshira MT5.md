@@ -1,0 +1,131 @@
+# Kloshira MT5
+
+
+## **Version 1.87 (17 March, 2023)**
+### Changes
+* Fixed NONE reason on closing order closing deals.
+
+## **Version 1.86 (15 March, 2023)**
+### Changes
+* ‘Receive buffer is too small’ warning moved from trace layer to error.
+* Extra delay bug fixed.
+
+## **Version 1.84 (03 March, 2023)**
+### Changes
+* Bug fixed: wrong sequence number after restart.
+
+## **Version 1.83 (09 February, 2023)**
+### Changes
+* Added symbol name in error log if configuration of this symbol incorrect.
+
+## **Version 1.82 (23 January, 2023)**
+### Changes
+* Added milliseconds displaying to quote ticks time.
+
+## **Version 1.81 (01 December, 2022)**
+### Changes
+* Fixed order execution in case of no quotes and UseMT5Quotes=true.
+
+## **Version 1.79 (01 November, 2022)**
+### Changes
+* Added execution of limit order as market if X or M actions have negative value.
+
+## **Version 1.77 (06 October, 2022)**
+### Changes
+* Gateway API updated.
+* Added host validation without protocol type.
+
+## **Version 1.74 (07 September, 2022)**
+### Changes
+* Fixed Gateway crash bug if the routing group name has a % sign in it.
+
+## **Version 1.73 (29 August, 2022)**
+### Changes
+* Removed stack trace on MT5 Kloshira GUI connection error.
+
+## **Version 1.72 (08 July, 2022)**
+### Changes
+* Added to logs retcode from DealerStart().
+
+## **Version 1.69 (05 May, 2022)**
+### Changes
+* In Kloshira, GUI added the ability to leave LP Names field empty.
+
+## **Version 1.68 (19 April, 2022)**
+### Changes
+* Added the logic to process TA_STOPOUT_ORDER request for a limit order. The limit order is closed in case of reaching the SO level on the trading account. In previous versions, the limit order was not closed by SO.
+
+## **Version 1.67 (15 April, 2022)**
+### Changes
+* The name of the gateway instance has been added to the logging.
+
+## **Version 1.66 (12 April, 2022)**
+### Changes
+* The name of filtering quotes with zero spread has been changed to ZeroSpreadFilterWidthPercent.
+
+## **Version 1.65 (10 April, 2022)**
+### Changes
+* Added filtering of quotes with zero spread, ZeroSpreadFiltrationWidthPercent.
+
+## **Version 1.64 (01 April, 2022)**
+### Changes
+* Changed the error text when entering values in the Schedule field incorrectly.
+
+## **Version 1.63 (09 March, 2022)**
+### Changes
+* Added Security column to the new Kloshira Web GUI.
+* Fixed bug, the Balance Kloshira Web GUI field accepts any values.
+
+## **Version 1.62 (20 January, 2022)**
+### Changes
+* The unexecuted part is not cancelled during limit order execution.
+
+## **Version 1.61 (20 January, 2022)**
+### Changes
+* The unexecuted part is not cancelled during limit order execution.
+* Additional logging information was added for the case: manager account is not set (MT5 Administrator).
+
+## **Version 1.59 (23 November, 2021)**
+### Changes
+* “SubAccount” parameter was deleted from the rules in GUI.
+
+## **Version 1.58 (23 November, 2021)**
+### Changes
+* Gateway was completely reassembled with a new version of manager API.
+
+## **Version 1.57 (27 October, 2021)**
+### Changes
+* Added value “{details}” for in the parameter “newSubaccount” of the routing rule for displaying detailed information in the FIX logs.
+
+## **Version 1.56 (28 September, 2021)**
+### Changes
+* Fixed a bug, when using a domain in the gateway parameters, it did not start.
+* Added a message to the logs when using a domain name in parameters.
+
+## **Version 1.55 (26 September, 2021)**
+### Changes
+* Rejecting 4 unsupported operation types (Price, Request, Instant, Exchange) was realized.
+* Pending orders activation by the manager was fixed.
+* Stop limit buy/sell orders were fixed.
+* Logging was improved. Added information about unsupported operation types: name of request type and order type.
+
+## **Version 1.54 (15 September, 2021)**
+### Changes
+* Changed the text of the fatal log in which If an active order was being processed on the trading account at the time the gateway was restarted.
+
+## **Version 1.53 (15 September, 2021)**
+### Changes
+* If an active order was being processed on the trading account at the time the gateway was restarted, a fatal message is displayed in the logs.
+
+## **Version 1.52 (08 September, 2021)**
+### Changes
+* Bug has been fixed: when changing the ‘Action” rule, Kloshira stopped working and was dispalyed in the logs fatal exception.
+
+## **Version 1.51 (06 September, 2021)**
+### Changes
+* Gateway completely rebuilt with new libraries and relieved of dependencies.
+
+## **Version 1.49 (29 June, 2021)**
+### Changes
+* Action X now can take negative values (in this case the direction of the order will be changed).
+* Action M now can take negative values (in this case the direction of the order will be changed).
