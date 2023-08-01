@@ -1,6 +1,9 @@
 # Kloshira MT5
 
-
+## **Version 1.89 (3 July, 2023)**
+### Changes
+* Fixed action M bug (min lot in symbol's settings was ignored).
+  
 ## **Version 1.87 (17 March, 2023)**
 ### Changes
 * Fixed NONE reason on closing order closing deals.
