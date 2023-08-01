@@ -17,7 +17,7 @@
   
 ## Version 1.37 (7 July, 2023)
 ### Changes
-* The name of parameter were aligned to center;
+* The names of the parameters were aligned to center;
 * DynamicLeverage MT5 GUI: Lots value was set as a default for VolumeType parameter;
 * Kloshira MT4 GUI: Save button is now highlighted if there is unsaved changes;
 * Kloshira MT5 GUI: Save button is now highlighted if there is unsaved changes
