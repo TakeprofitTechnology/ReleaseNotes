@@ -2,7 +2,7 @@
 
 ## Version 6.08-6.09 (4 Aug, 2023)
 ### Changes
-* Fixed an issue with A zero incentive set.
+* Fixed an issue with a zero incentive set.
 * Fixed a pagination issue.
 * Renamed the roles: "Master" is now called "Money Manager" and "Slave" has been changed to "Investor".
 * Improved design of Investor View: colors, buttons, fonts have been updated; spinner icon and borders have been removed, tabs are merged into a single page.
