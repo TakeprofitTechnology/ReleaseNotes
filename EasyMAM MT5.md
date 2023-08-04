@@ -1,6 +1,17 @@
 # EasyMAM MT5
 
-## Version 6.05-6.06 (9 June, 2023)
+## Version 6.08-6.09 (4 Aug, 2023)
+### Changes
+* Fixed an issue with A zero incentive set.
+* Fixed a pagination issue.
+* Renamed the roles: "Master" is now called "Money Manager" and "Slave" has been changed to "Investor".
+* Improved design of Investor View: colors, buttons, fonts have been updated; spinner icon and borders have been removed, tabs are merged into a single page.
+
+## Version 6.07 (6 Jul, 2023)
+### Changes
+* Added Investor View web GUI — a web-application for investors to see and choose money managers to invest in.
+
+## Version 6.05-6.06 (9 Jun, 2023)
 
 ### Changes
 * Code refactoring done.
