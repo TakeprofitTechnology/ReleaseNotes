@@ -1,5 +1,14 @@
 # CopyTrader
 
+## Version 2.34 (03 August, 2023)
+### Changes
+* Fixed partial closure to Copy System: MT5 to MT5 inside of one server.
+* Copy logic was fixed. Now if the Follower closes the copied deal it doesn't affect the Master's deal.
+
+## Version 2.32 (27 July, 2023)
+### Features
+* Added partial closure to Copy System: MT5 to MT5 inside of one server.
+
 ## Version 2.30 (2 June, 2023)
 ### Features
 * The first version of CopyTrader Website integration Widget was developed.
