@@ -1,5 +1,13 @@
 # CopyTrader
 
+## Version 2.37 (14 August, 2023)
+### Features
+* Trader type Master renamed to Leader.
+
+### Changes
+* Fixed error copying trades MT4 >> MT4 in scaled mode.
+
+
 ## Version 2.34 (03 August, 2023)
 ### Changes
 * Fixed partial closure to Copy System: MT5 to MT5 inside of one server.
