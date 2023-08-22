@@ -1,6 +1,6 @@
 # Takeprofit Web GUI Configurator
 
-## Version 1.40 (21 July, 2023)
+## Version 1.40-1.41 (9 August, 2023)
 ### Changes
 * Added port availability check when setting up the configurator;
 * EasyMAM MT5 GUI: fixed display of visual errors when selecting incentive calculation days using the calendar;
