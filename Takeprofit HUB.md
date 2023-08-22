@@ -1,8 +1,41 @@
 # Takeprofit Hub
 
+## Version 1.213 - 1.215 (12 August, 2023)
+### Changes
+* All the tables are migrated to SyncFusion framework.
+* Background color is changed to white.
+* Gradients are removed from all the pages.
+* Buttons form is changed to rectangle.
+* Font color is changed to #5C0658.
+* Button text is changed to white.
+* Button color is changed to #5C0658.
+* Link color is changed to #1B6AC9.
+* Tables color is changed to white.
+* Fonts are changed to Roboto Regular.
+* Title font size is changed to 18px.
+* User authentication bug is fixed.
+* Prometheus connection bugs are fixed.
+* Removed old table form home screen.
+* Home page data representation is remade.
+
+## Version 1.212 (12 August, 2023)
+### Features
+* Prometheus client is added.
+
+### Changes
+* Improved incremental price update workflow.
+* Depth of market creation mechanism is improved.
+* Bucket logic is improved (the hub does not send bucket order if there is no pricing).
+
+## Version 1.211 (8 August, 2023)
+### Changes
+* Execution delays bug is fixed (inner loggin mechanism is improved).
+* Removed extra tags from 35=X FIX messages (MdEntrySize).
 ## Version 1.210 (24 July, 2023)
 ### Features
-* REST API is added.
+* REST API server is added.
+* REST commands to enable/disable takers are added.
+* "SubscribeToIncrementalUpdates" is added to quote providers (to subscribe on incremental quote refresh if available).
 ### Changes
 * GUI working logic optimization - additional GUI libraries were added.
 * Firefox GUI representation is improved.
@@ -14,11 +47,14 @@
 * ## Version 1.209 (10 July, 2023)
 ### Changes
 * Minor redesign of the GUI.
-*
+* "Overview" menu item to main menu is added.
+* "Market watch" is added to "Overview" as menu item.
+* "Home" tab is moved to "Overview".
+* "Market watch" inner table is added.
 ## Version 1.207 (5 July, 2023)
 ### Changes
 * Bug fixed: under some conditions there was an exception when adding new hub symbol.
-*
+
 ## Version 1.206 (7 July, 2023)
 ### Features
 * Synthetic symbols generation is added (for this version there are only quotes).
