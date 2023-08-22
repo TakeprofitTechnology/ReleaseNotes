@@ -1,7 +1,14 @@
 # Takeprofit Web GUI Configurator
 
+## Version 1.40 (21 July, 2023)
+### Changes
+* Added port availability check when setting up the configurator;
+* EasyMAM MT5 GUI: fixed display of visual errors when selecting incentive calculation days using the calendar;
+* Ashira MT4 GUI: renamed footnote when navigate the mouse to the "Spreads" tab.
+
 ## Version 1.38-1.39 (21 July, 2023)
 ### Changes
+* EasyMAM MT5 GUI: column with a checkbox for selecting accounts was added, bulk operations are applied to all selected accounts;
 * DynamicLeverage MT5 GUI: now it isn't allowed to save the rule if symbols/securities fields are not filled;
 * DynamicLeverage MT5 GUI: now it isn't allowed to save the rule if groups/logins fields are not filled;
 * DynamicLeverage MT5 GUI: now it isn't allowed to edit the groups if logins is already filled;
@@ -12,7 +19,7 @@
 * DynamicLeverage MT5 GUI: renamed Rule multiplier mode to Mode;
 * DynamicLeverage MT5 GUI: the values of Mode parameter have been changed: now it's Leverage (instead of L) and Multiplier (instead of X);
 * DynamicLeverage MT5 GUI: Exposure limit column was renamed to Symbol Vol.Limit;
-* DynamicLeverage MT5 GUI: the values of VolumeType parameter have been changed: now it's Lots (instead of L) and Exposure (instead of E);
+* DynamicLeverage MT5 GUI: the values of VolumeType parameter have been changed: now it's Lots (instead of L) and Exposure (instead of E).
 
   
 ## Version 1.37 (7 July, 2023)
@@ -20,7 +27,7 @@
 * The names of the parameters were aligned to center;
 * DynamicLeverage MT5 GUI: Lots value was set as a default for VolumeType parameter;
 * Kloshira MT4 GUI: Save button is now highlighted if there is unsaved changes;
-* Kloshira MT5 GUI: Save button is now highlighted if there is unsaved changes
+* Kloshira MT5 GUI: Save button is now highlighted if there is unsaved changes.
 
 
 ## Version 1.34-1.35 (4 July, 2023)
@@ -63,7 +70,7 @@
 
 ## Version 1.25-1.26 (19 April, 2023)
 ### Features
-* Currency column was added in EasyMAM MT5 GUI;
+* Currency column was added in EasyMAM MT5 GUI.
 
 ### Changes
 * Fixed text when calculating incentive in EasyMAM MT4 GUI;
@@ -75,7 +82,7 @@
 * Added SerilogSettings to appsetting.json file;
 * Added RestRequestsLogging setting to appsettings.json file;
 * Added backward compatibility with old appsetting.json file;
-* Added Spread Management configurator;
+* Added Spread Management configurator.
 
 ### Changes
 * Changed application favicon;
@@ -89,21 +96,21 @@
 ### Changes
 * Fixed exception while editing symbols in Kloshira MT4 configurator;
 * Added unique color to Max Position Exposure card;
-* Added checking the version of EasyMAM to prevent using incentive features with old EasyMAM MT5;
+* Added checking the version of EasyMAM to prevent using incentive features with old EasyMAM MT5.
 
 ## Version 1.21 (14 March, 2023)
 ### Changes
-* Fixed bug, text overlap while adding new configurator;
+* Fixed bug, text overlap while adding new configurator.
 
 ## Version 1.20 (17 March, 2023)
 ### Changes
 * Added a message, when there are no configurators and the user doesn't have enough rights to create them;
-* Added default values to Max Position Exposure MT4 configurator;
+* Added default values to Max Position Exposure MT4 configurator.
 
 ## Version 1.19 (10 March, 2023)
 ### Features
 * Added Max Position Exposure MT4 configurator;
-* Added Flex Rebate MT5;
+* Added Flex Rebate MT5.
 
 ### Changes
 * Added HTTPS support;
@@ -114,7 +121,7 @@
 * Fixed bug, error while edition rules in Kloshira MT4 configurator;
 * Fixed bug, error while adding rules Dynamic Leverage Advanced MT4;
 * Fixed Dynamic Leverage MT5 rules editing;
-* Added default values when adding new rule Dynamic Leverage Advanced MT4;
+* Added default values when adding new rule Dynamic Leverage Advanced MT4.
 
 ## Version 1.12 (9 February, 2023)
 ### Changes
@@ -123,19 +130,19 @@
 
 ## Version 1.11 (3 February, 2023)
 ### Features
-* Added Ashira support;
+* Added Ashira support.
 
 ### Changes
 * Added quotes update in Kloshira MT4 symbols tab;
 * Fixed GUI bugs;
-* Added restriction of card visibility among users;
+* Added restriction of card visibility among users.
 
 ## Version 1.10 (26 January, 2023)
 ### Features
-* Added card pictures to bundle;
+* Added card pictures to bundle.
 
 ### Changes
-* Fixed bug, reconnecting to deleted product;
+* Fixed bug, reconnecting to deleted product.
 
 ## Version 1.09 (23 January, 2023)
 ### Features
