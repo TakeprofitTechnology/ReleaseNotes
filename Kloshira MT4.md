@@ -1,5 +1,8 @@
 # Kloshira MT4
 
+## **Version 4.27 (22 August, 2023)**
+### Changes
+* Optimized quote processing for speeding up.
 
 ## **Version 4.24-4.26 (09 June, 2023)**
 ### Changes
