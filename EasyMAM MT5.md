@@ -1,9 +1,19 @@
 # EasyMAM MT5
 
+## Version 6.10-6.12 (24 Aug, 2023)
+### Changes
+* Added the Open Trades table to Investor View. It allows investors to see all open trades that their money managers have.
+* Fixed an issue with logging to Investor View when IgnoreOpenTrades is set to "true".
+* Fixed an issue with an error appearing when the REST address protocol type is not specified.
+* Fixed an issue in Investor View with logging to the second server instead of main.
+* Renamed "Master" to "Money Manager" on hover over button in Investor View.
+* Reduced log repeating of the same error from 5 seconds to 30 minutes.
+* Extended deal validation during user sync.
+
 ## Version 6.08-6.09 (4 Aug, 2023)
 ### Changes
 * Fixed an issue with a zero incentive set.
-* Fixed a pagination issue.
+* Fixed the table pagination issue.
 * Renamed the roles: "Master" is now called "Money Manager" and "Slave" has been changed to "Investor".
 * Improved design of Investor View: colors, buttons, fonts have been updated; spinner icon and borders have been removed, tabs are merged into a single page.
 
