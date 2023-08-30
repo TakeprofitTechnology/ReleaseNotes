@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## **Version 1.90 (21 July, 2023)**
+### Changes
+* Added "SubscribeToIncrementalUpdates" parameter to Sessions.ini.
+
 ## **Version 1.89 (3 July, 2023)**
 ### Changes
 * Fixed action M bug (min lot in symbol's settings was ignored).
