@@ -9,14 +9,15 @@
 * "Market depth" of Symbols table is completely rebuilt.
 * "Type" column is added to main page table to show FIX API each maker/taker uses.
 ### Changes
-*
+* Inner methods refactoring.
 
 ## Version 1.217 (25 August, 2023)
 ### Features
 * "Symbol subscription" column is added to home page.
 * "Exposure" tab is added.
 ### Changes
-*
+* Minor GUI changes.
+* cTrader FIX acceptor is improved.
 
 ## Version 1.216 (19 August, 2023)
 ### Features
@@ -24,6 +25,7 @@
 * "QuotesPerMinute" column is added to home page table.
 ### Changes
 * Inner quote processing is improved (on taker's side).
+* PrimeXM acceptor is improved.
  
 
 
