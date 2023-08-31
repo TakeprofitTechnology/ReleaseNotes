@@ -1,5 +1,32 @@
 # Takeprofit Hub
 
+## Version 1.218 - 1.219 (29 August, 2023)
+### Features
+* Tab "Exposure", table "Symbols" is added.
+* "Execution time 50%" column is added to home page.
+* "Execution time 90%" column is added to home page.
+* Vertical and horizontal scrolls are removed from tables (and only page scrolls are left).
+* "Market depth" of Symbols table is completely rebuilt.
+* "Type" column is added to main page table to show FIX API each maker/taker uses.
+### Changes
+*
+
+## Version 1.217 (25 August, 2023)
+### Features
+* "Symbol subscription" column is added to home page.
+* "Exposure" tab is added.
+### Changes
+*
+
+## Version 1.216 (19 August, 2023)
+### Features
+* "OrdersPerMinute" column is added to home page table.
+* "QuotesPerMinute" column is added to home page table.
+### Changes
+* Inner quote processing is improved (on taker's side).
+ 
+
+
 ## Version 1.213 - 1.215 (12 August, 2023)
 ### Changes
 * All the tables are migrated to SyncFusion framework.
