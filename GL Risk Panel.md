@@ -1,5 +1,13 @@
 # GL Risk Panel
 
+## Version 1.13 (1 September, 2023)
+### Changes
+* Maker Dashboard: all numbers are aligned by the right side now, spaces between numbers removed;
+* Position Checker: cell borders have been removed;
+* Position Checker: all cells are black now;
+* Sidebar was moved to the header of the page;
+* Server names have been changed;
+
 
 ## Version 1.12 (24 August, 2023)
 ### Changes
