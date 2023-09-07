@@ -1,5 +1,9 @@
 # DrawdownLimit MT5
 
+## Version 1.05 (1 September, 2023)
+### Changes
+* FirstLimitsCalculation parameter was added;
+* Several bugs have been fixed: limits didn't trigger at the end of the day.
 
 ## Version 1.03-1.04 (21 August, 2023)
 ### Changes
