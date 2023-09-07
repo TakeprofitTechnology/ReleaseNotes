@@ -6,7 +6,7 @@
 * Position Checker: cell borders have been removed;
 * Position Checker: all cells are black now;
 * Sidebar was moved to the header of the page;
-* Server names have been changed;
+* Server names have been changed.
 
 
 ## Version 1.12 (24 August, 2023)
