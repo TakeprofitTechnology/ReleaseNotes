@@ -1,6 +1,6 @@
 # Kloshira MT4
 
-## **Version 4.29 (29 August, 2023)**
+## **Version 4.30 (29 August, 2023)**
 ### Changes
 * Code optimization was made.
 
