@@ -2,7 +2,8 @@
 
 ## **Version 4.30 (29 August, 2023)**
 ### Changes
-* Code optimization was made.
+* Code optimization was made;
+* "Receive buffer is too small" was changed from ERROR to INFO message.
 
 ## **Version 4.27 (22 August, 2023)**
 ### Changes
