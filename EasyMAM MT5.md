@@ -1,5 +1,12 @@
 # EasyMAM MT5
 
+## Version 6.13-6.14 (11 Sep, 2023)
+### Changes
+* Added a stat "Total Profit" to Investor View.
+* Added a stat "Incentive Paid" to Investor View.
+* Added a stat "ROI" to Investor View.
+* Fixed a bug with counting the "Total Profit" stat.
+
 ## Version 6.10-6.12 (24 Aug, 2023)
 ### Changes
 * Added the Open Trades table to Investor View. It allows investors to see all open trades that their money managers have.
