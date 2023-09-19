@@ -1,5 +1,9 @@
 # DrawdownLimit MT5
 
+## Version 1.06 (14 September, 2023)
+### Changes
+* Limit orders are closed now along with open positions.
+
 ## Version 1.05 (1 September, 2023)
 ### Changes
 * FirstLimitsCalculation parameter was added;
