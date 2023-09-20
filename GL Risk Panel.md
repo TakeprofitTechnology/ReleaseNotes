@@ -8,7 +8,7 @@
 * Position Checker: now columns are visible even when scrolling the table up or down;
 * Maker Dashboard: CSS style was changed to font-variant-numeric: tabular-nums;
 * Position Checker: when correction limit was reached, data from "Correction", "Correction USD", "Correction Limit" columns becomes red;
-* Position Checker: a bug was fixed, now correction limit can be edited while the data is loading/updaing;
+* Position Checker: a bug was fixed, now correction limit can be edited while the data is loading/updating;
 * Server sync: it's possible to copy the data from the table by double clicking;
 * When correction limit is reached, notification is sent to Telegram chat but with correction in USD value additionally included.
   
