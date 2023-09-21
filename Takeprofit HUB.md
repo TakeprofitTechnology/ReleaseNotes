@@ -1,5 +1,58 @@
 # Takeprofit Hub
 
+## Version 1.228 (19 September, 2023)
+### Changes
+* Incremental market data refresh bug is fixed.
+* Exposure calculation bug is fixed.
+
+## Version 1.227 (18 September, 2023)
+### Changes
+* Exposure table loading bug is fixed.
+
+## Version 1.226 (17 September, 2023)
+### Changes
+* FIX sessions disconnection mechansm is improved.
+* All checks when creating user is removed.
+
+## Version 1.225 (14 September, 2023)
+### Features
+* Currencies are added to Exposure tab.
+* Inner order generator (test taker) is improved.
+### Changes
+* Changing administrator name bug is fixed.
+* Incoming quote handling is improved.
+
+## Version 1.224 (11 September, 2023)
+### Features
+* Currencies are added to Exposure tab.
+### Changes
+* Changed double dropdown menu bug in the GUI.
+
+## Version 1.223 (10 September, 2023)
+### Changes
+* Margin account representation in Exposure table is changed (now takers are groupped by margin account).
+* Lmax maker is renamed to LmaxMTF.
+
+## Version 1.222 (8 September, 2023)
+### Features
+* SolidFX maker is added.
+* Representation of market depth is changed.
+### Changes
+* Minor GUI changes.
+* Changed default number of book layers to subscribe for makers to 5.
+
+## Version 1.221 (5 September, 2023)
+### Features
+
+### Changes
+
+## Version 1.220 (2 September, 2023)
+### Features
+* Simple aggregation logic failover is changed (now it failover works for each symbol instead of the whole maker).
+* Advanced aggregation logic failover is changed (now it failover works for each symbol instead of the whole maker).
+### Changes
+* Fixed Prometheus integration bug (older versions were incompatible with new config file). 
+
 ## Version 1.218 - 1.219 (29 August, 2023)
 ### Features
 * Tab "Exposure", table "Symbols" is added.
