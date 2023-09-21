@@ -41,12 +41,8 @@
 * Minor GUI changes.
 * Changed default number of book layers to subscribe for makers to 5.
 
-## Version 1.221 (5 September, 2023)
-### Features
 
-### Changes
-
-## Version 1.220 (2 September, 2023)
+## Version 1.220 - 1.221 (2 September, 2023)
 ### Features
 * Simple aggregation logic failover is changed (now it failover works for each symbol instead of the whole maker).
 * Advanced aggregation logic failover is changed (now it failover works for each symbol instead of the whole maker).
