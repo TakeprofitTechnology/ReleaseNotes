@@ -1,5 +1,15 @@
 # EasyMAM MT5
 
+## Version 6.15-6.18 (11 Sep, 2023)
+### Changes
+* Fixed an issue with calculating incentives multiple times.
+* Added and changed error texts.
+* Removed the line break in rows in Investor View.
+* Renamed "Profit And Loss" to "Realized Profit and Loss" in account information in Investor View.
+* Removed the counter on the Investor View login page.
+* Removed lists from tables in Investor View.
+* Renamed the bundle to "MT5 EasyMam.InvestorView".
+
 ## Version 6.13-6.14 (11 Sep, 2023)
 ### Changes
 * Added a stat "Total Profit" to Investor View.
