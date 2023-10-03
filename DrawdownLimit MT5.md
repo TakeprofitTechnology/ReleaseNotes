@@ -1,8 +1,9 @@
 # DrawdownLimit MT5
 
 ## Version 1.07-1.09 (29 September, 2023)
+### Changes
 * Added LossLimitPercent parameter.
-* Added DailyLossLimitPercent.
+* Added DailyLossLimitPercent parameter.
 * Fixed the format of numbers in logs.
 
 ## Version 1.06 (14 September, 2023)
