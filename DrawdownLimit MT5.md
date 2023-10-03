@@ -1,5 +1,10 @@
 # DrawdownLimit MT5
 
+## Version 1.07-1.09 (29 September, 2023)
+* Added LossLimitPercent parameter.
+* Added DailyLossLimitPercent.
+* Fixed the format of numbers in logs.
+
 ## Version 1.06 (14 September, 2023)
 ### Changes
 * Limit orders are closed now along with open positions.
