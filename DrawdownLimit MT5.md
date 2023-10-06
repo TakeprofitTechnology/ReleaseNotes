@@ -1,5 +1,9 @@
 # DrawdownLimit MT5
 
+## Version 1.10 (6 October, 2023)
+### Changes
+* Added two values to email notifications: EOD equity, initial balance.
+
 ## Version 1.07-1.09 (29 September, 2023)
 ### Changes
 * Added LossLimitPercent parameter.
