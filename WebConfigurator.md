@@ -1,5 +1,11 @@
 # Takeprofit Web GUI Configurator
 
+## Version 1.42 (2 October, 2023)
+### Changes
+* Fixed an issue with filtering in tables.
+* EasyMAM MT5 GUI: removed the ability to edit a cell.
+* EasyMAM MT5 GUI: removed "Filter" icon from the first column.
+
 ## Version 1.40-1.41 (9 August, 2023)
 ### Changes
 * Added port availability check when setting up the configurator;
