@@ -3,7 +3,7 @@
 ## Version 1.20 (30 September, 2023)
 ### Changes
 Horizontal scroling has been removed;
-Internal change: For calculation positions on coverage account now we use the current positions volume for a symbol per deals
+Internal change: For calculation positions on coverage account now we use the current positions volume for a symbol per deals.
 
 ## Version 1.18-19 (25 September, 2023)
 ### Changes
