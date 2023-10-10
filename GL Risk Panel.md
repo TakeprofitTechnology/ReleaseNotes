@@ -1,17 +1,24 @@
 # GL Risk Panel
 
+## Version 1.21 (5 October, 2023)
+### Changes
+* A small bug was fixed: the tool sent additional (not needed) notification when discrepancy has been already fixed.
+
+
 ## Version 1.20 (30 September, 2023)
 ### Changes
-* Internal change: For calculation positions on coverage account now we use the current positions volume for a symbol per deals.
+* Internal change: for calculation of positions volume on a coverage account now we use the deals from the trading history;
 * Horizontal scroling has been removed;
 
 
 ## Version 1.18-19 (25 September, 2023)
 ### Changes
-* Removed extra space around table in all tabs;
-* Maker Dashboard: string with data became gray in case if tool can't get data from server;
-* Fixed the width of the progress download bar on "position checker" and "server sync" tabs;
+* Removed extra space around the table in all tables;
+* Maker Dashboard: string with data becomes gray in case if tool can't get data from server;
+* Maker Dashboard: if data is not loaded, at last update column shows status "Loading"
+* Fixed the width of the progress download bar in "position checker" and "server sync" tabs;
 * The data in the Position Checker and Maker Dashboard tables has been aligned;
+
 
 ## Version 1.16-1.17 (18 September, 2023)
 ### Changes
