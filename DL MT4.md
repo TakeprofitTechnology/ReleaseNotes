@@ -1,12 +1,16 @@
 # Dynamic Leverage MT4
 
-## Version 1.21 (28 Feb, 2023)
+## Version 1.22 (5 October, 2023)
+### Changes
+* Now it's possible to use integer and fractional number values when adding Levels. Only integer was supported before.
+
+## Version 1.21 (28 February, 2023)
 ### Features
 * “Futures” calculation type was added.
 
 ### Changes
 * Log information was expanded.
 
-## Version 1.20 (20 Dec, 2022)
+## Version 1.20 (20 December, 2022)
 ### Features
 * “CFD-Leverage” calculation type was added.
