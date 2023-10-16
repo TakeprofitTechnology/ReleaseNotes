@@ -1,5 +1,12 @@
 # EasyMAM MT5
 
+## Version 6.19 (13 Oct, 2023)
+### Changes
+* Added Money Manager View. It is an application for money managers to keep track of their statistics, such as drawdown, ROI, equity, and earned incentive.
+* Optimized equity calculation in Investor View.
+* Added Error 401 to Investor View, when user logs in with incorrect credentials.
+* Fixed a few UX issues in Investor View.
+
 ## Version 6.15-6.18 (11 Sep, 2023)
 ### Changes
 * Fixed an issue with calculating incentives multiple times.
