@@ -1,4 +1,4 @@
-# CopyTrader
+# CopyTrader 
 
 ## Version 2.37 (14 August, 2023)
 ### Features
