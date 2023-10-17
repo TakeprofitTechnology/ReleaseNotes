@@ -1,4 +1,4 @@
-# CopySystem
+# CopySystem (New application for copying deals)
 
 ## Version 0.11-0.13 (05 Oct, 2023)
 ### Changes
