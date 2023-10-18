@@ -1,5 +1,11 @@
 # EasyMAM MT5
 
+## Version 6.20 (17 Oct, 2023)
+### Changes
+* Added new error messages for unsuccessful attaching, detaching, setting incentive.
+* Updated design of Investor and Money Manager Views: removed table borders, aligned the content in tables, unified numbers format.
+* Fixed the Incentive metric in Money Manager View: now it's shows the amount of money earned from incentives.
+
 ## Version 6.19 (13 Oct, 2023)
 ### Changes
 * Added Money Manager View. It is an application for money managers to keep track of their statistics, such as drawdown, ROI, equity, and earned incentive.
