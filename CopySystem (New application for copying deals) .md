@@ -1,5 +1,14 @@
 # CopySystem (New application for copying deals)
 
+## Version 0.14-0.15 (19 Oct, 2023)
+### Changes
+*Trader's web GUI has been added;
+*Current opene positons has been added in trader's web GUI;
+*Table with avaliable leaders has been added in  trader's web GUI;
+*Balance, equity, total profit and currency statistic has been added in trader's GUI;
+*Balance, equity, total profit and currency statistic has been added in "accounts" tab in admin web GUI;
+*The number of trader's accounts that can be subscribed to client in GUI has been reduced to 1;
+
 ## Version 0.11-0.13 (05 Oct, 2023)
 ### Changes
 * Added copy logic to the debug connector;
