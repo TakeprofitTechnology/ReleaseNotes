@@ -1,5 +1,17 @@
 # GL Risk Panel
 
+## Version 1.23 (23 October, 2023)
+### Changes
+* Position Checker: a background color of Correction USD column was changed;
+* ServerSync: possible issues in code in securities comparison has been fixed.
+
+## Version 1.22 (17 October, 2023)
+### Changes
+* Exception error has been fixed;
+* Added spaces in numbers (separate thousands);
+* Position Checker: rows with discrepancies are duplicated on the top of the table now;
+* Position Checker: an error in positions calculation has been fixed.
+
 ## Version 1.21 (5 October, 2023)
 ### Changes
 * A small bug was fixed: the tool sent additional (not needed) notification when discrepancy has been already fixed.
