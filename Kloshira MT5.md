@@ -1,5 +1,10 @@
 # Kloshira MT5
 
+## **Version 1.91 - 1.93 (01 August - 25 September, 2023)**
+### Changes
+* Kloshira was rebuilt several times with the lates MT5 Gateway API to match the latest version of MT5 server.
+* Logging is improved.
+
 ## **Version 1.90 (21 July, 2023)**
 ### Changes
 * Added "SubscribeToIncrementalUpdates" parameter to Sessions.ini.
