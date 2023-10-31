@@ -1,5 +1,61 @@
 # Takeprofit Hub
 
+## Version 1.241 (31 October, 2023)
+### Changes
+* Risk Profiles table is migrated to sync fusion fronted framework.
+* Page loading speed is improved.
+
+## Version 1.239 (25 October, 2023)
+### Changes
+* Makers table is migrated to sync fusion fronted framework.
+* Minor GUI changes.
+* Monitoring system bug is fixed.
+* Bug fixed: it was not possible to send the order from taker side (hub's GUI).
+* Logon page validation logic is improved.
+
+## Version 1.237 (18 October, 2023)
+### Changes
+* Takers table is migrated to sync fusion fronted framework.
+* Maker/Taker templates are hardcoded and removed from hub's Contents folder.
+* Minor GUI changes.
+* Multiple Integral taker bug fixes.
+
+## Version 1.235 - 1.236 (6 October, 2023)
+### Features
+* Integral taker is implemented.
+### Changes
+* Auto logout issue is fixed (now the hub log out the user if it is logged in but not active for some time).
+* Minor GUI changes.
+* USD exposure calcualtion bug is fixed.
+
+## Version 1.234 (4 October, 2023)
+### Changes
+* New type of rejects are added (rejects by hub core).
+* Incremental price update logic is improved.
+
+## Version 1.233 (3 October, 2023)
+### Features
+* USD exposure table is added to Exposure tab.
+### Changes
+* XTRD resubscription logic is implemented.
+* Taker/Maker FIX settings template is changed (default section is removed).
+* Minor GUI fixes
+
+## Version 1.232 (1 October, 2023)
+### Changes
+* Some minor changes for exposures table are added.
+* LmaxMTF and LmaxMTFWesternPips are merged to one maker type.
+
+## Version 1.231 (28 September, 2023)
+### Changes
+* Price Channel tab is migrated to sync fusion frontend framework.
+* Market watch optimization.
+* 
+
+## Version 1.230 (26 September, 2023)
+### Changes
+* Bug fixed: prices haven't shown when trying to send order from the hub side to maker.
+
 ## Version 1.228 (19 September, 2023)
 ### Changes
 * Incremental market data refresh bug is fixed.
