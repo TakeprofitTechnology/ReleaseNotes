@@ -1,7 +1,12 @@
 # Ashira Dealer MT4
-## Version 6.09 (7 Jun, 2023)
+
+## Version 6.11 (27 Oct, 2023)
 ### Changes
-* “RestServerHost” and “RestServerPort” were made as default parameters 
+* Added a separate script to provide the order execution statistics based on Ashira execution reports and show the number of extra points earned by Ashira for the broker.
+
+## Version 6.09-6.10 (7 Jun, 2023)
+### Changes
+* Added “RestServerHost” and “RestServerPort” parameters to settings.ini.
 * Bug fixed: Ashira ignored the symbol trading session time when applied time delay. Now the delay is interrupted by the ending of trading session time and Ashira rejects the deal.
 
 ## Version 6.08 (3 Feb, 2023)
