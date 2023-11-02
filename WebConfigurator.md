@@ -1,5 +1,10 @@
 # Takeprofit Web GUI Configurator
 
+## Version 1.44 (19 October, 2023)
+### Changes
+* Changed the link in the footer from "© TakeProfit Technology" to "Takeprofit Tech".
+* Fixed the red-underline visual bug in pop-menus.
+
 ## Version 1.43 (2 October, 2023)
 ### Changes
 * Fixed an issue with filtering in tables.
