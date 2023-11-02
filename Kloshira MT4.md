@@ -1,8 +1,14 @@
 # Kloshira MT4
 
+## Version 4.30 (21 September, 2023)
+### Changes
+* Added check for logQuote.
+* "std::format" to compile log messages is used now.
+* Refactored quotes handling in FIX Acceptor.
+
 ## **Version 4.30 (29 August, 2023)**
 ### Changes
-* Code optimization was made;
+* Code optimization was made.
 * "Receive buffer is too small" was changed from ERROR to INFO message.
 
 ## **Version 4.27 (22 August, 2023)**
