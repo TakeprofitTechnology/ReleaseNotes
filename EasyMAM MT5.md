@@ -1,5 +1,11 @@
 # EasyMAM MT5
 
+## Version 6.21 (1 Nov, 2023)
+### Changes
+* All mentions of "master" and "slave" are changed to "money manager" and "investor", respectively, in the code base and Rest API.
+* Investor and Money Manager Views can now be embedded into sites as a single iframe object.
+* Fixed Total Profit calculation in Investor View.
+
 ## Version 6.20 (17 Oct, 2023)
 ### Changes
 * Added new error messages for unsuccessful attaching, detaching, setting incentive.
