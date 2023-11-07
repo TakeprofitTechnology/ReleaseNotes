@@ -1,5 +1,12 @@
 # EasyMAM MT5
 
+## Version 6.22-6.23 (3 Nov, 2023)
+### Changes
+* Made design customization available for embedded EasyMAM Views.
+* Changed tables' columns places.
+* Removed the Support button from Views.
+* Fixed a bug with a 400 Bad Request error when logging in Views on public IPs.
+
 ## Version 6.21 (1 Nov, 2023)
 ### Changes
 * All mentions of "master" and "slave" are changed to "money manager" and "investor", respectively, in the code base and Rest API.
