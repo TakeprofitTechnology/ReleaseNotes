@@ -1,5 +1,12 @@
 # EasyMAM MT5
 
+## Version 6.24 (16 Nov, 2023)
+### Changes
+* Removed the possibility to choose future dates while calculating incentive. Only dates up to the current one can be chosen now.
+* Fixed a couple of misspellings in UI.
+* Removed the possibility to use letters in the login field in Views.
+* Fixed the Drawdown metric calculation in Investor View.
+
 ## Version 6.22-6.23 (3 Nov, 2023)
 ### Changes
 * Made design customization available for embedded EasyMAM Views.
@@ -11,7 +18,7 @@
 ### Changes
 * All mentions of "master" and "slave" are changed to "money manager" and "investor", respectively, in the code base and Rest API.
 * Investor and Money Manager Views can now be embedded into sites as a single iframe object.
-* Fixed Total Profit calculation in Investor View.
+* Fixed the Total Profit metric calculation in Investor View.
 
 ## Version 6.20 (17 Oct, 2023)
 ### Changes
