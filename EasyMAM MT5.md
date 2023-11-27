@@ -4,6 +4,7 @@
 ### Changes
 * Removed the possibility to choose future dates while calculating incentive. Only dates up to the current one can be chosen now.
 * Fixed a couple of misspellings in UI.
+* Fixed the display of items in the dark theme.
 * Removed the possibility to use letters in the login field in Views.
 * Fixed the Drawdown metric calculation in Investor View.
 
