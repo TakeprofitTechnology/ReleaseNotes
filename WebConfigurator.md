@@ -1,5 +1,15 @@
 # Takeprofit Web GUI Configurator
 
+## Version 1.46 (19 October, 2023)
+### Changes
+* Optimised loading of web libraries.
+* Changed the names of columns in the Web GUI of MT4 Kloshira.
+* Removed space from a toast message in the "Calculate Incentive" field.
+
+## Version 1.45 (16 November, 2023)
+### Changes
+* Fixed some UI elements.
+
 ## Version 1.44 (19 October, 2023)
 ### Changes
 * Changed the link in the footer from "© TakeProfit Technology" to "Takeprofit Tech".
