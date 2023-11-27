@@ -1,5 +1,11 @@
 # Drawdown Limit MT5
 
+## Version 1.12-1.13 (17 November, 2023)
+### Changes
+* Fixed a bug with sending a wrong loss value in email notifications about TotalLossLimit.
+* Fixed a limit calculation for DailyLossLimitPercent parameter. The plugin now calculates percentage based on the initial balance instead of the EOD equity.
+* The EOD equity is now stored in the plugin's data base instead of the MT5 user record.
+
 ## Version 1.11 (16 October, 2023)
 ### Changes
 * Added limits' percentages to email notifications.
