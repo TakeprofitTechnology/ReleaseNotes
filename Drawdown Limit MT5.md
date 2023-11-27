@@ -1,4 +1,4 @@
-# DrawdownLimit MT5
+# Drawdown Limit MT5
 
 ## Version 1.11 (16 October, 2023)
 ### Changes
