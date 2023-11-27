@@ -1,5 +1,12 @@
 # GL Risk Panel
 
+## Version 1.25 (22 November, 2023)
+### Changes
+* Optimized code for the Maker Dashboard.
+* Updated syncfusion styles loading for each page.
+* Corrected non-consistent behavior of the correction limit values.
+* Fixed a bug with unsent messages when connecting to Fortex is unsuccessful.
+
 ## Version 1.24 (9 November, 2023)
 ### Changes
 * Fixed the incorrect background color marking of correction values.
