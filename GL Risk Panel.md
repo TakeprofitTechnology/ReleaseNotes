@@ -1,5 +1,11 @@
 # GL Risk Panel
 
+## Version 1.24 (9 November, 2023)
+### Changes
+* Fixed the incorrect background color marking of correction values.
+* Removed the inner table horizontal scroll bar from SyncServer page.
+* Changed the background color of Correction USD column in Position Checker.
+
 ## Version 1.23 (23 October, 2023)
 ### Changes
 * Position Checker: a background color of Correction USD column was changed;
