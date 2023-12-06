@@ -1,5 +1,12 @@
 # CopySystem (New application for copying deals)
 
+## Version 0.16-0.18 (23 Oct - 27 Nov, 2023)
+### Changes
+* Increased speed of copying deals in the debug connector (less than 1 ms);
+* Fixed a bug of copying deals from more than one leader;
+* Added connector connection to MT5 server;
+* Added receiving account ID, equity and currency data from the MT5 server to the copy system.
+
 ## Version 0.14-0.15 (19 Oct, 2023)
 ### Changes
 * Trader's web GUI has been added;
