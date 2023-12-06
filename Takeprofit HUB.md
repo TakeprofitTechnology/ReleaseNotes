@@ -1,13 +1,67 @@
 # Takeprofit Hub
 
+## Version 1.271 (4 December, 2023)
+### Changes
+* Hints when hovering the buttons are removed.
+* Minor GUI changes.
+* 
+
+## Version 1.277 (3 December, 2023)
+### Changes
+* Minor GUI changes.
+* TSV import/export logic is improved: now import or export is amde as atomic operation.
+* 
+
+## Version 1.268 (27 November, 2023)
+### Changes
+* Trade details page is migrated to Syncfusion frontend framework.
+* 
+
+## Version 1.266 (23 November, 2023)
+### Changes
+* Trade details page is migrated to Syncfusion frontend framework.
+* 
+
+## Version 1.265 (21 November, 2023)
+### Changes
+* Position Reports table is migrated to Syncfusion frontend framework.
+* Users table is migrated to Syncfusion frontend framework.
+
+## Version 1.264 (19 November, 2023)
+### Changes
+* Market watch is added for Margin account (read only) role.
+
+## Version 1.263 (17 November, 2023)
+### Changes
+* Margin account (read only) role is added.
+
+## Version 1.259 (16 November, 2023)
+### Changes
+* Now it is poossible to change the style of hub's GUI by changing inner css file (css file is not hardcoded anymore).
+
+## Version 1.245 (11 November, 2023)
+### Changes
+* Margin account positions table is migrated to Syncfusion frontend framework.
+* Margin accounts table is migrated to Syncfusion frontend framework.
+
+## Version 1.244 (9 November, 2023)
+### Changes
+* FIX unsubscription logic is improved: now the hub does not check the existence of the symbol before unsubscription.
+* 
+
+## Version 1.242 (6 November, 2023)
+### Changes
+* Incorrect FIX taker templates are fixed.
+* 
+
 ## Version 1.241 (31 October, 2023)
 ### Changes
-* Risk Profiles table is migrated to sync fusion fronted framework.
+* Risk Profiles table is migrated to Syncfusion frontend framework.
 * Page loading speed is improved.
 
 ## Version 1.239 (25 October, 2023)
 ### Changes
-* Makers table is migrated to sync fusion fronted framework.
+* Makers table is migrated to Syncfusion frontend framework.
 * Minor GUI changes.
 * Monitoring system bug is fixed.
 * Bug fixed: it was not possible to send the order from taker side (hub's GUI).
@@ -15,7 +69,7 @@
 
 ## Version 1.237 (18 October, 2023)
 ### Changes
-* Takers table is migrated to sync fusion fronted framework.
+* Takers table is migrated to Syncfusion frontend framework.
 * Maker/Taker templates are hardcoded and removed from hub's Contents folder.
 * Minor GUI changes.
 * Multiple Integral taker bug fixes.
@@ -48,7 +102,7 @@
 
 ## Version 1.231 (28 September, 2023)
 ### Changes
-* Price Channel tab is migrated to sync fusion frontend framework.
+* Price Channel tab is migrated to Syncfusion frontend framework.
 * Market watch optimization.
 * 
 
@@ -136,7 +190,7 @@
 
 ## Version 1.213 - 1.215 (12 August, 2023)
 ### Changes
-* All the tables are migrated to SyncFusion framework.
+* All the tables are migrated to Syncfusion framework.
 * Background color is changed to white.
 * Gradients are removed from all the pages.
 * Buttons form is changed to rectangle.
