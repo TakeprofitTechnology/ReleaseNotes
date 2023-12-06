@@ -1,5 +1,13 @@
 # CopyTrader 
 
+## Version 2.44-2.48 (2 September - 15 November, 2023)
+
+### Changes
+* Increased speed of adding new users to the copy system.
+* Fixed a bug: in case of resubscription on a master account, not all deals are closed on the follower’s account;
+* Fixed a bug: the time of the copied trade was indicated incorrectly in traderequestmode = false;
+* Fixed delay when copying deals on follower account was more than 30 seconds
+
 ## Version 2.37 (14 August, 2023)
 ### Features
 * Trader type Master renamed to Leader.
