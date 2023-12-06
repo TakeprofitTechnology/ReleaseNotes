@@ -15,11 +15,13 @@
 * Password expiration bug (Users tab) is fixed.
 * Error is fixed during hub stopping process.
 
-## Version 1.263 - 1.268 (17 November - 27 November, 2023)
+## Version 1.246 - 1.268 (12 November - 27 November, 2023)
 ### Features
 * Password settings are added to Users tab.
 * Market watch is added for Margin account (read only) role.
 * Margin account (read only) role is added.
+* Now it is poossible to change the style of hub's GUI by changing inner css file (css file is not hardcoded anymore).
+* BookHandlingExpirationTimeInMs parameter is added.
 ### Changes
 * Trade details page is migrated to Syncfusion frontend framework.
 * Trade details page is migrated to Syncfusion frontend framework.
@@ -32,16 +34,7 @@
 * Code optimization.
 * Start/stop taker process is speeded up.
 * Unnecessary metrics are removed.
-
-## Version 1.259 (16 November, 2023)
-### Changes
-* Now it is poossible to change the style of hub's GUI by changing inner css file (css file is not hardcoded anymore).
 * FIX default session is added back to taker's FIX connection settings.
-
-## Version 1.247 (12 November, 2023)
-### Changes
-* BookHandlingExpirationTimeInMs parameter is added.
-* 
 
 ## Version 1.245 (11 November, 2023)
 ### Changes
