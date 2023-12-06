@@ -1,7 +1,9 @@
 # Kloshira MT5
 
-## **Version 1.94 (14 November, 2023)**
+## **Version 1.94-1.95 (14 November, 2023)**
 ### Changes
+* Fixed copying deals to the coverage account with wrong symbols during the simultaneous execution.
+* Fixed the logs folder path.
 * Bug fixed: incorrect execution of SELL orders, execution occurred at the ask price instead of the bid price.
 
 ## **Version 1.91 - 1.93 (01 August - 25 September, 2023)**
