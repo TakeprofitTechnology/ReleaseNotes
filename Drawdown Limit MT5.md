@@ -1,5 +1,9 @@
 # Drawdown Limit MT5
 
+## Version 1.14 (30 November, 2023)
+### Changes
+* Merged the code bases od Drawdown Limit MT5 and Drawdown Limit MT4.
+
 ## Version 1.12-1.13 (17 November, 2023)
 ### Changes
 * Fixed a bug with sending a wrong loss value in email notifications about TotalLossLimit.
