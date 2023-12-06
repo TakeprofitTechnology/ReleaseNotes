@@ -2,6 +2,11 @@
 
 ## Version 1.01 (16 November, 2023)
 ### Changes
+* Merged the code bases od Drawdown Limit MT5 and Drawdown Limit MT4.
+* Fixed calculation of the DailyLossLimitPercent parameter: MeasuredDailyLoss is now recalculated every day.
+
+## Version 1.01 (16 November, 2023)
+### Changes
 * Fixed a bug with closing pending orders in the flat balance profit check mode.
 
 ## Version 1.00 (14 November, 2023)
