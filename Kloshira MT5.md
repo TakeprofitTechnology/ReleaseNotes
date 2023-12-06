@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## **Version 1.94 (14 November, 2023)**
+### Changes
+* Bug fixed: incorrect execution of SELL orders, execution occurred at the ask price instead of the bid price.
+
 ## **Version 1.91 - 1.93 (01 August - 25 September, 2023)**
 ### Changes
 * Kloshira was rebuilt several times with the lates MT5 Gateway API to match the latest version of MT5 server.
