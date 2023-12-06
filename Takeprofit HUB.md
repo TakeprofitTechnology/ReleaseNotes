@@ -12,32 +12,33 @@
 * TSV import/export logic is improved: now import or export is amde as atomic operation.
 * 
 
-## Version 1.268 (27 November, 2023)
+
+## Version 1.263 - 1.268 (17 November - 27 November, 2023)
 ### Changes
 * Trade details page is migrated to Syncfusion frontend framework.
-* 
-
-## Version 1.266 (23 November, 2023)
-### Changes
 * Trade details page is migrated to Syncfusion frontend framework.
-* 
-
-## Version 1.265 (21 November, 2023)
-### Changes
 * Position Reports table is migrated to Syncfusion frontend framework.
 * Users table is migrated to Syncfusion frontend framework.
-
-## Version 1.264 (19 November, 2023)
-### Changes
+* Password settings are added to Users tab.
 * Market watch is added for Margin account (read only) role.
-
-## Version 1.263 (17 November, 2023)
-### Changes
 * Margin account (read only) role is added.
+* The performance of the hub was improved.
+* Takers working logic was improved (now each taker's quotes are processed separately from other taker and does not affect theit quote processing logic).
+* FIX subscription logic was imporved (now there is no issue when hub tries to subscribe to huge amount of symbols at the same time).
+* "Slow taker" is fixed (now slow taker does not affect other takers).
+* Code optimization.
+* Start/stop taker process is speeded up.
+* Unnecessary metrics are removed.
 
 ## Version 1.259 (16 November, 2023)
 ### Changes
 * Now it is poossible to change the style of hub's GUI by changing inner css file (css file is not hardcoded anymore).
+* FIX default session is added back to taker's FIX connection settings.
+
+## Version 1.247 (12 November, 2023)
+### Changes
+* BookHandlingExpirationTimeInMs parameter is added.
+* 
 
 ## Version 1.245 (11 November, 2023)
 ### Changes
