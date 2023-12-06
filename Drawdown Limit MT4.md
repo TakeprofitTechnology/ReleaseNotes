@@ -1,6 +1,6 @@
 # Drawdown Limit MT4
 
-## Version 1.01 (16 November, 2023)
+## Version 1.02 (30 November, 2023)
 ### Changes
 * Merged the code bases od Drawdown Limit MT5 and Drawdown Limit MT4.
 * Fixed calculation of the DailyLossLimitPercent parameter: MeasuredDailyLoss is now recalculated every day.
