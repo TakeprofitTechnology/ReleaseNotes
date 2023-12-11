@@ -1,5 +1,11 @@
 # GL Risk Panel
 
+## Version 1.26 (6 December, 2023)
+### Changes
+* Fixed a bug with the row height in Maker Dashboard.
+* Fixed a bug with a page glitch on the color theme change.
+* Changed the notifications' logic in Position Checker. Now, before sending a correction limit notification, we first check if there are any servers that are unavailable and if the volumes on the TotalLPs are equal to 0 or if the volumes on clients are equal to 0. If both conditions are met, the notification is triggered.
+
 ## Version 1.25 (22 November, 2023)
 ### Changes
 * Optimized code for the Maker Dashboard.
