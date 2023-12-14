@@ -2,6 +2,13 @@
 
 ## Version 6.24 (16 Nov, 2023)
 ### Changes
+* Optimised loading of web libraries in Web GUI Configurator.
+* Made Equity Chart line green by default in Views.
+* Fixed the GUI freezing after switching to another tab in Views.
+* Fixed error texts in Views.
+
+## Version 6.24 (16 Nov, 2023)
+### Changes
 * Removed the possibility to choose future dates while calculating incentive. Only dates up to the current one can be chosen now.
 * Fixed a couple of misspellings in UI.
 * Fixed the display of items in the dark theme.
