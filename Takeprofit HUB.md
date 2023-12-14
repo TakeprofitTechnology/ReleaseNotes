@@ -1,5 +1,13 @@
 # Takeprofit Hub
 
+## Version 1.272 (7 December, 2023)
+### Changes
+* Minor GUI changes.
+* Input fields validation logic fields is improved.
+* Syncfusion migration is complete.
+* Starting of maker/taker is improved.
+* GUI bugs are fixed.
+
 ## Version 1.271 (4 December, 2023)
 ### Changes
 * Hints when hovering the buttons are removed.
