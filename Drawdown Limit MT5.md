@@ -1,5 +1,10 @@
 # Drawdown Limit MT5
 
+## Version 1.15 (18 December, 2023)
+### Changes
+* Made it possible to use decimal values in settings.
+* Reduced the time between equity requests from 5 seconds to 2 seconds.
+
 ## Version 1.14 (30 November, 2023)
 ### Changes
 * Merged the code bases od Drawdown Limit MT5 and Drawdown Limit MT4.
