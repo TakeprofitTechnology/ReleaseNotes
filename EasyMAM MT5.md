@@ -1,6 +1,12 @@
 # EasyMAM MT5
 
-## Version 6.24 (16 Nov, 2023)
+## Version 6.26 (20 Dec, 2023)
+### Changes
+* Added support of attach and detach fees. If these fees are set on the money manager, they will be automatically charged at the respective actions of the investors.
+* Added a "Set Fees" button and window to the money managers' accounts.
+* Added new fees' columns to the Money Managers' table.
+
+## Version 6.25 (13 Dec, 2023)
 ### Changes
 * Optimised loading of web libraries in Web GUI Configurator.
 * Made Equity Chart line green by default in Views.
