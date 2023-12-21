@@ -103,14 +103,14 @@
 
 ## Version 6.00 (06 Apr, 2023)
 ### Changes
-* The “UsedCurrencyProfitStep” parameter was removed from settings. Now EasyMAM always round up profit digits to the number of symbols entered in the "currency" group setting in MT5 admin.
-* “UsedSymbolVolumeStep” parameter was added.
+* The “UseCurrencyProfitStep” parameter was removed from settings. Now EasyMAM always rounds up profit digits to the number of symbols specified in the "Currency" group setting in MT5 Admin.
+* “UseSymbolVolumeStep” parameter was added.
 * The application has been reassembled.
 * Setting support in “XML” was removed.
-* Detach error in case when “UsedCurrencyProfitStep” - true, was fixed.
-* Distribution error in case when “UsedCurrencyProfitStep” - true, was fixed.
-* “Incentive” tab was added in web GUI.
-* “PnL” column was added in web GUI in “Slave” tab.
+* Detach error in case when “UseCurrencyProfitStep” - true, was fixed.
+* Distribution error in case when “UseCurrencyProfitStep” - true, was fixed.
+* “Incentive” tab was added to web GUI.
+* “PnL” column was added to web GUI in “Slave” tab.
 * Manual input of date range for calculation incentive was blocked.
 
 ## Version 5.84-5.86 (15 Mar, 2023)
