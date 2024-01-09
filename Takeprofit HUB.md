@@ -269,14 +269,14 @@
 
 ## **Version 1.203 (15 June, 2023)**
 ### Features
-* Added filtration for syntactic symbols.
+* Added filtration for synthetic symbols.
 * Added T4B acceptor
 * Added “Execution time” column in orders table.
 * Added “Order price slippage” column in orders table.
 
 ## **Version 1.202 (9 June, 2023)**
 ### Features
-* Added working logic for syntactic symbols.
+* Added working logic for synthetic symbols.
 * Added a new index (order_time_stamp_idx) to the internal_order table. (internal change in database)
 ### Changes 
 * Minor displaying bugs fixed.
@@ -287,7 +287,7 @@
 ### Features
 * Added report to margin account in web GUI.
 * Added logic of margin account report generation.
-* Added fields for syntactic symbols in web GUI.
+* Added fields for synthetic symbols in web GUI.
 * XTRD Maker was added.
 ### Changes 
 * Fixed error with filling MakerExecutedPrice, MakerExecutionDurationMs, HubExecutionDurationMs, MakerTradeId,MakerSlippage columns in margin account report.
