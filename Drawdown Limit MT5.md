@@ -1,5 +1,9 @@
 # Drawdown Limit MT5
 
+## Version 1.16 (29 December, 2023)
+### Changes
+* Moved the trace logs for equity checking to the debug level. Now, the "DebugLogs" value must be set to "true" to see them.
+
 ## Version 1.15 (18 December, 2023)
 ### Changes
 * Made it possible to use decimal values in settings.
