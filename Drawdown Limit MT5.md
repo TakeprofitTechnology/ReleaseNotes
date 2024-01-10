@@ -2,7 +2,8 @@
 
 ## Version 1.16 (29 December, 2023)
 ### Changes
-* Moved the trace logs for equity checking to the debug level. Now, the "DebugLogs" value must be set to "true" to see them.
+* Moved the trace logs for equity checking to the debug level. The "DebugLogs" value must be set to "false" so that these logs are not written.
+* Made it possible to stop the plugin at the moment of database initialisation during the first start.
 
 ## Version 1.15 (18 December, 2023)
 ### Changes
