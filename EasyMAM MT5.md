@@ -1,5 +1,18 @@
 # EasyMAM MT5
 
+## Version 6.28 (16 Jan, 2024)
+### Changes
+* Added logic for setting fees on money managers.
+
+## Version 6.27 (11 Jan, 2024)
+### Changes
+* Added Incentive 1-3 columns to the Money Managers' and Investors' tabs.
+* Moved the "Batch calculate incentive" button to the Investors' tab.
+* Removed the Incentive tab.
+* Added the "Attach Fee" column to Investor View.
+* Changed logic for the Incentive's calculation in Investor View.
+* Changed logic for the Drawdown's calculation in Investor View.
+
 ## Version 6.26 (20 Dec, 2023)
 ### Changes
 * Added support of attach and detach fees. If these fees are set on the money manager, they will be automatically charged at the respective actions of the investors.
