@@ -3,6 +3,7 @@
 ## Version 6.28 (16 Jan, 2024)
 ### Changes
 * Added logic for setting fees on money managers.
+* Fixed minor UX bugs in Views.
 
 ## Version 6.27 (11 Jan, 2024)
 ### Changes
