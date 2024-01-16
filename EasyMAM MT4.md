@@ -1,5 +1,9 @@
 # EasyMAM MT4
 
+## **Version 4.31-4.32 (20 Dec, 2023)**
+### Changes
+* Added a check if an order is open or closed if the error "Failed to execute TradeTransaction" is received.
+
 ## **Version 4.29-4.30 (24 May, 2023)**
 ### Changes
 * Added “Incentive rollback function”.
