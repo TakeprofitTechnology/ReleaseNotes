@@ -1,7 +1,13 @@
 # Kloshira MT5
 
+## **Version 1.97 (11 December, 2023)**
+### Changes
+* Added calculation of VWAP for m0 if FillUsingOrderBook=true.
+
 ## **Version 1.94-1.95 (14 November, 2023)**
 ### Changes
+* Rebuilt a mechanism of price definition for B-book. Now Kloshira uses the full book insted of the top of the book.
+* Added "FillUsingOrderBook" parameter to use the full book.
 * Fixed copying deals to the coverage account with wrong symbols during the simultaneous execution.
 * Fixed the logs folder path.
 * Bug fixed: incorrect execution of SELL orders, execution occurred at the ask price instead of the bid price.
