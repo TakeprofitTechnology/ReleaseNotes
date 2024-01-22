@@ -1,4 +1,11 @@
 # Takeprofit Hub
+## Version 1.278 (20 December, 2023)
+### Changes
+* Binance maker's issues are fixed.
+* Some minor bugs are fixed.
+### Features
+* Now it is possible to download taker's FIX credentials as .ini file after they are created.
+
 ## Version 1.277 (12 December, 2023)
 ### Changes
 * Minor inner logic bugs are fixed.
