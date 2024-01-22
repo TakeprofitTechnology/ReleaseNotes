@@ -1,4 +1,13 @@
 # Takeprofit Hub
+## Version 1.279 - 1.280 (23 December, 2023)
+### Changes
+* Configuration templates' errors are fixed.
+* Reports tab is added.
+### Features
+* OKX maker is added: pricing part.
+* Spread value is added to the market depth for each layer of depth.
+
+
 ## Version 1.278 (20 December, 2023)
 ### Changes
 * Binance maker's issues are fixed.
