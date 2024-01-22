@@ -1,4 +1,15 @@
 # Takeprofit Hub
+## Version 1.277 (12 December, 2023)
+### Changes
+* Minor inner logic bugs are fixed.
+* Minor GUI bugs are fixed.
+
+## Version 1.273 - 1.276 (8 December - 11 December, 2023)
+### Changes
+* Minor bugs are fixed.
+* "Refresh" buttons are removed from all pages.
+* Some minor design changes.
+* Fields values validation mechanisms are improved.
 
 ## Version 1.272 (7 December, 2023)
 ### Changes
@@ -52,12 +63,10 @@
 ## Version 1.244 (9 November, 2023)
 ### Changes
 * FIX unsubscription logic is improved: now the hub does not check the existence of the symbol before unsubscription.
-* 
 
 ## Version 1.242 (6 November, 2023)
 ### Changes
 * Incorrect FIX taker templates are fixed.
-* 
 
 ## Version 1.241 (31 October, 2023)
 ### Changes
@@ -109,7 +118,6 @@
 ### Changes
 * Price Channel tab is migrated to Syncfusion frontend framework.
 * Market watch optimization.
-* 
 
 ## Version 1.230 (26 September, 2023)
 ### Changes
@@ -156,7 +164,6 @@
 * Minor GUI changes.
 * Changed default number of book layers to subscribe for makers to 5.
 
-
 ## Version 1.220 - 1.221 (2 September, 2023)
 ### Features
 * Simple aggregation logic failover is changed (now it failover works for each symbol instead of the whole maker).
@@ -190,8 +197,6 @@
 ### Changes
 * Inner quote processing is improved (on taker's side).
 * PrimeXM acceptor is improved.
- 
-
 
 ## Version 1.213 - 1.215 (12 August, 2023)
 ### Changes
