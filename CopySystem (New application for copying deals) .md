@@ -1,5 +1,24 @@
 # CopySystem (New application for copying deals)
 
+
+## Version 0.22 (10 Jan, 2024)
+### Changes
+* Fixed a bug when some deals were not copied between MT5 servers;
+* Fixed an error in displaying deals data in the Copysystem GUI.
+
+## Version 0.21 (18 Dec, 2023)
+### Changes
+* Added a chart displaying the equity of leaders;
+* Fixed the behavior where CopySystem constantly wrote an error in the log file when a follower did not have enough money.
+
+## Version 0.20 (11 Dec, 2023)
+### Changes
+* Added copying of deals between MT5 servers.
+
+## Version 0.19 (6 Dec, 2023)
+### Changes
+* Added receiving next deal data from MT5 server to the copy system: Open date, Open time, Direction, Symbol, Volume, Profit.
+
 ## Version 0.16-0.18 (23 Oct - 27 Nov, 2023)
 ### Changes
 * Increased speed of copying deals in the debug connector (less than 1 ms);
