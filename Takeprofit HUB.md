@@ -3,6 +3,8 @@
 ### Changes
 * Configuration templates' errors are fixed.
 * Reports tab is added.
+* "FIX sessions can't be downloaded" bug is fixed.
+* "Channel" column in Market watch of margin account is removed.
 ### Features
 * OKX maker is added: pricing part.
 * Spread value is added to the market depth for each layer of depth.
