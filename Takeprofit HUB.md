@@ -1,4 +1,11 @@
 # Takeprofit Hub
+## Version 1.281 - 1.285 (11 January, 2024)
+### Changes
+* Price channel bugs are fixed (it was not possible to create/change price channel in some cases).
+* Integral taker bugs are fixed.
+### Features
+* Dropcopy session is added for Integal taker.
+
 ## Version 1.279 - 1.280 (23 December, 2023)
 ### Changes
 * Configuration templates' errors are fixed.
