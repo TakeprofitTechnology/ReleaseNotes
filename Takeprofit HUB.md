@@ -1,4 +1,14 @@
 # Takeprofit Hub
+## Version 1.289 - 1.292 (22 January, 2024)
+### Changes
+* API keys generation mechanism for users are addeed.
+* Title is added to the GUI.
+* Position deletion mechanism is improved.
+
+## Version 1.288 (14 January, 2024)
+### Changes
+* OKX trading logic is added.
+
 ## Version 1.287 (13 January, 2024)
 ### Changes
 * The hub is migrated to .net framework version 8.
