@@ -1,4 +1,14 @@
 # Takeprofit Hub
+## Version 1.287 (13 January, 2024)
+### Changes
+* The hub is migrated to .net framework version 8.
+
+## Version 1.286 (12 January, 2024)
+### Changes
+* Added routing by tag=1 for Integral taker.
+* Spread value is added to market watch of all users of the hub.
+* Minor inner logic bugs are fixed.
+
 ## Version 1.281 - 1.285 (11 January, 2024)
 ### Changes
 * Price channel bugs are fixed (it was not possible to create/change price channel in some cases).
