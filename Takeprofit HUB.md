@@ -1,9 +1,39 @@
 # Takeprofit Hub
+
+## Version 1.300 - 1.303(12 February, 2024)
+### Changes
+* Routing tab bugs are fixed.
+* Minor GUI improvements.
+* Text of several errors is improved.
+* Margin accounts "empty list" bug is fixed.
+
+## Version 1.299 (9 February, 2024)
+### Changes
+* Manager (read only) rights bugs are fixed (the read only manager could change configuration before).
+* Minor GUI improvements.
+### Features
+* Now it is possible to assign price channel and margin account from taker's settings.
+
+## Version 1.298 (5 February, 2024)
+### Changes
+* Minor GUI improvements.
+### Features
+* Main menu is frozen when scrolling the page.
+* Routing tab (by margin account) is added for makers (before it must be possible to set routing only with ternary operator).
+
+## Version 1.293 (24 January, 2024)
+### Changes
+* Auto-logout mechanism is removed (the user had been logged out by the hub every 10 minutes before).
+* Removed the opportunity to set partial B-book for margin accounts.
+* Minor GUI improvements.
+* Symbols filtration is added to market watch.
+
 ## Version 1.289 - 1.292 (22 January, 2024)
 ### Changes
 * API keys generation mechanism for users are addeed.
 * Title is added to the GUI.
 * Position deletion mechanism is improved.
+* Added an oportunity to choose the price when placing limit order on maker side.
 
 ## Version 1.288 (14 January, 2024)
 ### Changes
