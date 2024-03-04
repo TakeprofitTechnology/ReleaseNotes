@@ -1,6 +1,38 @@
 # CopySystem (New application for copying deals)
 
 
+## Version 0.29 (29 Feb, 2024)
+### Changes
+* Fixed bug when account that was created in MT5 while CopySystem was running can be added to CopySystem;
+*  "Daily fee" was renamed on "Following fee";
+*  "Following fee" logic was added.
+
+## Version 0.28 (19 Feb, 2024)
+### Changes
+* Remove password column from "Servers" tab;
+* Added buttons "cancel" and "delete and close" instead of "ok" button in removing strategy window.
+
+## Version 0.26-0.27 (05 Feb, 2024)
+### Changes
+* "Subscribtion fee" and "Daily fee" were added in web GUI;
+* Refresh table button in web GUI was deleted;
+* Added additional check for the existence of an MT5 account when adding an account to the Copysystem;
+* Made visual inprovements in GUI.
+
+
+## Version 0.25 (29 Jan, 2024)
+### Changes
+* Added display and calculation of ROI statistics;
+* Fixed a bug where it was impossible to log into GUI if there was no connection to the server;
+* Fixed a bug where a deal could be copied twice.
+
+## Version 0.25 (29 Jan, 2024)
+### Changes
+* Added display and calculation of ROI statistics;
+* Fixed a bug where it was impossible to log into GUI if there was no connection to the server;
+* Fixed a bug where a deal could be copied twice.
+
+
 ## Version 0.23-0.24 (22 Jan, 2024)
 ### Changes
 * Processing of netting accounts (groups) by the CopySystem is blocked;
