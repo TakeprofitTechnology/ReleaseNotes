@@ -1,6 +1,13 @@
 # CopySystem (New application for copying deals)
 
 
+## Version 0.23-0.24 (22 Jan, 2024)
+### Changes
+* Processing of netting accounts (groups) by the CopySystem is blocked;
+* Made display of open positions in the equity chart;
+* Fixed a bug where equity was not displayed correctly in the equity chart;
+* Fixed a balance discrepancy error in the Copysystem GUI.
+
 ## Version 0.22 (10 Jan, 2024)
 ### Changes
 * Fixed a bug when some deals were not copied between MT5 servers;
