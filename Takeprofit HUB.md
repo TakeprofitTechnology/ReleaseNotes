@@ -1,6 +1,40 @@
 # Takeprofit Hub
 
-## Version 1.300 - 1.303(12 February, 2024)
+## Version 1.311 (12 March, 2024)
+### Changes
+* Minor GUI changes.
+* Additional validation for hub symbols creation is added.
+* Partial execution logic is improved (dropcopy FIX session).
+
+## Version 1.308 (9 March, 2024)
+### Changes
+* Risk profile rules tab is optimized.
+* Now it is possible to sort takers by name, type and state.
+* Incorrect displaying of maker positions is fixed.
+
+## Version 1.307 (5 March, 2024)
+### Changes
+* Inner SQL requests are optimized.
+
+## Version 1.306 (3 March, 2024)
+### Changes
+* Minor GUI changes.
+### Features
+* Now it is possible to apply slippage to orders, executed in B-book.
+  
+
+## Version 1.305 (1 March, 2024)
+### Changes
+* FIX engine logic is optimized.
+* 
+
+## Version 1.304 (26 February, 2024)
+### Changes
+* Minor GUI changes.
+* Bug of incorrect takers displaying.
+
+
+## Version 1.300 - 1.303 (12 February, 2024)
 ### Changes
 * Routing tab bugs are fixed.
 * Minor GUI improvements.
