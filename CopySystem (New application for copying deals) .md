@@ -1,5 +1,19 @@
 # CopySystem (New application for copying deals)
 
+## Version 0.33-0.34 (29 Mar, 2024)
+### Changes
+* Added receiving next deal data from MT4 server to the copy system: Open date, Open time, Direction, Symbol, Volume, Profit;
+* Added copying of deals between MT4 servers;
+* Added information about deal's PnL to the logs. 
+
+## Version 0.31-0.32 (18 Mar, 2024)
+### Changes
+* Added receiving account ID, equity and currency data from the MT4 server to the copy system;
+* Fixed error arising in the presence of a duplicate deal 
+
+## Version 0.30 (7 Mar, 2024)
+### Changes
+* Added a registration button to the login page.
 
 ## Version 0.29 (29 Feb, 2024)
 ### Changes
