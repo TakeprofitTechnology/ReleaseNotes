@@ -1,5 +1,21 @@
 # Takeprofit Hub
 
+## Version 1.317 - 1.323 (1 April, 2024)
+### Changes
+* "Searching" bug is fixed.
+* Minor GUI changes.
+* Change the logic of displaing partially filled orders.
+* Bucket logic is improved.
+### Features
+* The volume filter is added to Risk Profile rules.
+
+## Version 1.316 (27 March, 2024)
+### Changes
+* Minor GUI changes.
+### Features
+* It is possible to set partial B-book execution.
+* B-book accounts part is added.
+
 ## Version 1.311 (12 March, 2024)
 ### Changes
 * Minor GUI changes.
@@ -26,13 +42,11 @@
 ## Version 1.305 (1 March, 2024)
 ### Changes
 * FIX engine logic is optimized.
-* 
 
 ## Version 1.304 (26 February, 2024)
 ### Changes
 * Minor GUI changes.
 * Bug of incorrect takers displaying.
-
 
 ## Version 1.300 - 1.303 (12 February, 2024)
 ### Changes
