@@ -1,8 +1,9 @@
 # Dynamic Leverage MT5
 
-## Version 1.60 (8 November, 2023)
+## Version 1.60 - 1.62 (8 November, 2023 - 27 December, 2023)
 ### Changes
 * Fixed a bug with non-latin charachters encoding conversion.
+* Minor bugs are fixed: the rules were not applied under some conditions.
 
 ## Version 1.58 (13 October, 2023)
 ### Features
