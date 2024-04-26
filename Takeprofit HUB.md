@@ -1,5 +1,28 @@
 # Takeprofit Hub
 
+## Version 1.331 (24 April, 2024)
+### Changes
+* Manual rejection bug is fixed.
+* Partial execution (A-book + B-book) bugs are fixed.
+* Position adjustment logic is fixed.
+* Total PnL and Closed PnL columns are added to margin accounts tab.
+
+## Version 1.328 (22 April, 2024)
+### Changes
+* The bug of incorrect margin account volume displaying is fixed.
+* Hub symbol description column is added.
+* Exposure calculation for B-book part is improved.
+* Read only users: order details displaying bug is fixed.
+
+## Version 1.326 (17 April, 2024)
+### Features
+* Now it is possible to assign B-book account from margin account menu.
+### Changes
+* The additional settings verifications are added.
+* Hub symbols search is improved.
+* Risk profile creation bug is fixed.
+* Order details bug is fixed.
+
 ## Version 1.317 - 1.323 (1 April, 2024)
 ### Changes
 * "Searching" bug is fixed.
