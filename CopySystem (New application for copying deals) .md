@@ -1,5 +1,26 @@
 # CopySystem (New application for copying deals)
 
+## Version 0.37 (17 Apr, 2024)
+### Features
+* Fixed allocation mode is added.
+* Server connection status is added to administrator tab.
+* 
+### Changes
+* The follower positions PnL now is updated automatically.
+* The bug of position duplication is fixed.
+
+## Version 0.36 (12 Apr, 2024)
+### Features
+* Trade GUI is splitted to two tabs.
+* The system creates the db automatically when installing the 1st time.
+
+## Version 0.35 (8 Apr, 2024)
+### Features
+* "Min deposit to follow" is added.
+* The poositions that are opened by follower themselves are not displayed in the system.
+### Changes
+* Several copying logic bugs are fixed. 
+
 ## Version 0.33-0.34 (29 Mar, 2024)
 ### Changes
 * Added receiving next deal data from MT4 server to the copy system: Open date, Open time, Direction, Symbol, Volume, Profit;
