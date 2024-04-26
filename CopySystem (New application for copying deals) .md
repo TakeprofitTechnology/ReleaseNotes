@@ -4,7 +4,6 @@
 ### Features
 * Fixed allocation mode is added.
 * Server connection status is added to administrator tab.
-* 
 ### Changes
 * The follower positions PnL now is updated automatically.
 * The bug of position duplication is fixed.
