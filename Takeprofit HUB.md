@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version 1.343 (24 May, 2024)
+### Changes
+* Several performance features was implemented. For some cases there was unexpected latency, that was fixed.
+
 ## Version 1.331 (24 April, 2024)
 ### Changes
 * Manual rejection bug is fixed.
