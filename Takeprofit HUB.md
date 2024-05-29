@@ -4,6 +4,13 @@
 ### Changes
 * Several performance features was implemented. For some cases there was unexpected latency, that was fixed.
 
+## Version 1.332 - 1.339 (27 April - 17 May, 2024)
+### Features
+* Adding log displaying to rder and deal details windows.
+* Delay logic is improved - the operational delay now is a part of overall delay.
+### Changes
+* Massive code refactoring.
+
 ## Version 1.331 (24 April, 2024)
 ### Changes
 * Manual rejection bug is fixed.
