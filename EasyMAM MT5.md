@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 6.39 (21 May, 2024)
+### Changes
+* Logging additional events to get more information for future investigations.
+
 ## Version 6.28 (16 Jan, 2024)
 ### Changes
 * Added logic for setting fees on money managers.
