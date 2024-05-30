@@ -8,6 +8,7 @@
 * The follower positions PnL now is updated automatically.
 * The bug of position duplication is fixed.
 
+
 ## Version 0.36 (12 Apr, 2024)
 ### Features
 * Trade GUI is splitted to two tabs.
