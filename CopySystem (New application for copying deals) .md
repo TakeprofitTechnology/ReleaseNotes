@@ -1,5 +1,14 @@
 # CopySystem (New application for copying deals)
 
+## Version 0.38 - 0.41 (17 Apr - 10 May, 2024)
+### Features
+* Added a support of MT4 version 1055.
+* Added Stop loss feature.
+### Changes
+* MT4 reconnection logic is improved.
+* MT5 reconnection logic is improved.
+* Some minor GUI changes.
+
 ## Version 0.37 (17 Apr, 2024)
 ### Features
 * Fixed allocation mode is added.
