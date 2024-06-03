@@ -1,5 +1,28 @@
 # Takeprofit Web GUI Configurator
 
+## Version 1.66 (20 May, 2024)
+### Changes
+* EasyMAM MT5 minor bugs are fixed.
+* EasyMAM MT4 minor bugs are fixed.
+* Minor GUI changes.
+
+## Version 1.64 (19 April, 2024)
+### Changes
+* Minor GUI changes.
+* Kloshira MT5 GUI field validations are added.
+
+## Version 1.63 (11 April, 2024)
+### Changes
+* WebGUI logon page is rebuilt.
+
+## Version 1.61 (2 April, 2024)
+### Changes
+* Dynamic Leverage MT5 GUI is improved.
+
+## Version 1.60 (28 March, 2024)
+### Features
+* Automatic fee calculation is added for EasyMAM MT5.
+
 ## Version 1.46 (19 October, 2023)
 ### Changes
 * Optimised loading of web libraries.
