@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 24.5.29.703 (20 May, 2024)
+### Changes
+*  Kloshira MT4 minor bugs are fixed.
+
 ## Version 1.66 (20 May, 2024)
 ### Changes
 * EasyMAM MT5 minor bugs are fixed.
