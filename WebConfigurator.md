@@ -1,6 +1,6 @@
 # Takeprofit Web GUI Configurator
 
-## Version 24.5.29.703 (20 May, 2024)
+## Version 24.5.29.703 (3 June, 2024)
 ### Changes
 *  Kloshira MT4 minor bugs are fixed.
 
