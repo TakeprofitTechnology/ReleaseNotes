@@ -1,4 +1,4 @@
-# CopySystem (New application for copying deals)
+# TPT copy system
 
 ## Version 0.38 - 0.41 (17 Apr - 10 May, 2024)
 ### Features
