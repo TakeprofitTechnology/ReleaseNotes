@@ -1,5 +1,9 @@
 # TPT copy system
 
+## Version 2024.6.4.616 (6 June, 2024)
+### Changes
+* MT4 subscription bug is fixed.
+
 ## Version 0.38 - 0.41 (17 Apr - 10 May, 2024)
 ### Features
 * Added a support of MT4 version 1055.
