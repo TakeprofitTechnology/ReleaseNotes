@@ -1,5 +1,16 @@
 # TPT copy system
 
+
+
+## Version 2024.6.11.645 (11 June, 2024)
+### Changes
+* Minor bug fixes.
+* Minor GUI changes.
+
+## Version 2024.6.10.705 (10 June, 2024)
+### Features
+* Daily fee is added.
+
 ## Version 2024.6.4.616 (6 June, 2024)
 ### Changes
 * MT4 subscription bug is fixed.
