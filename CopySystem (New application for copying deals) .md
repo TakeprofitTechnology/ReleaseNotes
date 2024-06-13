@@ -10,6 +10,7 @@
 ## Version 2024.6.10.705 (10 June, 2024)
 ### Features
 * Daily fee is added.
+* The logic of copying limit orders is rebuilt.
 
 ## Version 2024.6.4.616 (6 June, 2024)
 ### Changes
