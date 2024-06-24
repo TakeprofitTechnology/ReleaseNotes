@@ -1,5 +1,14 @@
 # Takeprofit Hub
 
+## Version 2024.06.24.426 (24 June, 2024)
+### Changes
+* Comment field is added to risk profile rules.
+* Instruments.csv file is not needed no more for PrimeXM and Integral takers.
+* Fixed the bug when the orders were rejected because of quotes timed out.
+* Minor GUI bugs are fixed.
+* Log files are extended: now the stuck orders are added to log files for investigations.
+* The bucket logic is rebuild: the bucket volume will not be fully sent to LP if the limit is exceeded.
+
 ## Version 1.343 (24 May, 2024)
 ### Changes
 * Several performance features was implemented. For some cases there was unexpected latency, that was fixed.
