@@ -1,5 +1,13 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2024.6.24.985 (3 June, 2024)
+### Changes
+* Several unhandled exceptions were fixed.
+* Several minor GUI changes are made (text size, text overlapping).
+### Features
+* Now it is possible to change the order of configurators with drag and drop.
+* It is possible to mark the cards with colors.
+
 ## Version 24.5.29.703 (3 June, 2024)
 ### Changes
 *  Kloshira MT4 minor bugs are fixed.
