@@ -1,5 +1,11 @@
 # Kloshira MT5
 
+
+
+## **Version 24.06.20.86 (1 June, 2024)**
+### Changes
+* The bug where the number of digits was not displayed correctly in opened positions that were opened with VWAP price.
+
 ## **Version 1.97 (11 December, 2023)**
 ### Changes
 * Added calculation of VWAP for m0 if FillUsingOrderBook=true.
