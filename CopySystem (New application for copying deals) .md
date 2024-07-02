@@ -2,6 +2,10 @@
 
 
 
+## Version 2024.6.21.752 (21 June, 2024)
+### Changes
+* The bug of position double copying is fixed.
+
 ## Version 2024.6.11.645 (11 June, 2024)
 ### Changes
 * Minor bug fixes.
