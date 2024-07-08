@@ -7,6 +7,7 @@
 * "Copied PnL" amount added for Trader's Web GUI.
 ### Changes
 * "Total Profit" was renamed to "Total PnL".
+* The bug of different rounding between MT4 and MT5 accounts is fixed.
 
 ## Version 2024.6.21.752 (21 June, 2024)
 ### Changes
