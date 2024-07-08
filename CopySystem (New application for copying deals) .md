@@ -1,6 +1,9 @@
 # TPT copy system
 
 
+## Version 2024.7.8.417 (8 July, 2024)
+### Features
+* Added ID of the follower account to the MT5 log, after 'opening time difference' specification.
 
 ## Version 2024.6.21.752 (21 June, 2024)
 ### Changes
