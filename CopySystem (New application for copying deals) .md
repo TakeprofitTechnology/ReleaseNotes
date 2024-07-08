@@ -4,6 +4,9 @@
 ## Version 2024.7.8.417 (8 July, 2024)
 ### Features
 * Added ID of the follower account for the MT5 log in 'opening time difference' part.
+* "Copied PnL" amount added for Trader's Web GUI.
+### Changes
+* "Total Profit" was renamed to 'Total PnL'.
 
 ## Version 2024.6.21.752 (21 June, 2024)
 ### Changes
