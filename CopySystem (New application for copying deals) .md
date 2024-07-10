@@ -4,6 +4,7 @@
 ### Changes
 * The bug of uncontrolled log files creation is fixed.
 * The bug of incorrect closing of copied positions when the leader closes partially is fixed.
+* The bug of connection to removed servers is fixed.
 
 ## Version 2024.7.8.417 (8 July, 2024)
 ### Features
