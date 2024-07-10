@@ -1,5 +1,12 @@
 # Takeprofit Hub
 
+
+## Version 2024.07.03.652 (7 July, 2024)
+### Changes
+* Added more informatin about execution time to log files.
+* Incorrect name of imported risk profile csv file is fixed.
+* Added a possibility to switch logging modes on the fly withour restrating taker or maker connections.
+
 ## Version 2024.06.24.426 (24 June, 2024)
 ### Changes
 * Comment field is added to risk profile rules.
