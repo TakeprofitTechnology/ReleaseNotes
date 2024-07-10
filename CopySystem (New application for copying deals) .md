@@ -2,7 +2,7 @@
 
 ## Version 2024.7.9.775 (9 July, 2024)
 ### Changes
-*"My Followers" page added to the Leader's GUI, showing leaders information about their followers.
+* "My Followers" page added to the Leader's GUI, showing leaders information about their followers.
 
 ## Version 2024.7.9.733 (9 July, 2024)
 ### Changes
