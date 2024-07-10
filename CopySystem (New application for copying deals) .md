@@ -1,5 +1,8 @@
 # TPT copy system
 
+## Version 2024.7.9.733 (9 July, 2024)
+### Changes
+* The bug of uncontrolled log files creation is fixed.
 
 ## Version 2024.7.8.417 (8 July, 2024)
 ### Features
