@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version v2024.7.11.857 (11 July, 2024)
+### Changes
+* Fixed a bug with the error on sending correction trades from Risk Panel.
+
 ## Version 1.27 (15 December, 2023)
 ### Changes
 * Optimized the data request logic. Now requests to LPs and MT servers are sent simultaneously in multithreaded mode, instead of sequentially by a single thread.
