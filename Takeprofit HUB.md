@@ -1,5 +1,13 @@
 # Takeprofit Hub
 
+## Version 2024.07.16.751 (16 July, 2024)
+### Changes
+* The view of maker priority list (hub symbols) is made as checkbox list.
+
+## Version 2024.07.15.1049 (15 July, 2024)
+### Changes
+* GUI bug is fixed: unhandled exception when trying to edit maker/taker.
+* OKX maker connection errors are fixed.
 
 ## Version 2024.07.03.652 (7 July, 2024)
 ### Changes
