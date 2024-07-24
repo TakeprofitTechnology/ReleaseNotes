@@ -11,6 +11,7 @@
 ### Changes
 * Favicon logo added to the login screen;
 * Some fonts were changed;
+* 'My Followers' tab was hidden from the follower's GUI;
 * Several GUI bugs are fixed;
 
 ## Version 2024.7.9.775 (9 July, 2024)
