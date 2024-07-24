@@ -3,6 +3,7 @@
 ## Version 2024.7.23.748 (23 July, 2024)
 ### Features
 * 'Profile' section added for Leader's dashboard;
+* Leader can now see his opened positions in 'My Positions' tab;
 * The leader now can set up his fees in 'Profile' dropdown in the dashboard;
 * The user can now register both as follower and leader from the login screen;
 * Paging has been added for GUI;
