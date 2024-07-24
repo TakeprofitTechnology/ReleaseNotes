@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version 2024.07.24.761 (24 July, 2024)
+### Features
+* It is possible to write the data to db asynchronously.
+
 ## Version 2024.07.16.751 (16 July, 2024)
 ### Changes
 * The view of maker priority list (hub symbols) is made as checkbox list.
