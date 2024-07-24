@@ -1,5 +1,17 @@
 # TPT copy system
 
+## Version 2024.7.23.748 (23 July, 2024)
+### Features
+* 'Profile' section added for Leader's dashboard;
+* The leader now can set up his fees in 'Profile' dropdown in the dashboard;
+* The user can now register both as follower and leader from the login screen;
+* Paging has been added for GUI;
+* Added caching for admin dashboard;
+### Changes
+* Favicon logo added to the login screen;
+* Some fonts were changed;
+* Several GUI bugs are fixed;
+
 ## Version 2024.7.9.775 (9 July, 2024)
 ### Features
 * "My Followers" page added to the Leader's GUI, showing leaders information about their followers.
