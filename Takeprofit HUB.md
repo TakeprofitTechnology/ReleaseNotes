@@ -19,6 +19,11 @@
 * Incorrect name of imported risk profile csv file is fixed.
 * Added a possibility to switch logging modes on the fly withour restrating taker or maker connections.
 
+
+## Version 2024.06.28.692 (28 June, 2024)
+### Changes
+* It is not poossible to set the default ports for takers (appsettings.json) to speed up taker creation.
+
 ## Version 2024.06.24.426 (24 June, 2024)
 ### Changes
 * Comment field is added to risk profile rules.
