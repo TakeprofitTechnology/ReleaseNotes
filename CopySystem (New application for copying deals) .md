@@ -5,6 +5,7 @@
 * The bug with stop loss logic is fixed;
 * Added sorting option for 'Leaderboard' page;
 * Authorization error message has been amended;
+* Copying bugs were fixed;
 
 ## Version 2024.7.23.748 (23 July, 2024)
 ### Features
@@ -19,6 +20,10 @@
 * Some fonts were changed;
 * 'My Followers' tab was hidden from the follower's GUI;
 * Several GUI bugs are fixed;
+
+## Version 2024.7.12.630 (11 July, 2024)
+### Changes
+* The bug of copy system starts copying only after restart is fixed;
 
 ## Version 2024.7.9.775 (9 July, 2024)
 ### Features
