@@ -13,6 +13,7 @@
 * Some fonts were changed;
 * 'My Followers' tab was hidden from the follower's GUI;
 * Several GUI bugs are fixed;
+* The bug with stop loss logic is fixed;
 
 ## Version 2024.7.9.775 (9 July, 2024)
 ### Features
