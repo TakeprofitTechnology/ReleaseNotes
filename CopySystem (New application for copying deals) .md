@@ -14,7 +14,7 @@
 * The leader now can set up his fees in 'Profile' dropdown in the dashboard;
 * The user can now register both as follower and leader from the login screen;
 * Paging has been added for GUI;
-* Added caching for admin dashboard;
+* Additional caching set up;
 ### Changes
 * Favicon logo added to the login screen;
 * Some fonts were changed;
