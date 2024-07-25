@@ -1,5 +1,10 @@
 # TPT copy system
 
+## Version 2024.7.24.560 (24 July, 2024)
+### Changes
+* The bug with stop loss logic is fixed;
+* Added sorting option for 'Leaderboard' page;
+
 ## Version 2024.7.23.748 (23 July, 2024)
 ### Features
 * 'Profile' section added for Leader's dashboard;
@@ -13,7 +18,6 @@
 * Some fonts were changed;
 * 'My Followers' tab was hidden from the follower's GUI;
 * Several GUI bugs are fixed;
-* The bug with stop loss logic is fixed;
 
 ## Version 2024.7.9.775 (9 July, 2024)
 ### Features
