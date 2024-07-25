@@ -4,6 +4,7 @@
 ### Changes
 * The bug with stop loss logic is fixed;
 * Added sorting option for 'Leaderboard' page;
+* Authorization error message has been amended;
 
 ## Version 2024.7.23.748 (23 July, 2024)
 ### Features
