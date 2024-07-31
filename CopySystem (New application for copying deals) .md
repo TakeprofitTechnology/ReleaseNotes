@@ -1,4 +1,7 @@
 # TPT copy system
+## Version 2024.7.31.552 (31 Julym 2024)
+### Changes
+* The bug with wrong PnL showing in 'Copied PnL' is fixed;
 
 ## Version 2024.7.24.560 (24 July, 2024)
 ### Changes
