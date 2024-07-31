@@ -1,6 +1,10 @@
 # Takeprofit Web GUI Configurator
 
-## Version v2024.7.2.657 (2 July, 2024)
+## Version 2024.7.30.415 (30 July, 2024)
+### Changes
+* Minor GUI fixes, some typos are fixed.  
+
+## Version 2024.7.2.657 (2 July, 2024)
 ### Changes
 * Fixed the bug when new lines could not be edited properly if several new empty lines were created at the same time.  
 
