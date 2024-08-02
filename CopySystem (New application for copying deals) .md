@@ -1,5 +1,14 @@
 # TPT copy system
-## Version 2024.7.31.552 (31 Julym 2024)
+
+## Version 2024.8.2.573 (2 August, 2024)
+### Features
+* Added a table-view for the Leaderboard. Already followed Leaders are currently placed in a separate table;
+### Changes
+* Volume units have been added;
+* Columns aligned accordingly;
+* General optimization of the system has been performed; 
+
+## Version 2024.7.31.552 (31 July, 2024)
 ### Changes
 * The bug with wrong PnL showing in 'Copied PnL' is fixed;
 
