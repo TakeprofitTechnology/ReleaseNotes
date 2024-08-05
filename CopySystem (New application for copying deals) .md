@@ -1,12 +1,15 @@
 # TPT copy system
 
-## Version 2024.8.2.573 (2 August, 2024)
+## Version 2024.8.2.865 (2 August, 2024)
 ### Features
 * Added a table-view for the Leaderboard. Already followed Leaders are currently placed in a separate table;
+* 'Copying Mode' column has been added to the trader's GUI;
 ### Changes
 * Volume units have been added;
 * Columns aligned accordingly;
-* General optimization of the system has been performed; 
+* General optimization of the system has been performed;
+* Loading animation has been removed;
+* The bug with incorrect timezone has been fixed;
 
 ## Version 2024.7.31.552 (31 July, 2024)
 ### Changes
