@@ -1,5 +1,9 @@
 # Drawdown Limit MT5
 
+## Version 24.07.23.27 (23 July, 2024)
+### Features
+* It is possible now to configure the plugin via Web GUI configurator.
+
 ## Version 1.16 (29 December, 2023)
 ### Changes
 * Moved the trace logs for equity checking to the debug level. The "DebugLogs" value must be set to "false" so that these logs are not written.
