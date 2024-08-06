@@ -1,5 +1,9 @@
 # Drawdown Limit MT4
 
+## Version 24.07.23.27 (23 July, 2024)
+### Features
+* It is possible now to configure the plugin via Web GUI configurator.
+
 ## Version 1.02 (30 November, 2023)
 ### Changes
 * Merged the code bases od Drawdown Limit MT5 and Drawdown Limit MT4.
