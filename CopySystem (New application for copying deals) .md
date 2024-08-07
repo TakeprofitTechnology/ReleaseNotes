@@ -4,6 +4,7 @@
 ### Features
 * Added a table-view for the Leaderboard. Already followed Leaders are currently placed in a separate table;
 * 'Copying Mode' column has been added to the trader's GUI;
+* 'History' page has been added to the trader's GUI;
 ### Changes
 * Volume units have been added;
 * Columns aligned accordingly;
