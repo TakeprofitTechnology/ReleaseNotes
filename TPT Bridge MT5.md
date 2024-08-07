@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version 24.07.31.47 (31 July, 2024)
+### Changes
+* Bug of incorrect price representation in the GUI is fixed.
+
 ## Version 24.07.15.53 (15 July, 2024)
 ### Changes
 * Incorrectly named column in Symbols.csv has been fixed.
