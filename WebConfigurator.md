@@ -1,5 +1,10 @@
 # Takeprofit Web GUI Configurator
 
+
+## Version 2024.7.31.719 (31 July, 2024)
+### Changes
+* Dynamic leverage MT5 configurator - rules representation bug is fixed. 
+
 ## Version 2024.7.30.415 (30 July, 2024)
 ### Changes
 * Minor GUI fixes, some typos are fixed.  
