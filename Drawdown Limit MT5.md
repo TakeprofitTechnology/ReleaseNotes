@@ -1,5 +1,9 @@
 # Drawdown Limit MT5
 
+## Version 24.08.07.36
+### Features
+* Additional parameters for prop tradng have been added;
+
 ## Version 24.07.23.27 (23 July, 2024)
 ### Features
 * It is possible now to configure the plugin via Web GUI configurator.
