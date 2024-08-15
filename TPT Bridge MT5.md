@@ -1,5 +1,10 @@
 # TPT Bridge MT5
 
+
+## Version 24.08.13.49 (24 August, 2024)
+### Changes
+* The log lines that are not needed were removed from log files.
+
 ## Version 24.07.31.47 (31 July, 2024)
 ### Changes
 * Bug of incorrect price representation in the GUI is fixed.
