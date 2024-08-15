@@ -1,5 +1,11 @@
 # Takeprofit Hub
 
+
+
+## Version 2024.08.15.688 (8 August, 2024)
+### Changes
+* The bug of GUI log files were cut is fixed.
+
 ## Version 2024.07.24.761 (24 July, 2024)
 ### Features
 * It is possible to write the data to db asynchronously.
