@@ -5,6 +5,8 @@
 * Sorting order in the 'History' page has been changed from ascending to descending;
 * The bug with the copied positions changed their copying mode with the strategy change has been fixed;
 * Fixed buttons aligning on Registration step;
+## Features
+* Added a default sorting for 'History' page by 'Open Time'(from newest to oldest positions);
 
 ## Version 2024.8.2.865 (2 August, 2024)
 ### Features
