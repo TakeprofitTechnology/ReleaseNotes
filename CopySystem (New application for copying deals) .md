@@ -1,6 +1,6 @@
 # TPT copy system
 
-## Version 2024.8.13.451 (13 August, 2024)
+## Version 2024.8.13.760 (13 August, 2024)
 ### Changes
 * Sorting order in the 'History' page has been changed from ascending to descending;
 * The bug with the copied positions changed their copying mode with the strategy change has been fixed;
