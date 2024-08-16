@@ -4,6 +4,7 @@
 ### Changes
 * Sorting order in the 'History' page has been changed from ascending to descending;
 * The bug with the copied positions changed their copying mode with the strategy change has been fixed;
+* Partial closing/closing of positions follows the initial copying mode, if it has been changed in the process of work;
 * Fixed buttons aligning on Registration step;
 ## Features
 * Added a default sorting for 'History' page by 'Open Time' (from newest to oldest positions);
