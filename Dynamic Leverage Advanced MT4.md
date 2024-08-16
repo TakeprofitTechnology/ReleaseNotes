@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 24.08.05.53 (24 August, 2024)
+### Changes
+* The following settings are added to default plugin settings: RestServerHost, RestServerPort, UseWorseLeverage, UseOverallVolume.
+
 ## Version 1.24 (28 November, 2023)
 ### Changes
 * Improved internal logic for checking equity when opening and closing deals.
