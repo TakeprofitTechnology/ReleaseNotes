@@ -3,6 +3,7 @@
 ## Version 2024.08.15.684 (15 August, 2024)
 ### Changes
 * It is possible to send MT trading account ID to PrimeXM makers.
+* Total USD volume of the deals is calculated by the hub and represented on Deals tab.
 
 ## Version 2024.08.08.688 (8 August, 2024)
 ### Changes
