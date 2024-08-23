@@ -5,6 +5,7 @@
 * It is possible to send MT trading account ID to PrimeXM makers.
 * Total USD volume of the deals is calculated by the hub and represented on Deals tab.
 * Partial execution bug is fixed.
+* Active orders table: timeout of data update is set to 10 minutes instead of 10 seconds. 
 
 ## Version 2024.08.08.688 (8 August, 2024)
 ### Changes
