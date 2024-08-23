@@ -1,10 +1,16 @@
 # Takeprofit Hub
 
+## Version 2024.08.15.684 (15 August, 2024)
+### Changes
+* It is possible to send MT trading account ID to PrimeXM makers.
 
-
-## Version 2024.08.15.688 (8 August, 2024)
+## Version 2024.08.08.688 (8 August, 2024)
 ### Changes
 * The bug of GUI log files were cut is fixed.
+
+## Version 2024.08.05.648 (5 August, 2024)
+### Changes
+* Database optimization - the orders that are splitted between A-book and B-book now can be processed a bit faster.
 
 ## Version 2024.07.24.761 (24 July, 2024)
 ### Features
