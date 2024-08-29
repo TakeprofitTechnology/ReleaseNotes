@@ -1,5 +1,11 @@
 # TPT copy system
 
+## Version v2024.8.28.802 (28 August, 2024)
+### Features
+* New design has been applied to both admin and trader GUI;
+## Changes
+* Unnessessary messages has been removed from logs; 
+
 ## Version 2024.8.13.760 (13 August, 2024)
 ### Changes
 * Sorting order in the 'History' page has been changed from ascending to descending;
