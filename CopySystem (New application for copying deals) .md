@@ -1,5 +1,9 @@
 # TPT copy system
 
+## Version v2024.8.30.265 (30 August, 2024)
+### Changes
+* Minor GUI improvements have been applied;
+
 ## Version v2024.8.28.802 (28 August, 2024)
 ### Features
 * New design has been applied to both admin and trader GUI;
