@@ -1,6 +1,10 @@
 # Dynamic Leverage MT5
 
-## Version 2024.7.31.719 (31 July, 2023)
+## Version 24.08.27.43 (27 August, 2024)
+### Changes
+* UpdateExistingPositions bug is fixed.
+
+## Version 2024.7.31.719 (31 July, 2024)
 ### Changes
 * Added new leverage mode: equity (distributed).
 
