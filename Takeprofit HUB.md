@@ -1,5 +1,6 @@
 # Takeprofit Hub
 
+
 ## Version 2024.08.15.684 (15 August, 2024)
 ### Changes
 * It is possible to send MT trading account ID to PrimeXM makers.
