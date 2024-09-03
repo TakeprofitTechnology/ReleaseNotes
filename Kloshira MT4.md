@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version 24.09.02.45 (09 August, 2024)
+### Changes
+* AllowVWAPPrice bug is fixed (the logic of this parameter was not working correct).
+
 ## Version 4.30 (21 September, 2023)
 ### Changes
 * Added check for logQuote.
