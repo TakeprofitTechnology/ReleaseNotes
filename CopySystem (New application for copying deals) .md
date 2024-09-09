@@ -5,6 +5,9 @@
 * Search function bug has been fixed;
 * Fixed a bug adding non-existing account;
 * Some texts adjustments;
+* Copied PnL value has been removed for Leader's dashboard;
+* Several logs records were adjusted;
+* General performance improvements;
 
 ## Version v2024.8.30.265 (30 August, 2024)
 ### Changes
