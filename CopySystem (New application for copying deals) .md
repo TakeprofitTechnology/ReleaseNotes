@@ -1,4 +1,10 @@
 # TPT copy system
+## Version v2024.9.3.995 (3 September, 2024)
+### Changes
+* Several visual bugs have been fixed;
+* Search function bug has been fixed;
+* Fixed a bug adding non-existing account;
+* Some texts adjustments;
 
 ## Version v2024.8.30.265 (30 August, 2024)
 ### Changes
