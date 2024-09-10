@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2024.08.28.718 (28 August, 2024)
+### Changes
+* Fixed issue linked to execution reports sending;
+
 ## Version 2024.08.26.817 (26 August, 2024)
 ### Changes
 * ExternalTradingAccountId FIX routing option is added.
