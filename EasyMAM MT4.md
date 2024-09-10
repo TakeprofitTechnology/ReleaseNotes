@@ -1,5 +1,9 @@
 # EasyMAM MT4
 
+## Version v2024.9.3.991 (3 September, 2024)
+### Features
+* Added the comment for all the investors deals with the volume of deal even if it's less than minimal step of the trading symbol;
+
 ## **Version 4.31-4.32 (20 Dec, 2023)**
 ### Changes
 * Added a check if an order is open or closed if the error "Failed to execute TradeTransaction" is received.
