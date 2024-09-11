@@ -1,4 +1,10 @@
 # TPT copy system
+
+## Version v2024.9.11.572 (11 September, 2024)
+### Changes
+* Leader fields are now frozen while creating a new account until 'can be leader' checkbox is not activated;
+* Minor performance & visual improvements;
+
 ## Version v2024.9.3.995 (3 September, 2024)
 ### Changes
 * Several visual bugs have been fixed;
