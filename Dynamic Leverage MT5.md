@@ -2,7 +2,7 @@
 
 ## Version v24.09.06.52 (6 September, 2024)
 ### Changes
-* Changed UseSecurityVolume parameter behaviour (if it's empty, it's equal to false); 
+* Changed UseSecurityVolume parameter behaviour if the securities are not set;
 
 ## Version 24.08.27.43 (27 August, 2024)
 ### Changes
