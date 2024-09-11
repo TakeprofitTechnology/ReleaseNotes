@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2024.9.9.582 (9 September, 2024)
+### Changes
+* Added a parameter for defining the interval for equity change at GetMoneyManagerStats GET request; 
+
 ## Version 6.39 (21 May, 2024)
 ### Changes
 * Logging additional events to get more information for future investigations.
