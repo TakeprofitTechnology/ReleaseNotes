@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version v24.09.06.52 (6 September, 2024)
+### Changes
+* Changed UseSecurityVolume parameter behaviour (if it's empty, its' equal to false); 
+
 ## Version 24.08.27.43 (27 August, 2024)
 ### Changes
 * UpdateExistingPositions bug is fixed.
