@@ -1,5 +1,8 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.9.12.662 (12 September, 2024)
+### Changes
+* Dynamic leverage MT5 configurator - rules file can be uploaded in .tsv format;
 
 ## Version 2024.7.31.719 (31 July, 2024)
 ### Changes
