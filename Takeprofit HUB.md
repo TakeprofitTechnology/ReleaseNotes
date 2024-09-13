@@ -16,6 +16,8 @@
 * Active orders table: timeout of data update is set to 10 minutes instead of 10 seconds. 
 
 ## Version 2024.08.08.688 (8 August, 2024)
+### Features
+* Overview page has been added with Grafana charts compatibility;
 ### Changes
 * The bug of GUI log files were cut is fixed.
 
