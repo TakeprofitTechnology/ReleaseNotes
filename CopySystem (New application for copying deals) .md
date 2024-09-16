@@ -1,5 +1,9 @@
 # TPT copy system
 
+## Version v2024.9.13.908 (13 September, 2024)
+### Changes
+* Minor visual adjustments for trader GUI;
+
 ## Version v2024.9.11.572 (11 September, 2024)
 ### Changes
 * Leader fields are now frozen while creating a new account until 'can be leader' checkbox is not activated;
