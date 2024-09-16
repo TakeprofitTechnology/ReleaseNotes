@@ -1,5 +1,10 @@
 # GL Risk Panel
 
+## Version v2024.9.12.902 (12 September, 2024)
+### Changes
+* Minor bugs have been fixed;
+* Issue with connecting to the TPT Bridge has been resolved;
+
 ## Version v2024.7.11.857 (11 July, 2024)
 ### Changes
 * Fixed a bug with the error on sending correction trades from Risk Panel.
