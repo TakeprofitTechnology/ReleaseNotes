@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2024.09.17.663 (17 September, 2024)
+### Changes
+* Filters searching has been sped up;
+
 ## Version v2024.09.13.756 (13 September, 2024)
 ### Features
 * Added chart to Market watch;
