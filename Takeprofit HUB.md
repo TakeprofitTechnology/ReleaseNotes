@@ -1,5 +1,16 @@
 # Takeprofit Hub
 
+## Version v2024.09.13.756 (13 September, 2024)
+### Features
+* Added chart to Market watch;
+* Added 2 new metrics (and the corresponding charts to Grafana): the total profit in USD from markups and the total trading volumes by core symbols converted to USD;
+* Added 'Symbols relations' tab to 'Settings';
+* Added filter to 'Price channels';
+* Discrepancy in 'Exposure' window is now highlighted;
+### Changes
+* 'Reports' tab is removed from the main menu;
+* The bug with priority list checking has been fixed;
+
 ## Version v2024.08.28.718 (28 August, 2024)
 ### Changes
 * Fixed issue linked to execution reports sending;
