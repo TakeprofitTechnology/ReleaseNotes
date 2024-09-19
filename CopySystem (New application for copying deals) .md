@@ -1,5 +1,12 @@
 # TPT copy system
 
+## Version v2024.9.17.611 (17 September, 2024)
+### Changes
+* Minor bugs were fixed;
+* Several values in admin GUI are now updated automatically;
+* Maximum value for Scaled and Fixed copying modes were set to 1000;
+* Minor visual improvements;
+
 ## Version v2024.9.13.908 (13 September, 2024)
 ### Changes
 * Minor visual adjustments for trader GUI;
