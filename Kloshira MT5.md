@@ -1,6 +1,8 @@
 # Kloshira MT5
 
-
+## Version v24.09.18.45 (18 September, 2024)
+### Changes
+* Gateway starting process has been improved to avoid issues inside Gateway API
 
 ## **Version 24.06.20.86 (1 June, 2024)**
 ### Changes
