@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2024.09.20.459 (20 September, 2024)
+### Changes
+* 'Estimated total' in Databases > Deals has been renamed to 'Total Deals';
+
 ## Version v2024.09.17.663 (17 September, 2024)
 ### Changes
 * Filters searching has been sped up;
