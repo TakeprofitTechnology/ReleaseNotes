@@ -4,7 +4,8 @@
 ### Changes
 * 'Estimated total' in Databases > Deals has been renamed to 'Total Deals';
 * Execution issues on the Binance Futures maker have been resolved;
-* Fix messages bug has been resolved;
+* Fix messages bug has been resolved for PXM-related issues;
+* IgnorePartialFillsExceptGTC parameter has been removed for PXM taker; 
 
 ## Version v2024.09.17.663 (17 September, 2024)
 ### Changes
