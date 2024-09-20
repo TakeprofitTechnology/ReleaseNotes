@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version v24.09.20.46 (20 September, 2024)
+## Changes
+* Slippage is now applied when Delay is 0; 
+
 ## Version 24.09.02.45 (09 August, 2024)
 ### Changes
 * AllowVWAPPrice bug is fixed (the logic of this parameter was not working correct).
