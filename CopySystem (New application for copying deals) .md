@@ -1,5 +1,9 @@
 # TPT copy system
 
+## Version v2024.9.20.730 (20 September, 2024)
+### Changes
+* Copying logic improved on server restart;
+* Iternal logging improvement;
 ## Version v2024.9.17.611 (17 September, 2024)
 ### Changes
 * Minor bugs were fixed;
