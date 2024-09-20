@@ -20,6 +20,7 @@
 * 'Reports' tab is removed from the main menu;
 * The bug with priority list checking has been fixed;
 * Minor bugs have been fixed;
+* Default volume value has been hidden and hardcoded;
 
 ## Version v2024.08.28.718 (28 August, 2024)
 ### Changes
