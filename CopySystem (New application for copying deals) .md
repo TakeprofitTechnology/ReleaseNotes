@@ -4,6 +4,11 @@
 ### Changes
 * Copying logic improved on server restart;
 * Iternal logging improvement;
+* The possibility for leaders with active strategies to become basic followers have been removed;
+* Server name can now be changed without reconnecting;
+* Error notification texts have been adjusted;
+* Minor bugs fix;
+
 ## Version v2024.9.17.611 (17 September, 2024)
 ### Changes
 * Minor bugs were fixed;
