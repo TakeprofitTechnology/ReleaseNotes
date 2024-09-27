@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.9.25.923 (25 September, 2024)
+### Changes
+* Detach texts have been adjusted;
+
 ## Version v2024.9.13.965 (13 September, 2024)
 ### Changes
 * Minor GUI improvements;
