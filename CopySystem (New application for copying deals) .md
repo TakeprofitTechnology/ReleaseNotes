@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.9.24.786 (24 September, 2024)
+### Features
+* 'Strategy ID' column has been added to 'My positions' and 'History' pages;
+
 ## Version v2024.9.20.730 (20 September, 2024)
 ### Changes
 * Copying logic improved on server restart;
