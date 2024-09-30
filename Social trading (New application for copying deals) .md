@@ -1,5 +1,11 @@
 # TPT Social trading
 
+## Version v2024.9.27.846 (27 September, 2024)
+### Features
+* Several API methods have been implemented;
+### Changes
+* Swagger page has been modified for recent API update;
+
 ## Version v2024.9.24.786 (24 September, 2024)
 ### Features
 * 'Strategy ID' column has been added to 'My positions' and 'History' pages;
