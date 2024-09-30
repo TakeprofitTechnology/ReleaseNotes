@@ -1,4 +1,4 @@
-# TPT copy system
+# TPT Social trading
 
 ## Version v2024.9.20.730 (20 September, 2024)
 ### Changes
