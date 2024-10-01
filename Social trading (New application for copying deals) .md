@@ -1,8 +1,13 @@
 # TPT Social trading
 
+## Version v2024.9.30.663
+### Changes
+* Product name has been changed to 'Takeprofit Social trading';
+* The bug with incorrect fees accrual has been fixed;
+
 ## Version v2024.9.27.846 (27 September, 2024)
 ### Features
-* Several API methods have been implemented;
+* API methods have been implemented;
 ### Changes
 * Swagger page has been modified for recent API update;
 
