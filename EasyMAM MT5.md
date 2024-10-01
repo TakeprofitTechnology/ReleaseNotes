@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2024.9.27.667 (27 September, 2024)
+### Changes
+* Server is now pre-chosen in the InvestorView. Last choice of the server will also be remembered;
+
 ## Version v2024.9.9.582 (9 September, 2024)
 ### Changes
 * Added a parameter for defining the interval for equity change at GetMoneyManagerStats GET request;
