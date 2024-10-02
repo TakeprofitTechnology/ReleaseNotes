@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version v2024.10.2.473
+### Changes
+* Added measurment units for strategy modes;
+* API bugs fixed;
+
 ## Version v2024.9.30.663
 ### Changes
 * Product name has been changed to 'Takeprofit Social trading';
