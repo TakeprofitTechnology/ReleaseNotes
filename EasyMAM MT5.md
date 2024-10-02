@@ -2,7 +2,7 @@
 
 ## Version v2024.10.2.596 (2 October, 2024)
 ### Changes
-* Critical bug with position not being closed on master has been fixed;
+* The bug with partial execution not being closed on master has been fixed;
 * Minor bugfixes has been performed;
 
 ## Version v2024.9.27.667 (27 September, 2024)
