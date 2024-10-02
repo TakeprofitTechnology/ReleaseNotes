@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2024.10.2.596 (2 October, 2024)
+### Changes
+* Critical bug with position not being closed on master has been fixed;
+
 ## Version v2024.9.27.667 (27 September, 2024)
 ### Changes
 * Server is now pre-chosen in the InvestorView. Last choice of the server will also be remembered;
