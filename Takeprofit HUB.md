@@ -1,32 +1,46 @@
 # Takeprofit Hub
 
-## Version v2024.09.20.459 (20 September, 2024)
+## Version 2024.10.03.526 (10 October, 2024)
 ### Changes
-* 'Estimated total' in Databases > Deals has been renamed to 'Total Deals';
-* Execution issues on the Binance Futures maker have been resolved;
-* Fix messages bug has been resolved for PXM-related issues;
-* IgnorePartialFillsExceptGTC parameter has been removed for PXM taker; 
+* Text of "Send order" popup (to maker) is changed.
+* The bug of negative eecution time is fixed.
+* Several typos in GUI are fixed.
 
-## Version v2024.09.17.663 (17 September, 2024)
+## Version 2024.10.02.459 (2 October, 2024)
 ### Changes
-* Filters searching has been sped up;
+* The names and buttons of Takers/Accounts are stuck on the left side - the y don't move when scrolling page to the right.
 
-## Version v2024.09.13.756 (13 September, 2024)
+## Version 2024.8.28.718 (28 September, 2024)
+### Changes
+* Takers/Accounts search field bug is fixed.
+
+## Version 2024.09.20.459 (20 September, 2024)
+### Changes
+* 'Estimated total' in Databases > Deals has been renamed to 'Total Deals'.
+* Execution issues on the Binance Futures maker have been resolved.
+* Fix messages bug has been resolved for PXM-related issues.
+* IgnorePartialFillsExceptGTC parameter has been removed for PXM taker.
+
+## Version 2024.09.17.663 (17 September, 2024)
+### Changes
+* Filters searching has been sped up.
+
+## Version 2024.09.13.756 (13 September, 2024)
 ### Features
-* Added chart to Market watch;
-* Added 2 new metrics (and the corresponding charts to Grafana): the total profit in USD from markups and the total trading volumes by core symbols converted to USD;
-* Added 'Symbols relations' tab to 'Settings';
-* Added filter to 'Price channels';
-* Discrepancy in 'Exposure' window is now highlighted;
+* Added chart to Market watch.
+* Added 2 new metrics (and the corresponding charts to Grafana): the total profit in USD from markups and the total trading volumes by core symbols converted to USD.
+* Added 'Symbols relations' tab to 'Settings'.
+* Added filter to 'Price channels'.
+* Discrepancy in 'Exposure' window is now highlighted.
 ### Changes
-* 'Reports' tab is removed from the main menu;
-* The bug with priority list checking has been fixed;
-* Minor bugs have been fixed;
-* Default volume value has been hidden and hardcoded;
+* 'Reports' tab is removed from the main menu.
+* The bug with priority list checking has been fixed.
+* Minor bugs have been fixed.
+* Default volume value has been hidden and hardcoded.
 
-## Version v2024.08.28.718 (28 August, 2024)
+## Version 2024.08.28.718 (28 August, 2024)
 ### Changes
-* Fixed issue linked to execution reports sending;
+* Fixed issue linked to execution reports sending.
 
 ## Version 2024.08.26.817 (26 August, 2024)
 ### Changes
