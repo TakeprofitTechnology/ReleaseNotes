@@ -1,6 +1,11 @@
 # Takeprofit Hub
 
-## Version 2024.10.03.526 (10 October, 2024)
+
+## Version 2024.10.04.419 (4 October, 2024)
+### Changes
+* Major FIX price processing optimization - the maximum number of price processed per second increased on ~30%.
+
+## Version 2024.10.03.526 (3 October, 2024)
 ### Changes
 * Text of "Send order" popup (to maker) is changed.
 * The bug of negative eecution time is fixed.
