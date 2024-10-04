@@ -10,11 +10,11 @@
 ### Changes
 * The names and buttons of Takers/Accounts are stuck on the left side - the y don't move when scrolling page to the right.
 
-
-
 ## Version 2024.09.30.798 (30 September, 2024)
 ### Changes
-* Import/export bugs of hub symbols are fixed. 
+* Import/export bugs of hub symbols are fixed.
+### Features
+* Now it is possible to customize the columns of Takers and Accounts tabs (choose what columns must be displayed).
 
 ## Version 2024.9.28.718 (28 September, 2024)
 ### Changes
