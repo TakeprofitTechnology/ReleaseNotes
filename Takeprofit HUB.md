@@ -25,6 +25,10 @@
 ### Changes
 * Takers/Accounts search field bug is fixed.
 
+## Version 2024.09.27.497 (27 September, 2024)
+### Changes
+* Added the oportunity to search Takers and Accounts on their pages.
+
 ## Version 2024.09.26.702 (26 September, 2024)
 ### Changes
 * The bug of incorrect price displaying (maker => send order) is fixed.
