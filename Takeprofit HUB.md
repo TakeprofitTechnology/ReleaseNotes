@@ -7,6 +7,7 @@
 * BUG fixed: the exported data contained exponential values.
 * The filters is not prefilled by current date anymore.
 * Some typos are fixed.
+* Fixed the IDs or orders/deals/positions: somewhere they were stored without the identifiers (O, D, P).
 
 ## Version 2024.10.04.419 (4 October, 2024)
 ### Changes
