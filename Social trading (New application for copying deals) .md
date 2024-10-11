@@ -1,6 +1,12 @@
 # TPT Social trading
 
-## Version v2024.10.2.473
+## Version v2024.10.10.476 (10 October, 2024)
+### Features
+* Added a parameter to hide or put custom logo for Social Trading;
+### Changes
+* Fixed a bug with position not closing after strategy was removed;
+
+## Version v2024.10.2.473 (2 October, 2024)
 ### Changes
 * Added measurment units for strategy modes;
 * API bugs fixed;
