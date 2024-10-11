@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2024.10.10.992 (10 October, 2024)
+### Changes
+* BUG fixed: the filteres was not applied to exported data (Export/Import to csv).
+
 ## Version 2024.10.04.419 (4 October, 2024)
 ### Changes
 * Major FIX price processing optimization - the maximum number of price processed per second increased on ~30%.
