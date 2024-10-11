@@ -5,6 +5,7 @@
 ### Changes
 * BUG fixed: the filteres was not applied to exported data (Export/Import to csv).
 * BUG fixed: the exported data contained exponential values.
+* BUG fixed: NOP limit was defined incorrectly because of wrong price for conversion was taken.
 * The filters is not prefilled by current date anymore.
 * Some typos are fixed.
 * Fixed the IDs or orders/deals/positions: somewhere they were stored without the identifiers (O, D, P).
