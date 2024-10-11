@@ -5,6 +5,7 @@
 ### Changes
 * BUG fixed: the filteres was not applied to exported data (Export/Import to csv).
 * BUG fixed: the exported data contained exponential values.
+* The filters is not prefilled by current date anymore.
 
 ## Version 2024.10.04.419 (4 October, 2024)
 ### Changes
