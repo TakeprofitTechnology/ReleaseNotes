@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.10.14.472 (14 October, 2024)
+### Changes
+* Swagger UI bug with auth has been resolved;
+
 ## Version v2024.10.10.476 (10 October, 2024)
 ### Features
 * Added a parameter to hide or put custom logo for Social Trading;
