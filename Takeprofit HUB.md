@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2024.10.15.262 (15 October, 2024)
+### Changes
+* BUG fixed: there were some cases the taker order ID is duplicated.
+
 ## Version 2024.10.10.992 (10 October, 2024)
 ### Changes
 * BUG fixed: the filteres was not applied to exported data (Export/Import to csv).
