@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.10.17.677 (17 October, 2024)
+### Changes
+* Logo aligning fix has been implemented;
+
 ## Version v2024.10.14.472 (14 October, 2024)
 ### Changes
 * Swagger UI bug with auth has been resolved;
