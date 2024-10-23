@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2024.10.15.1001 (15 October, 2024)
+### Features
+* Added 'Actions' dropdown to the Money manager InvestorView page;
+
 ## Version v2024.10.2.596 (2 October, 2024)
 ### Changes
 * The bug with partial execution not being closed on master has been fixed;
