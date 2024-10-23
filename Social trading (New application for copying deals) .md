@@ -1,5 +1,12 @@
 # TPT Social trading
 
+## Version v2024.10.22.485 (22 October, 2024)
+### Features
+* Leaders fees are now can be locked from changing by leaders themselves on admin side;
+* Default fee setting has been implemented to admin GUI for newly registered leaders;
+### Changes
+* Several API requests results have been fixed;
+
 ## Version v2024.10.17.677 (17 October, 2024)
 ### Changes
 * Logo aligning fix has been implemented;
