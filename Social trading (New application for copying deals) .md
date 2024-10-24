@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.10.24.551 (24 October, 2024)
+### Features
+* A new feature to remove unavailable MT accounts from Social Trading has been added;
+
 ## Version v2024.10.22.485 (22 October, 2024)
 ### Features
 * Leaders fees are now can be locked from changing by leaders themselves on admin side;
