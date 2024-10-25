@@ -4,6 +4,7 @@
 ## Version 24.10.24.61 (24 October, 2024)
 ### Changes
 * PrimeXM maker connection is improved.
+* Huge speed up of the hub starting process.
 
 ## Version 2024.10.15.262 (15 October, 2024)
 ### Changes
