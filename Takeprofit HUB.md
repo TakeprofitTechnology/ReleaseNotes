@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 24.10.24.61 (24 October, 2024)
+### Changes
+* PrimeXM maker connection is improved.
+
 ## Version 2024.10.15.262 (15 October, 2024)
 ### Changes
 * BUG fixed: there were some cases the taker order ID is duplicated.
