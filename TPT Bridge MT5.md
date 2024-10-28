@@ -1,5 +1,8 @@
 # TPT Bridge MT5
 
+## Version 24.10.24.61 (24 October, 2024)
+### Changes
+* PrimeXM maker connection is improved.
 
 ## Version 24.08.13.49 (24 August, 2024)
 ### Changes
