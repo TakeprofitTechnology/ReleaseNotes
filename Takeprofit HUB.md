@@ -6,10 +6,10 @@
 * Huge speed up of the hub starting process.
 * Inner code structure is optimized and safety improved (maker/taker connections).
 
-
 ## Version 2024.10.17.490 (17 October, 2024)
 ### Changes
 * Stick ID of orders, positions, deals, positions history, account history tables when scrolling horizontally.
+* Now it is possible to customize (show/hide the columns) tables: orders, deals, positions, positions history, accounts history, equity report.
 
 ## Version 2024.10.15.262 (15 October, 2024)
 ### Changes
