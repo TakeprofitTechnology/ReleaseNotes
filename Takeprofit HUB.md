@@ -76,6 +76,10 @@
 * Fix messages bug has been resolved for PXM-related issues.
 * IgnorePartialFillsExceptGTC parameter has been removed for PXM taker.
 
+## Version 2024.09.18.303 (18 September, 2024)
+### Changes
+* Events tab is added.
+
 ## Version 2024.09.17.663 (17 September, 2024)
 ### Changes
 * Filters searching has been sped up.
