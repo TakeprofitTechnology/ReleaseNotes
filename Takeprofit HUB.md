@@ -6,9 +6,15 @@
 * Huge speed up of the hub starting process.
 * Inner code structure is optimized and safety improved (maker/taker connections).
 
+
+## Version 2024.10.17.490 (17 October, 2024)
+### Changes
+* Stick ID of orders, positions, deals, positions history, account history tables when scrolling horizontally.
+
 ## Version 2024.10.15.262 (15 October, 2024)
 ### Changes
 * BUG fixed: there were some cases the taker order ID is duplicated.
+
 
 ## Version 2024.10.14.897 (14 October, 2024)
 ### Changes
