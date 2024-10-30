@@ -9,6 +9,7 @@
 ## Version 2024.10.21.721 (21 October, 2024)
 ### Changes
 * Representation if risk profiles tab is improved.
+* Minor data representation improvements.
 
 ## Version 2024.10.17.490 (17 October, 2024)
 ### Changes
