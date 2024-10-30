@@ -18,6 +18,7 @@
 ## Version 2024.10.15.262 (15 October, 2024)
 ### Changes
 * BUG fixed: there were some cases the taker order ID is duplicated.
+* Symbols mapping table is added to Takers tab.
 
 
 ## Version 2024.10.14.897 (14 October, 2024)
