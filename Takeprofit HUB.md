@@ -6,6 +6,10 @@
 * Huge speed up of the hub starting process.
 * Inner code structure is optimized and safety improved (maker/taker connections).
 
+## Version 2024.10.21.721 (24 October, 2024)
+### Changes
+* Representation if risk profiles tab is improved.
+
 ## Version 2024.10.17.490 (17 October, 2024)
 ### Changes
 * Stick ID of orders, positions, deals, positions history, account history tables when scrolling horizontally.
