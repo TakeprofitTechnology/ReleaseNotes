@@ -1,7 +1,11 @@
 # Takeprofit Hub
 
 
-## Version 24.10.24.61 (24 October, 2024)
+## Version 2024.10.28.604 (28 October, 2024)
+### Changes
+* Makers priority (hub symbols) bug is fixed.
+
+## Version 2024.10.24.61 (24 October, 2024)
 ### Changes
 * Huge speed up of the hub starting process.
 * Inner code structure is optimized and safety improved (maker/taker connections).
@@ -20,7 +24,6 @@
 ### Changes
 * BUG fixed: there were some cases the taker order ID is duplicated.
 * Symbols mapping table is added to Takers tab.
-
 
 ## Version 2024.10.14.897 (14 October, 2024)
 ### Changes
