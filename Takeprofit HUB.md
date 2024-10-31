@@ -4,6 +4,7 @@
 ## Version 2024.10.28.604 (28 October, 2024)
 ### Changes
 * Makers priority (hub symbols) bug is fixed.
+* Several minor inner errors are fxied.
 
 ## Version 2024.10.24.61 (24 October, 2024)
 ### Changes
