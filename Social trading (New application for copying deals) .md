@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.11.1.676 (1 November, 2024)
+### Changes
+* Minor text adjustments;
+
 ## Version v2024.10.24.551 (24 October, 2024)
 ### Features
 * A new feature to remove unavailable MT accounts from Social Trading has been added;
