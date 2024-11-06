@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2024.11.06.657 (6 November, 2024)
+### Changes
+* Minor table filtration changes.
+
 ## Version 2024.11.04.1051 (4 November, 2024)
 ### Changes
 * Db handling on the start is optimized (important if the database size is really big).
