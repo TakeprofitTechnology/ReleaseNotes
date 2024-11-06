@@ -28,6 +28,7 @@
 ### Changes
 * BUG fixed: there were some cases the taker order ID is duplicated.
 * Symbols mapping table is added to Takers tab.
+* Added new maker: Centroid.
 
 ## Version 2024.10.14.897 (14 October, 2024)
 ### Changes
