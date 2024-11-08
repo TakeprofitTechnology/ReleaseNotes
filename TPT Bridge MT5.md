@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v24.11.06.39 (06 November, 2024)
+### Changes
+* Auto sending of users' configuration files for backup is implemented;
+
 ## Version 24.10.24.61 (24 October, 2024)
 ### Changes
 * PrimeXM maker connection is improved.
