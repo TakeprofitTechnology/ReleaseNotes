@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.11.6.703 (6 November, 2024)
+### Changes
+* TPTBridge MT5 - added sorting feature;
+
 ## Version v2024.9.25.923 (25 September, 2024)
 ### Changes
 * Detach texts have been adjusted;
