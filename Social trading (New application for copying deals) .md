@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.11.8.757 (8 November, 2024)
+### Changes
+* Fixed a bug with incorrect copying if strategy has removed accounts; 
+
 ## Version v2024.11.1.676 (1 November, 2024)
 ### Changes
 * Minor text adjustments;
