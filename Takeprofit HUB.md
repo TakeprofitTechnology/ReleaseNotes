@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2024.11.08.842 (8 November, 2024)
+### Changes
+* Some notifications that are not actual are removed.
+
 ## Version 2024.11.06.657 (6 November, 2024)
 ### Changes
 * Minor table filtration changes.
