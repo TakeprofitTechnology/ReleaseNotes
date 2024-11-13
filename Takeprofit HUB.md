@@ -12,6 +12,8 @@
 ## Version 2024.11.04.1051 (4 November, 2024)
 ### Changes
 * Db handling on the start is optimized (important if the database size is really big).
+### Features
+* Now it is possible to set the list of makers that will be providing prices and fillig orders for the chosen priec channel.
 
 ## Version 2024.10.28.604 (28 October, 2024)
 ### Changes
