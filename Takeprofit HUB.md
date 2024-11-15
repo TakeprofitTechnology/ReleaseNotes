@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2024.11.13.857 (13 November, 2024)
+### Features
+* Now it is possible to enable/disable symbol processing inside of the price channel.
+
 ## Version 2024.11.08.842 (8 November, 2024)
 ### Changes
 * Some notifications that are not actual are removed.
