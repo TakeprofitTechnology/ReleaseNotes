@@ -16,6 +16,7 @@
 ## Version 2024.11.04.1051 (4 November, 2024)
 ### Changes
 * Db handling on the start is optimized (important if the database size is really big).
+* TSV file wrong import notification text is fixed. 
 ### Features
 * Now it is possible to set the list of makers that will be providing prices and fillig orders for the chosen priec channel.
 
