@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 24.11.13.55 (24 November, 2024)
+### Changes
+* Added more logs to log files.
+
 ## Version 24.08.05.53 (24 August, 2024)
 ### Changes
 * The following settings are added to default plugin settings: RestServerHost, RestServerPort, UseWorseLeverage, UseOverallVolume.
