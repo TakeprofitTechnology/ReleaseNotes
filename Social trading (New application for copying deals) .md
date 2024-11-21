@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.11.20.741 (20 November, 2024)
+### Features
+* Added a script for resetting admin password;
+
 ## Version v2024.11.8.757 (8 November, 2024)
 ### Changes
 * Fixed a bug with incorrect copying if strategy has removed accounts; 
