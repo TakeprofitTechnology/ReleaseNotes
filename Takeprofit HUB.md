@@ -3,6 +3,7 @@
 ## Version 2024.11.20.688 (20 November, 2024)
 ### Changes
 * Added hub symbol name to "Symbols mapping" tab (takers).
+* Makers list configuration of the price channel is improved.
 
 ## Version 2024.11.13.857 (13 November, 2024)
 ### Features
