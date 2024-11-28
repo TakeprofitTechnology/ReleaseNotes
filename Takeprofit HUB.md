@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2024.11.27.791 (27 November, 2024)
+### Changes
+* Internal improvements have been made to improve performance and optimization;
+
 ## Version 2024.11.20.688 (20 November, 2024)
 ### Changes
 * Added hub symbol name to "Symbols mapping" tab (takers).
