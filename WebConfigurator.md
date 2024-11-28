@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.11.26.845 (26 November, 2024)
+### Changes
+* Swap Manager MT5 - fixed naming for exported file;
+
 ## Version v2024.11.6.703 (6 November, 2024)
 ### Changes
 * TPTBridge MT5 - added sorting feature;
