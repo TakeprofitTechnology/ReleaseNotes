@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v24.11.26.44 (26 November, 2024)
+### Changes
+* Fixed an issue with spread not getting current market value
+
 ## Version v24.11.06.39 (06 November, 2024)
 ### Changes
 * Auto sending of users' configuration files for backup is implemented;
