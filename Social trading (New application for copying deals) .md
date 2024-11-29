@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.11.26.675 (26 November, 2024)
+### Features
+* Daily fee has been replaced with Performance fee. High watermark logic is now applied to Performance fee;
+
 ## Version v2024.11.20.741 (20 November, 2024)
 ### Features
 * Added a script for resetting admin password;
