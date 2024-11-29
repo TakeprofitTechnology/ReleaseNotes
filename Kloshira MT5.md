@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version v24.11.28.42
+### Changes
+Fixed an issue with spread not getting current market value
+
 ## Version v24.09.18.45 (18 September, 2024)
 ### Changes
 * Gateway starting process has been improved to avoid issues inside Gateway API
