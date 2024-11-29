@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version v24.11.28.42
+### Changes
+* Fixed a bug with changing Dealer flag value on orders;
+
 ## Version v24.09.06.52 (6 September, 2024)
 ### Changes
 * Changed UseSecurityVolume parameter behaviour if the securities are not set;
