@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version v24.11.29.45 (29 November, 2024)
+### Changes
+* Fixed a bug with MT4 Administrator freeze after changing Kloshira parameters;
+
 ## Version v24.09.20.46 (20 September, 2024)
 ## Changes
 * Slippage is now applied when Delay is 0; 
