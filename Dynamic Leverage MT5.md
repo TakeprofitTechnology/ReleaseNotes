@@ -2,7 +2,7 @@
 
 ## Version v24.11.28.42
 ### Changes
-* Fixed a bug with changing Dealer flag value on orders;
+* Fixed a bug with updating not pending orders;
 
 ## Version v24.09.06.52 (6 September, 2024)
 ### Changes
