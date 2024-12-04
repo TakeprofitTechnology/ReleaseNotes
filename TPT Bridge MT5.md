@@ -1,10 +1,15 @@
 # TPT Bridge MT5
 
-## Version v24.11.26.44 (26 November, 2024)
+
+## Version 24.12.02.36 (2 December, 2024)
+### Changes
+* The logic to connect to any possible access server (if the specified access server is not available) is added.
+
+## Version 24.11.26.44 (26 November, 2024)
 ### Changes
 * Fixed an issue with spread not getting current market value
 
-## Version v24.11.06.39 (06 November, 2024)
+## Version 24.11.06.39 (06 November, 2024)
 ### Changes
 * Auto sending of users' configuration files for backup is implemented;
 
