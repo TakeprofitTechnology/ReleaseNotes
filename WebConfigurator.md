@@ -1,5 +1,11 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.12.2.692 (2 December, 2024)
+### Changes
+* Swap Manager MT5 - multiple group selection is now available;
+* Swap Manager MT5 - fixed a bug with delete button not accessible if rules are not filled out;
+* Swap Manager MT5 - added a notification after file import;
+
 ## Version v2024.11.26.845 (26 November, 2024)
 ### Changes
 * Swap Manager MT5 - fixed naming for exported file;
