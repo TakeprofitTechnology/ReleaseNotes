@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version v2024.12.6.562 (6 December, 2024)
+### Changes
+* Refresh button removed;
+* Bug with account balance not synchronized immediately after account is added has been fixed;
+
 ## Version v2024.11.26.675 (26 November, 2024)
 ### Features
 * Daily fee has been replaced with Performance fee. High watermark logic is now applied to Performance fee;
