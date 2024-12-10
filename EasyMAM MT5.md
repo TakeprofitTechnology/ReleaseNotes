@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2024.12.6.1060 (6 December, 2024)
+### Changes
+* Fixed a bug with deal not being closed on investor, after it's closed on master already;
+
 ## Version v2024.10.15.1001 (15 October, 2024)
 ### Features
 * Added 'Actions' dropdown to the Money manager InvestorView page;
