@@ -1,5 +1,9 @@
 # EasyMAM MT4
 
+## Version v2024.12.6.1060 (6 December, 2024)
+### Changes
+* Fixed a bug with deal not being closed on investor, after it's closed on master already;
+
 ## Version v2024.9.3.991 (3 September, 2024)
 ### Features
 * Added the comment for all the investors deals with the volume of deal even if it's less than minimal step of the trading symbol;
