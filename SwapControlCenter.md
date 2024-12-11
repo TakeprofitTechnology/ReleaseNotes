@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version v24.12.06.42 (6 December, 2024)
+### Features
+* Comment parameter has been added;
+
 ## Version 2024.12.2.692 (2 December, 2024)
 * Now it is possible to choose separate group for setting the swaps up in Swap manager tab.
 
