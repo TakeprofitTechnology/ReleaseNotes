@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.12.10.653 (10 December, 2024)
+### Changes
+* Horizontal scroll has been removed from the tables;
+
 ## Version v2024.12.6.562 (6 December, 2024)
 ### Changes
 * Refresh button removed;
