@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.12.10.780 (10 December, 2024)
+### Changes
+* EasyMAM MT4/MT5: Filters have been redesigned;
+
 ## Version v2024.12.2.692 (2 December, 2024)
 ### Changes
 * Swap Manager MT5 - multiple group selection is now available;
