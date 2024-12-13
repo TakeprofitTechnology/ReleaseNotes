@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version v24.12.13.39 (13 December, 2024)
+### Changes
+* REST strings have been removed from logs;
+
 ## Version v24.11.29.45 (29 November, 2024)
 ### Changes
 * Fixed a bug with MT4 Administrator freeze after changing Kloshira parameters;
