@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Verstion v2024.12.11.604 (11 December, 2024)
+### Changes
+* TPT Bridge MT5/Kloshira MT4/Ashira MT4: Added a numerical order in GUI rows;
+
 ## Version v2024.12.10.780 (10 December, 2024)
 ### Changes
 * EasyMAM MT4/MT5: Filters have been redesigned;
