@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version v2024.12.9.859 (9 December, 2024)
+### Changes
+* Added the option to ignore certain holidays;
+
 ## Version v2024.9.12.902 (12 September, 2024)
 ### Changes
 * Minor bugs have been fixed;
