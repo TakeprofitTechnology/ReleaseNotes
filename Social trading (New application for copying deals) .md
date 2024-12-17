@@ -1,5 +1,11 @@
 # TPT Social trading
 
+## Version v2024.12.16.1147 (16 December, 2024)
+### Features
+* Added a search option for Strategies tab in admin dashboard;
+* Search icon has been aligned;
+* Now specifying the MT account and password is mandatory for creating a new user;
+
 ## Version v2024.12.10.653 (10 December, 2024)
 ### Changes
 * Horizontal scroll has been removed from the tables;
