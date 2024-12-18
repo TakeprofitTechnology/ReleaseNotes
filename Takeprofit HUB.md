@@ -5,8 +5,11 @@
 * Price representation is added to position adjustment window (Accounts tab, account position).
 * FIX connection to Brokeree is added.
 
+## Version 2024.12.13.418 (13 December, 2024)
+### Changes
+* Inner performance optimizations.
 
-## Version v2024.11.27.791 (27 November, 2024)
+## Version 2024.11.27.791 (27 November, 2024)
 ### Changes
 * Internal improvements have been made to improve performance and optimization;
 
