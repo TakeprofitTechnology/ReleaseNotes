@@ -12,6 +12,7 @@
 ## Version 2024.12.12.712 (12 December, 2024)
 ### Changes
 * Additional hub symbols export options were added (export in price channel format and maker symbols format).
+* Fixed the bug of price symbol duplication.
 
 ## Version 2024.11.27.791 (27 November, 2024)
 ### Changes
