@@ -4,6 +4,7 @@
 ### Features
 * Price representation is added to position adjustment window (Accounts tab, account position).
 * FIX connection to Brokeree is added.
+* The bug when it is not possible to create price channel was fixed.
 
 ## Version 2024.12.13.418 (13 December, 2024)
 ### Changes
