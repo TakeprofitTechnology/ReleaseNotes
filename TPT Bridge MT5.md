@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v24.12.09.79 (9 December, 2024)
+### Changes
+* Fixed compatibility issues; 
+
 ## Version v24.12.13.39 (13 December, 2024)
 ### Changes
 * REST strings have been removed from logs;
