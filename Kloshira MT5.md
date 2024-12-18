@@ -2,7 +2,7 @@
 
 ## Version v24.12.10.45 (10 December, 2024)
 ### Changes
-* API gateway has been rebuilt;
+* MT5 Gateway API has been updated to v4731;
 
 ## Version v24.11.28.42
 ### Changes
