@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.12.16.1138 (16 December, 2024)
+### Changes
+* All popups were moved to bottom right corner;
+
 ## Version v2024.12.18.972 (18 December, 2024)
 ### Changes
 * SwapControlCenterMT5: A new type of commission has been added, 'Commission operation';
