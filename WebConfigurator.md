@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2024.12.18.972 (18 December, 2024)
+### Changes
+* SwapControlCenterMT5: A new type of commission has been added, 'Commission operation';
+
 ## Verstion v2024.12.11.604 (11 December, 2024)
 ### Changes
 * TPT Bridge MT5/Kloshira MT4/Ashira MT4: Added a numerical order in GUI rows;
