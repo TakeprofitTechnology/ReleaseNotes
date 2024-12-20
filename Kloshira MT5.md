@@ -2,7 +2,7 @@
 
 ## Version v24.12.18.52 (18 December, 2024)
 ## Changes
-* The gateway sync timeout on restart has been exceeded; 
+* The gateway sync timeout on restart has been increased; 
 
 ## Version v24.12.10.45 (10 December, 2024)
 ### Changes
