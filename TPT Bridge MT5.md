@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v24.12.18.52 (18 December, 2024)
+### Changes
+* The gateway sync timeout on restart has been exceeded; 
+
 ## Version v24.12.09.79 (9 December, 2024)
 ### Changes
 * MT5 Gateway API has been updated to v4731;
