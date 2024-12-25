@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.12.19.786 (19 December, 2024)
+### Features
+* Internal reports are being sent now for counting the amount of users in the TST;
+
 ## Version v2024.12.16.1147 (16 December, 2024)
 ### Features
 * Added a search option for Strategies tab in admin dashboard;
