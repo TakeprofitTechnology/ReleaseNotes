@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version v24.12.24.68 (24 December, 2024)
+### Changes
+* Fixed a critical bug with plugin crash on positions closing; 
+
 ## Version 24.11.13.55 (24 November, 2024)
 ### Changes
 * Added more logs to log files.
