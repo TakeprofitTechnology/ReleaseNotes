@@ -1,6 +1,6 @@
 # Kloshira MT5
 
-## Version v24.12.24.47
+## Version v24.12.24.47 (24 December, 2024)
 ### Features
 * Unsupported parameters are now displayed in log file;
 
