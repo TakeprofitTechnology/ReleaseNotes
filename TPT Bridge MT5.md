@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v24.12.24.47 (24 December, 2024)
+### Features
+* Unsupported parameters are now displayed in log file;
+
 ## Version v24.12.18.52 (18 December, 2024)
 ### Changes
 * The gateway sync timeout on restart has been increased; 
