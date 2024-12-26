@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2024.12.26.491 (26 December, 2024)
+### Features
+* Leader name and profile picture has been added;
+
 ## Version v2024.12.19.786 (19 December, 2024)
 ### Features
 * Internal reports are being sent now for counting the amount of users in the TST;
