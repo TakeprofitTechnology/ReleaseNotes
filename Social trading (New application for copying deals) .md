@@ -1,5 +1,12 @@
 # TPT Social trading
 
+## Version v2024.12.27.598 (27 December, 2024)
+### Changes
+* 'Subscription fee' table and field have been hidden;
+* Fixed buttons backlight on login & registration pages;
+* 'User' has been renamed to 'Username';
+* Visual adjustments on registration form'
+
 ## Version v2024.12.26.491 (26 December, 2024)
 ### Features
 * Leader name and profile picture has been added;
