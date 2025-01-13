@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version v2025.1.9.588
+### Changes
+* Popups were moved to upper-right corner;
+* Logout button color has been changed;
+
 ## Version v2024.12.27.598 (27 December, 2024)
 ### Changes
 * 'Subscription fee' table and field have been hidden;
