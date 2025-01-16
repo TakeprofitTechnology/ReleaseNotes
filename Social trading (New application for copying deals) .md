@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2025.1.16.406 (16 January, 2024)
+### Changes
+* Implemented validation while adding a new server via API;
+
 ## Version v2025.1.9.588
 ### Changes
 * Popups were moved to upper-right corner;
