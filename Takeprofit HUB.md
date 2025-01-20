@@ -6,6 +6,10 @@
 * The bug of incorrect hub symbols import/export is fixed.
 
 
+## Version 2025.01.15.690 (15 January, 2025)
+### Changes
+* Some more flexibility is added to price channel configuration.
+
 ## Version 2025.01.10.648 (10 January, 2025)
 ### Changes
 * MatchTrade maker connection is updated according to new documentation.
