@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version v25.01.14.84 (14 January, 2025)
+### Changes
+* Fixed the margin update after positions have been hedged;
+
 ## Version v24.11.28.42
 ### Changes
 * Fixed a bug with updating not pending orders;
