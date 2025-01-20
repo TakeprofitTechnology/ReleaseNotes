@@ -11,7 +11,7 @@
 
 ## Version 2024.12.24.888 (24 December, 2024)
 ### Changes
-* Some cosmetic GUI changes.
+* Some cosmetic GUI changes are added and bug fixed.
 * The GUI bug is fixed: in some cases the GUI did not displayed the current maker list.
 
 ## Version 2024.12.17.665 (17 December, 2024)
