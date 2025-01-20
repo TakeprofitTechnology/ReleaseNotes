@@ -1,5 +1,11 @@
 # Takeprofit Hub
 
+
+## Version 2025.1.9.882 (9 January, 2025)
+### Changes
+* The hub is migrated to .NET 9.0
+
+
 ## Version 2024.12.17.665 (17 December, 2024)
 ### Features
 * Price representation is added to position adjustment window (Accounts tab, account position).
