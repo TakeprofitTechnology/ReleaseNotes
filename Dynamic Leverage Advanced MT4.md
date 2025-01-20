@@ -1,5 +1,10 @@
 # Dynamic Leverage Advanced MT4
 
+## Version v25.01.15.65 (15 January, 2025)
+### Changes
+* Fixed the margin update after positions have been hedged;
+* Fixed the margin update after partial closing;
+
 ## Version v24.12.24.68 (24 December, 2024)
 ### Changes
 * Fixed a critical bug with plugin crash on positions closing; 
