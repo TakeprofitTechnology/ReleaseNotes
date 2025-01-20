@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version v25.01.17.48 (17 January, 2025)
+### Changes
+* Fixed a discrepancy between values in the plugin and MT for deals opened during the news;
+
 ## Version v25.01.14.84 (14 January, 2025)
 ### Changes
 * Fixed the margin update after positions have been hedged;
