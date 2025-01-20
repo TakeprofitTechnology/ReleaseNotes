@@ -13,6 +13,7 @@
 ## Version 2025.01.10.648 (10 January, 2025)
 ### Changes
 * MatchTrade maker connection is updated according to new documentation.
+* Inner optimizations.
 
 ## Version 2025.1.9.882 (9 January, 2025)
 ### Changes
