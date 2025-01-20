@@ -5,6 +5,11 @@
 ### Changes
 * The bug of incorrect hub symbols import/export is fixed.
 
+
+## Version 2025.01.10.648 (10 January, 2025)
+### Changes
+* MatchTrade maker connection is updated according to new documentation.
+
 ## Version 2025.1.9.882 (9 January, 2025)
 ### Changes
 * The hub is migrated to .NET 9.0
