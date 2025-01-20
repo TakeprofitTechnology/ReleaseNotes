@@ -2,7 +2,7 @@
 
 ## Version v25.01.17.48 (17 January, 2025)
 ### Changes
-* Fixed a discrepancy between values in the plugin and MT for deals opened during the news;
+* Changed reporting style. Minor bugs fixed;
 
 ## Version v25.01.14.84 (14 January, 2025)
 ### Changes
