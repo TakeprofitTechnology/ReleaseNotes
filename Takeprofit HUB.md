@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.01.17.439 (17 January, 2025)
+### Changes
+* The bug of incorrect hub symbols import/export is fixed.
+
 ## Version 2025.1.9.882 (9 January, 2025)
 ### Changes
 * The hub is migrated to .NET 9.0
