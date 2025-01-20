@@ -1,5 +1,10 @@
 # Swap control center MT5
 
+## Version v25.01.15.48 (15 January, 2025)
+### Features
+* A new type of commission has been added, 'Commission operation' for MT4 version;
+* Comment is now available for 'Commission operation'; 
+
 ## Version v24.12.18.64 (18 December, 2024)
 ### Features
 * A new type of commission has been added, 'Commission operation';
