@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version v25.01.21.46 (21 January, 2025)
+### Changes
+* Minor changes in log messages; 
+
 ## Version v24.12.24.47 (24 December, 2024)
 ### Features
 * Unsupported parameters are now displayed in log file;
