@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v25.01.23.35 (23 January, 2025)
+### Changes
+* Changes to MT5 Manager API;
+
 ## Version v25.01.21.46 (21 January, 2025)
 ### Changes
 * Minor changes in log messages; 
