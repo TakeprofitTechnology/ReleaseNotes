@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2025.1.13.588 (21 January, 2025)
+### Changes
+* Swap Manager MT4 - multiple group selection is now available;
+
 ## Version v2024.12.16.1138 (16 December, 2024)
 ### Changes
 * All popups were moved to bottom right corner;
