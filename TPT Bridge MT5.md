@@ -2,7 +2,7 @@
 
 ## Version v25.01.23.35 (23 January, 2025)
 ### Changes
-* Changes to MT5 Manager API;
+* Fixed bug with Manager API reconnection;
 
 ## Version v25.01.21.46 (21 January, 2025)
 ### Changes
