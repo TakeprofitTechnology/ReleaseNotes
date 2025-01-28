@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version v25.01.28.34 (28 January, 2025)
+### Changes
+* Fixed logging issue;
+
 ## Version v25.01.17.48 (17 January, 2025)
 ### Changes
 * Changed reporting style. Minor bugs fixed;
