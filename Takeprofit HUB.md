@@ -3,7 +3,7 @@
 
 ## Version 2025.01.21.703 (21 January, 2025)
 ### Changes
-* The bug of incorrect makers list displaying if price channels is fixed.
+* The bug of incorrect makers list displaying in price channels settings is fixed.
 
 ## Version 2025.01.17.439 (17 January, 2025)
 ### Changes
