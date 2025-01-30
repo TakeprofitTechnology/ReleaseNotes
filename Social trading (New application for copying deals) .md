@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2025.1.30.331 (30 January, 2025)
+### Changes
+* 'Generate password' button has been removed for traders accounts;
+
 ## Version v2025.1.28.630 (28 January, 2025)
 ### Changes
 * Minor changes to errors texts;
