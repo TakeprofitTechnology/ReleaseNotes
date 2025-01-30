@@ -2,7 +2,7 @@
 
 ## Version v2025.1.28.648 (30 January, 2025)
 ### Changes
-* FirstEquity and LastEquity reports were reworked: negative equity after substraction of credit equals to 0;
+* First Equity and Net Equity reports were reworked: negative equity after substraction of credit equals to 0;
 
 ## Version v2025.1.10.654 (10 January, 2024)
 ### Changes
