@@ -23,6 +23,11 @@
 ### Changes
 * The hub is migrated to .NET 9.0
 
+
+## Version 2024.12.27.769 (27 December, 2024)
+### Changes
+* 4 charts are added to Overview tab.
+
 ## Version 2024.12.24.888 (24 December, 2024)
 ### Changes
 * Some cosmetic GUI changes are added and bug fixed.
