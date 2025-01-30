@@ -1,26 +1,31 @@
 # TPT Bridge MT5
 
-## Version v25.01.23.35 (23 January, 2025)
+
+## Version 25.01.27.61 (27 January, 2025)
+### Changes
+* Logging bug is fixed.
+
+## Version 25.01.23.35 (23 January, 2025)
 ### Changes
 * Fixed bug with Manager API reconnection;
 
-## Version v25.01.21.46 (21 January, 2025)
+## Version 25.01.21.46 (21 January, 2025)
 ### Changes
 * Minor changes in log messages; 
 
-## Version v24.12.24.47 (24 December, 2024)
+## Version 24.12.24.47 (24 December, 2024)
 ### Features
 * Unsupported parameters are now displayed in log file;
 
-## Version v24.12.18.52 (18 December, 2024)
+## Version 24.12.18.52 (18 December, 2024)
 ### Changes
 * The gateway sync timeout on restart has been increased; 
 
-## Version v24.12.09.79 (9 December, 2024)
+## Version 24.12.09.79 (9 December, 2024)
 ### Changes
 * MT5 Gateway API has been updated to v4731;
 
-## Version v24.12.13.39 (13 December, 2024)
+## Version 24.12.13.39 (13 December, 2024)
 ### Changes
 * REST strings have been removed from logs;
 
