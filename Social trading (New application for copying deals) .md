@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2025.1.28.630 (28 January, 2025)
+### Changes
+* Minor changes to errors texts;
+
 ## Version v2025.1.16.841 (16 January, 2024)
 ### Changes
 * General visual fixes;
