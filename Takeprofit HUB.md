@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.01.28.603 (28 January, 2025)
+### Changes
+* Volume factor parameter is called the same in all tables.
+
 ## Version 2025.01.21.703 (21 January, 2025)
 ### Changes
 * The bug of incorrect makers list displaying in price channels settings is fixed.
