@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2025.1.30.997 (30 January, 2025)
+### Features
+* Created a special version of Investor view, without the auth page;
+
 ## Version v2024.10.15.1001 (15 October, 2024)
 ### Features
 * Added 'Actions' dropdown to the Money manager InvestorView page;
