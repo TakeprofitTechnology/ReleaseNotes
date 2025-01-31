@@ -6,6 +6,11 @@
 * Volume factor parameter is called the same in all tables.
 * Minor GUI changes.
 
+
+## Version 2025.01.24.648 (24 January, 2025)
+### Changes
+* The inner logic of building web GUI tables is improved.
+
 ## Version 2025.01.21.703 (21 January, 2025)
 ### Changes
 * The bug of incorrect makers list displaying in price channels settings is fixed.
