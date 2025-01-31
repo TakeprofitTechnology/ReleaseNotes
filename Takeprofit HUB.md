@@ -4,6 +4,7 @@
 ## Version 2025.01.28.603 (28 January, 2025)
 ### Changes
 * Volume factor parameter is called the same in all tables.
+* Minor GUI changes.
 
 ## Version 2025.01.21.703 (21 January, 2025)
 ### Changes
