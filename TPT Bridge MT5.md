@@ -1,5 +1,8 @@
 # TPT Bridge MT5
 
+## Version v25.01.31.51 (31 January, 2025)
+### Changes
+* Server name is added to JSON;
 
 ## Version 25.01.27.61 (27 January, 2025)
 ### Changes
