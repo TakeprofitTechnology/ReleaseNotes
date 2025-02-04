@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version v25.01.31.51 (31 January, 2025)
+### Changes
+* Server name is added to JSON;
+
 ## Version v24.12.13.39 (13 December, 2024)
 ### Changes
 * REST strings have been removed from logs;
