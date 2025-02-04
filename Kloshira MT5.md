@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version v25.01.31.51 (31 January, 2025)
+### Changes
+* Server name is added to JSON;
+
 ## Version v25.01.23.35 (23 January, 2025)
 ### Changes
 * Fixed bug with Manager API reconnection;
