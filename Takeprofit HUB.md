@@ -3,6 +3,7 @@
 ## Version v2025.02.04.620 (4 February, 2025)
 ### Changes
 * Added additional data for FX Cubic maker connection;
+* Quote session unsubscribes in case maker's symbol is changed/removed;
 
 ## Version 2025.01.28.603 (28 January, 2025)
 ### Changes
