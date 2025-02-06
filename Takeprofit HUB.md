@@ -5,6 +5,10 @@
 * Added additional data for FX Cubic maker connection;
 * Quote session unsubscribes in case maker's symbol is changed/removed;
 
+## Version v2025.01.31.818 (31 January, 2025)
+### Changes
+* Added option for OneZero taker to receive and fill tag from external data;
+
 ## Version 2025.01.28.603 (28 January, 2025)
 ### Changes
 * Volume factor parameter is called the same in all tables.
