@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version v2025.2.5.845 (5 February, 2025)
+### Changes
+* Report file limit has doubled up to 4096 bytes;
+
 ## Version v2025.1.30.997 (30 January, 2025)
 ### Features
 * Created a special version of Investor view, without the auth page;
