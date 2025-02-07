@@ -9,11 +9,15 @@
 ### Changes
 * Added option for OneZero taker to receive and fill tag from external data;
 
+## Version v2025.01.28.995 (28 January, 2025)
+### Changes
+* Added option to get account ID from FIX tag = 1 of 35=D FIX message and then put to External logic;
+* 
+
 ## Version 2025.01.28.603 (28 January, 2025)
 ### Changes
 * Volume factor parameter is called the same in all tables.
 * Minor GUI changes.
-
 
 ## Version 2025.01.24.648 (24 January, 2025)
 ### Changes
