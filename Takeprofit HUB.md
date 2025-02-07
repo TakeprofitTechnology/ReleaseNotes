@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2025.02.06.696 (6 February, 2025)
+### Changes
+* Fixed some buttons positioning;
+
 ## Version v2025.02.04.620 (4 February, 2025)
 ### Changes
 * Added additional data for FX Cubic maker connection;
