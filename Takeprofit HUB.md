@@ -3,6 +3,7 @@
 ## Version v2025.02.06.800 (6 February, 2025)
 ### Changes
 * FXCubic Maker: additional routing rules have been added (ClOrdLinkID, Text);
+* Removed the expiration time on A book quotes; 
 
 ## Version v2025.02.06.696 (6 February, 2025)
 ### Changes
