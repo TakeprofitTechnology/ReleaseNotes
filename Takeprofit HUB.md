@@ -13,6 +13,7 @@
 ### Changes
 * Added option to get account ID from FIX tag = 1 of 35=D FIX message and then put to External logic;
 * Validation popup has been removed on leaving the market watch page;
+* Minor visual changes
 
 ## Version 2025.01.28.603 (28 January, 2025)
 ### Changes
