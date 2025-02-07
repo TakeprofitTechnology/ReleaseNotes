@@ -67,6 +67,10 @@
 * Some cosmetic GUI changes are added and bug fixed.
 * The GUI bug is fixed: in some cases the GUI did not displayed the current maker list.
 
+## Version v2024.12.20.271 (20 December, 2024)
+### Features
+* Added bid and ask maker columns for market watch;
+
 ## Version 2024.12.17.665 (17 December, 2024)
 ### Features
 * Price representation is added to position adjustment window (Accounts tab, account position).
