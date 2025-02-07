@@ -6,6 +6,7 @@
 * Removed the expiration time on A book quotes;
 * 'Symbol relations' tab has been removed;
 * FOK option has been removed from FXCubic maker;
+* Now it's possible to set makers list separately for each symbol;
 
 ## Version v2025.02.06.696 (6 February, 2025)
 ### Changes
