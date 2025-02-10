@@ -35,6 +35,7 @@
 ## Version 2025.01.24.648 (24 January, 2025)
 ### Changes
 * The inner logic of building web GUI tables is improved.
+* FXCubic maker has been added;
 
 ## Version 2025.01.21.703 (21 January, 2025)
 ### Changes
