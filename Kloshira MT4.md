@@ -2,7 +2,7 @@
 
 ## Version v25.01.31.51 (31 January, 2025)
 ### Changes
-* Server name is added to JSON;
+* Server name is added to JSON external data of FIX messages;
 
 ## Version v24.12.13.39 (13 December, 2024)
 ### Changes
