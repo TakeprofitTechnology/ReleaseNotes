@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2025.02.07.685 (7 February, 2025)
+### Changes
+* Extended logging for FIX messages in WebGUI;
+
 ## Version v2025.02.06.800 (6 February, 2025)
 ### Changes
 * FXCubic Maker: additional routing rules have been added (ClOrdLinkID, Text);
