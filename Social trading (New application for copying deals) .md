@@ -1,5 +1,11 @@
 # TPT Social trading
 
+## Version v2025.2.11.673 (11 February, 2025)
+### Features
+* Subscription fee has been added;
+### Changes
+* Minor visual bug fixed;
+
 ## Version v2025.1.30.572 (30 January, 2025)
 ### Features
 * Added the option to filter table columns in Trader dashboard;
