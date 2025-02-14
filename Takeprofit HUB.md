@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version v2025.02.13.693 (13 February, 2025)
+### Changes
+* Minor GUI visual fixes;
+
 ## Version v2025.02.07.685 (7 February, 2025)
 ### Changes
 * Extended logging for FIX messages in WebGUI;
