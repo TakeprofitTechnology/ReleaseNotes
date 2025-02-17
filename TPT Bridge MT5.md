@@ -1,5 +1,10 @@
 # TPT Bridge MT5
 
+## Version v25.02.13.46 (13 February, 2025)
+### Changes
+* Symbols are now processed automatically for B-book modes;
+* MT API Update;
+
 ## Version v25.01.31.51 (31 January, 2025)
 ### Changes
 * Server name is added to JSON external data of FIX messages;
