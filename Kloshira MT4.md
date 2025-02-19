@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version v25.02.13.71 (13 February, 2025)
+### Changes
+* Action M now not restricted to 1 and can be set to higher values;
+
 ## Version v25.01.31.51 (31 January, 2025)
 ### Changes
 * Server name is added to JSON external data of FIX messages;
