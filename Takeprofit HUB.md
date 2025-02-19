@@ -1,39 +1,43 @@
 # Takeprofit Hub
 
-## Version v2025.02.13.693 (13 February, 2025)
+## Version 2025.2.17.636 (17 February, 2025)
 ### Changes
-* Minor GUI visual fixes;
+* It is possible to create several channel symbols (price channels) based on the same hub symbol.
 
-## Version v2025.02.07.685 (7 February, 2025)
+## Version 2025.02.13.693 (13 February, 2025)
 ### Changes
-* Extended logging for FIX messages in WebGUI;
+* Minor GUI visual fixes.
 
-## Version v2025.02.06.800 (6 February, 2025)
+## Version 2025.02.07.685 (7 February, 2025)
+### Changes
+* Extended logging for FIX messages in WebGUI.
+
+## Version 2025.02.06.800 (6 February, 2025)
 ### Changes
 * FXCubic Maker: additional routing rules have been added (ClOrdLinkID, Text);
 * Removed the expiration time on A book quotes;
 * 'Symbol relations' tab has been removed;
 * FOK option has been removed from FXCubic maker;
-* Now it's possible to set makers list separately for each symbol;
+* Now it's possible to set makers list separately for each symbol.
 
-## Version v2025.02.06.696 (6 February, 2025)
+## Version 2025.02.06.696 (6 February, 2025)
 ### Changes
-* Fixed some buttons positioning;
+* Fixed some buttons positioning.
 
-## Version v2025.02.04.620 (4 February, 2025)
+## Version 2025.02.04.620 (4 February, 2025)
 ### Changes
 * Added additional data for FX Cubic maker connection;
-* Quote session unsubscribes in case maker's symbol is changed/removed;
+* Quote session unsubscribes in case maker's symbol is changed/removed.
 
-## Version v2025.01.31.818 (31 January, 2025)
+## Version 2025.01.31.818 (31 January, 2025)
 ### Changes
-* Added option for OneZero taker to receive and fill tag from external data;
+* Added option for OneZero taker to receive and fill tag from external data.
 
-## Version v2025.01.28.995 (28 January, 2025)
+## Version 2025.01.28.995 (28 January, 2025)
 ### Changes
 * Added option to get account ID from FIX tag = 1 of 35=D FIX message and then put to External logic;
 * Validation popup has been removed on leaving the market watch page;
-* Minor visual changes
+* Minor visual changes.
 
 ## Version 2025.01.28.603 (28 January, 2025)
 ### Changes
