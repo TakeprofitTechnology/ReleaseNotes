@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2025.2.18.692 (18 February, 2025)
+### Changes
+* Kloshira MT4: FIX Sub Account now applies only numberic values;
+
 ## Version v2025.1.23.635 (23 January, 2025)
 ### Changes
 * All products: fixed a bug with manual drag & drop of rules didn't work correctly;
