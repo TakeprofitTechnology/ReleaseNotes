@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Verson v25.02.14.73 (14 February, 2025)
+### Changes
+* API has been updated;
+
 ## Version v25.01.31.51 (31 January, 2025)
 ### Changes
 * Server name is added to JSON external data of FIX messages;
