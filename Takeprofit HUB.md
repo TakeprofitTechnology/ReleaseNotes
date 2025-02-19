@@ -2,7 +2,8 @@
 
 ## Version 2025.2.17.636 (17 February, 2025)
 ### Changes
-* It is possible to create several channel symbols (price channels) based on the same hub symbol.
+* It is possible to create several channel symbols (price channels) based on the same hub symbol;
+* GUI optimization: speed up for Deals tab.
 
 ## Version 2025.02.13.693 (13 February, 2025)
 ### Changes
@@ -16,7 +17,7 @@
 ### Changes
 * FXCubic Maker: additional routing rules have been added (ClOrdLinkID, Text);
 * Removed the expiration time on A book quotes;
-* 'Symbol relations' tab has been removed;
+* Symbol relations tab has been removed;
 * FOK option has been removed from FXCubic maker;
 * Now it's possible to set makers list separately for each symbol.
 
