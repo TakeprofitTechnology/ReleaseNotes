@@ -85,6 +85,7 @@
 ## Version v2024.12.20.271 (20 December, 2024)
 ### Features
 * Added bid and ask maker columns for market watch;
+* Position adjustment for margin accounts is improved.
 
 ## Version 2024.12.17.665 (17 December, 2024)
 ### Features
