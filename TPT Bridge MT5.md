@@ -6,7 +6,7 @@
 
 ## Version v25.02.17.44 (17 February, 2025)
 ### Changes
-* Fixed flushing of logs on gateway stop;
+* Improved logging on shutdown;
 
 ## Version v25.02.13.46 (13 February, 2025)
 ### Changes
