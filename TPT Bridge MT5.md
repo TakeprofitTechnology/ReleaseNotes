@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v25.02.17.44 (17 February, 2025)
+### Changes
+* Fixed flushing of logs on gateway stop;
+
 ## Version v25.02.13.46 (13 February, 2025)
 ### Changes
 * Symbols are now processed automatically for B-book modes;
