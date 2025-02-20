@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v25.02.19.52 (19 February, 2025)
+### Changes
+* Server type is added to JSON external data of FIX messages;
+
 ## Version v25.02.17.44 (17 February, 2025)
 ### Changes
 * Fixed flushing of logs on gateway stop;
