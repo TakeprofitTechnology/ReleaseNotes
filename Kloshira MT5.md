@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version v25.02.19.52 (19 February, 2025)
+### Changes
+* Server type is added to JSON external data of FIX messages;
+
 ## Verson v25.02.14.73 (14 February, 2025)
 ### Changes
 * API has been updated;
