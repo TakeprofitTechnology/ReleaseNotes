@@ -4,6 +4,10 @@
 ### Changes
 * Server type is added to JSON external data of FIX messages;
 
+## Version v25.02.17.44 (17 February, 2025)
+### Changes
+* Improved logging on shutdown
+
 ## Verson v25.02.14.73 (14 February, 2025)
 ### Changes
 * API has been updated;
