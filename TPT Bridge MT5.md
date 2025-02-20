@@ -37,13 +37,13 @@
 ### Changes
 * The gateway sync timeout on restart has been increased; 
 
-## Version 24.12.09.79 (9 December, 2024)
-### Changes
-* MT5 Gateway API has been updated to v4731;
-
 ## Version 24.12.13.39 (13 December, 2024)
 ### Changes
 * REST strings have been removed from logs;
+
+## Version 24.12.09.79 (9 December, 2024)
+### Changes
+* MT5 Gateway API has been updated to v4731;
 
 ## Version 24.12.02.36 (2 December, 2024)
 ### Changes
