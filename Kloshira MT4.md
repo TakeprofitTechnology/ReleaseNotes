@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version v25.02.20.46 (20 February, 2025)
+### Changes
+* Fixed a bug with plugin crash; 
+
 ## Version v25.02.19.52 (19 February, 2025)
 ### Changes
 * Server type is added to JSON external data of FIX messages;
