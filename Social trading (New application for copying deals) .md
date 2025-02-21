@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2025.2.20.692 (20 February, 2025)
+### Changes
+* Overall positions copying mechanism performance improvement;
+
 ## Version v2025.2.11.673 (11 February, 2025)
 ### Features
 * Subscription fee has been added;
