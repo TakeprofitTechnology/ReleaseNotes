@@ -13,6 +13,7 @@
 ## Version 2025.02.13.693 (13 February, 2025)
 ### Changes
 * Minor GUI visual fixes.
+* "Import BP" function is added (allows to import symbols settings for some special setups).
 
 ## Version 2025.02.07.685 (7 February, 2025)
 ### Changes
