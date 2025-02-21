@@ -1,5 +1,10 @@
 # Takeprofit Hub
 
+
+## Version 2025.02.19.649 (19 February, 2025)
+### Changes
+* Logging is improved - minor logging bugs are fixed.
+
 ## Version 2025.2.17.636 (17 February, 2025)
 ### Changes
 * It is possible to create several channel symbols (price channels) based on the same hub symbol;
