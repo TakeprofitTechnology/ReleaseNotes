@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version v25.02.25.41 (25 February, 2025)
+### Changes
+* Fixed the bug with incorrect calculation of predicted margin;
+
 ## Version v25.02.19.52 (19 February, 2025)
 ### Features
 * AllowLowMarginTrading parameter has been added, which regulates the lower possible limit for opening a position;
