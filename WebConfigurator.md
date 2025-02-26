@@ -1,56 +1,60 @@
 # Takeprofit Web GUI Configurator
 
-## Version v2025.2.18.692 (18 February, 2025)
+## Version 2025.2.24.697 (24 February, 2025)
+### Changes
+* For Kloshira MT5 and TPT bridge MT5: Symbols tab renamed to A-book symbols.
+
+## Version 2025.2.18.692 (18 February, 2025)
 ### Changes
 * Kloshira MT4: FIX Sub Account now applies only numberic values;
 
-## Version v2025.1.23.635 (23 January, 2025)
+## Version 2025.1.23.635 (23 January, 2025)
 ### Changes
 * All products: fixed a bug with manual drag & drop of rules didn't work correctly;
 
-## Version v2025.1.13.588 (21 January, 2025)
+## Version 2025.1.13.588 (21 January, 2025)
 ### Changes
 * Swap Manager MT4 - multiple group selection is now available;
 
-## Version v2024.12.16.1138 (16 December, 2024)
+## Version 2024.12.16.1138 (16 December, 2024)
 ### Changes
 * All popups were moved to bottom right corner;
 
-## Version v2024.12.18.972 (18 December, 2024)
+## Version 2024.12.18.972 (18 December, 2024)
 ### Changes
 * SwapControlCenterMT5: A new type of commission has been added, 'Commission operation';
 
-## Verstion v2024.12.11.604 (11 December, 2024)
+## Verstion 2024.12.11.604 (11 December, 2024)
 ### Changes
 * TPT Bridge MT5/Kloshira MT4/Ashira MT4: Added a numerical order in GUI rows;
 
-## Version v2024.12.10.780 (10 December, 2024)
+## Version 2024.12.10.780 (10 December, 2024)
 ### Changes
 * EasyMAM MT4/MT5: Filters have been redesigned;
 
-## Version v2024.12.2.692 (2 December, 2024)
+## Version 2024.12.2.692 (2 December, 2024)
 ### Changes
 * Swap Manager MT5 - multiple group selection is now available;
 * Swap Manager MT5 - fixed a bug with delete button not accessible if rules are not filled out;
 * Swap Manager MT5 - added a notification after file import;
 
-## Version v2024.11.26.845 (26 November, 2024)
+## Version 2024.11.26.845 (26 November, 2024)
 ### Changes
 * Swap Manager MT5 - fixed naming for exported file;
 
-## Version v2024.11.6.703 (6 November, 2024)
+## Version 2024.11.6.703 (6 November, 2024)
 ### Changes
 * TPTBridge MT5 - added sorting feature;
 
-## Version v2024.9.25.923 (25 September, 2024)
+## Version 2024.9.25.923 (25 September, 2024)
 ### Changes
 * Detach texts have been adjusted;
 
-## Version v2024.9.13.965 (13 September, 2024)
+## Version 2024.9.13.965 (13 September, 2024)
 ### Changes
 * Minor GUI improvements;
 
-## Version v2024.9.12.662 (12 September, 2024)
+## Version 2024.9.12.662 (12 September, 2024)
 ### Changes
 * Dynamic leverage MT5 configurator - rules file can be uploaded in .tsv format;
 
