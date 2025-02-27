@@ -4,6 +4,10 @@
 ### Changes
 * The bug of risk profile rules were not applied (filetered by External login field) is fixed.
 
+## Version 2025.02.24.916 (24 February, 2025)
+### Features
+* Now it is possible to apply risk profiles by External group name.
+
 ## Version 2025.02.19.649 (19 February, 2025)
 ### Changes
 * Logging is improved - minor logging bugs are fixed.
