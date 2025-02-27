@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version v25.02.26.56 (26 February, 2025)
+### Changes
+* Free days logic has been changed: the day of position opening counts as day 1 (not day 0 as it was before);
+
 ## Version v25.01.15.48 (15 January, 2025)
 ### Features
 * A new type of commission has been added, 'Commission operation' for MT4 version;
