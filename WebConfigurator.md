@@ -1,8 +1,14 @@
 # Takeprofit Web GUI Configurator
 
+
+
 ## Version 2025.2.24.697 (24 February, 2025)
 ### Changes
 * For Kloshira MT5 and TPT bridge MT5: Symbols tab renamed to A-book symbols.
+
+## Version 2025.2.20.738 (20 February, 2025)
+### Changes
+* NOP limit MT5 GUI import/export bug is fixed.
 
 ## Version 2025.2.18.692 (18 February, 2025)
 ### Changes
