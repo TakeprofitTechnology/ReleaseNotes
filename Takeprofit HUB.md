@@ -7,6 +7,7 @@
 ## Version 2025.02.26.652 (26 February, 2025)
 ### Changes
 * The bug of risk profile rules were not applied (filetered by External login field) is fixed.
+* FIX routing information are added to log files.
 
 ## Version 2025.02.24.916 (24 February, 2025)
 ### Features
