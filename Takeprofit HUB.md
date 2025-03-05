@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version 2025.02.27.759 (27 February, 2025)
+### Changes
+* Price channels titles are fixed now when scrolling the page horizontally.
+
 ## Version 2025.02.26.652 (26 February, 2025)
 ### Changes
 * The bug of risk profile rules were not applied (filetered by External login field) is fixed.
