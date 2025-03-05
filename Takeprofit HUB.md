@@ -12,6 +12,7 @@
 ## Version 2025.02.24.916 (24 February, 2025)
 ### Features
 * Now it is possible to apply risk profiles by External group name.
+* Confirmation popup to price channels table is added.
 
 ## Version 2025.02.19.649 (19 February, 2025)
 ### Changes
