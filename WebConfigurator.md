@@ -1,6 +1,9 @@
 # Takeprofit Web GUI Configurator
 
 
+## Version 2025.3.3.709 (3 March, 2025)
+### Changes
+* Shared accounts volume feature is added to NOP limit MT5 plugin GUI.
 
 ## Version 2025.2.24.697 (24 February, 2025)
 ### Changes
