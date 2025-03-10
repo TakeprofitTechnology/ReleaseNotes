@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version 2025.03.06.428 (6 March, 2025)
+### Changes
+* The bug of incorrect slippage representation in orders/deals tables is fixed.
+
 ## Version 2025.02.27.759 (27 February, 2025)
 ### Changes
 * Price channels titles are fixed now when scrolling the page horizontally.
