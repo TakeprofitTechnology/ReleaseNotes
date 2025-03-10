@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2025.3.5.843 (5 March, 2025)
+### Features
+* ROI Chart has been added for leaderboard;
+
 ## Version v2025.2.20.692 (20 February, 2025)
 ### Changes
 * Overall positions copying mechanism performance improvement;
