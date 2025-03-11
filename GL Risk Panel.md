@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version v2025.3.6.592 (6 March, 2025)
+### Changes:
+* Symbol doubling bug has been fixed;
+
 ## Version v2024.12.9.859 (9 December, 2024)
 ### Changes
 * Added the option to ignore certain holidays;
