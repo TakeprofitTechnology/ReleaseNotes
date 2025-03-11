@@ -1,8 +1,11 @@
 # Takeprofit Hub
 
+
+## Version 2025.03.10.373 (10 March, 2025)
+### Changes
+* The bug of incorrect password field (Users tab) representation is fixed.
+
 ## Version 2025.03.06.428 (6 March, 2025)
-### Features
-* Added a possibility to export Price channels, Accounts and Takers tabs.
 ### Changes
 * The bug of incorrect slippage representation in orders/deals tables is fixed.
 
