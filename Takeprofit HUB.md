@@ -4,6 +4,11 @@
 ### Changes
 * The bug of incorrect slippage representation in orders/deals tables is fixed.
 
+
+## Version 2025.03.04.514 (4 March, 2025)
+### Changes
+* Logging the data is improved.
+
 ## Version 2025.02.27.759 (27 February, 2025)
 ### Changes
 * Price channels titles are fixed now when scrolling the page horizontally.
