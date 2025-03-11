@@ -2,8 +2,8 @@
 
 ## Version v2025.3.10.786 (10 March, 2025)
 ### Changes
-* Old company bundles have been removed;
-* New company has been added to CompanyBrand parameter;
+* InvestorView: Old company bundles have been removed;
+* InvestorView: New company has been added to CompanyBrand parameter;
 
 ## Version v2025.2.5.845 (5 February, 2025)
 ### Changes
