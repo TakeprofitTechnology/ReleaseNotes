@@ -12,6 +12,7 @@
 ## Version 2025.03.06.428 (6 March, 2025)
 ### Changes
 * The bug of incorrect slippage representation in orders/deals tables is fixed.
+* Minor GUI improvements.
 
 
 ## Version 2025.03.04.514 (4 March, 2025)
