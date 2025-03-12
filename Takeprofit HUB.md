@@ -4,6 +4,7 @@
 ## Version 2025.03.11.521 (11 March, 2025)
 ### Changes
 * Minor logging optimizations.
+* Minor GUI optimizations.
 
 ## Version 2025.03.10.373 (10 March, 2025)
 ### Changes
