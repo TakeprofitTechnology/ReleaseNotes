@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version v25.03.11.68 (11 March 2025)
+### Features
+* New slippage values added to execution report;
+
 ## Version v25.02.19.52 (19 February, 2025)
 ### Changes
 * Server type is added to JSON external data of FIX messages;
