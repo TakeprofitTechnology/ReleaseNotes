@@ -9,6 +9,7 @@
 ## Version 2025.03.10.373 (10 March, 2025)
 ### Changes
 * The bug of incorrect password field (Users tab) representation is fixed.
+* The validation of password expiration field (Users tab) is improved.
 
 ## Version 2025.03.06.428 (6 March, 2025)
 ### Changes
