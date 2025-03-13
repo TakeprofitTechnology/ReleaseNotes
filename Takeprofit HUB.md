@@ -10,6 +10,7 @@
 ### Changes
 * The bug of incorrect password field (Users tab) representation is fixed.
 * The validation of password expiration field (Users tab) is improved.
+* USD currency is used to define and calculate NOP limits for symbols instead symbol currency.
 
 
 ## Version 2025.03.07.765 (7 March, 2025)
