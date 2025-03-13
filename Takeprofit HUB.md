@@ -22,6 +22,7 @@
 ### Changes
 * The bug of incorrect slippage representation in orders/deals tables is fixed.
 * Minor GUI improvements.
+* "Import BP" function is improved (commissions and margin rates are added).
 
 
 ## Version 2025.03.04.514 (4 March, 2025)
