@@ -11,6 +11,12 @@
 * The bug of incorrect password field (Users tab) representation is fixed.
 * The validation of password expiration field (Users tab) is improved.
 
+
+## Version 2025.03.07.765 (7 March, 2025)
+### Features
+* TIF conversion tab is added to makers settings. Now it is possible to convert takers's orders TIF on makers side.
+
+
 ## Version 2025.03.06.428 (6 March, 2025)
 ### Changes
 * The bug of incorrect slippage representation in orders/deals tables is fixed.
