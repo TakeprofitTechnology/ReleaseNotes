@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.03.12.472 (12 March, 2025)
+### Changes
+* FIX routing is improved.
+
 ## Version 2025.03.11.521 (11 March, 2025)
 ### Changes
 * Minor logging optimizations.
@@ -12,11 +16,9 @@
 * The validation of password expiration field (Users tab) is improved.
 * USD currency is used to define and calculate NOP limits for symbols instead symbol currency.
 
-
 ## Version 2025.03.07.765 (7 March, 2025)
 ### Features
 * TIF conversion tab is added to makers settings. Now it is possible to convert takers's orders TIF on makers side.
-
 
 ## Version 2025.03.06.428 (6 March, 2025)
 ### Changes
