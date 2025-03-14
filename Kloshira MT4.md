@@ -1,5 +1,10 @@
 # Kloshira MT4
 
+
+## Version 25.03.13.62 (25 February, 2025)
+### Changes
+* Logging the data is improved: the plugin will show in the log files the parameters that are added but not supported.
+
 ## Version v25.02.20.46 (20 February, 2025)
 ### Changes
 * Fixed a bug with plugin crash; 
