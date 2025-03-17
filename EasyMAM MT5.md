@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.3.14.701 (14 March, 2025)
+### Features
+* InvestorView: Added 'Investor Demo page';
+
 ## Version v2025.3.10.786 (10 March, 2025)
 ### Changes
 * InvestorView: Old company bundles have been removed;
