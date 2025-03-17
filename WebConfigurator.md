@@ -1,5 +1,8 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.3.14.673 (14 March, 2025)
+### Changes
+* For Kloshira MT4: WebGUI header has been redesigned;
 
 ## Version 2025.3.3.709 (3 March, 2025)
 ### Changes
