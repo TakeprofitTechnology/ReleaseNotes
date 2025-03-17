@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.3.13.679 (13 March, 2025)
+### Changes
+* SwapControlCenter MT5: Fixed the bug with not all the available groups were visible.
+
 ## Version 2025.3.14.673 (14 March, 2025)
 ### Changes
 * For Kloshira MT4: WebGUI header has been redesigned;
