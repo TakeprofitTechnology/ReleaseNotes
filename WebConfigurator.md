@@ -4,6 +4,10 @@
 ### Changes
 * For Kloshira MT4: WebGUI header has been redesigned;
 
+## Version 2025.3.13.679 (13 March, 2025)
+### Changes
+* SwapControlCenter MT4: Sunday, Saturday and Disabled values are removed from 'ThreeDaySwaps';
+
 ## Version 2025.3.3.709 (3 March, 2025)
 ### Changes
 * Shared accounts volume feature is added to NOP limit MT5 plugin GUI.
