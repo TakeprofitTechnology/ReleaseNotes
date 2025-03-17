@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.3.17.509 (17 March, 2025)
+### Features:
+* Symbols pie chart has been added for leaderboard;
+
 ## Version v2025.3.5.843 (5 March, 2025)
 ### Features
 * ROI Chart has been added for leaderboard;
