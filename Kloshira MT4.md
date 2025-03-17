@@ -5,33 +5,33 @@
 ### Changes
 * Logging the data is improved: the plugin will show in the log files the parameters that are added but not supported.
 
-## Version v25.02.20.46 (20 February, 2025)
+## Version 25.02.20.46 (20 February, 2025)
 ### Changes
-* Fixed a bug with plugin crash; 
+* Fixed a bug with plugin crash due to the incorrect order of the plugin initialization. 
 
-## Version v25.02.19.52 (19 February, 2025)
+## Version 25.02.19.52 (19 February, 2025)
 ### Changes
-* Server type is added to JSON external data of FIX messages;
+* Now with server name Kloshira passes server type (MT4/MT5) via FIX message.
 
-## Version v25.02.13.71 (13 February, 2025)
+## Version 25.02.13.71 (13 February, 2025)
 ### Changes
-* Action M now not restricted to 1 and can be set to higher values;
+* Action M is now not restricted to 1 and can be set to higher values.
 
-## Version v25.01.31.51 (31 January, 2025)
+## Version 25.01.31.51 (31 January, 2025)
 ### Changes
-* Server name is added to JSON external data of FIX messages;
+* Server name is added to JSON external data of FIX messages.
 
-## Version v24.12.13.39 (13 December, 2024)
+## Version 24.12.13.39 (13 December, 2024)
 ### Changes
-* REST strings have been removed from logs;
+* Unnecessary strings, which represented REST response have been removed from logs.
 
-## Version v24.11.29.45 (29 November, 2024)
+## Version 24.11.29.45 (29 November, 2024)
 ### Changes
-* Fixed a bug with MT4 Administrator freeze after changing Kloshira parameters;
+* Fixed a bug with MT4 Administrator freeze after changing Kloshira parameters.
 
-## Version v24.09.20.46 (20 September, 2024)
+## Version 24.09.20.46 (20 September, 2024)
 ## Changes
-* Slippage is now applied when Delay is 0; 
+* Slippage is now applied when Delay is 0.
 
 ## Version 24.09.02.45 (09 August, 2024)
 ### Changes
