@@ -1,6 +1,11 @@
 # Takeprofit Hub
 
 
+
+## Version 2025.03.18.891 (17 March, 2025)
+### Changes
+* Improved the logic of building execution reports to pass them to takers.
+
 ## Version 2025.03.12.472 (12 March, 2025)
 ### Changes
 * FIX routing is improved.
