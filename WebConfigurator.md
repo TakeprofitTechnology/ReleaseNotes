@@ -1,5 +1,11 @@
 # Takeprofit Web GUI Configurator
 
+
+
+## Version 2025.3.18.675 (18 March, 2025)
+### Changes
+* Now it is possible to see in the log files, which user changed the configuration of products.
+
 ## Version 2025.3.13.679 (13 March, 2025)
 ### Changes
 * SwapControlCenter MT5: Fixed the bug with not all the available groups were visible.
