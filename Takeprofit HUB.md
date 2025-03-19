@@ -30,6 +30,8 @@
 * The bug of incorrect slippage representation in orders/deals tables is fixed.
 * Minor GUI improvements.
 * "Import BP" function is improved (commissions and margin rates are added).
+### Features
+* Now it is possible to liquidate the position of maegin account with a single click.
 
 
 ## Version 2025.03.04.514 (4 March, 2025)
