@@ -6,6 +6,12 @@
 ### Changes
 * Improved the logic of building execution reports to pass them to takers.
 
+
+## Version 2025.03.14.849 (14 March, 2025)
+### Features
+* Now it is possible to specify the part of order that must be confirmed on each maker in the list of rules (Risk profiles).
+
+
 ## Version 2025.03.12.472 (12 March, 2025)
 ### Changes
 * FIX routing is improved.
