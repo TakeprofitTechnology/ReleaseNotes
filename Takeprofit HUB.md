@@ -40,6 +40,11 @@
 * "Allow all" makers checkbox bug is fixed.
 * Incorrect symbols representation in margin account GUI is fixed.
 
+
+## Version 2025.02.28.721 (28 February, 2025)
+### Features
+* Now it is possible to set the list of makers in Risk profiles (rules) that will be used for order confirmation.
+
 ## Version 2025.02.27.759 (27 February, 2025)
 ### Changes
 * Price channels titles are fixed now when scrolling the page horizontally.
