@@ -1,5 +1,9 @@
 # NOP limit MT5
 
+## Version 25.03.18.48 (18 March, 2025)
+### Changes
+* The bug with incorrect calculation of commissions, when account currency was USD, has been fixed;
+
 ## Version 25.03.05.44 (5 of March, 2025)
 ### Changes
 * BUG fixed: it was possible to exceed the limits using TP orders.
