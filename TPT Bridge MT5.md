@@ -1,6 +1,10 @@
 # TPT Bridge MT5
 
-## Version v25.03.11.68 (11 March 2025)
+## Version 25.03.19.46 (19 March, 2025)
+### Changes
+* Added a fatal message to logs in case manager connection is failed on start;
+
+## Version v25.03.11.68 (11 March, 2025)
 ### Features
 * New slippage values added to execution report;
 
