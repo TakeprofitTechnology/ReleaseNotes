@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.3.20.1233 (20 March, 2025)
+### Features
+* Traded volume chart has been added for leaderboard;
+
 ## Version 2025.3.17.509 (17 March, 2025)
 ### Features:
 * Symbols pie chart has been added for leaderboard;
