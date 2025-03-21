@@ -1,8 +1,11 @@
 # Takeprofit Hub
 
 
+## Version 2025.03.19.687 (19 March, 2025)
+### Changes
+* Risk profiles rules table is rebuilt: it is made as a separate page instead of popup, some minor fixes are made.
 
-## Version 2025.03.18.891 (17 March, 2025)
+## Version 2025.03.18.891 (18 March, 2025)
 ### Changes
 * Improved the logic of building execution reports to pass them to takers.
 
