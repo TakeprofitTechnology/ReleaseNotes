@@ -4,6 +4,7 @@
 ## Version 2025.03.24.627 (24 March, 2025)
 ### Features
 * Unifeeder maker connection is added (quotes only).
+* Unifeeder taker connection is added (quotes only).
 * Added some tooltips (with the hints) to Risk profile rules.
 
 
