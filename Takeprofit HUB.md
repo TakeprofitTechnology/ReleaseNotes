@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.03.24.627 (24 March, 2025)
+### Features
+* Unifeeder maker connection is added (quotes only).
+
 ## Version 2025.03.19.687 (19 March, 2025)
 ### Changes
 * Risk profiles rules table is rebuilt: it is made as a separate page instead of popup, some minor fixes are made.
