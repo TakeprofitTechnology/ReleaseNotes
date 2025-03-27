@@ -5,6 +5,7 @@
 ### Changes
 * Minor GUI changes (fixed the behavior of stuck columns).
 * Log files improvement: taker name is used instead of taker ID in log files.
+* Bucket volume calculation bug is fixed.
 
 ## Version 2025.03.24.627 (24 March, 2025)
 ### Features
