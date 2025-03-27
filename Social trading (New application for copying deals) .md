@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2025.3.27.417 (27 March, 2025)
+### Features
+* Equity chart has been moved to the charts section;
+* Minor visual improvements;
+
 ## Version 2025.3.20.1233 (20 March, 2025)
 ### Features
 * Traded volume chart has been added for leaderboard;
