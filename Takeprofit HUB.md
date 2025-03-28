@@ -16,6 +16,7 @@
 * Log files improvement: taker name is used instead of taker ID in log files.
 * Bucket volume calculation bug is fixed.
 * The GUI bug of incorrect execution time for cancelled orders is fixed.
+* Code refactoring (the handling of disabled makers/takers is improved).
 
 ## Version 2025.03.24.627 (24 March, 2025)
 ### Features
