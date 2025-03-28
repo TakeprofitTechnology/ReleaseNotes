@@ -16,6 +16,7 @@
 * Unifeeder maker connection is added (quotes only).
 * Unifeeder taker connection is added (quotes only).
 * Added some tooltips (with the hints) to Risk profile rules.
+* The GUI bug of incorrect execution time for cancelled orders is fixed.
 
 
 ## Version 2025.03.19.687 (19 March, 2025)
