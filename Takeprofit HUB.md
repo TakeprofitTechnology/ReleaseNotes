@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.03.28.530 (28 March, 2025)
+### Changes
+* The inner mechanism of order ID generation is improved to avoid ID duplication issues.
+
 ## Version 2025.03.25.869 (25 March, 2025)
 ### Changes
 * Minor GUI changes (fixed the behavior of stuck columns).
