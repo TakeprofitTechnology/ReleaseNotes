@@ -1,5 +1,9 @@
 # EasyMAM MT4
 
+## Version 2025.3.27.796 (27 March, 2025)
+### Changes
+* Improved logic of processing order updates. All closed orders are marked for deletion (via TT_BR_ORDER_DELETE) before updating.
+
 ## Version v2024.12.6.1060 (6 December, 2024)
 ### Changes
 * Fixed a bug with deal not being closed on investor, after it's closed on master already;
