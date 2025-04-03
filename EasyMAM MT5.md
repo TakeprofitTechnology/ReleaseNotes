@@ -4,6 +4,10 @@
 ### Changes
 * Fixed a critical bug with application crash;
 
+## Version 2025.3.28.767 (28 March, 2025)
+### Features
+* 'CompanyBrand' parameter now hides the information about the EasyMAM version in all values, except Takeprofittech;
+
 ## Version 2025.3.14.701 (14 March, 2025)
 ### Features
 * InvestorView: Added 'Investor Demo page';
