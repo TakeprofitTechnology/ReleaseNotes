@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.3.31.539 (31 March, 2025)
+### Changes
+* Added a representation for blank symbol chart;
+
 ## Version 2025.3.28.498 (28 March, 2025)
 ### Changes
 * Minor visual GUI improvements;
