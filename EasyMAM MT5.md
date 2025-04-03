@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.4.1.1169 (1 April, 2025)
+### Changes
+* Fixed a critical bug with application crash;
+
 ## Version 2025.3.14.701 (14 March, 2025)
 ### Features
 * InvestorView: Added 'Investor Demo page';
