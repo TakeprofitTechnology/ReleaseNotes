@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.04.03.785 (3 April, 2025)
+### Changes
+* Logs representation (in GUI) is improved.
+
 ## Version 2025.04.02.540 (2 April, 2025)
 ### Changes
 * OneZero taker implementation is improved.
