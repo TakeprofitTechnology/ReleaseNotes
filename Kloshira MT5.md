@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version v25.04.02.41 (2 April, 2025)
+### Changes
+* External data (FIX) is extended: now Kloshira passes the volume step of the traded symbol.
+
 ## Version v25.02.19.52 (19 February, 2025)
 ### Changes
 * Server type is added to JSON external data of FIX messages;
