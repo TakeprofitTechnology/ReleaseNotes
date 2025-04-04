@@ -1,5 +1,10 @@
 # TPT Bridge MT5
 
+
+## Version 25.04.02.40 (2 April, 2025)
+### Changes
+* External data (FIX) is extended: now Kloshira passes the volume step of the traded symbol.
+
 ## Version 25.03.19.46 (19 March, 2025)
 ### Changes
 * Added a fatal message to logs in case manager connection is failed on start;
