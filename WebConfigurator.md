@@ -3,6 +3,7 @@
 ## Version 2025.3.28.764 (28 March, 2025)
 ### Changes
 * SwapControlCenter MT4/5: header was redesigned;
+* TPT Bridge: header was redesigned;
 
 ## Version 2025.3.18.675 (18 March, 2025)
 ### Changes
