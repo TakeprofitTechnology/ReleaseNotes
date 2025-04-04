@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.04.02.540 (2 April, 2025)
+### Changes
+* OneZero taker implementation is improved.
+
 ## Version 2025.04.01.691 (1 April, 2025)
 ### Features
 * "Limit as market" option is added to Risk profiles rules.
