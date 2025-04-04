@@ -4,6 +4,7 @@
 ## Version 2025.04.02.540 (2 April, 2025)
 ### Changes
 * OneZero taker implementation is improved.
+* Minor GUI bug (unknown GUI error when stopping the taker) is fixed.
 
 ## Version 2025.04.01.691 (1 April, 2025)
 ### Features
