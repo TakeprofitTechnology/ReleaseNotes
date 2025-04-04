@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.04.01.691 (1 April, 2025)
+### Features
+* "Limit as market" option is added to Risk profiles rules.
+
 ## Version 2025.03.28.530 (28 March, 2025)
 ### Changes
 * The inner mechanism of order ID generation is improved to avoid ID duplication issues.
