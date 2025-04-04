@@ -1,5 +1,8 @@
 # Kloshira MT4
 
+## Version 25.04.03.40 (3 April, 2025)
+### Changes
+* External data (FIX) is extended: now Kloshira passes the volume step of the traded symbol.
 
 ## Version 25.03.13.62 (25 March, 2025)
 ### Changes
