@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.4.8.1025 (8 April, 2025)
+### Changes
+* Fixed the bug with leader popup did not dissapear after hovering is over;
+
 ## Version 2025.3.31.539 (31 March, 2025)
 ### Changes
 * Added a representation for blank symbol chart;
