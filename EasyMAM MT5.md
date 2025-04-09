@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.4.8.652 (8 April, 2025)
+### Changes
+* Fixed several bugs with hot detach, whcih caused discrepancy between master & investors balance;
+
 ## Version 2025.4.1.1169 (1 April, 2025)
 ### Changes
 * Fixed a critical bug with application crash;
