@@ -1,5 +1,9 @@
 # NOP limit MT5
 
+## Version 25.04.10.32 (10 April, 2025)
+### Changes
+* Fixed a bug in calculating the current NOP in USD for Forex symbols; 
+
 ## Version 25.03.18.48 (18 March, 2025)
 ### Changes
 * The bug with incorrect calculation of commissions, when account currency was USD, has been fixed;
