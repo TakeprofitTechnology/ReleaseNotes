@@ -5,6 +5,10 @@
 ### Changes
 * Logging is improved.
 
+## Version 2025.04.09.648  (9 April, 2025)
+### Features
+* Equities/balances tab is added to Risk management.
+
 ## Version 2025.04.04.774 (4 April, 2025)
 ### Features
 * The first version of Risk management tab is added.
