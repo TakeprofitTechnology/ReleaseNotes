@@ -1,5 +1,12 @@
 # NOP limit MT5
 
+## Version 25.04.11.52 (11 April, 2025)
+### Changes
+* Fixed operation of RuleLogins cache inside the plugin;
+* Fixed the logic of the plugin with rules where the same users are present;
+* Fixed spamming of plugin cache update logs on events of changing or adding all accounts on the server;
+* Improved logging;
+
 ## Version 25.04.10.32 (10 April, 2025)
 ### Changes
 * Fixed a bug in calculating the current NOP in USD for Forex symbols; 
