@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2025.4.11.495 (11 April, 2025)
+### Changes
+* Charts size has been expanded;
+* 'Traded volume' chart peaks colored to a single color;
+
 ## Version 2025.4.8.1025 (8 April, 2025)
 ### Changes
 * Fixed the bug with leader popup did not dissapear after hovering is over;
