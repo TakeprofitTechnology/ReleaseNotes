@@ -6,6 +6,8 @@
 * Logging is improved.
 
 ## Version 2025.04.04.774 (4 April, 2025)
+### Features
+* The first version of Risk management tab is added.
 ### Changes
 * Maker ID is added to the Makers table.
 
