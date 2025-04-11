@@ -7,7 +7,7 @@
 
 ## Version 2025.04.04.774 (4 April, 2025)
 ### Changes
-* REST API request of getting the positions by maker ID is added.
+* Maker ID is added to the Makers table.
 
 ## Version 2025.04.03.785 (3 April, 2025)
 ### Changes
