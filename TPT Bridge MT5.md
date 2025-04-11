@@ -1,5 +1,8 @@
 # TPT Bridge MT5
 
+## Version 25.04.08.61 (8 April, 2025)
+### Changes
+* Corrected m1 filling behavior for action W if UseMT5Quotes is true;
 
 ## Version 25.04.02.40 (2 April, 2025)
 ### Changes
