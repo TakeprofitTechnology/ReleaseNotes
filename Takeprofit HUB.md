@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.04.04.774 (4 April, 2025)
+### Changes
+* REST API request of getting the positions by maker ID is added.
+
 ## Version 2025.04.03.785 (3 April, 2025)
 ### Changes
 * Logs representation (in GUI) is improved.
