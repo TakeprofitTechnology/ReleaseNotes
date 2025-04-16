@@ -1,6 +1,11 @@
 # Takeprofit Hub
 
 
+
+## Version 2025.04.11.488 (11 April, 2025)
+### Changes
+* Some minor GUI improvements (Risk profiles => Rules).
+
 ## Version 2025.04.10.493 (10 April, 2025)
 ### Changes
 * Logging is improved.
