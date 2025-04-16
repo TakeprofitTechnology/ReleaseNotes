@@ -9,6 +9,8 @@
 ## Version 2025.04.10.493 (10 April, 2025)
 ### Changes
 * Logging is improved.
+### Features
+* Now it is possible to set a list of takers for each rule in Risk profiles => Rules.
 
 ## Version 2025.04.09.648  (9 April, 2025)
 ### Features
