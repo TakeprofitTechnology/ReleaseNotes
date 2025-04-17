@@ -1,5 +1,11 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.4.16.611 (16 April, 2025)
+### Changes
+* TPT Bridge: aligned some content so it looks better;
+* Swap Control Center: typo fixed;
+* NOP Limit: 'Current volume' tab added;
+
 ## Version 2025.3.28.764 (28 March, 2025)
 ### Changes
 * SwapControlCenter MT4/5: header was redesigned;
