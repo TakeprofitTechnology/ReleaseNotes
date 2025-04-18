@@ -7,6 +7,8 @@
 ## Version 25.04.02.40 (2 April, 2025)
 ### Changes
 * External data (FIX) is extended: now Kloshira passes the volume step of the traded symbol.
+### Features
+* The gateway now can perform the B-book reports.
 
 ## Version 25.03.19.46 (19 March, 2025)
 ### Changes
