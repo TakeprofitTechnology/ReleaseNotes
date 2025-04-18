@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.4.17.651 (17 April, 2025)
+### Changes
+* Fixed the bug with position opening on master while investors detaching process lead up to balance discrepancy;
+
 ## Version 2025.4.8.652 (8 April, 2025)
 ### Changes
 * Fixed several bugs with hot detach, whcih caused discrepancy between master & investors balance;
