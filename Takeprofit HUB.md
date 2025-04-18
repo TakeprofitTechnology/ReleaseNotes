@@ -34,6 +34,7 @@
 ## Version 2025.04.01.691 (1 April, 2025)
 ### Features
 * "Limit as market" option is added to Risk profiles rules.
+* "Volume percentage" option is added to Risk profiles rules.
 ### Changes
 * "Import BP" function is improved (now even if hub symbols are added, the import function still will add the rest settings).
 
