@@ -11,6 +11,10 @@
 * Swap Control Center: typo fixed;
 * NOP Limit: 'Current volume' tab added;
 
+## Version 2025.4.9.806 (9 April, 2025)
+### Changes
+* "Reports" tab is added to TPT bridge MT5 configurator.
+
 ## Version 2025.3.28.764 (28 March, 2025)
 ### Changes
 * SwapControlCenter MT4/5: header was redesigned;
