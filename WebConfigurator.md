@@ -1,6 +1,10 @@
 # Takeprofit Web GUI Configurator
 
-2025.4.17.580
+
+## Version 2025.4.18.672 (18 April, 2025)
+### Features
+* Order execution report is added to Reports (TPT bridge MT5).
+
 ## Version 2025.4.17.580 (17 April, 2025)
 ### Changes
 * Minor GUI changes for Reports tab of TPT bridge MT5.
@@ -12,8 +16,9 @@
 * NOP Limit: 'Current volume' tab added;
 
 ## Version 2025.4.9.806 (9 April, 2025)
-### Changes
+### Features
 * "Reports" tab is added to TPT bridge MT5 configurator.
+* B-book profit report is added to Reports (TPT bridge MT5).
 
 ## Version 2025.3.28.764 (28 March, 2025)
 ### Changes
