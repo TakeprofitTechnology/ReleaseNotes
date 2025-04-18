@@ -1,5 +1,10 @@
 # Takeprofit Web GUI Configurator
 
+2025.4.17.580
+## Version 2025.4.17.580 (17 April, 2025)
+### Changes
+* Minor GUI changes for Reports tab of TPT bridge MT5.
+
 ## Version 2025.4.16.611 (16 April, 2025)
 ### Changes
 * TPT Bridge: aligned some content so it looks better;
