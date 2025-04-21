@@ -1,5 +1,8 @@
 # Takeprofit Web GUI Configurator
 
+## Version v2025.4.17.815 (17 April, 2025)
+### Features
+* Swap Control Center MT4/MT5: Accumulate charge feature has been added;
 
 ## Version 2025.4.18.672 (18 April, 2025)
 ### Features
