@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
-
+## Version 2025.04.21.660 (21 April, 2025)
+### Changes
+* Fixed a bug with server saving without specifying the server type;
+### Features
+* 'Servers' filter has been added to the filter list of 'Daily data';
 
 ## Version 2025.04.11.488 (11 April, 2025)
 ### Changes
