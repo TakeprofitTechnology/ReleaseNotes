@@ -2,7 +2,7 @@
 
 ## Version v2025.4.17.580 (17 April, 2025)
 ### Features
-* Added error box when it's impossible to copy due to strategy settings;
+* Added error notification when it's impossible to copy deal due to strategy settings;
 
 ## Version 2025.4.11.495 (11 April, 2025)
 ### Changes
