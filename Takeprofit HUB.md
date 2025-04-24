@@ -5,6 +5,7 @@
 * Fixed a bug with server saving without specifying the server type;
 ### Features
 * 'Servers' filter has been added to the filter list of 'Daily data';
+* 'Change price' feature has been added to 'Risk profiles' > 'Rules'; 
 
 ## Version 2025.04.11.488 (11 April, 2025)
 ### Changes
