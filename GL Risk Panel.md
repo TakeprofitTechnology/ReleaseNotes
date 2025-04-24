@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2025.4.24.767 (24 April, 2025)
+### Changes
+* Fixed the bug with GL making no attempts to reconnection;
+
 ## Version v2025.3.6.592 (6 March, 2025)
 ### Changes:
 * Symbol doubling bug has been fixed;
