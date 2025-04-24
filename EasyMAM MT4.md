@@ -1,5 +1,9 @@
 # EasyMAM MT4
 
+## Version v2025.4.21.540 (21 April, 2025)
+### Changes
+* Fixed a bug with incorrect amount of positions shown on Investors;
+
 ## Version 2025.3.27.796 (27 March, 2025)
 ### Changes
 * Improved logic of processing order updates. All closed orders are marked for deletion (via TT_BR_ORDER_DELETE) before updating.
