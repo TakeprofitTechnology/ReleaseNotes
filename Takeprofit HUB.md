@@ -3,6 +3,7 @@
 ## Version 2025.04.21.660 (21 April, 2025)
 ### Changes
 * Fixed a bug with server saving without specifying the server type;
+* GUI improvements in 'Risk management' tab;
 ### Features
 * 'Servers' filter has been added to the filter list of 'Daily data';
 * 'Change price' feature has been added to 'Risk profiles' > 'Rules'; 
