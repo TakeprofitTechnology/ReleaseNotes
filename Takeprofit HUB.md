@@ -6,7 +6,9 @@
 * GUI improvements in 'Risk management' tab;
 ### Features
 * 'Servers' filter has been added to the filter list of 'Daily data';
-* 'Change price' feature has been added to 'Risk profiles' > 'Rules'; 
+* 'Change price' feature has been added to 'Risk profiles' > 'Rules';
+* 'Account's volumes' has been added to Risk management;
+* 'Winners/losers' has been added to Risk management;
 
 ## Version 2025.04.11.488 (11 April, 2025)
 ### Changes
