@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version 25.04.21.59 (21 April, 2025)
+### Changes
+* 'Reason' filter in Rules has been redesigned;
+
 ## Version 25.04.08.61 (8 April, 2025)
 ### Changes
 * Corrected m1 filling behavior for action W if UseMT5Quotes is true;
