@@ -4,6 +4,10 @@
 ### Changes
 * FlexRebate: fixed a bug with 'Object' appearance in blank fields on rule creation;
 
+## Version 2025.4.21.892 (21 April, 2025)
+### Changes
+* Kloshira/TPT Bridge: default rule has been added;
+
 ## Version v2025.4.17.815 (17 April, 2025)
 ### Features
 * Swap Control Center MT4/MT5: Accumulate charge feature has been added;
