@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.4.24.948 (24 April, 2025)
+### Changes
+* FlexRebate: fixed a bug with 'Object' appearance in blank fields on rule creation;
+
 ## Version v2025.4.17.815 (17 April, 2025)
 ### Features
 * Swap Control Center MT4/MT5: Accumulate charge feature has been added;
