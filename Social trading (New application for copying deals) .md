@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.4.25.594 (25 April, 2025)
+### Features
+* Equity copying mode has been implemented: now it's possible for follower to copy deals in proportion between his & leader's balance; 
+
 ## Version v2025.4.17.580 (17 April, 2025)
 ### Features
 * Added error notification when it's impossible to copy deal due to strategy settings;
