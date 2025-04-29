@@ -1,5 +1,11 @@
 # GL Risk Panel
 
+## Version 2025.4.28.533 (28 April, 2025)
+### Changes
+* Fixed a bug with WL correction used comressed symbol names, instead of MT4;
+* Corrections are now available with fractional volume;
+* 'Refresh' button has been renamed to 'Request'. Now it's requesting data from MT on click;
+
 ## Version 2025.4.24.767 (24 April, 2025)
 ### Changes
 * Fixed the bug with GL making no attempts to reconnection;
