@@ -5,6 +5,7 @@
 * Fixed a bug with WL correction used comressed symbol names, instead of MT4;
 * Corrections are now available with fractional volume;
 * 'Refresh' button has been renamed to 'Request'. Now it's requesting data from MT on click;
+* Fixed the bug with the wrong discrepancy choosing when checking WL positions; 
 
 ## Version 2025.4.24.767 (24 April, 2025)
 ### Changes
