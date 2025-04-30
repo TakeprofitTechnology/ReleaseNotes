@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version 25.04.30.48 (30 April, 2025)
+### Features
+* Actions SM and HM has been added;
+
 ## Version 25.04.21.59 (21 April, 2025)
 ### Changes
 * 'Reason' filter in Rules has been redesigned;
