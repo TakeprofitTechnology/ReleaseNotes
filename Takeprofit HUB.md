@@ -8,18 +8,18 @@
 
 ## Version 2025.04.28.529 (28 April, 2025)
 ### Changes
-* Minor GUI improvements in 'Risk management' & 'Risk profiles';
-* Fixed search filter in 'Accounts'.
+* Minor GUI improvements in "Risk management" & "Risk profiles";
+* "Accounts" filter is improved.
 
 ## Version 2025.04.21.660 (21 April, 2025)
 ### Changes
 * Fixed a bug with server saving without specifying the server type;
-* GUI improvements in 'Risk management' tab;
+* GUI improvements in 'Risk management' tab.
 ### Features
 * 'Servers' filter has been added to the filter list of 'Daily data';
 * 'Change price' feature has been added to 'Risk profiles' > 'Rules';
 * 'Account's volumes' has been added to Risk management;
-* 'Winners/losers' has been added to Risk management;
+* 'Winners/losers' has been added to Risk management.
 
 ## Version 2025.04.11.488 (11 April, 2025)
 ### Changes
