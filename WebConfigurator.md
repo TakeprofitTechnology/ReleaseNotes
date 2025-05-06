@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.5.5.660 (5 May, 2025)
+### Changes
+* Fixed a bug with cells stuck with empty values and not letting to save the rule;
+
 ## Version 2025.4.24.948 (24 April, 2025)
 ### Changes
 * FlexRebate: fixed a bug with 'Object' appearance in blank fields on rule creation;
