@@ -1,5 +1,11 @@
 # Takeprofit Hub
 
+
+
+## Version 2025.05.05.1061 (5 May, 2025)
+### Changes
+* ResetOnLogon takers logic is improved.
+
 ## Version 2025.04.28.529 (28 April, 2025)
 ### Changes
 * Minor GUI improvements in 'Risk management' & 'Risk profiles';
