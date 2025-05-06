@@ -9,7 +9,7 @@
 ## Version 2025.04.28.529 (28 April, 2025)
 ### Changes
 * Minor GUI improvements in 'Risk management' & 'Risk profiles';
-* Fixed search filter in 'Accounts'
+* Fixed search filter in 'Accounts'.
 
 ## Version 2025.04.21.660 (21 April, 2025)
 ### Changes
