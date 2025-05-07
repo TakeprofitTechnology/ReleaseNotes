@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 25.05.05.45 (5 May, 2025)
+### Changes
+* Fixed the issue with Kloshira did not re send the execution in case of 'No prices' error;
+
 ## Version v25.04.02.41 (2 April, 2025)
 ### Changes
 * External data (FIX) is extended: now Kloshira passes the volume step of the traded symbol.
