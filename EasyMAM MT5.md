@@ -1,5 +1,10 @@
 # EasyMAM MT5
 
+## Version 2025.5.13.537 (13 May, 2025)
+### Changes
+* Added a check and log in case MT5 returns the same deal in different time frames;
+* Added a check and log in case MT5 returns a deal from outside the requested time frame;
+
 ## Version 2025.4.17.651 (17 April, 2025)
 ### Changes
 * Fixed the bug with position opening on master while investors detaching process lead up to balance discrepancy;
