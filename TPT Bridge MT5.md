@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version 25.05.09.38 (9 May, 2025)
+### Changes
+* Fixed a fatal bug with gateway crash on rare SlippageTolerance values;
+
 ## Version 25.04.30.48 (30 April, 2025)
 ### Features
 * Actions SM and HM has been added;
