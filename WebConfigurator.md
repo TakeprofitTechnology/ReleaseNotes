@@ -3,6 +3,7 @@
 ## Version 2025.5.14.687 (14 May, 2025)
 ### Changes
 * SwapControlCenter MT5: fixed a bug with rules could not be saved in WebGUI;
+* SwapControlCenter MT5: added CRYPTO swap type;
 
 ## Version 2025.5.5.660 (5 May, 2025)
 ### Changes
