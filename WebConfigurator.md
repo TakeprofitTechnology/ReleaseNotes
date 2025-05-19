@@ -1,5 +1,10 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.5.15.1176 (15 May, 2025)
+### Changes
+* NOP Limit: fixed the bug with tables changed width after new rule;
+* NOP Limit: tabs removed and replaced with links;
+
 ## Version 2025.5.14.687 (14 May, 2025)
 ### Changes
 * SwapControlCenter MT5: fixed a bug with rules could not be saved in WebGUI;
