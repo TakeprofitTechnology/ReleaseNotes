@@ -1,5 +1,11 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.5.19.833 (19 May, 2025)
+### Changes
+* Bridge MT5: Timeout increase from 1 to 30 minutes;
+* Bridge MT5: Improved response handling;
+* Bridge MT5: Added loading animation on reports button;
+
 ## Version 2025.5.15.1176 (15 May, 2025)
 ### Changes
 * NOP Limit: fixed the bug with tables changed width after new rule;
