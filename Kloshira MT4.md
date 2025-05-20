@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version 25.05.19.52 (19 May, 2025)
+### Changes
+* Fixed Kloshira falling down with fatal, now it returns an error to GUI and writes an error message to log;
+
 ## Version 25.04.03.40 (3 April, 2025)
 ### Changes
 * External data (FIX) is extended: now Kloshira passes the volume step of the traded symbol.
