@@ -4,7 +4,7 @@
 
 ## Version 2025.05.05.1061 (5 May, 2025)
 ### Changes
-* ResetOnLogon takers logic is improved.
+* ResetOnLogon takers logic is improved (OneZero acceptor FIX connection).
 
 ## Version 2025.04.28.529 (28 April, 2025)
 ### Changes
