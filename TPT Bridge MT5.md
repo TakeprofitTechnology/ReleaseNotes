@@ -5,6 +5,10 @@
 * General optimisation for the gateway faster processing;
 * Debug logs have been added;
 
+## Version 25.05.16.59 (16 May, 2025)
+### Changes
+* Fixed Bridge falling down with fatal, now it returns an error to GUI and writes an error message to log;
+
 ## Version 25.05.09.38 (9 May, 2025)
 ### Changes
 * Fixed a fatal bug with gateway crash on rare SlippageTolerance values;
