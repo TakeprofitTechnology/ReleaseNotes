@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 25.05.21.45 (21 May, 2025)
+### Changes
+* Added a workaround for a bug with Kloshira not sending the execution in case of 'No prices' error;
+
 ## Version 25.05.09.38 (9 May, 2025)
 ### Changes
 * Fixed a fatal bug with gateway crash on rare SlippageTolerance values;
