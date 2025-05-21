@@ -8,6 +8,7 @@
 ### Changes
 * Filters are added to Winners/losers and Account volumes tables.
 * Minor GUI improvements.
+* The data is updated in every table once a minute.
 
 ## Version 2025.5.16.707 (16 May, 2025)
 ### Changes
