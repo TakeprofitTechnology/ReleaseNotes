@@ -12,6 +12,7 @@
 * Wrong notification popup behavior is fixed.
 * Minor GUI improvements.
 * The data is updated in every table once a minute.
+* Servers tab data updating logic is improved.
 
 
 ## Version 2025.5.16.707 (16 May, 2025)
