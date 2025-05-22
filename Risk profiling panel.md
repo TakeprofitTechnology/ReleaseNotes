@@ -21,6 +21,10 @@
 * Minor GUI improvements.
 * "Profit growth within time period" notification logic is improved.
 
+## Version 2025.5.15.735 (15 May, 2025)
+### Changes
+* "Profit increase on initial balance" notification logic is improved (Repetition interval and Number of repetitons parameters are added).
+
 ## Version 2025.5.7.706 (7 May, 2025)
 ### Changes
 * Data loading (via MT5 manager API) process is improved.
