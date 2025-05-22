@@ -19,6 +19,7 @@
 ## Version 2025.5.16.707 (16 May, 2025)
 ### Changes
 * Minor GUI improvements.
+* "Profit growth within time period" notification logic is improved.
 
 ## Version 2025.5.7.706 (7 May, 2025)
 ### Changes
