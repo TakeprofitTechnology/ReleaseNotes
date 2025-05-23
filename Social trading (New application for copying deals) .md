@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.5.23.758 (23 May, 2025)
+### Changes
+* Improved logging system;
+
 ## Version 2025.4.30.695 (30 April, 2025)
 ### Changes
 * Fixed the bug with some deals not copying due to MT position event issue;
