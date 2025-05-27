@@ -1,6 +1,16 @@
 # TPT Bridge MT5
 
 ## Version 25.05.19.55 (19 May, 2025)
+
+### Improvements 🎯
+- Significantly enhanced report processing performance through advanced parsing optimizations and memory management improvements
+
+### Bug Fixes 🐛
+- Resolved system crashes when processing empty report files
+- Enhanced error handling and logging for report message generation
+- Fixed file name parsing issues during report processing
+
+## Version 25.05.19.55 (19 May, 2025)
 ### Changes
 * General optimisation for the gateway faster processing;
 * Debug logs have been added;
