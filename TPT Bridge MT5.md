@@ -1,6 +1,12 @@
 # TPT Bridge MT5
 
 ## Version 25.05.19.55 (19 May, 2025)
+
+### Changes
+- Enhanced report processing performance for faster data handling and improved system responsiveness
+- Strengthened error handling for empty report scenarios to ensure better system stability
+
+## Version 25.05.19.55 (19 May, 2025)
 ### Changes
 * General optimisation for the gateway faster processing;
 * Debug logs have been added;
