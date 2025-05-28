@@ -1,6 +1,9 @@
 # Takeprofit Hub
 
 
+## Version 2025.05.22.305 (22 May, 2025)
+### Changes
+* Bug fixed: incorrect volume calculation for MT trading accounts in Risk management tab.
 
 ## Version 2025.05.05.1061 (5 May, 2025)
 ### Changes
