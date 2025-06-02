@@ -1,9 +1,11 @@
 # TPT Bridge MT5
 
-## Version 25.05.19.55 (19 May, 2025)
+
+
+
+## Version 25.05.28.39 (25 May, 2025)
 ### Changes
-* General optimisation for the gateway faster processing;
-* Debug logs have been added;
+* Added support of Cyrillic symbols in license name. 
 
 ## Version 25.05.16.59 (16 May, 2025)
 ### Changes
