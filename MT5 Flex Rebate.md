@@ -1,5 +1,9 @@
 # MT5 Flex Rebate
 
+## Version 25.05.30.44 (30 May, 2025)
+### Features
+* UseSymbolPathInRules parameter has been added;
+
 ## Version v24.12.17.69 (17 December, 2024)
 ### Changes
 * Added processing of symbols, which are not present in MT (error notification, plugin continues work, ignoring the incorrect rule);
