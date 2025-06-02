@@ -1,6 +1,10 @@
 # Takeprofit Hub
 
 
+## Version 2025.05.28.584 (28 May, 2025)
+### Changes
+* The chart "Balances and equities" (Risk management tab) is transposed.
+
 ## Version 2025.05.22.305 (22 May, 2025)
 ### Changes
 * Bug fixed: incorrect volume calculation for MT trading accounts in Risk management tab.
