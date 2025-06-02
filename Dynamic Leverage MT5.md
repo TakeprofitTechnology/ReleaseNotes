@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version 25.05.29.55 (29 May, 2025)
+### Changes
+* Fixed the bug with incorrect multiplier was applied in case of pending orders activation; 
+
 ## Version v25.02.25.41 (25 February, 2025)
 ### Changes
 * Fixed the bug with incorrect calculation of predicted margin;
