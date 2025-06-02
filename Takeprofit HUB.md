@@ -4,6 +4,7 @@
 ## Version 2025.05.28.584 (28 May, 2025)
 ### Changes
 * The chart "Balances and equities" (Risk management tab) is transposed.
+* Log level is raised to "FATAL" for error "multiple FIX connection to one FIX session".
 
 ## Version 2025.05.22.305 (22 May, 2025)
 ### Changes
