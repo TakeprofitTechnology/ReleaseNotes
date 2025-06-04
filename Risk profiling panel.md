@@ -5,6 +5,7 @@
 ### Changes
 * Some minor GUI text improvements are added.
 * The data representation in tables is improved (0 values are not displayed).
+* Now it is possible to enable/disable MT server connection.
 
 
 ## Version 2025.5.20.527 (20 May, 2025)
