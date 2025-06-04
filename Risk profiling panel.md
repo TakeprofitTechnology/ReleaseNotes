@@ -8,6 +8,10 @@
 * Now it is possible to enable/disable MT server connection.
 
 
+## Version 2025.5.27.421 (27 May, 2025)
+### Features
+* Added support of MT4 server.
+
 ## Version 2025.5.20.527 (20 May, 2025)
 ### Changes
 * Initial balance calculation is improved.
