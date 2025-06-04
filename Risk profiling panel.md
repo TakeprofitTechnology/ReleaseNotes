@@ -1,5 +1,11 @@
 # Risk profiling panel
 
+
+## Version 2025.5.30.577 (30 May, 2025)
+### Changes
+* Some minor GUI text improvements are added.
+
+
 ## Version 2025.5.20.527 (20 May, 2025)
 ### Changes
 * Initial balance calculation is improved.
