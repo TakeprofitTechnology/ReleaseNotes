@@ -2,6 +2,9 @@
 
 
 
+## Version 25.05.30.45 (30 May, 2025)
+### Changes
+* The gateway will be automatically started if it is down accidently.
 
 ## Version 25.05.28.39 (25 May, 2025)
 ### Changes
