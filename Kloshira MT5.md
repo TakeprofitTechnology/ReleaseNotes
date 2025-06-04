@@ -5,6 +5,7 @@
 ### Changes
 * Added additional workaround for a bug with Kloshira not sending the execution in case of 'No prices' error: Tries count was raised from 5 to 50. For now attempts will be repeated during 2+ mins.
 * The gateway will be automatically started if it is down accidently.
+* Added log messages when the gateway cannot connect to the server with manager API.
 
 ## Version 25.05.21.45 (21 May, 2025)
 ### Changes
