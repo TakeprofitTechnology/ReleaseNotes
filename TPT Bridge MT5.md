@@ -5,6 +5,7 @@
 ## Version 25.05.30.45 (30 May, 2025)
 ### Changes
 * The gateway will be automatically started if it is down accidently.
+* Added log messages when the gateway cannot connect to the server with manager API.
 
 ## Version 25.05.28.39 (25 May, 2025)
 ### Changes
