@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version 25.06.04.53 (4 June, 2025)
+### Features
+* ForceRecalculation parameter has been added;
+
 ## Version 25.05.29.55 (29 May, 2025)
 ### Changes
 * Fixed the bug with incorrect multiplier was applied in case of pending orders activation; 
