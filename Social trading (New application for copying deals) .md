@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.6.4.470 (4 June, 2025)
+### Changes
+* Fixed the issue with performance fee was not paid correctly to leaders with different account currency;
+
 ## Version 2025.5.30.824 (30 May, 2025)
 ### Changes
 * Fixed the visual bug;
