@@ -1,5 +1,10 @@
 # Takeprofit Hub
 
+## Version 2025.06.05.815 (5 June, 2025)
+### Changes
+* Risk management tab optimization is made: the data retreiving is improved, the resource usage (RAM) is optimized.
+* The bug of deleting MT servers from the table "MetaTrader servers" is fixed.
+
 
 ## Version 2025.05.28.584 (28 May, 2025)
 ### Changes
