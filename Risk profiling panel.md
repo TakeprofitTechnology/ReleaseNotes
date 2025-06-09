@@ -4,6 +4,7 @@
 ## Version 2025.6.4.575 (4 June, 2025)
 ### Changes
 * Fixed the issue when it was possible to add the same server twice.
+* The filters are improved for all tables (added dropdown lists to select servers).
 
 ## Version 2025.5.30.577 (30 May, 2025)
 ### Changes
