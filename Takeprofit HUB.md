@@ -13,6 +13,11 @@
 * Risk management tabs are refactored and optimized.
 * Since this version it is not possible to change the currency of existing margin account.
 
+
+## Version 2025.05.27.1244 (27 May, 2025)
+### Changes
+* Some GUI improvements for Risk management tab are made.
+
 ## Version 2025.05.22.305 (22 May, 2025)
 ### Changes
 * Bug fixed: incorrect volume calculation for MT trading accounts in Risk management tab.
