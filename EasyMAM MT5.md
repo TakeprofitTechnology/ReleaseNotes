@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.6.4.554 (4 June, 2025)
+### Changes
+* Validation improvement: now prevents any Money Manager's deal from being redistributed if it contains allocations to detached investors, logging an explicit error instead.
+
 ## Version 2025.5.13.537 (13 May, 2025)
 ### Changes
 * Added a check and log in case MT5 returns the same deal in different time frames;
