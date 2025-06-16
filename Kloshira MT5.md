@@ -1,5 +1,8 @@
 # Kloshira MT5
 
+## Version 25.06.11.54 (11 June, 2025)
+### Changes
+* Fixed a bug when external data was not sent to LP with default rule with H mode;
 
 ## Version 25.05.30.53 (30 May, 2025)
 ### Changes
