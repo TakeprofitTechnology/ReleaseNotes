@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version 25.06.11.54 (11 June, 2025)
+### Changes
+* Fixed a bug when external data was not sent to LP with default rule with H mode;
+
 ## Version 25.05.19.52 (19 May, 2025)
 ### Changes
 * Fixed Kloshira falling down with fatal, now it returns an error to GUI and writes an error message to log;
