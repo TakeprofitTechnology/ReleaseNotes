@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2ace393-906a-4d9e-8f72-930ec6633d85)# Takeprofit MarketDepth MT5
+# Takeprofit MarketDepth MT5
 
 ## Version v2024.12.10.1324 (10 December, 2024)
 ### Changes
