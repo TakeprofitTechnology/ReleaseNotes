@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.6.16.579 (16 June, 2025)
+## Changes
+* Flex Rebate MT5: Fixed 'Agent 6' field input value;
+
 ## Version 2025.5.19.833 (19 May, 2025)
 ### Changes
 * Bridge MT5: Timeout increase from 1 to 30 minutes;
