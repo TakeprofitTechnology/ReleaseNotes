@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.6.17.730 (17 June, 2025)
+### Changes
+* Kloshira MT4: fixed visual representation of action H in default rules;
+
 ## Version 2025.6.16.579 (16 June, 2025)
 ## Changes
 * Flex Rebate MT5: Fixed 'Agent 6' field input value;
