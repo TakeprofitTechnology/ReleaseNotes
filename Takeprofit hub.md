@@ -1,4 +1,4 @@
-# Takeprofit Hub
+# Takeprofit hub
 
 
 ## Version 2025.06.16.371 (16 June, 2025)
