@@ -4,6 +4,10 @@
 ## Version 2025.06.16.371 (16 June, 2025)
 ### Changes
 * Country field is added to Accounts preferences.
+ 
+## Version 2025.06.06.661 (6 June, 2025)
+### Changes
+* Daily profit (Risk management) calculation logic is improved.
 
 ## Version 2025.06.05.815 (5 June, 2025)
 ### Changes
