@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.6.18.1037 (18 June, 2025)
+### Features
+* Added a parameter to restrict CPU usage by the application;
+
 ## Version 2025.6.4.554 (4 June, 2025)
 ### Changes
 * Validation improvement: now prevents any Money Manager's deal from being redistributed if it contains allocations to detached investors, logging an explicit error instead.
