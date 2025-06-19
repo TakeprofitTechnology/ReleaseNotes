@@ -1,5 +1,10 @@
 # GL Risk Panel
 
+
+## Version 2025.6.11.563 (11 June, 2025)
+### Changes
+* Bug of incorrect Fortex positions direction is fixed.
+
 ## Version 2025.4.28.533 (28 April, 2025)
 ### Changes
 * Fixed a bug with WL correction used comressed symbol names, instead of MT4;
