@@ -1,5 +1,8 @@
 # GL Risk Panel
 
+## Version 2025.6.16.455 (16 June, 2025)
+### Features
+* DefaultPositionComparisonThreshold and SymbolPositionComparisonThreshold parameters have been added;
 
 ## Version 2025.6.11.563 (11 June, 2025)
 ### Changes
