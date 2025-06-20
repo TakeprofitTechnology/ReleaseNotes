@@ -6,6 +6,7 @@
 * Leaderboard filter has been expanded with new values (currency and leader ID);
 * Blank columns in Leaderboard are now hidden (if no values for all leaders);
 * Overall visual improvements;
+* Fixed a bug with multiple same strategies creation on continuous clicks;
 
 ## Version 2025.6.4.470 (4 June, 2025)
 ### Changes
