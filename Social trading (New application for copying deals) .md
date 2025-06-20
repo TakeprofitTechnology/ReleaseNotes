@@ -1,5 +1,12 @@
 # TPT Social trading
 
+## Version 2025.6.20.411 (20 June, 2025)
+### Changes
+* Fixed incorrect representation of dots in charts for 0 values;
+* Leaderboard filter has been expanded with new values (currency and leader ID);
+* Blank columns in Leaderboard are now hidden (if no values for all leaders);
+* Overall visual improvements;
+
 ## Version 2025.6.4.470 (4 June, 2025)
 ### Changes
 * Fixed the issue with performance fee was not paid correctly to leaders with different account currency;
