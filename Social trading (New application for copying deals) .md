@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.6.20.858 (20 June, 2025)
+### Features
+* Restrict simultaneous connections and copying modes restriction has been added to administrator dashboard;
+
 ## Version 2025.6.20.411 (20 June, 2025)
 ### Changes
 * Fixed incorrect representation of dots in charts for 0 values;
