@@ -1,5 +1,9 @@
 # Dynamic Leverage MT5
 
+## Version 25.06.23.46 (23 June, 2025)
+### Changes
+* Fixed the bug with DL changed Dealer value with no reason;
+
 ## Version 25.06.20.46 (20 June, 2025)
 ### Changes
 * Reports have been added to log files;
