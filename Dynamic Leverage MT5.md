@@ -1,5 +1,10 @@
 # Dynamic Leverage MT5
 
+## Version 25.06.20.46 (20 June, 2025)
+### Changes
+* Reports have been added to log files;
+* ReportToJournal parameter has been added;
+
 ## Version 25.06.04.53 (4 June, 2025)
 ### Features
 * ForceRecalculation parameter has been added;
