@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version 25.06.20.54 (20 June, 2025)
+### Changes
+* Additional volume checks have been added, to prevent closing orders with incorrect volume;
+
 ## Version 25.06.11.54 (11 June, 2025)
 ### Changes
 * Fixed a bug when external data was not sent to LP with default rule with H mode;
