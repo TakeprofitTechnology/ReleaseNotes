@@ -18,6 +18,7 @@
 ## Version 2025.06.05.815 (5 June, 2025)
 ### Changes
 * Risk management tab optimization is made: the data retreiving is improved, the resource usage (RAM) is optimized.
+* Overall visual improvements of tables in 'Risk management' section.
 * The bug of deleting MT servers from the table "MetaTrader servers" is fixed.
 
 
