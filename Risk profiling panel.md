@@ -1,5 +1,8 @@
 # Risk profiling panel
 
+## Version 2025.6.23.712 (23 June, 2025)
+### Changes
+* Server connection issues resolved;
 
 ## Version 2025.6.4.575 (4 June, 2025)
 ### Changes
