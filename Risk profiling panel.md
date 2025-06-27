@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version 2025.6.24.559 (24 June, 2025)
+### Changes
+* Added a filter to 'PnL by groups' page;
+
 ## Version 2025.6.23.712 (23 June, 2025)
 ### Changes
 * Server connection issues resolved;
