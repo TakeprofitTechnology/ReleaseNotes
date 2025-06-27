@@ -3,6 +3,7 @@
 ## Version 2025.06.24.939 (24 June, 2025)
 ### Changes
 * Risk management panel is now integrated as a separate service;
+* The search mechanism is changed, now shows all entities that consist entered symbol;
 
 ## Version 2025.06.16.371 (16 June, 2025)
 ### Changes
