@@ -3,6 +3,7 @@
 ## Version 2025.6.23.712 (23 June, 2025)
 ### Changes
 * Server connection issues resolved;
+* Fixed the styling for Winners/Losers tab;
 
 ## Version 2025.6.4.575 (4 June, 2025)
 ### Changes
