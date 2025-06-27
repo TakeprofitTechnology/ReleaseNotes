@@ -3,6 +3,7 @@
 ## Version 2025.6.25.514 (25 June, 2025)
 ### Changes
 * Added data export for multiple tables;
+* Added progress bars for visualisation of initialisation process;
 
 ## Version 2025.6.24.559 (24 June, 2025)
 ### Changes
