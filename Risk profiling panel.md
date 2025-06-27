@@ -10,6 +10,7 @@
 * Fixed the styling for Winners/Losers tab;
 * Fixed filtering by groups in Winners/Losers tab;
 * Volume calculation has been improved;
+* Swap calculation improved;
 
 ## Version 2025.6.4.575 (4 June, 2025)
 ### Changes
