@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.6.25.818 (25 June, 2025)
+### Changes
+* Fixed REST API for Equity mode;
+
 ## Version 2025.6.20.858 (20 June, 2025)
 ### Features
 * Restrict simultaneous connections and copying modes restriction has been added to administrator dashboard;
