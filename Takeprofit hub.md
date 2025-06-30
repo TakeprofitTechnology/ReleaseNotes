@@ -1,15 +1,19 @@
 # Takeprofit hub
 
+## Version 2025.06.26.530 (26 June, 2025)
+### Changes
+* Comment field has been added for Makers, Takers, Price channels.
+
 ## Version 2025.06.24.939 (24 June, 2025)
 ### Changes
-* CYSEC report page has been added; 
-* Risk management panel is now integrated as a separate service;
-* The search mechanism is changed, now shows all entities that consist entered symbol;
+* CYSEC report page has been added.
+* Risk management panel is now integrated as a separate service.
+* The search mechanism is changed, now shows all entities that consist entered symbol.
 
 ## Version 2025.06.16.371 (16 June, 2025)
 ### Changes
 * Country field is added to Accounts preferences.
-* Added support of MT4 servers for Risk Management panel;
+* Added support of MT4 servers for Risk Management panel.
  
 ## Version 2025.06.06.661 (6 June, 2025)
 ### Changes
