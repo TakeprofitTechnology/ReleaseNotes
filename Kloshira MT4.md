@@ -1,5 +1,9 @@
 # Kloshira MT4
 
+## Version 25.06.27.44 (27 June, 2025)
+### Changes
+* Added readable falal log message for license exceptions.
+
 ## Version 25.06.20.54 (20 June, 2025)
 ### Changes
 * Additional volume checks have been added, to prevent closing orders with incorrect volume;
