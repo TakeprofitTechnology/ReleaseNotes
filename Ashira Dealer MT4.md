@@ -1,5 +1,9 @@
 # Ashira Dealer MT4
 
+## Version 25.06.27.52 (27 June, 2025)
+### Changes
+* Added readable falal log message for license exceptions.
+
 ## Version 6.11 (27 Oct, 2023)
 ### Changes
 * Added a separate script to provide the order execution statistics based on Ashira execution reports and show the number of extra points earned by Ashira for the broker.
