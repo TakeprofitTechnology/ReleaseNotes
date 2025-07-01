@@ -1,5 +1,9 @@
 # Drawdown Limit MT4
 
+## Version 25.06.27.44 (27 June, 2025)
+### Changes
+* Added readable falal log message for license exceptions.
+
 ## Version 24.07.23.27 (23 July, 2024)
 ### Features
 * It is possible now to configure the plugin via Web GUI configurator.
