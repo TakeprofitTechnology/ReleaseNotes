@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.06.30.46 (30 June, 2025)
+### Changes
+* Added readable falal log message for license exceptions.
+
 ## Version v25.01.15.65 (15 January, 2025)
 ### Changes
 * Fixed the margin update after positions have been hedged;
