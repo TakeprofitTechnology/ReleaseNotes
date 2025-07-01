@@ -1,5 +1,11 @@
 # Takeprofit hub
 
+## Version 2025.07.01.532 (01 July, 2025)
+### Changes
+* Fixed a bug with no possibility to put negative values to price channels markups.
+### Features
+* Added the parameter “Start book from level”.
+
 ## Version 2025.06.26.530 (26 June, 2025)
 ### Changes
 * Comment field has been added for Makers, Takers, Price channels.
