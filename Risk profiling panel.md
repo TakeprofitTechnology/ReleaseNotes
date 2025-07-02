@@ -6,6 +6,7 @@
 * Added Daily volume (lots) and Total volume (lots) columns;
 * Removed input field from servers popup;
 * Log files are now splitted as per server;
+* Added time filtration to winners/losers;
 
 ## Version 2025.6.30.360 (30 June, 2025)
 ### Changes
