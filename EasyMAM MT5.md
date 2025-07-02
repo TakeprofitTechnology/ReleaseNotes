@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.7.2.745 (2 July, 2025)
+### Changes
+*  Implemented new validations in the distribution and detachment processes: problematic cases now automatically trigger a resync. 
+
 ## Version 2025.6.18.1037 (18 June, 2025)
 ### Features
 * Added a parameter to restrict CPU usage by the application;
