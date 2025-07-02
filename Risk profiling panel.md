@@ -5,6 +5,7 @@
 * Now user-friendly server name is shown in filters;
 * Added Daily volume (lots) and Total volume (lots) columns;
 * Removed input field from servers popup;
+* Log files are now splitted as per server;
 
 ## Version 2025.6.30.360 (30 June, 2025)
 ### Changes
