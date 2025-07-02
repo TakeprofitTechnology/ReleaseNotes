@@ -6,6 +6,10 @@
 * Added Daily volume (lots) and Total volume (lots) columns;
 * Removed input field from servers popup;
 
+## Version 2025.6.30.360 (30 June, 2025)
+### Changes
+* Fixed daily and total PnL calculations for more precise results;
+
 ## Version 2025.6.25.514 (25 June, 2025)
 ### Changes
 * Added data export for multiple tables;
