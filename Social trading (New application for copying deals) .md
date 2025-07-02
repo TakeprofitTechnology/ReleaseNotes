@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.6.30.915 (30 June, 2025)
+### Changes
+* Fixed a bug with administrators could have trading account via API endpoint;
+
 ## Version 2025.6.25.818 (25 June, 2025)
 ### Changes
 * Fixed REST API for Equity mode;
