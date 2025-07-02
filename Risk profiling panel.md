@@ -4,6 +4,7 @@
 ### Changes
 * Now user-friendly server name is shown in filters;
 * Added Daily volume (lots) and Total volume (lots) columns;
+* Removed input field from servers popup;
 
 ## Version 2025.6.25.514 (25 June, 2025)
 ### Changes
