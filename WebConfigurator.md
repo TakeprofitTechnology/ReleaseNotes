@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.7.3.471 (3 July, 2025)
+### Changes
+* SwapControlCenterMT5: added 'Swap allowance type' parameter;
+
 ## Version 2025.6.17.730 (17 June, 2025)
 ### Changes
 * Kloshira MT4: fixed visual representation of action H in default rules;
