@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version 25.07.03.31 (3 July, 2025)
+### Features
+* Swap allowance type parameter has been added;
+
 ## Version v25.05.12.31 (12 May, 2025)
 ### Features
 * CRYPTO swap type has been added;
