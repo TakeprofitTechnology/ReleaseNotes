@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.7.3.578 (3 July, 2025)
+### Features
+* Added connection progress bar for server status;
+
 ## Version 2025.6.30.915 (30 June, 2025)
 ### Changes
 * Fixed a bug with administrators could have trading account via API endpoint;
