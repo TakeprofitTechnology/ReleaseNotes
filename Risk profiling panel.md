@@ -3,6 +3,7 @@
 ## Version 2025.7.4.554 (4 July, 2025)
 ### Changes
 * Added Daily & Total Volume (lots) to accounts details;
+* Fixed popups on all pages;
 
 ## Version 2025.7.1.336 (1 July, 2025)
 ### Changes
