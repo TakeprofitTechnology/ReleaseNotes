@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version 2025.7.4.554 (4 July, 2025)
+### Changes
+* Added Daily & Total Volume (lots) to accounts details;
+
 ## Version 2025.7.1.336 (1 July, 2025)
 ### Changes
 * Now user-friendly server name is shown in filters;
