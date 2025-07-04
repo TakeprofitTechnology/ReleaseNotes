@@ -4,6 +4,10 @@
 ### Changes
 * SwapControlCenterMT5: added 'Swap allowance type' parameter;
 
+## Version 2025.6.30.898 (30 June, 2025)
+### Changes
+* TPT Bridge: added 'Account color' parameter.
+
 ## Version 2025.6.17.730 (17 June, 2025)
 ### Changes
 * Kloshira MT4: fixed visual representation of action H in default rules;
