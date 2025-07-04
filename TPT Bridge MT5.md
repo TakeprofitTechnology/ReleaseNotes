@@ -3,7 +3,7 @@
 ## Version 25.06.30.24 (30 July, 2025)
 ### Changes
 * Added support of QUIK connector.
-* Added 'Account color' parameter to the rules;
+* Added 'Account color' parameter to the rules.
 
 ## Version 25.06.10.59 (10 June, 2025)
 ### Changes
