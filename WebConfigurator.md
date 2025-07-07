@@ -4,6 +4,7 @@
 ### Changes
 * Kloshira MT4/5, TPT Bridge: added validation which prevent from saving rules with empty condition fields;
 * TPT Bridge: fixed the bug when symbol quotes did not autoupdate if symbols had dot "." in its name;
+* Kloshira MT4/5, TPT Bridge: added validation which prevent from saving several completely identical symbols;
 
 ## Version 2025.7.3.471 (3 July, 2025)
 ### Changes
