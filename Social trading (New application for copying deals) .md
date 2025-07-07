@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2025.7.4.605 (4 July, 2025)
+### Changes
+* Fixed the bug with leader popup was hiding under the tabs;
+* Added restriction to leaderPerformanceFeeType API request only to existing values;
+
 ## Version 2025.7.3.578 (3 July, 2025)
 ### Features
 * Added connection progress bar for server status;
