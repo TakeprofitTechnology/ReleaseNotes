@@ -4,6 +4,7 @@
 ### Changes
 * Fixed the bug with leader popup was hiding under the tabs;
 * Added restriction to leaderPerformanceFeeType API request only to existing values;
+* Added error message on unavailable datafeed;
 
 ## Version 2025.7.3.578 (3 July, 2025)
 ### Features
