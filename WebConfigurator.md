@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.7.3.805 (7 July, 2025)
+### Changes
+* Kloshira MT4/5, TPT Bridge: added validation which prevent from saving rules with empty condition fields;
+
 ## Version 2025.7.3.471 (3 July, 2025)
 ### Changes
 * SwapControlCenterMT5: added 'Swap allowance type' parameter;
