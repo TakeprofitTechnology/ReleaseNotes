@@ -1,5 +1,10 @@
 # Takeprofit hub
 
+
+## Version 2025.07.03.329 (03 July, 2025)
+### Changes
+* Fixed the bug of incorrect notification representation in Risk management tab.
+
 ## Version 2025.07.01.532 (01 July, 2025)
 ### Changes
 * Fixed a bug with no possibility to put negative values to price channels markups.
