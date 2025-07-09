@@ -7,6 +7,7 @@
 ## Version 2025.7.7.896 (7 July, 2025)
 ### Changes
 * Main header is now inactive if popup is opened;
+* Fixed the bug with Copied PnL values became unknown sometimes;
 
 ## Version 2025.7.4.605 (4 July, 2025)
 ### Changes
