@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version 2025.7.7.580 (7 July, 2025)
+### Features
+* Added Balances/equities page;
+
 ## Version 2025.7.4.554 (4 July, 2025)
 ### Changes
 * Added Daily & Total Volume (lots) to accounts details;
