@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.7.7.886 (7 July, 2025)
+### Changes
+* Commission Manager MT5: added Accumulate commissions parameter;
+
 ## Version 2025.7.3.805 (7 July, 2025)
 ### Changes
 * Kloshira MT4/5, TPT Bridge: added validation which prevent from saving rules with empty condition fields;
