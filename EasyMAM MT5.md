@@ -1,8 +1,15 @@
 # EasyMAM MT5
 
+
+
+## Version 2025.7.7.791 (7 July, 2025)
+### Changes
+* Added workarounds for MT5 manager API issues (appeared after manager API updates).
+* Added the parameter DefaultInvestorSlValue as a part of workaround for MT5 manager API issues.
+
 ## Version 2025.7.4.799 (4 July, 2025)
 ### Changes
-* Improved internal logic of balance and position fixes
+* Improved internal logic of balance and position fixes.
 
 ## Version 2025.7.2.745 (2 July, 2025)
 ### Changes
