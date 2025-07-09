@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.7.9.513 (9 July, 2025)
+### Changes
+* Changed searchbar design;
+
 ## Version 2025.7.4.605 (4 July, 2025)
 ### Changes
 * Fixed the bug with leader popup was hiding under the tabs;
