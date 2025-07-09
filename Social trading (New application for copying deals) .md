@@ -4,6 +4,10 @@
 ### Changes
 * Changed searchbar design;
 
+## Version 2025.7.7.896 (7 July, 2025)
+### Changes
+* Main header is now inactive if popup is opened;
+
 ## Version 2025.7.4.605 (4 July, 2025)
 ### Changes
 * Fixed the bug with leader popup was hiding under the tabs;
