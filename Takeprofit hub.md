@@ -4,6 +4,7 @@
 ## Version 2025.07.09.558 (09 July, 2025)
 ### Changes
 * The width of Takers filed (Risk profiles => Rules) is increased.
+* The text of disabled risk management tab in hub's GUI is improved.
 
 ## Version 2025.07.03.329 (03 July, 2025)
 ### Changes
