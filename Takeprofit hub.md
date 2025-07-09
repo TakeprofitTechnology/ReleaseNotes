@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.07.09.558 (09 July, 2025)
+### Changes
+* The width of Takers filed (Risk profiles => Rules) is increased.
+
 ## Version 2025.07.03.329 (03 July, 2025)
 ### Changes
 * Fixed the bug of incorrect notification representation in Risk management tab.
