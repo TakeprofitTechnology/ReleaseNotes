@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.7.4.799 (4 July, 2025)
+### Changes
+* Improved internal logic of balance and position fixes
+
 ## Version 2025.7.2.745 (2 July, 2025)
 ### Changes
 *  Implemented new validations in the distribution and detachment processes: problematic cases now automatically trigger a resync. 
