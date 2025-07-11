@@ -12,6 +12,7 @@
 ### Changes
 * Fixed the bug of incorrect notification representation in Risk management tab.
 * Small improvements to makers connection string are added.
+* Now it is possible to use spaces in Risk profiles => Rules => External groups.
 
 ## Version 2025.07.01.532 (01 July, 2025)
 ### Changes
