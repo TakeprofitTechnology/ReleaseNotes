@@ -6,6 +6,7 @@
 
 ## Version 2025.7.4.554 (4 July, 2025)
 ### Changes
+* GUI notifications are now limited to 3 first accounts;
 * Added Daily & Total Volume (lots) to accounts details;
 * Fixed popups on all pages;
 
