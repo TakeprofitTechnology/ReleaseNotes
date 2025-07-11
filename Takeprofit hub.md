@@ -11,6 +11,7 @@
 ## Version 2025.07.03.329 (03 July, 2025)
 ### Changes
 * Fixed the bug of incorrect notification representation in Risk management tab.
+* Small improvements to makers connection string are added.
 
 ## Version 2025.07.01.532 (01 July, 2025)
 ### Changes
