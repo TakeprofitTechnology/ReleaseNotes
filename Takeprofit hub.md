@@ -6,6 +6,7 @@
 * The width of Takers filed (Risk profiles => Rules) is increased.
 * The text of disabled risk management tab in hub's GUI is improved.
 * The text of incorrect make.com webhook warning is improved.
+* Small improvements for position adjustment (Account => Positions) are added.
 
 ## Version 2025.07.03.329 (03 July, 2025)
 ### Changes
