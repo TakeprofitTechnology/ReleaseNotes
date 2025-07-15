@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version 2025.7.10.686 (10 July, 2025)
+### Changes
+* Fixed the bug with PnL value did not update after moving users between groups;
+
 ## Version 2025.7.7.580 (7 July, 2025)
 ### Features
 * Added Balances/equities page;
