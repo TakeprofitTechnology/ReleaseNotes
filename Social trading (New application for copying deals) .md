@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.7.16.652 (16 July, 2025)
+### Changes
+* Fixed text convention in some places;
+
 ## Version 2025.7.9.513 (9 July, 2025)
 ### Changes
 * Changed searchbar design;
