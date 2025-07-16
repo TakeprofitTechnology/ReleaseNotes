@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version v2025.7.15.390 (15 July, 2025)
+### Features
+* Summary page has been added;
+
 ## Version 2025.7.10.686 (10 July, 2025)
 ### Changes
 * Fixed the bug with PnL value did not update after moving users between groups;
