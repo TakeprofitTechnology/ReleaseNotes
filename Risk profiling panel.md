@@ -3,6 +3,7 @@
 ## Version v2025.7.15.390 (15 July, 2025)
 ### Features
 * Summary page has been added;
+* Added net deposits & withdrawals to the account information;
 
 ## Version 2025.7.10.686 (10 July, 2025)
 ### Changes
