@@ -1,5 +1,9 @@
 # Takeprofit Web GUI Configurator
 
+## Version 2025.7.17.440 (17 July, 2025)
+### Changes
+* EasyMAM MT5: Fixed message for SetDetachFee without specified period;
+
 ## Version 2025.7.7.886 (7 July, 2025)
 ### Changes
 * Commission Manager MT5: added Accumulate commissions parameter;
