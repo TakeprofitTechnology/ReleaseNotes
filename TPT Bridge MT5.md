@@ -2,7 +2,7 @@
 
 ## Version 25.07.03.67 (3 July, 2025)
 ### Changes
-* Internal adjustments of the product (restrictions from 'cut' version is now put on gateway level);
+* Internal adjustments of the product (restrictions from 'cut' version are now put on gateway level);
 
 ## Version 25.06.30.24 (30 June, 2025)
 ### Features
