@@ -1,6 +1,7 @@
 # EasyMAM MT5
-
-
+## Version 2025.7.17.440 (17 July, 2025)
+### Changes
+* Fixed a message for SetDetachFee without specified period for both EasyMAM and InvestorView;
 
 ## Version 2025.7.7.791 (7 July, 2025)
 ### Changes
