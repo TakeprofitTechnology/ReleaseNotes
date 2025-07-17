@@ -17,6 +17,7 @@
 ## Version 2025.6.30.898 (30 June, 2025)
 ### Changes
 * TPT Bridge: added 'Account color' parameter.
+* TPT Bridge: added support of 'cut' version of the bridge;
 
 ## Version 2025.6.17.730 (17 June, 2025)
 ### Changes
