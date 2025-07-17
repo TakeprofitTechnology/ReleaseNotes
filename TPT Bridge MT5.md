@@ -1,6 +1,8 @@
 # TPT Bridge MT5
 
-## Version 25.06.30.24 (30 July, 2025)
+## Version 25.06.30.24 (30 June, 2025)
+### Features
+* Added the 'cut' version of TPT Bridge, which is managed via License file;
 ### Changes
 * Added support of QUIK connector.
 * Added 'Account color' parameter to the rules.
