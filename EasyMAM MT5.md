@@ -2,6 +2,7 @@
 ## Version 2025.7.17.440 (17 July, 2025)
 ### Changes
 * Fixed a message for SetDetachFee without specified period for both EasyMAM and InvestorView;
+* Fixed SL request sending 0 instead of null while field is empty;
 
 ## Version 2025.7.7.791 (7 July, 2025)
 ### Changes
