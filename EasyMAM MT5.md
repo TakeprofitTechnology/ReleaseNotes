@@ -2,8 +2,7 @@
 ## Version 2025.7.17.440 (17 July, 2025)
 ### Changes
 * Fixed a message for SetDetachFee without specified period for both EasyMAM and InvestorView;
-* Fixed SL request sending 0 instead of null while field is empty;
-
+* Fixed SL request sending 0 instead of null while field is empty. Now to reset sl settings in a comment, you need to send null to a user's status [sl:null], not [sl:0]. Now 0 is a valid value;
 ## Version 2025.7.7.791 (7 July, 2025)
 ### Changes
 * Added workarounds for MT5 manager API issues (appeared after manager API updates).
