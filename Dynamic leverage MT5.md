@@ -1,7 +1,7 @@
 # Dynamic leverage MT5
 
 
-## Version 2025.7.22.1226 (22 July, 2025)
+## Version 25.07.22.1226 (22 July, 2025)
 ### Changes
 * The report is divided by lines in MT5 journal.
 * ID of the rule is added to report.
