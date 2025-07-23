@@ -1,49 +1,55 @@
-# Dynamic Leverage MT5
+# Dynamic leverage MT5
+
+
+## Version 2025.7.22.1226 (22 July, 2025)
+### Changes
+* The report is divided by lines in MT5 journal.
+* ID of the rule is added to report.
 
 ## Version 25.06.23.46 (23 June, 2025)
 ### Changes
-* Fixed the bug with DL changed Dealer value with no reason;
+* Fixed the bug with DL changed Dealer value with no reason.
 
 ## Version 25.06.20.46 (20 June, 2025)
 ### Changes
 * Reports have been added to log files;
-* ReportToJournal parameter has been added;
+* ReportToJournal parameter has been added.
 
 ## Version 25.06.04.53 (4 June, 2025)
 ### Features
-* ForceRecalculation parameter has been added;
+* ForceRecalculation parameter has been added.
 
 ## Version 25.05.29.55 (29 May, 2025)
 ### Changes
-* Fixed the bug with incorrect multiplier was applied in case of pending orders activation; 
+* Fixed the bug with incorrect multiplier was applied in case of pending orders activation.
 
 ## Version v25.02.25.41 (25 February, 2025)
 ### Changes
-* Fixed the bug with incorrect calculation of predicted margin;
+* Fixed the bug with incorrect calculation of predicted margin.
 
 ## Version v25.02.19.52 (19 February, 2025)
 ### Features
-* AllowLowMarginTrading parameter has been added, which regulates the lower possible limit for opening a position;
+* AllowLowMarginTrading parameter has been added, which regulates the lower possible limit for opening a position.
 
 ## Version v25.01.28.34 (28 January, 2025)
 ### Changes
-* Fixed logging issue;
+* Fixed logging issue.
 
 ## Version v25.01.17.48 (17 January, 2025)
 ### Changes
-* Changed reporting style. Minor bugs fixed;
+* Changed reporting style. Minor bugs fixed.
 
 ## Version v25.01.14.84 (14 January, 2025)
 ### Changes
-* Fixed the margin update after positions have been hedged;
+* Fixed the margin update after positions have been hedged.
 
 ## Version v24.11.28.42
 ### Changes
-* Fixed a bug with updating not pending orders;
+* Fixed a bug with updating not pending orders.
 
 ## Version v24.09.06.52 (6 September, 2024)
 ### Changes
-* Changed UseSecurityVolume parameter behaviour if the securities are not set;
+* Changed UseSecurityVolume parameter behaviour if the securities are not set.
 
 ## Version 24.08.27.43 (27 August, 2024)
 ### Changes
