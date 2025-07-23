@@ -1,9 +1,15 @@
 # Takeprofit Web GUI Configurator
 
+
+
 ## Version 2025.7.22.1226 (17 July, 2025)
 ### Changes
 * The ID of Dynamic leverage MT5 rule is added to each rule line.
 * Added checkboxes to NOP limit MT5 plugin.
+
+## Version 2025.7.21.692 (1 July, 2025)
+### Changes
+* Manager API connection of Swap control center is removed from WebGIU.
 
 ## Version 2025.7.17.440 (17 July, 2025)
 ### Changes
