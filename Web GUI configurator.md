@@ -2,7 +2,8 @@
 
 ## Version 2025.7.22.1226 (17 July, 2025)
 ### Changes
-* The ID of Dynamic leverage MT5 rule is added to each rule line. 
+* The ID of Dynamic leverage MT5 rule is added to each rule line.
+* Added checkboxes to NOP limit MT5 plugin.
 
 ## Version 2025.7.17.440 (17 July, 2025)
 ### Changes
