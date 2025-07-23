@@ -1,4 +1,4 @@
-# Takeprofit Web GUI Configurator
+# Web GUI сonfigurator
 
 
 
@@ -7,9 +7,15 @@
 * The ID of Dynamic leverage MT5 rule is added to each rule line.
 * Added checkboxes to NOP limit MT5 plugin.
 
-## Version 2025.7.21.692 (1 July, 2025)
+## Version 2025.7.21.692 (21 July, 2025)
 ### Changes
 * Manager API connection of Swap control center is removed from WebGIU.
+
+## Version 2025.7.18.638 (18 July, 2025)
+### Changes
+* Code is refactored, seevral minor exceptions are fixed.
+
+
 
 ## Version 2025.7.17.440 (17 July, 2025)
 ### Changes
@@ -17,7 +23,7 @@
 * EasyMAM MT5: Fixed SL request sending 0 instead of null while field is empty. Now to reset sl settings in a comment, you need to send null to a user's status [sl:null], not [sl:0]. Now 0 is a valid value;
 ## Version 2025.7.7.886 (7 July, 2025)
 ### Changes
-* Commission Manager MT5: added Accumulate commissions parameter;
+* Commission Manager MT5: added Accumulate commissions parameterю
 
 ## Version 2025.7.3.805 (7 July, 2025)
 ### Changes
