@@ -1,5 +1,10 @@
 # NOP limit MT5
 
+
+## Version 25.07.22.64 (22 Огдн, 2025)
+### Changes
+* Added "Enabled" option to each NOP rule to enable/disable it.
+
 ## Version 25.04.11.52 (11 April, 2025)
 ### Changes
 * Fixed operation of RuleLogins cache inside the plugin;
