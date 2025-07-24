@@ -1,5 +1,10 @@
 # TPT Bridge MT5
 
+
+## Version 25.07.22.43 (22 July, 2025)
+### Changes
+* The bug of incorrect VWAP price definition is fixed.
+
 ## Version 25.07.03.67 (3 July, 2025)
 ### Changes
 * Internal adjustments of the product (restrictions from 'cut' version are now put on gateway level);
