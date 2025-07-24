@@ -1,4 +1,4 @@
-# MT5RealMarginStopout
+# MT5 Real margin stopout
 
 ## Version v24.12.19.47 (19 December, 2024)
 ### Features
