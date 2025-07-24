@@ -1,4 +1,4 @@
-# Deal Recorder MT5
+# MT5 Deal bid - ask recorder
 
 ## Version 1.01-1.03 (October 2021 - February 2023)
 ### Changes
