@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.07.23.291 (23 July, 2025)
+### Changes
+* Risk management module syncronization is improved.
+
 ## Version 2025.07.09.558 (09 July, 2025)
 ### Changes
 * The width of Takers filed (Risk profiles => Rules) is increased.
