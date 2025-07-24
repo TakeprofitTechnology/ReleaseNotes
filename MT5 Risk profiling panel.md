@@ -1,6 +1,10 @@
-# Risk profiling panel
+# MT5 Risk profiling panel
 
-## Version v2025.7.15.390 (15 July, 2025)
+## Version 2025.7.23.515 (23 July, 2025)
+### Features
+* Module syncronization with TPT hub is improved.
+
+## Version 2025.7.15.390 (15 July, 2025)
 ### Features
 * Summary page has been added;
 * Added net deposits & withdrawals to the account information;
