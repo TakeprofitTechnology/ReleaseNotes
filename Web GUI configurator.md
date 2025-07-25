@@ -4,6 +4,7 @@
 ## Version 2025.7.24.863 (24 July, 2025)
 ### Changes
 * The titles of tabs in NOP MT5 plugin GUI are changed.
+* Bug of rules saving (NOP limit MT5) is fixed.
 
 ## Version 2025.7.22.1226 (17 July, 2025)
 ### Changes
