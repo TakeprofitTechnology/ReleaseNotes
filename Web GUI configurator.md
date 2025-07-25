@@ -14,6 +14,7 @@
 ## Version 2025.7.21.692 (21 July, 2025)
 ### Changes
 * Manager API connection of Swap control center is removed from WebGIU.
+* Validation that prevents incorrect symbols in slippage fields (all bridges and dealers) is added.
 
 ## Version 2025.7.18.638 (18 July, 2025)
 ### Changes
