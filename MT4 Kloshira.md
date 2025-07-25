@@ -1,4 +1,9 @@
-# Kloshira MT4
+# MT4 Kloshira
+
+
+## Version 25.07.21.39 (21 July, 2025)
+### Changes
+* Validation that prevents incorrect symbols in slippage fields is added.
 
 ## Version 25.06.27.44 (27 June, 2025)
 ### Changes
