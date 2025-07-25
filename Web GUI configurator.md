@@ -20,8 +20,6 @@
 ### Changes
 * Code is refactored, seevral minor exceptions are fixed.
 
-
-
 ## Version 2025.7.17.440 (17 July, 2025)
 ### Changes
 * EasyMAM MT5: Fixed message for SetDetachFee without specified period;
@@ -29,6 +27,11 @@
 ## Version 2025.7.7.886 (7 July, 2025)
 ### Changes
 * Commission Manager MT5: added Accumulate commissions parameterю
+
+
+## Version 2025.7.14.864 (14 July, 2025)
+### Changes
+* The GUI for Quote watcher MT4 plugin is added to the application.
 
 ## Version 2025.7.3.805 (7 July, 2025)
 ### Changes
