@@ -1,5 +1,11 @@
 # Kloshira MT5
 
+
+
+## Version 25.07.21.38 (21 July, 2025)
+### Changes
+Validation that prevents incorrect symbols in slippage fields is added.
+
 ## Version 25.06.11.54 (11 June, 2025)
 ### Changes
 * Fixed a bug when external data was not sent to LP with default rule with H mode;
