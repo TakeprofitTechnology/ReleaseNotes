@@ -26,7 +26,7 @@
 * EasyMAM MT5: Fixed SL request sending 0 instead of null while field is empty. Now to reset sl settings in a comment, you need to send null to a user's status [sl:null], not [sl:0]. Now 0 is a valid value;
 ## Version 2025.7.7.886 (7 July, 2025)
 ### Changes
-* Commission Manager MT5: added Accumulate commissions parameterю
+* Commission Manager MT5: added Accumulate commissions parameter.
 
 
 ## Version 2025.7.14.864 (14 July, 2025)
