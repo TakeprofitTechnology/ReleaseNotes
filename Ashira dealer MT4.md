@@ -1,4 +1,8 @@
-# Ashira Dealer MT4
+# Ashira dealer MT4
+
+## Version 25.07.21.38 (21 July, 2025)
+### Changes
+* Validation that prevents incorrect symbols in slippage fields is added.
 
 ## Version 25.06.27.52 (27 June, 2025)
 ### Changes
