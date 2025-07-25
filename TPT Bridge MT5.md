@@ -1,4 +1,4 @@
-# MT5 TPT Bridge
+# TPT Bridge MT5
 
 ## Version 25.07.22.43 (22 July, 2025)
 ### Changes
