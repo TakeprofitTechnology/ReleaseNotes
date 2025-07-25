@@ -2,10 +2,16 @@
 
 
 ## Version 2025.7.23.515 (23 July, 2025)
-### Features
+### Changes
 * Module syncronization with TPT hub is improved;
 * The error validation text of filters (summary tab) is improved.
 * Minor GUI popup bug fixes.
+
+
+
+## Version 2025.7.17.706 (17 July, 2025)
+### Changes
+* The bug of incorrect data displayed for accounts is fixed.
 
 ## Version 2025.7.15.390 (15 July, 2025)
 ### Features
