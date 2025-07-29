@@ -5,6 +5,7 @@
 ### Changes
 * Swap control center MT4 GUI is improved.
 * Kloshira MT5 GUI: the long values for reason field representation is improved.
+* Many minor GUI improvements for Swap control center MT5.
 
 ## Version 2025.7.24.863 (24 July, 2025)
 ### Changes
