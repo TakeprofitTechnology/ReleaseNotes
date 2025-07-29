@@ -1,9 +1,14 @@
 # Takeprofit hub
 
 
+
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
 * Risk management module syncronization is improved.
+
+## Version 2025.07.16.668 (16 July, 2025)
+### Changes
+* The book representation bug (volumes from all levels are collapsed to the GUI in one sigle level ) for all accounts except admin account is fixed.
 
 ## Version 2025.07.09.558 (09 July, 2025)
 ### Changes
