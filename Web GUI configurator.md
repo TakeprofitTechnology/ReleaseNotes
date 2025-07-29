@@ -1,6 +1,10 @@
 # Web GUI сonfigurator
 
 
+## Version 2025.7.28.1258 (28 July, 2025)
+### Changes
+* Swap control center MT4 GUI is improved.
+
 ## Version 2025.7.24.863 (24 July, 2025)
 ### Changes
 * The titles of tabs in NOP MT5 plugin GUI are changed.
