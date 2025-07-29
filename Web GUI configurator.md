@@ -9,6 +9,7 @@
 ### Changes
 * The titles of tabs in NOP MT5 plugin GUI are changed.
 * The logic of saving rules for all products is improved.
+* The names of columns inside of imported files (NOP limit MT5 plugin) are improved.
 
 ## Version 2025.7.22.1226 (17 July, 2025)
 ### Changes
