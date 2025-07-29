@@ -7,6 +7,10 @@
 * Kloshira MT5 GUI: the long values for reason field representation is improved.
 * Many minor GUI improvements for Swap control center MT5.
 
+## Version 2025.7.25.581 (25 July, 2025)
+### Changes
+* The representation of descrepancies in EasyMAM MT5 GUI is improved (minor GUI bugs are fixed).
+
 ## Version 2025.7.24.863 (24 July, 2025)
 ### Changes
 * The titles of tabs in NOP MT5 plugin GUI are changed.
