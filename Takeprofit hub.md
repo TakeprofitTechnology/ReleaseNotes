@@ -1,10 +1,12 @@
 # Takeprofit hub
 
-
-
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
-* Risk management module syncronization is improved.
+* Risk management module syncronization is improved.  
+
+## Version 2025.07.21.664 (21 July, 2025)
+### Changes
+* Bug is fixed: it was possible to remove taker even if it was confugured as dropcopy for some other taker.
 
 ## Version 2025.07.16.668 (16 July, 2025)
 ### Changes
