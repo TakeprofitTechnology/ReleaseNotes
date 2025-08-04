@@ -1,5 +1,9 @@
 # MT5 Flex Rebate
 
+## Version 25.07.29.53 (4 August, 2025)
+### Changes
+* Added logging of ret codes for failed agent's commission send requests.
+
 ## Version 25.05.30.44 (30 May, 2025)
 ### Features
 * UseSymbolPathInRules parameter has been added;
