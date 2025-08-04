@@ -9,6 +9,8 @@
 * Module syncronization with TPT hub is improved;
 * The error validation text of filters (summary tab) is improved.
 * Minor GUI popup bug fixes.
+### Features
+* Added the option to choose the exporting format (.tsv or .csv).
 
 ## Version 2025.7.17.706 (17 July, 2025)
 ### Changes
