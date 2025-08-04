@@ -1,13 +1,14 @@
 # MT5 Risk profiling panel
 
+## Version 2025.7.31.482 (31 July, 2025)
+### Changes
+* Added copyright to the bottom of all pages;
 
 ## Version 2025.7.23.515 (23 July, 2025)
 ### Changes
 * Module syncronization with TPT hub is improved;
 * The error validation text of filters (summary tab) is improved.
 * Minor GUI popup bug fixes.
-
-
 
 ## Version 2025.7.17.706 (17 July, 2025)
 ### Changes
