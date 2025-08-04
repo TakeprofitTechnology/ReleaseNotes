@@ -11,6 +11,7 @@
 * Minor GUI popup bug fixes.
 ### Features
 * Added the option to choose the exporting format (.tsv or .csv).
+* A new notification type 'Position profit within time period' has been added;
 
 ## Version 2025.7.17.706 (17 July, 2025)
 ### Changes
