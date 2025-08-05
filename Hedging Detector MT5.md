@@ -4,6 +4,10 @@
 ### Changes
 * Reduced the count of hedging events by not counting the closing operations if the position was just opened. 
 
+## Version 2025.7.28.776 (28 July, 2025)
+### Changes
+* Fixed the events duplication which led to extra CPU consumption;
+
 ## Version 2025.7.3.323 (3 July, 2025)
 ### Changes
 * ReceiverEmail is no more mandatory parameter;
