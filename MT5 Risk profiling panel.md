@@ -4,6 +4,10 @@
 ### Changes
 * Added copyright to the bottom of all pages;
 
+## Version 2025.7.29.484 (29 July, 2025)
+### Changes
+* Groups in Notifications tab has been renamed to Groups&Logins;
+
 ## Version 2025.7.23.515 (23 July, 2025)
 ### Changes
 * Module syncronization with TPT hub is improved;
