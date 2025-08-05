@@ -6,7 +6,7 @@
 
 ## Version 2025.7.29.484 (29 July, 2025)
 ### Changes
-* Groups in Notifications tab has been renamed to Groups&Logins;
+* Groups in Notifications tab has been changed to Groups & logins;
 
 ## Version 2025.7.23.515 (23 July, 2025)
 ### Changes
