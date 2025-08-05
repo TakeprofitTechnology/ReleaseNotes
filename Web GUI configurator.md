@@ -1,5 +1,8 @@
 # Web GUI сonfigurator
 
+## Version 2025.8.1.539 (1 August, 2025)
+### Changes
+* Manager API connection of Swap control center MT4 is removed from WebGUI.
 
 ## Version 2025.7.28.1258 (28 July, 2025)
 ### Changes
