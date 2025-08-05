@@ -1,5 +1,7 @@
 # EasyMAM MT5
 
+
+
 ## Version 2025.7.22.975 (22 July, 2025)
 ### Changes
 * Insentive is renamed to Profit fee in the GUI.
@@ -12,6 +14,9 @@
 ### Changes
 * Added workarounds for MT5 manager API issues (appeared after manager API updates).
 * Added the parameter DefaultInvestorSlValue as a part of workaround for MT5 manager API issues.
+
+
+
 
 ## Version 2025.7.4.799 (4 July, 2025)
 ### Changes
@@ -28,6 +33,10 @@
 ## Version 2025.6.4.554 (4 June, 2025)
 ### Changes
 * Validation improvement: now prevents any Money Manager's deal from being redistributed if it contains allocations to detached investors, logging an explicit error instead.
+
+## Version 2025.5.19.803 (19 May, 2025)
+### Changes
+* The information about manager account permissions is added to log files.
 
 ## Version 2025.5.13.537 (13 May, 2025)
 ### Changes
