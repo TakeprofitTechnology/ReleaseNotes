@@ -1,5 +1,10 @@
 # MT5 Risk profiling panel
 
+## Version 2025.8.5.674 (5 August, 2025)
+### Changes
+* Internal token usage optimisation.
+* Fixed the bug with added notifications were not shown in the list.
+
 ## Version 2025.7.31.482 (31 July, 2025)
 ### Changes
 * Added copyright to the bottom of all pages;
