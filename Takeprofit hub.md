@@ -5,6 +5,10 @@
 ### Changes
 * Minor GUI issues are fixed.
 
+## Version 2025.07.24.651 (24 July, 2025)
+### Changes
+* The export of Account's positions to TSV file is added.
+
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
 * Risk management module syncronization is improved.  
