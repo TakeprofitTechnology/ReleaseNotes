@@ -11,7 +11,8 @@
 
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
-* Risk management module syncronization is improved.  
+* Risk management module syncronization is improved.
+* Price channels import/export is improved (makers list is added to CSV files).
 
 ## Version 2025.07.21.664 (21 July, 2025)
 ### Changes
