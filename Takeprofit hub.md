@@ -1,6 +1,9 @@
 # Takeprofit hub
 
 
+## Version 2025.08.05.364 (5 August, 2025)
+### Changes
+* The hub saves price charts to it's database.
 
 ## Version 2025.08.04.329 (4 August, 2025)
 ### Changes
