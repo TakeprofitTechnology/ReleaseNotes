@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.8.5.629 (5 August, 2025)
+### Changes
+* Fixed auto-changing of columns width on update.
+
 ## Version 2025.7.16.652 (16 July, 2025)
 ### Changes
 * Fixed text convention in some places;
