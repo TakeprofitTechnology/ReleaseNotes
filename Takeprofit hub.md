@@ -1,6 +1,7 @@
 # Takeprofit hub
 
 
+
 ## Version 2025.08.04.329 (4 August, 2025)
 ### Changes
 * Minor GUI issues are fixed.
@@ -8,6 +9,7 @@
 ## Version 2025.07.24.651 (24 July, 2025)
 ### Changes
 * The export of Account's positions to TSV file is added.
+* Orders table filters are improved (now possible to set several criterias for filtering).
 
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
