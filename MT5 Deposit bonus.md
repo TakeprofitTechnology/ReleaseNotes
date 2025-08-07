@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 25.07.30.59 (31 July. 2025)
+### Changes
+* Fixed a bug with 'CreditExpirationDays' lead to fatal if not specified correctly;
+
 ## Version 25.07.15.49 (25 July, 2025)
 ### Changes
 * The parameter "CreditDrawdownPercent" is added to the plugin.
