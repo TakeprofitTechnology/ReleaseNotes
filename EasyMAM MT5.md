@@ -1,6 +1,9 @@
 # EasyMAM MT5
 
 
+## Version 2025.8.5.669 (5 August, 2025)
+### Changes
+* CpuLimitPercent parameter is added.
 
 ## Version 2025.7.22.975 (22 July, 2025)
 ### Changes
