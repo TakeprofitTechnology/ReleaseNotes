@@ -13,6 +13,7 @@
 ### Changes
 * The export of Account's positions to TSV file is added.
 * Orders table filters are improved (now possible to set several criterias for filtering).
+* Added "Inactive" section to Home page.
 
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
