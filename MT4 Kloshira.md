@@ -1,6 +1,10 @@
 # MT4 Kloshira
 
 
+## Version 25.08.05.41 (5 August, 2025)
+### Changes
+* Added a logic to filter orders with reasons "client" and "dealer".
+
 ## Version 25.07.21.39 (21 July, 2025)
 ### Changes
 * Validation that prevents incorrect symbols in slippage fields is added.
