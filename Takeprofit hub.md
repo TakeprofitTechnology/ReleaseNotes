@@ -15,6 +15,7 @@
 * The export of Account's positions to TSV file is added.
 * Orders table filters are improved (now possible to set several criterias for filtering).
 * Added "Inactive" section to Home page.
+* Added a possibility to specify the list of makers to price channels rules.
 
 ## Version 2025.07.23.291 (23 July, 2025)
 ### Changes
