@@ -1,10 +1,9 @@
 # Kloshira MT5
 
-
-
 ## Version 25.07.21.38 (21 July, 2025)
 ### Changes
-Validation that prevents incorrect symbols in slippage fields is added.
+* Validation that prevents incorrect symbols in slippage fields is added.
+* The bug of incorrect VWAP price definition is fixed.
 
 ## Version 25.06.11.54 (11 June, 2025)
 ### Changes
