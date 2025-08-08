@@ -8,6 +8,7 @@
 ## Version 2025.08.04.329 (4 August, 2025)
 ### Changes
 * Minor GUI issues are fixed.
+* The several parts of code is refactored (minor improvements).
 
 ## Version 2025.07.24.651 (24 July, 2025)
 ### Changes
