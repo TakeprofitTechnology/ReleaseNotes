@@ -4,6 +4,7 @@
 ## Version 2025.08.05.364 (5 August, 2025)
 ### Changes
 * The hub saves price charts to it's database.
+* Minor export TSV bugs are fixed.
 
 ## Version 2025.08.04.329 (4 August, 2025)
 ### Changes
