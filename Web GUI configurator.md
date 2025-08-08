@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.8.5.625 (5 August, 2025)
+### Changes
+* For Kloshira MT4 GUI the fields Reason and Type are made as dropdown lists.
+
 ## Version 2025.8.1.539 (1 August, 2025)
 ### Changes
 * Manager API connection of Swap control center MT4 is removed from WebGUI.
