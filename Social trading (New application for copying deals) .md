@@ -2,7 +2,7 @@
 
 ## Version 2025.8.8.422 (8 August, 2025)
 ### Changes
-* Added 2 new features for administrator dashboard: Enabling/disabling SL and enabling/disabling equity limit.
+* Added 2 new features for administrator dashboard: enabling/disabling SL and enabling/disabling equity limit.
 
 ## Version 2025.8.5.629 (5 August, 2025)
 ### Changes
