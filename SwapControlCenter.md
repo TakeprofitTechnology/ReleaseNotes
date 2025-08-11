@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version 25.08.06.56 (6 August, 2025)
+### Features
+* 'Charge swap on excess' option has been added to WebGUI rules.
+
 ## Version 25.07.03.31 (3 July, 2025)
 ### Features
 * Swap allowance type parameter has been added;
