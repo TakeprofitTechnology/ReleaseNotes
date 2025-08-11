@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 25.08.08.44 (11 August, 2025)
+### Changes
+* Fixed an issue when SO triggerring did not lead to credits deduction. Now when SO is triggered, plugin deduct credits correctly.
+
 ## Version 25.07.30.59 (31 July. 2025)
 ### Changes
 * Fixed a bug with 'CreditExpirationDays' led to fatal if not specified correctly;
