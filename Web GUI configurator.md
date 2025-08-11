@@ -1,8 +1,10 @@
 # Web GUI сonfigurator
 
+
 ## Version 2025.8.5.625 (5 August, 2025)
 ### Changes
 * For Kloshira MT4 GUI the fields Reason and Type are made as dropdown lists.
+* SwapControlCenterMT5: 'Charge swap on excess' added to WebGUI rules.
 
 ## Version 2025.8.1.539 (1 August, 2025)
 ### Changes
