@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## 2025.8.11.577 (11 August, 2025)
+### Changes
+* Fixed value validation in the Delay (bridges and ashira) field to support all floating-point interval formats.
+* Changed the logging level (from ERROR to WARNING) for validation when clicking the Save Rules button.
 
 ## Version 2025.8.5.625 (5 August, 2025)
 ### Changes
