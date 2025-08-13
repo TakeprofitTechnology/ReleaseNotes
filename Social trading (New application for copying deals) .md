@@ -4,6 +4,7 @@
 ### Changes
 * Several parameters in leader's profile which cannot be changed marked grey.
 * Fixed text convention in several places.
+* Fixed a bug when some artifacts appeared in WebGUI after adding data with API request.
 
 ## Version 2025.8.8.422 (8 August, 2025)
 ### Changes
