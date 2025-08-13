@@ -3,6 +3,7 @@
 ## Version 2025.8.13.634 (13 August, 2025)
 ### Changes
 * Several parameters in leader's profile which cannot be changed marked grey.
+* Fixed text convention in several places.
 
 ## Version 2025.8.8.422 (8 August, 2025)
 ### Changes
