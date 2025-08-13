@@ -6,6 +6,7 @@
 * Fixed text convention in several places.
 * Fixed a bug when some artifacts appeared in WebGUI after adding data with API request.
 * Renamed several buttons in administrator WebGUI.
+* Fixed text in search bar.
 
 ## Version 2025.8.8.422 (8 August, 2025)
 ### Changes
