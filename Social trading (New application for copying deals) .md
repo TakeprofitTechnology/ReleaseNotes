@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.8.13.634 (13 August, 2025)
+### Changes
+* Several parameters in leader's profile which cannot be changed marked grey.
+
 ## Version 2025.8.8.422 (8 August, 2025)
 ### Changes
 * Added 2 new features for administrator dashboard: enabling/disabling SL and enabling/disabling equity limit.
