@@ -12,8 +12,6 @@
 * Several parts of code are refactored (minor improvements).
 
 ## Version 2025.07.24.651 (24 July, 2025)
-### Features
-* "Dropcopy to taker" is added to takers' settings.
 ### Changes
 * The export of Account's positions to TSV file is added.
 * Orders table filters are improved (now possible to set several criterias for filtering).
@@ -41,6 +39,8 @@
 * Small improvements for position adjustment (Account => Positions) are added.
 
 ## Version 2025.07.03.329 (03 July, 2025)
+### Features
+* "Dropcopy to taker" is added to takers' settings.
 ### Changes
 * Fixed the bug of incorrect notification representation in Risk management tab.
 * Small improvements to makers connection string are added.
