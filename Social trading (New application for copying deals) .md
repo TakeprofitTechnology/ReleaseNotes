@@ -9,6 +9,7 @@
 * Fixed text in search bar.
 ## Features
 * Equity (round DOWN) mode added.
+* New API endpoints have been added.
 
 ## Version 2025.8.8.422 (8 August, 2025)
 ### Changes
