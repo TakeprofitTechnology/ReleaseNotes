@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.8.14.555 (15 August, 2025)
+### Changes
+* Added loading bar to the header tabs for situations when metatrader data is not yet loaded.
+
 ## Version 2025.8.13.634 (13 August, 2025)
 ### Changes
 * Several parameters in leader's profile which cannot be changed marked grey.
