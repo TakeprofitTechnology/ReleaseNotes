@@ -1,5 +1,9 @@
 # TPT Bridge MT5
 
+## Version 25.08.15.37 (19 August, 2025)
+### Changes
+* Changed license name to Takeprofit Bridge MT5.
+
 ## Version 25.07.22.43 (22 July, 2025)
 ### Changes
 * The bug of incorrect VWAP price definition is fixed.
