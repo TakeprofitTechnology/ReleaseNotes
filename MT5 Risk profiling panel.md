@@ -1,9 +1,10 @@
 # MT5 Risk profiling panel
 
-## Version 2025.8.11.564 (20 August, 2025)
+## Version 2025.8.15.645 (20 August, 2025)
 ### Changes
 * Fixed the bug with application processed single operation twice.
 * Fixed the bug with PnL zeroed instead of going negative.
+* Fixed the bug when server did not connect to application properly.
 
 ## Version 2025.8.5.674 (5 August, 2025)
 ### Changes
