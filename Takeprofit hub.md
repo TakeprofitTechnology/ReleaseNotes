@@ -4,7 +4,8 @@
 ### Changes
 * VULKAN maker type has been added.
 * Fixed the issue with order 'Off Quotes' reject when adding symbol through a Price channel.
-* Fixed exception on application shutdown. 
+* Fixed exception on application shutdown.
+* Removed the possibility for the user to delete himself.
 
 ## Version 2025.08.05.364 (5 August, 2025)
 ### Changes
