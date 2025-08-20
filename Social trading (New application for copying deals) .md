@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.8.20.662 (20 August, 2025)
+### Changes
+* Added a notification regarding restriction for netting accoutns.
+
 ## Version 2025.8.14.555 (15 August, 2025)
 ### Changes
 * Added loading bar to the header tabs for situations when metatrader data is not yet loaded.
