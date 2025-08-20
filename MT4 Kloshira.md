@@ -3,6 +3,7 @@
 ## Version v25.08.15.38 (18 August, 2025)
 ### Changes
 * Fixed reason match between acceptor and connector parts.
+* License name has been changed to Takeprofit Bridge MT4.
 
 ## Version 25.08.05.41 (5 August, 2025)
 ### Changes
