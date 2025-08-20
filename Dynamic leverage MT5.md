@@ -1,5 +1,8 @@
 # Dynamic leverage MT5
 
+## Version 25.08.11.41 (18 August, 2025)
+### Changes
+* Added error message for unsupported parameters.
 
 ## Version 25.07.22.1226 (22 July, 2025)
 ### Changes
