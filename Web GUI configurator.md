@@ -1,8 +1,9 @@
 # Web GUI сonfigurator
 
-## Version v2025.8.15.390 (19 August, 2025)
+## Version 2025.8.18.589 (19 August, 2025)
 ### Changes
 * Removed exceptions from logging;
+* Max Position Exposure & Ashira Dealer WebGUIs were aligned with the design.
 
 ## 2025.8.11.577 (11 August, 2025)
 ### Changes
