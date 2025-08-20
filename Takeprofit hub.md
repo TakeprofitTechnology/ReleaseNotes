@@ -8,6 +8,7 @@
 * Removed the possibility for the user to delete himself.
 ### Features
 * Schedule has been added to Risk profiling rules.
+* Reject option has been added to Risk profiling rules.
 
 ## Version 2025.08.05.364 (5 August, 2025)
 ### Changes
