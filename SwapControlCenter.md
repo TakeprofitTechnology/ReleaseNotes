@@ -2,7 +2,8 @@
 
 ## Version 25.08.18.33 (19 August, 2025)
 ### Changes
-* Logic for marking positions updated by the plugin has been added. Migration logic has been added, which consists of a one-time marking of all open positions under the plugin. 
+* Logic for marking positions updated by the plugin has been added. Migration logic has been added, which consists of a one-time marking of all open positions under the plugin.
+* Fixed the bug with unhandled exception. 
 
 ## Version 25.08.06.56 (6 August, 2025)
 ### Features
