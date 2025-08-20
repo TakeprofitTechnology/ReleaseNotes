@@ -4,6 +4,7 @@
 ### Changes
 * Added a notification regarding restriction for netting accoutns.
 * Fixed incorrect representation of volume on instruments with small steps (like BTCUSD).
+* Remain fee API digits count has been adjusted.
 
 ## Version 2025.8.14.555 (15 August, 2025)
 ### Changes
