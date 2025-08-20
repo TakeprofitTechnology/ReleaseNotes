@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+## Version 2025.08.19.510 (19 August, 2025)
+### Changes
+* VULKAN maker type has been added.
 
 ## Version 2025.08.05.364 (5 August, 2025)
 ### Changes
