@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.8.11.564 (20 August, 2025)
+### Changes
+* Fixed the bug with application processed single operation twice.
+
 ## Version 2025.8.5.674 (5 August, 2025)
 ### Changes
 * Internal token usage optimisation.
