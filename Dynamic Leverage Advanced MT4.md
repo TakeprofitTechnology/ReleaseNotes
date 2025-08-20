@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.08.11.41 (18 August, 2025)
+### Changes
+* Added error message for unsupported parameters.
+
 ## Version 25.06.30.46 (30 June, 2025)
 ### Changes
 * Added readable falal log message for license exceptions.
