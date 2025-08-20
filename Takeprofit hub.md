@@ -3,6 +3,7 @@
 ## Version 2025.08.19.510 (19 August, 2025)
 ### Changes
 * VULKAN maker type has been added.
+* Fixed the issue with order 'Off Quotes' reject when adding symbol through a Price channel.  
 
 ## Version 2025.08.05.364 (5 August, 2025)
 ### Changes
