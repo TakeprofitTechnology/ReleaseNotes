@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2025.8.20.566 (20 August, 2025)
+### Changes
+* Equity LP column has been removed.
+
 ## Version 2025.6.16.455 (16 June, 2025)
 ### Features
 * DefaultPositionComparisonThreshold and SymbolPositionComparisonThreshold parameters have been added;
