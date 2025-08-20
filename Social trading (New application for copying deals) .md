@@ -3,7 +3,7 @@
 ## Version 2025.8.20.662 (20 August, 2025)
 ### Changes
 * Added a notification regarding restriction for netting accoutns.
-* Fixed incorrect representation of volume on instruments with small volumes (like BTCUSD).
+* Fixed incorrect representation of volume on instruments with small steps (like BTCUSD).
 
 ## Version 2025.8.14.555 (15 August, 2025)
 ### Changes
