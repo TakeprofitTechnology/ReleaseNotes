@@ -4,6 +4,10 @@
 ### Changes
 * Changed license name to Takeprofit Bridge MT5.
 
+## Version 25.08.13.52 (14 August, 2025)
+### Changes
+* Fixed issue with Bridge did not start after MT server restart. 
+
 ## Version 25.07.22.43 (22 July, 2025)
 ### Changes
 * The bug of incorrect VWAP price definition is fixed.
