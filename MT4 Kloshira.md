@@ -1,4 +1,4 @@
-# MT4 Kloshira
+# MT4 Takeprofit Bridge
 
 ## Version v25.08.15.38 (18 August, 2025)
 ### Changes
