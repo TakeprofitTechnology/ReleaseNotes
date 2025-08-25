@@ -1,4 +1,4 @@
-# TPT Bridge MT5
+# Takeprofit Bridge MT5
 
 ## Version 25.08.15.37 (19 August, 2025)
 ### Changes
