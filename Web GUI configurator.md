@@ -1,5 +1,11 @@
 # Web GUI сonfigurator
 
+## Version 2025.8.22.1010 (22 August, 2025)
+### Changes
+* MT4 Kloshira has been renamed to MT4 Takeprofit Bridge.
+* TPT Bridge has been renamed to MT5 Takeprofit Bridge.
+* Minor visual improvements.
+
 ## Version 2025.8.18.589 (19 August, 2025)
 ### Changes
 * Removed exceptions from logging;
