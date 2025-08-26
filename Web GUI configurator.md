@@ -4,6 +4,7 @@
 ### Changes
 * Removed '_console.start.bat' from the WebGUI folder.
 * SwapControlCenter: fixed saving popup.
+* Headers for multiple products have been fixed to the screen side when scrolling the page for better accessibility.
 
 ## Version 2025.8.22.1010 (22 August, 2025)
 ### Changes
