@@ -1,5 +1,9 @@
 # Takeprofit hub
 
+## Version 2025.08.22.698 (22 August, 2025)
+### Changes
+* Fixed the issue when disabled maker sent FIX messages.
+
 ## Version 2025.08.19.510 (19 August, 2025)
 ### Changes
 * VULKAN maker type has been added.
