@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 25.08.22.58 (26 August, 2025)
+### Features
+* CreditRemovalOnBalanceLossPercent parameter has been added.
+
 ## Version 25.08.08.44 (11 August, 2025)
 ### Changes
 * Fixed an issue when SO triggerring did not lead to credits deduction. Now when SO is triggered, plugin deduct credits correctly.
