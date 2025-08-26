@@ -1,5 +1,10 @@
 # Web GUI сonfigurator
 
+## Version 2025.8.26.465 (25 August, 2025)
+### Changes
+* Removed '_console.start.bat' from the WebGUI folder.
+* SwapControlCenter MT4: fixed saving popup.
+
 ## Version 2025.8.22.1010 (22 August, 2025)
 ### Changes
 * MT4 Kloshira has been renamed to MT4 Takeprofit Bridge.
