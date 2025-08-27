@@ -1,5 +1,11 @@
 # TPT Social trading
 
+## Version 2025.8.27.472 (27 August, 2025)
+### Changes
+* Fixed warning hints on registration page.
+* Fixed leader popup.
+* Added information about credit.
+
 ## Version 2025.8.20.662 (20 August, 2025)
 ### Changes
 * Added a notification regarding restriction for netting accoutns.
