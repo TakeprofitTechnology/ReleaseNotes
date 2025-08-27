@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.8.26.671 (26 August, 2025)
+### Changes
+* Fixed progress bar showed incorrect data after refresh.
+
 ## Version 2025.8.15.645 (20 August, 2025)
 ### Changes
 * Fixed the bug with application processed single operation twice.
