@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 25.08.26.36 (26 August, 2025)
+### Changes
+* Added log messages for volumes out of tiers.
+
 ## Version 25.08.11.41 (18 August, 2025)
 ### Changes
 * Added error message for unsupported parameters.
