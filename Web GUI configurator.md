@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.8.27.472 (27 August, 2025)
+### Changes
+* Fixed pages for Takeprofit Bridge MT4.
+
 ## Version 2025.8.26.465 (25 August, 2025)
 ### Changes
 * Removed '_console.start.bat' from the WebGUI folder.
