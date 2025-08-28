@@ -1,5 +1,10 @@
 # Takeprofit hub
 
+
+## Version 2025.08.26.654 (26 August, 2025)
+### Changes
+* The bug of incorrect book representation (hub symbols) is fixed.
+
 ## Version 2025.08.22.698 (22 August, 2025)
 ### Changes
 * Fixed the issue when disabled maker sent FIX messages.
