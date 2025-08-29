@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.8.28.853 (28 August, 2025)
+### Changes
+* DrawdownLimit: fixed columns size & text.
+
 ## Version 2025.8.27.472 (27 August, 2025)
 ### Changes
 * Fixed pages for Takeprofit Bridge MT4.
