@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.08.26.65 (26 August, 2025)
+### Changes
+* Fixed an issue with order execution by old price in FillUsingOrderBook mode.
+
 ## Version 25.08.15.37 (19 August, 2025)
 ### Changes
 * Changed license name to Takeprofit Bridge MT5.
