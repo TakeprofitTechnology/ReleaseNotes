@@ -3,6 +3,7 @@
 ## Version 2025.8.28.853 (28 August, 2025)
 ### Changes
 * DrawdownLimit: fixed columns size & text.
+* Fixed checkbox issue with saving a rule.
 
 ## Version 2025.8.27.472 (27 August, 2025)
 ### Changes
