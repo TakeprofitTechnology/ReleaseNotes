@@ -15,6 +15,7 @@
 * Fixed the issue with order 'Off Quotes' reject when adding symbol through a Price channel.
 * Fixed exception on application shutdown.
 * Removed the possibility for the user to delete himself.
+* Execution map view is improved.
 ### Features
 * Schedule has been added to Risk profiling rules.
 * Reject option has been added to Risk profiling rules.
