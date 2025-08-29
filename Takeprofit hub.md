@@ -20,6 +20,11 @@
 * Schedule has been added to Risk profiling rules.
 * Reject option has been added to Risk profiling rules.
 
+
+## Version 2025.08.07.546 (7 August, 2025)
+### Features
+* The execution map is added to the hub to represent the map of current connections.
+
 ## Version 2025.08.05.364 (5 August, 2025)
 ### Changes
 * The hub saves price charts to it's database.
