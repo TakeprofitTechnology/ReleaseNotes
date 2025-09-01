@@ -3,9 +3,6 @@
 ## Version 25.08.26.36 (26 August, 2025)
 ### Changes
 * Journal logs have been rebuilt for better user perception.
-
-## Version 25.08.26.36 (26 August, 2025)
-### Changes
 * Added log messages for volumes out of tiers.
 
 ## Version 25.08.11.41 (18 August, 2025)
