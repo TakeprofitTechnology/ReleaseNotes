@@ -3,6 +3,7 @@
 ## Version 2025.8.29.457 (1 September, 2025)
 ### Changes
 * Delete button design has been changed.
+* Changing orders of the rules applies as rule changing action.
 
 ## Version 2025.8.28.853 (28 August, 2025)
 ### Changes
