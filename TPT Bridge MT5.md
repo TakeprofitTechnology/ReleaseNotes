@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.09.01.46 (1 September, 2025)
+### Changes
+* 'Country' is added to the Rules.
+
 ## Version 25.08.26.65 (26 August, 2025)
 ### Changes
 * Fixed an issue with order execution by old price in FillUsingOrderBook mode.
