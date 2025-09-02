@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.8.29.668 (29 August, 2025)
+### Changes
+* Added filters to Risk profiling.
+
 ## Version 2025.8.26.671 (26 August, 2025)
 ### Changes
 * Fixed progress bar showed incorrect data after refresh.
