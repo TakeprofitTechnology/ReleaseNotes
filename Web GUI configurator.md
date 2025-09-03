@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.9.1.697 (1 September, 2025)
+### Changes
+* Takeprofit Bridge MT5: Added 'Country' option to Rules.
+ 
 ## Version 2025.8.29.457 (1 September, 2025)
 ### Changes
 * Delete button design has been changed.
