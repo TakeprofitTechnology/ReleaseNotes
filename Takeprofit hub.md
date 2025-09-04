@@ -7,6 +7,7 @@
 ## Version 2025.08.29.390 (29 August, 2025)
 ### Changes
 * Placeholders are added to empty fields of Account column in risk profiles rules.
+* The bug is fixed: sometimes it was not possible to remove the open positions of margin account.
 
 ## Version 2025.08.26.654 (26 August, 2025)
 ### Changes
