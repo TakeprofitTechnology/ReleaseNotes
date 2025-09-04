@@ -28,6 +28,10 @@
 * Schedule has been added to Risk profiling rules.
 * Reject option has been added to Risk profiling rules.
 
+## Version 2025.08.14.490 (14 August, 2025)
+### Changes
+* The navigation bar is restructured.
+
 
 ## Version 2025.08.07.546 (7 August, 2025)
 ### Features
