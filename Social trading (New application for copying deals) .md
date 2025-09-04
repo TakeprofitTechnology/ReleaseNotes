@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2025.9.2.729 (3 September, 2025)
+### Changes
+* Fixed login error text.
+* Following fee has been added to MT4.
+
 ## Version 2025.8.27.472 (27 August, 2025)
 ### Changes
 * Fixed warning hints on registration page.
