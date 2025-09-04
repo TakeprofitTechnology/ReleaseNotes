@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.9.4.698 (4 September, 2025)
+### Changes
+* Fixed the bug with ROI's column sorting was invisible. 
+
 ## Version 2025.9.2.729 (3 September, 2025)
 ### Changes
 * Fixed login error text.
