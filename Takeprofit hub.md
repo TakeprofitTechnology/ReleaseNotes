@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.08.29.390 (29 August, 2025)
+### Changes
+* Placeholders was added to empty fields of Account column in risk profiles rules.
+
 ## Version 2025.08.26.654 (26 August, 2025)
 ### Changes
 * The bug of incorrect book representation (hub symbols) is fixed.
