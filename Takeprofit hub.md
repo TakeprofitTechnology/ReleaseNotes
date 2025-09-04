@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+## Version 2025.09.01.327 (1 September, 2025)
+### Changes
+* Some minor GUI changes.
 
 ## Version 2025.08.29.390 (29 August, 2025)
 ### Changes
