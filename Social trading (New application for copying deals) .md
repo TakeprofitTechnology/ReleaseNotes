@@ -2,7 +2,8 @@
 
 ## Version 2025.9.4.698 (4 September, 2025)
 ### Changes
-* Fixed the bug with ROI's column sorting was invisible. 
+* Fixed the bug with ROI's column sorting was invisible.
+* Fixed the bug with blinking screen on some dropdown menus.
 
 ## Version 2025.9.2.729 (3 September, 2025)
 ### Changes
