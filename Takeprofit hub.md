@@ -17,6 +17,8 @@
 ### Changes
 * Fixed the issue when disabled maker sent FIX messages.
 * Minor GUI changes.
+### Features
+* Filters are added to market watch.
 
 ## Version 2025.08.19.510 (19 August, 2025)
 ### Changes
