@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.9.4.221 (8 September, 2025)
+### Changes
+* Fixed error placeholder position.
+
 ## Version 2025.9.1.697 (1 September, 2025)
 ### Changes
 * Takeprofit Bridge MT5: Added 'Country' option to Rules.
