@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version v2025.9.5.692 (8 September, 2025)
+### Changes
+* Fixed vertical scroll bug.
+
 ## Version 2025.9.4.698 (4 September, 2025)
 ### Changes
 * Fixed the bug with ROI's column sorting was invisible.
