@@ -14,6 +14,10 @@
 ### Changes
 * Fixed a bug with 'CreditExpirationDays' led to fatal if not specified correctly;
 
+## Version 25.07.18.56 (18 July, 2025)
+### Changes
+* Fixed duplicating credit charging.
+
 ## Version 25.07.15.49 (25 July, 2025)
 ### Changes
 * The parameter "CreditDrawdownPercent" is added to the plugin.
