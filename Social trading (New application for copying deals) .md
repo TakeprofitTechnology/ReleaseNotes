@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.9.9.632 (9 September, 2025)
+### Changes
+* Fixed vertical scroll behavior.
+
 ## Version v2025.9.5.692 (8 September, 2025)
 ### Changes
 * Fixed vertical scroll bug.
