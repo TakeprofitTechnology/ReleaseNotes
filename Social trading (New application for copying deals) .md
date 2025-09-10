@@ -3,6 +3,7 @@
 ## Version 2025.9.9.632 (9 September, 2025)
 ### Changes
 * Fixed vertical scroll behavior.
+* Connection attempts in log files have been moved to 'warning' level.
 
 ## Version v2025.9.5.692 (8 September, 2025)
 ### Changes
