@@ -4,6 +4,7 @@
 ### Changes
 * Fixed vertical scroll behavior.
 * Connection attempts in log files have been moved to 'warning' level.
+* 'Add server' dialog field has been reworked.
 
 ## Version v2025.9.5.692 (8 September, 2025)
 ### Changes
