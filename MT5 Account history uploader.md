@@ -2,6 +2,7 @@
 ## Version 2025.9.10.474 (10 September, 2025)
 ### Changes
 * Fixed the bug when commissions were not uploaded to Deals.
+* Added more option columns for Deals and Orders.
 
 ## Version 2025.9.1.519 (1 September, 2025)
 ### Changes
