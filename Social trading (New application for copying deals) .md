@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2025.9.11.576 (11 September, 2025)
+### Changes
+* Added a new parameter for enabling debug server.
+* Fixed issue with volume calculation with different step volumes on leader and follower (for connections between MT4 and MT5).
+
 ## Version 2025.9.9.632 (9 September, 2025)
 ### Changes
 * Fixed vertical scroll behavior.
