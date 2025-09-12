@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.09.10.373 (10 September, 2025)
+### Changes
+* Minor GUI fixes.
+
 ## Version 2025.09.03.403 (3 September, 2025)
 ### Changes
 * The representation of makers positions tab is fixed.
