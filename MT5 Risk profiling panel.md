@@ -1,5 +1,13 @@
 # MT5 Risk profiling panel
 
+## Version 2025.9.11.587 (15 September, 2025)
+### Changes
+* Fixed text convention on filter popups.
+* Fixed the bug with 'News' trades were not calculated properly.
+* Fixed the bug with 'Scalping' trades displayed incorrect value.
+* Changed error text on risk profiling settings.
+* Disconnected servers popup has been hidden.
+
 ## Version 2025.8.29.668 (29 August, 2025)
 ### Changes
 * Added filters to Risk profiling.
