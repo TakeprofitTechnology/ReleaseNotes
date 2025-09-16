@@ -8,6 +8,7 @@
 ### Changes
 * The representation of makers positions tab is fixed.
 * Risk profiles: the search for account field is improved.
+* Requested price definition for orders is improved.
 
 ## Version 2025.09.01.327 (1 September, 2025)
 ### Changes
