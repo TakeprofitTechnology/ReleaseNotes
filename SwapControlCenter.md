@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version 25.09.11.56 (9 September, 2025)
+### Changes
+* Logging has been improved.
+
 ## Version 25.08.15.25 (19 August, 2025)
 ### Changes
 * CRYPTO type of swaps has been removed.
