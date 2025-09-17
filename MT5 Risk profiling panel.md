@@ -1,5 +1,10 @@
 # MT5 Risk profiling panel
 
+## Version 2025.9.12.704 (12 September, 2025)
+### Changes
+* MT4 server initialization logging was improved.
+* Inner logic was improved in case if initialization stalls.
+
 ## Version 2025.9.11.587 (15 September, 2025)
 ### Changes
 * Fixed text convention on filter popups.
