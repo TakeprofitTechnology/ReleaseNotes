@@ -101,6 +101,7 @@
 * Fixed a bug with no possibility to put negative values to price channels markups.
 ### Features
 * Added the parameter “Start book from level”.
+* The notifications are added.
 
 ## Version 2025.06.26.530 (26 June, 2025)
 ### Changes
