@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 25.09.18.50 (22 September, 2025)
+### Changes
+* Improved order processing to avoid stucking in 'started' state.
+
 ## Version 25.08.26.36 (26 August, 2025)
 ### Changes
 * Journal logs have been rebuilt for better user perception.
