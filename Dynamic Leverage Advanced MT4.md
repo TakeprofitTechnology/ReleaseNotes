@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.09.19.67 (19 September, 2025)
+### Features
+* ForceRecalculation parameter has been added to the plugin.
+
 ## Version 25.08.11.41 (18 August, 2025)
 ### Changes
 * Added error message for unsupported parameters.
