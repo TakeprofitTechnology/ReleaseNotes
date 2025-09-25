@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.09.25.46 (25 September, 2025)
+### Changes
+* Added sending of owner info to the License server.
+
 ## Version 25.09.01.46 (1 September, 2025)
 ### Changes
 * 'Country' is added to the Rules.
