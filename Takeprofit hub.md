@@ -1,5 +1,9 @@
 # Takeprofit hub
 
+## Version 2025.09.23.861 (23 September, 2025)
+### Changes
+* Optimization has been performed for FIX connection speed improvement.
+
 ## Version 2025.09.10.373 (10 September, 2025)
 ### Changes
 * Minor GUI fixes.
