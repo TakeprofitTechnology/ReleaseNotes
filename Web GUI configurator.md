@@ -3,6 +3,7 @@
 ## Version 2025.9.22.613 (22 September, 2025)
 ### Changes
 * Takeprofit Bridge MT5: fixed missing rule after Rules.csv import.
+* Takeprofit Bridge MT5: added color sample to 'Account color'.
 ### Features
 * Automatic switch to backup server feature has been implemented for the prodcuts which are designed for this (Takeprofit Bridge, Drawdown Limit MT5);
 
