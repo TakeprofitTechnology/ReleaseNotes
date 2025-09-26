@@ -4,6 +4,7 @@
 ### Changes
 * Takeprofit Bridge MT5: fixed missing rule after Rules.csv import.
 * Takeprofit Bridge MT5: added color sample to 'Account color'.
+* Hints are removed when hovering mouse over the cell
 ### Features
 * Automatic switch to backup server feature has been implemented for the prodcuts which are designed for this (Takeprofit Bridge, Drawdown Limit MT5);
 
