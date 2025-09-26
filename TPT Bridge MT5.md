@@ -4,6 +4,10 @@
 ### Changes
 * Added sending of group owners info to the Report server.
 
+## Version 25.09.15.37 (15 September, 2025)
+### Features
+* 'Send test trade' added to 'Tools'.
+
 ## Version 25.09.01.46 (1 September, 2025)
 ### Changes
 * 'Country' is added to the Rules.
