@@ -3,6 +3,8 @@
 ## Version 2025.9.22.613 (22 September, 2025)
 ### Changes
 * Takeprofit Bridge MT5: fixed missing rule after Rules.csv import.
+### Features
+* Backup automatic switch feature has been implemented for the prodcuts which are designed for this (Takeprofit Bridge, Drawdown Limit MT5);
 
 ## Version 2025.9.4.221 (8 September, 2025)
 ### Changes
