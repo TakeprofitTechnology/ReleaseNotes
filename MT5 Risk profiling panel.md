@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.9.23.550 (23 Septermber, 2025)
+### Changes
+* Credit now is shown separately from the overall balance.
+
 ## Version 2025.9.12.704 (12 September, 2025)
 ### Changes
 * MT4 server initialization logging was improved.
