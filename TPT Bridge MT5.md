@@ -2,7 +2,7 @@
 
 ## Version 25.09.25.46 (25 September, 2025)
 ### Changes
-* Added sending of owner info to the License server.
+* Added sending of group owners info to the Report server.
 
 ## Version 25.09.01.46 (1 September, 2025)
 ### Changes
