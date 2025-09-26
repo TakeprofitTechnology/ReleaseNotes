@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.9.22.613 (22 September, 2025)
+### Changes
+* Takeprofit Bridge MT5: fixed missing rule after Rules.csv import.
+
 ## Version 2025.9.4.221 (8 September, 2025)
 ### Changes
 * Fixed error placeholder position.
