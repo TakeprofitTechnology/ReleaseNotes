@@ -3,6 +3,7 @@
 ## Version 25.09.29.67 (29 September, 2025)
 ### Changes
 * Fixed the calculation of 'marginBeforeRecalc' parameter after reopening a position.
+* New reasons have been added to plugin logs. 
 
 ## Version 25.09.18.50 (22 September, 2025)
 ### Changes
