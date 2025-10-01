@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.09.26.42 (30 September, 2025)
+### Changes
+* Log messages have been improved for better understanding.
+
 ## Version 25.09.25.46 (25 September, 2025)
 ### Changes
 * Added sending of group owners info to the Report server.
