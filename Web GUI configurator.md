@@ -5,6 +5,7 @@
 * Fixed hints on hovering.
 * Long names on cards are now breaks into several lines.
 * Takeprofit Bridge MT5: Action names have been changed.
+* The processing of the Enter and Tab keys in tables has been corrected.
 
 ## Version 2025.9.22.613 (22 September, 2025)
 ### Changes
