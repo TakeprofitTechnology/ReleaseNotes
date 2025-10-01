@@ -1,5 +1,11 @@
 # Web GUI сonfigurator
 
+## Version 2025.9.29.678 (30 September, 2025)
+### Changes
+* Fixed hints on hovering.
+* Long names on cards are now breaks into several lines.
+* Takeprofit Bridge MT5: Action names have been changed.
+
 ## Version 2025.9.22.613 (22 September, 2025)
 ### Changes
 * Takeprofit Bridge MT5: fixed missing rule after Rules.csv import.
