@@ -3,6 +3,7 @@
 ## Version 25.10.01.33 (1 October, 2025)
 ### Changes
 * Fixed creation of zero balance operation is some cases.
+* Added a check for the user's current credit state in the withdrawal logic to prevent deducting already deducted credit. 
 
 ## Version 25.08.22.58 (26 August, 2025)
 ### Features
