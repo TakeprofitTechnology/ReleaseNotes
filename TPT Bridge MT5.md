@@ -3,6 +3,7 @@
 ## Version 25.10.01.52 (1 October, 2025)
 ### Features
 * 'Zip' is added to the Rules.
+* Basic settings have been updated on first gateway run.
 
 ## Version 25.09.26.42 (30 September, 2025)
 ### Changes
