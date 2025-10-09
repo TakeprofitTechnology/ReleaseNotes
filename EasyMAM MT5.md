@@ -2,7 +2,7 @@
 
 ## Version 2025.10.3.451 (3 October, 2025)
 ### Changes
-* Error level in logs have been improved for better clarity.
+* Error level in logs have been improved for better clarity (EasyMam & Investor View).
 
 ## Version 2025.8.5.669 (5 August, 2025)
 ### Changes
