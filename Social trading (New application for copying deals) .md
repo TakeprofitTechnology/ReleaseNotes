@@ -7,6 +7,7 @@
 ## Version 2025.10.3.1185 (3 October, 2025)
 ### Changes
 * Fixed CPU extra usage.
+* Added user freeze when adding a trading account.
 
 ## Version 2025.9.16.472 (25 September, 2025)
 ### Changes
