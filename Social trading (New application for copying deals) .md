@@ -4,6 +4,10 @@
 ### Changes
 * Removed extra zeros from values.
 
+## Version 2025.10.3.1185 (3 October, 2025)
+### Changes
+* Fixed CPU extra usage.
+
 ## Version 2025.9.16.472 (25 September, 2025)
 ### Changes
 * Fixed the bug with following fee was calculated incorrectly for MT4 users.
