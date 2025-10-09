@@ -8,6 +8,7 @@
 ### Changes
 * Fixed CPU extra usage.
 * Added user freeze when adding a trading account.
+* Fixed subscribtion button dissapearing after autoupdate.
 
 ## Version 2025.9.16.472 (25 September, 2025)
 ### Changes
