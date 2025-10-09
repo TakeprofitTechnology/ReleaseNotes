@@ -1,5 +1,8 @@
 # EasyMAM MT5
 
+## Version 2025.10.3.451 (3 October, 2025)
+### Changes
+* Error level in logs have been improved for better clarity.
 
 ## Version 2025.8.5.669 (5 August, 2025)
 ### Changes
