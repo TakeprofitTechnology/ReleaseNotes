@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 25.10.07.40 (7 October, 2025)
+### Changes
+* Improved caching process which lead previously to server freezes.
+
 ## Version 25.10.01.33 (1 October, 2025)
 ### Changes
 * Fixed creation of zero balance operation is some cases.
