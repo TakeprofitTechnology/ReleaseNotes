@@ -8,6 +8,10 @@
 ### Changes
 * Some products names have been added to WebGUI where they previously werent displayed.
 
+## Version 2025.10.3.695 (3 October, 2025)
+### Changes
+* Removed 'Rules' tab for QuoteWatcher MT4.
+
 ## Version 2025.9.29.678 (30 September, 2025)
 ### Changes
 * Fixed hints on hovering.
