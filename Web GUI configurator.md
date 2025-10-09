@@ -4,6 +4,10 @@
 ### Changes
 * Fixed a bug with WebGUI went on loop by clicking 'back' button in Google Chrome.
 
+## Version 2025.10.7.430 (7 October, 2025)
+### Changes
+* Some products names have been added to WebGUI where they previously werent displayed.
+
 ## Version 2025.9.29.678 (30 September, 2025)
 ### Changes
 * Fixed hints on hovering.
