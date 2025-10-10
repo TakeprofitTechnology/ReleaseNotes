@@ -1,5 +1,13 @@
 # Dynamic leverage MT5
 
+## Version 25.10.06.71 (6 October, 2025)
+### Changes
+* Build on the latest 5320 API version has been released.
+
+## Version 25.10.03.45 (3 October, 2025)
+### Changes
+* Extended orders info in logs.
+
 ## Version 25.09.29.67 (29 September, 2025)
 ### Changes
 * Fixed the calculation of 'marginBeforeRecalc' parameter after reopening a position.
