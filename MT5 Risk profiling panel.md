@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.9.26.437 (1 October, 2025)
+### Changes
+* Canceled orders are now shown separately.
+
 ## Version 2025.9.23.550 (23 Septermber, 2025)
 ### Changes
 * Credit now is shown separately from the overall balance.
