@@ -1,5 +1,9 @@
 # Ashira dealer MT4
 
+## Version 25.10.03.45 (3 October, 2025)
+### Changes
+* Request ID added to execution report.
+
 ## Version 25.07.21.38 (21 July, 2025)
 ### Changes
 * Validation that prevents incorrect symbols in slippage fields is added.
