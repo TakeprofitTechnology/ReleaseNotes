@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.10.02.51 (2 October, 2025)
+### Changes
+* Volume type, Symbols volume limit & account volume limit has been added.
+
 ## Version 25.09.19.67 (19 September, 2025)
 ### Features
 * ForceRecalculation parameter has been added to the plugin.
