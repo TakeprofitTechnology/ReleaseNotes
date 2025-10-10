@@ -3,6 +3,7 @@
 ## Version 25.10.03.45 (3 October, 2025)
 ### Changes
 * Request ID added to execution report.
+* Position lifetime parameter has been added.
 
 ## Version 25.07.21.38 (21 July, 2025)
 ### Changes
