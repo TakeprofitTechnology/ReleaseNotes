@@ -3,9 +3,9 @@
 ## Version 25.10.10.54 (10 October, 2025)
 ### Changes
 * Cache initialization has been improved:
-- Optimized data loading.
-- Skip cache rebuilding on settings change if affected groups aren't changed.
-- Fixed long plugin shutdown when cache is recalculated.
+Optimized data loading.
+Skip cache rebuilding on settings change if affected groups aren't changed.
+Fixed long plugin shutdown when cache is recalculated.
 * Fixed negative credit after bonus deduction.
 * Fixed withdrawal blocking logic: skip credit out operations.
 
