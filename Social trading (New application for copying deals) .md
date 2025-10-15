@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.10.15.412 (15 October, 2025)
+### Changes
+* accountID has been added to the response of POST /api/v1/users.
+
 ## Version 2025.10.8.761 (8 October, 2025)
 ### Changes
 * Removed extra zeros from values.
