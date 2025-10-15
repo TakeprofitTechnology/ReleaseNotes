@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.10.15.412 (15 October, 2025)
+### Changes
+* Menu offset has been fixed.
+
 ## Version 2025.10.8.760 (8 October, 2025)
 ### Changes
 * Fixed a bug with WebGUI went on loop by clicking 'back' button in Google Chrome.
