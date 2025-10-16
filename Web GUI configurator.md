@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.10.15.549 (16 October, 2025)
+### Changes
+* Name of the product is added to the connection details.
+
 ## Version 2025.10.15.412 (15 October, 2025)
 ### Changes
 * Menu offset has been fixed.
