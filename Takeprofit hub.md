@@ -7,6 +7,10 @@
 * Orders can be filterred by external order type in Risk profiles rules.
 
 
+## Version 2025.10.01.759 (1 October, 2025)
+### Changes
+* The GUI bug is fixed (it was not possible to selet maker in makers list of risk profile rules after the hub is restarted).
+
 ## Version 2025.09.30.312 (30 September, 2025)
 ### Changes
 * Refactoring and inner code minor optimizations.
