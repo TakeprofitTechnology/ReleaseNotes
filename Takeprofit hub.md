@@ -1,5 +1,11 @@
 # Takeprofit hub
 
+
+## Version 2025.10.15.892 (15 October, 2025)
+### Changes
+* Orders can be filterred by external balance in Risk profiles rules.
+* Orders can be filterred by external order type in Risk profiles rules.
+
 ## Version 2025.09.23.861 (23 September, 2025)
 ### Changes
 * Optimization has been performed for FIX connection speed improvement.
