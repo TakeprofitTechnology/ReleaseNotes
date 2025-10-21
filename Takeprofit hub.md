@@ -6,6 +6,11 @@
 * Orders can be filterred by external balance in Risk profiles rules.
 * Orders can be filterred by external order type in Risk profiles rules.
 
+
+## Version 2025.09.30.312 (30 September, 2025)
+### Changes
+* Refactoring and inner code minor optimizations.
+
 ## Version 2025.09.23.861 (23 September, 2025)
 ### Changes
 * Optimization has been performed for FIX connection speed improvement.
