@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2025.10.17.703 (17 October, 2025)
+### Changes
+* No data is shown for a new leader account (no trades) in charts.
+* Fixed the issue with chart started sometimes with the value, different than 0. 
+
 ## Version 2025.10.13.424 (13 October, 2025)
 ### Changes
 * Fix of columns width.
