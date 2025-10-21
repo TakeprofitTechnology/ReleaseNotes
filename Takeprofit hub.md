@@ -11,7 +11,7 @@
 ### Changes
 * The GUI bug is fixed (it was not possible to selet maker in makers list of risk profile rules after the hub is restarted).
 * Added some inner metrics for TPT team monitoring (tpthub_margin_account_margin_level).
-* Additional information is added to log files (parameters usage).
+* Additional information is added to log files (parameters usage, batch commiting).
 
 ## Version 2025.09.30.312 (30 September, 2025)
 ### Changes
