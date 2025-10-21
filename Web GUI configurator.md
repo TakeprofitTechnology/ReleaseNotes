@@ -1,4 +1,7 @@
 # Web GUI сonfigurator
+## Version 2025.10.20.520 (20 October, 2025)
+### Changes
+* Takeprofit Bridge MT5: table aligned.
 
 ## Version 2025.10.15.549 (16 October, 2025)
 ### Changes
