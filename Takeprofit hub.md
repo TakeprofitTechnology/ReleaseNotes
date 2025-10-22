@@ -7,6 +7,7 @@
 * The logging of duplicated channel symbols after the import is improved.
 * The charts filters bug is fixed (it was not possible to select the symbols to represent the chart).
 * Some minor cosmetic changes in tables (improving columns width behavior, removing empty checkboxes).
+* The bug of incorrect takers attachment to risk profiles after the restart is fixed.
 
 ## Version 2025.10.15.892 (15 October, 2025)
 ### Changes
