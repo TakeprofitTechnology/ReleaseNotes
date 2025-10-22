@@ -3,6 +3,8 @@
 ## Version 2025.10.21.483 (21 October, 2025)
 ### Features
 * Since this version it is possible to send test trade from the taker and check all the execution details according to the hub's setup.
+### Changes
+* The logging of duplicated channel symbols after the import is improved.  
 
 ## Version 2025.10.15.892 (15 October, 2025)
 ### Changes
