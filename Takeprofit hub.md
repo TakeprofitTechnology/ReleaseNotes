@@ -9,6 +9,7 @@
 * Some minor cosmetic changes in tables (improving columns width behavior, removing empty checkboxes).
 * The bug of incorrect takers attachment to risk profiles after the restart is fixed.
 * The popup of risk profile creation is improved.
+* Default values are set for several parameters (risk profile creation).
 
 ## Version 2025.10.15.892 (15 October, 2025)
 ### Changes
