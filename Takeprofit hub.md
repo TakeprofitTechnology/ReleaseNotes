@@ -1,11 +1,13 @@
 # Takeprofit hub
 
+## Version 2025.10.21.483 (21 October, 2025)
+### Features
+* Since this version it is possible to send test trade from the taker and check all the execution details according to the hub's setup.
 
 ## Version 2025.10.15.892 (15 October, 2025)
 ### Changes
 * Orders can be filterred by external balance in Risk profiles rules.
 * Orders can be filterred by external order type in Risk profiles rules.
-
 
 ## Version 2025.10.01.759 (1 October, 2025)
 ### Changes
