@@ -10,6 +10,7 @@
 * The bug of incorrect takers attachment to risk profiles after the restart is fixed.
 * The popup of risk profile creation is improved.
 * Default values are set for several parameters (risk profile creation).
+* Risk profiling creation bug is fixed (unhandled exception when trying to save the risk profile with empty fields).
 
 ## Version 2025.10.15.892 (15 October, 2025)
 ### Changes
