@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.10.22.485 (22 October, 2025)
+### Changes
+* Fixed detach process, so now copying a balance operation from an Investor to the MM will not interfere with the execution of a detach operation.
+
 ## Version 2025.10.3.451 (3 October, 2025)
 ### Changes
 * Error level in logs have been improved for better clarity (EasyMam & Investor View).
