@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2025.10.24.486 (24 October, 2025)
+### Changes
+* Fixed the bug with EasyMAM took old credits into account when calculating balance on investor accounts.
+
 ## Version 2025.10.22.485 (22 October, 2025)
 ### Changes
 * Fixed detach process, so now copying a balance operation from an Investor to the MM will not interfere with the execution of a detach operation.
