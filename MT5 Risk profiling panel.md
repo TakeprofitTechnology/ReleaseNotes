@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.10.27.394 (27 October, 2025)
+### Changes
+* Server name has been fixed in log files.
+
 ## Version 2025.9.26.437 (1 October, 2025)
 ### Changes
 * Canceled orders are now shown separately.
