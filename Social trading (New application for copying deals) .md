@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2025.10.27.861 (27 October, 2025)
+### Changes
+* Spaces are now trimmed while specifying user/trading account number for validation purposes.
+
 ## Version 2025.10.17.703 (17 October, 2025)
 ### Changes
 * No data is shown for a new leader account (no trades) in charts.
