@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.10.14.27 (14 October, 2025)
+### Changes
+* General fixes in log files.
+
 ## Version 25.10.02.51 (2 October, 2025)
 ### Changes
 * Volume type, Symbols volume limit & account volume limit has been added.
