@@ -4,6 +4,10 @@
 ### Changes
 * Spaces are now trimmed while specifying user/trading account number for validation purposes.
 
+## Version 2025.10.23.797 (23 October, 2025)
+### Changes
+* Digits on equity charts have been rounded to 2.
+
 ## Version 2025.10.17.703 (17 October, 2025)
 ### Changes
 * No data is shown for a new leader account (no trades) in charts.
