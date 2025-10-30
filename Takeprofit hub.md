@@ -8,6 +8,7 @@
 ## Version 2025.10.24.590 (24 October, 2025)
 ### Changes
 * Now it is possible to select channels symbols in order filters (with hub symbols).
+* Added two REST API calls: getting symbol info from makers and takers (with symbol mappings).
 
 ## Version 2025.10.21.483 (21 October, 2025)
 ### Features
