@@ -5,6 +5,10 @@
 ### Changes
 * The bug of incorrect FIX takers initializing after the restart is fixed.
 
+## Version 2025.10.24.590 (24 October, 2025)
+### Changes
+* Now it is possible to select channels symbols in order filters (with hub symbols).
+
 ## Version 2025.10.21.483 (21 October, 2025)
 ### Features
 * Since this version it is possible to send test trade from the taker and check all the execution details according to the hub's setup.
