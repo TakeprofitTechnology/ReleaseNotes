@@ -1,7 +1,10 @@
 # NOP limit MT5
 
+## Version 25.10.28.51 (30 October, 2025)
+### Features
+* 'Volume unit' parameter has been added to define how limit will be calculated: in lots or in USD.
 
-## Version 25.07.22.64 (22 Огдн, 2025)
+## Version 25.07.22.64 (22 July, 2025)
 ### Changes
 * Added "Enabled" option to each NOP rule to enable/disable it.
 
