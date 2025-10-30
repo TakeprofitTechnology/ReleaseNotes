@@ -1,7 +1,9 @@
 # Web GUI сonfigurator
+
 ## Version 2025.10.29.939 (30 October, 2025)
 ### Changes
 * Dynamic Leverage advanced MT4: Enabled parameter has been added to the Rules.
+* NOP Limit MT5: Volume unit parameter has been added.
 
 ## Version 2025.10.20.520 (20 October, 2025)
 ### Changes
