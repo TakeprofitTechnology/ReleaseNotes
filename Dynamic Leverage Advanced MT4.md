@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.10.29.62 (29 October, 2025)
+### Changes
+* Enabled parameter has been added to Rules.
+
 ## Version 25.10.14.27 (14 October, 2025)
 ### Changes
 * General fixes in log files.
