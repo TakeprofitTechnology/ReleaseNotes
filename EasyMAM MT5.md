@@ -19,7 +19,7 @@
 ## Version 2025.8.4.814 (4 August, 2025)
 ### Changes
 * Parallelism of MMs' trading deal distribution between investors has been removed. It is now a sequential process. (probably there is a bug in the new version of MT5 Manager API on the MQ side and these methods are not thread-safe).
-* Removed cache of dummy deals from users at all. Now dummy deals will never be re-used at all, even if they are on the same user. They will always be created just before use.
+* Removed cache of special deals from users at all. Now special deals will never be re-used at all, even if they are on the same user. They will always be created just before use.
 
 ## Version 2025.7.22.975 (22 July, 2025)
 ### Changes
