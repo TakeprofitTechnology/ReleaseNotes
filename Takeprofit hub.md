@@ -5,6 +5,10 @@
 ### Changes
 * The bug of incorrect FIX takers initializing after the restart is fixed.
 
+## Version 2025.10.28.535 (28 October, 2025)
+### Changes
+* Inner optimization: the method of building FIX messages is improved.
+
 ## Version 2025.10.24.590 (24 October, 2025)
 ### Changes
 * Now it is possible to select channels symbols in order filters (with hub symbols).
