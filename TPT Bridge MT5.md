@@ -1,10 +1,5 @@
 # Takeprofit Bridge MT5
 
-## Version 2025.10.31.521 (31 October, 2025)
-### Changes
-* Fixed start page for unauthorized user.
-* Fixed warning text on login page if no server is chosen.
-
 ## Version 25.10.01.52 (1 October, 2025)
 ### Features
 * 'Zip' is added to the Rules.
