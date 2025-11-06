@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.11.5.451 (5 November, 2025)
+### Changes
+* Checkboxes in all major products were aligned on their click.
+
 ## Version 2025.10.29.939 (30 October, 2025)
 ### Changes
 * Dynamic Leverage advanced MT4: Enabled parameter has been added to the Rules.
