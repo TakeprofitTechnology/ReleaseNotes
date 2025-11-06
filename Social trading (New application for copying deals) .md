@@ -1,5 +1,11 @@
 # TPT Social trading
 
+## Version 2025.10.31.521 (31 October, 2025)
+### Changes
+* Fixed start page for unauthorized user.
+* Fixed warning text on login page if no server is chosen.
+* Fixed an issue with leaders being displayed in followers dropdown.
+
 ## Version 2025.10.27.861 (27 October, 2025)
 ### Changes
 * Spaces are now trimmed while specifying user/trading account number for validation purposes.
