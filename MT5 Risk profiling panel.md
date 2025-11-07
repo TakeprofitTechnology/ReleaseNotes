@@ -1,5 +1,9 @@
 # MT5 Risk profiling panel
 
+## Version 2025.10.29.595 (5 November, 2025)
+### Changes
+* Fixed the bug with incorrect balance value if conversion rate could not be found.
+
 ## Version 2025.10.27.394 (27 October, 2025)
 ### Changes
 * Server name has been fixed in log files.
