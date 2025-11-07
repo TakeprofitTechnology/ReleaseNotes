@@ -8,6 +8,7 @@
 ### Changes
 * Dynamic Leverage advanced MT4: Enabled parameter has been added to the Rules.
 * NOP Limit MT5: Volume unit parameter has been added.
+* Swap Control Center: fixed the possibility to add negative free days.
 
 ## Version 2025.10.20.520 (20 October, 2025)
 ### Changes
