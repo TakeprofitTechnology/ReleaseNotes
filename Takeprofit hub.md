@@ -13,6 +13,11 @@
 ### Changes
 * Inner optimization: the method of building FIX messages is improved.
 
+## Version 2025.10.27.590 (27 October, 2025)
+### Changes
+* Charts data storage logic (in the database) is optimized.
+
+
 ## Version 2025.10.24.590 (24 October, 2025)
 ### Changes
 * Now it is possible to select channels symbols in order filters (with hub symbols).
