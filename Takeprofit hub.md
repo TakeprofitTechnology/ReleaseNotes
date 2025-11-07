@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.11.07.669 (7 November, 2025)
+### Changes
+* Added an option to hid B-book accounts in deals' filters.
+
 ## Version 2025.10.29.604 (29 October, 2025)
 ### Changes
 * The bug of incorrect FIX takers initializing after the restart is fixed.
