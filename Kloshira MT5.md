@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 25.11.06.55 (7 November, 2025)
+### Changes
+* The gateway was rebuilt to have a compatibility with the MT5 build 5370.
+
 ## Version 25.07.21.38 (21 July, 2025)
 ### Changes
 * Validation that prevents incorrect symbols in slippage fields is added.
