@@ -1,5 +1,9 @@
 # MT5 Swap Free
 
+## Version 25.10.22.76 (27 October, 2025)
+### Changes
+* Processing of REST API requests have been rebuilt.
+
 ## Version 25.05.16.68 (16 May, 2025)
 ### Changes
 * Logging has been improved (some values were changed to basic numbers);
