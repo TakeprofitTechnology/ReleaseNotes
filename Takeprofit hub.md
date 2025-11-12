@@ -10,6 +10,7 @@
 * DispMaxVolume column is removed from TSV output exported file of NOP limit rules.
 * The option to reset Aggregation mode filter is added to filtes of hub symbols.
 * The B-book accounts are removed from list of accounts in orders filter.
+* The bug is fixed: the list of margin accounts was empty in reports (open positions report).
 
 
 ## Version 2025.10.30.903 (30 November, 2025)
