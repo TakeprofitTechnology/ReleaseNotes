@@ -12,6 +12,10 @@
 * The B-book accounts are removed from list of accounts in orders filter.
 * The bug is fixed: the list of margin accounts was empty in reports (open positions report).
 
+## Version 2025.11.05.362 (5 November, 2025)
+### Changes
+* Additional confirmation when saving the price channels rules is added.
+
 
 ## Version 2025.10.30.903 (30 November, 2025)
 ### Changes
