@@ -4,6 +4,10 @@
 ### Features
 * Drawdown Comment feature has been added for marking the accounts affected by the plugin.
 
+## Version 25.11.07.42 (7 November, 2025)
+### Changes
+* Fix of Rules.csv on first plugin launch.
+
 ## Version 25.06.27.44 (27 June, 2025)
 ### Changes
 * Added readable falal log message for license exceptions.
