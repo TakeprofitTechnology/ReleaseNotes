@@ -1,4 +1,4 @@
-# Takeprofit hubhttps://github.com/TakeprofitTechnology/ReleaseNotes/blob/main/Takeprofit%20hub.md
+# Takeprofit hub
 
 
 ## Version 2025.11.07.669 (7 November, 2025)
@@ -15,7 +15,7 @@
 ## Version 2025.11.05.362 (5 November, 2025)
 ### Changes
 * Additional confirmation when saving the price channels rules is added.
-* It is possible now to use masks in Symbols filters of all tables (orders, deals, positions, etc.).
+* It is possible now to use masks in Symbols filters of all tables (orders, active orders, deals, positions, position history, account history).
 
 ## Version 2025.10.31.594 (31 October, 2025)
 ### Changes
