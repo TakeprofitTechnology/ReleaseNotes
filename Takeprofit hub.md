@@ -1,4 +1,4 @@
-# Takeprofit hub
+# Takeprofit hubhttps://github.com/TakeprofitTechnology/ReleaseNotes/blob/main/Takeprofit%20hub.md
 
 
 ## Version 2025.11.07.669 (7 November, 2025)
@@ -17,8 +17,13 @@
 * Additional confirmation when saving the price channels rules is added.
 * It is possible now to use masks in Symbols filters of all tables (orders, deals, positions, etc.).
 
+## Version 2025.10.31.594 (31 October, 2025)
+### Changes
+* The bug of incorrect price channel rules is fixed.
 
-## Version 2025.10.30.903 (30 November, 2025)
+
+
+## Version 2025.10.30.903 (30 October, 2025)
 ### Changes
 * Visual bug of (market watch is overlayed by symbols list) is fixed.
 * Visual bug of (market depth is overlayed by symbols list) is fixed.
