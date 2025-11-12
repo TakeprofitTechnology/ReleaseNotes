@@ -7,6 +7,7 @@
 * The bug of incorrect open price rounding in equity reports is fixed.
 * The bug is fixed: it was not possible to add symbol to price channel from details page.
 * T4B acceptor is changed: quote updates are made based on 263 tag value instead of tag 265 (was used before).
+* DispMaxVolume column is removed from TSV output exported file of NOP limit rules. 
 
 
 ## Version 2025.10.30.903 (30 November, 2025)
