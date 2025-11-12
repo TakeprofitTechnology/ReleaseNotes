@@ -15,6 +15,7 @@
 ## Version 2025.11.05.362 (5 November, 2025)
 ### Changes
 * Additional confirmation when saving the price channels rules is added.
+* It is possible now to use masks in Symbols filters of all tables (orders, deals, positions, etc.).
 
 
 ## Version 2025.10.30.903 (30 November, 2025)
