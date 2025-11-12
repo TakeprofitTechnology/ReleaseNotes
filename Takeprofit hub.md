@@ -4,6 +4,7 @@
 ## Version 2025.11.07.669 (7 November, 2025)
 ### Changes
 * Added an option to hide B-book accounts in deals, positions and position history filters.
+* The bug of incorrect open price rounding in equity reports is fixed. 
 
 
 ## Version 2025.10.30.903 (30 November, 2025)
