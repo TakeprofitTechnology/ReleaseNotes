@@ -22,6 +22,7 @@
 ### Changes
 * Visual bug of (market watch is overlayed by symbols list) is fixed.
 * Visual bug of (market depth is overlayed by symbols list) is fixed.
+* AsyncHistoryWritingToDb parameter is removed from the settings.
 
 ## Version 2025.10.29.604 (29 October, 2025)
 ### Changes
