@@ -3,12 +3,13 @@
 
 ## Version 2025.11.07.669 (7 November, 2025)
 ### Changes
-* Added an option to hid B-book accounts in deals, positions and position history filters.
+* Added an option to hide B-book accounts in deals, positions and position history filters.
 
 
 ## Version 2025.10.30.903 (30 November, 2025)
 ### Changes
 * Visual bug of (market watch is overlayed by symbols list) is fixed.
+* Visual bug of (market depth is overlayed by symbols list) is fixed.
 
 ## Version 2025.10.29.604 (29 October, 2025)
 ### Changes
