@@ -34,6 +34,7 @@
 ## Version 2025.10.27.590 (27 October, 2025)
 ### Changes
 * Charts data storage logic (in the database) is optimized.
+* On market watch page the filters for symbols table are added for all user types.
 
 
 ## Version 2025.10.24.590 (24 October, 2025)
