@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version v25.10.23.46 (27 October, 2025)
+### Changes
+* Processing of REST API requests have been rebuilt.
+
 ## Version 25.10.01.52 (1 October, 2025)
 ### Features
 * 'Zip' is added to the Rules.
