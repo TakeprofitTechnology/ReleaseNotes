@@ -1,5 +1,9 @@
 # Drawdown Limit MT5
 
+## Version 25.11.07.43 (7 November, 2025)
+### Features
+* Drawdown Comment feature has been added for marking the accounts affected by the plugin.
+
 ## Version 24.08.07.36
 ### Features
 * Additional parameters for prop tradng have been added;
