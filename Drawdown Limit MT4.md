@@ -1,5 +1,9 @@
 # Drawdown Limit MT4
 
+## Version 25.11.12.32 (12 November, 2025)
+### Features
+* Drawdown Comment feature has been added for marking the accounts affected by the plugin.
+
 ## Version 25.06.27.44 (27 June, 2025)
 ### Changes
 * Added readable falal log message for license exceptions.
