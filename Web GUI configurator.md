@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.11.10.534 (10 November, 2025)
+### Changes
+* EasyMAM MT5: added a dropdown to the money managers list when attaching.
+
 ## Version 2025.11.5.451 (5 November, 2025)
 ### Changes
 * Checkboxes in all major products were aligned on their click.
