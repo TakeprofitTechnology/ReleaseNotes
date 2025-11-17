@@ -11,6 +11,7 @@
 * The option to reset Aggregation mode filter is added to filtes of hub symbols.
 * The B-book accounts are removed from list of accounts in orders filter.
 * The bug is fixed: the list of margin accounts was empty in reports (open positions report).
+* Minor improvements in filters (orders, deals, positions, etc.).
 
 ## Version 2025.11.05.362 (5 November, 2025)
 ### Changes
