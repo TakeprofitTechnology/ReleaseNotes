@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.11.14.783 (14 November, 2025)
+### Changes
+* EasyMAM MT5: now it's possible to choose many items on the page using shift button.
+
 ## Version 2025.11.10.534 (10 November, 2025)
 ### Changes
 * EasyMAM MT5: added a dropdown to the money managers list when attaching.
