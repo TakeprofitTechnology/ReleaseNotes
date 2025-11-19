@@ -1,5 +1,9 @@
 # EasyMAM MT4
 
+## Version 2025.11.18.744 (18 November, 2025)
+### Changes
+* ManagerApiVersion parameter has been added to appsettings.json to maintain older API usage.
+
 ## Version v2025.4.21.540 (21 April, 2025)
 ### Changes
 * Fixed a bug with incorrect amount of positions shown on Investors;
