@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2025.11.13.670 (18 November, 2025)
+### Changes
+* Now when symbol has positions within several LPs, this symbol is highlighted.
+
 ## Version 2025.8.20.566 (20 August, 2025)
 ### Changes
 * Equity LP column has been removed.
