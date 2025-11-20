@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 25.11.14.51 (14 November, 2025)
+### Changes
+* Fixed log spam due to incorrect ForceRecalculation behavior.
+
 ## Version 25.10.29.62 (29 October, 2025)
 ### Changes
 * Enabled parameter has been added to Rules.
