@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+## Version 25.11.20.18 (20 November, 2025)
+### Changes
+* Overall logging improvements: server/owner name is now stored to cache on first gateway start.
+* FATALs are now can be sent before actual gateway start (on initialization process).
+
 ## Version v25.10.23.46 (27 October, 2025)
 ### Changes
 * Processing of REST API requests have been rebuilt.
