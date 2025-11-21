@@ -1,5 +1,11 @@
 # Dropcopy Gateway
 
+## Version 2025.11.18.661 (20 November, 2025)
+### Changes
+* Log files are now stored inside a single log folder. Previously they were divided between different folders.
+* BadConfiguration error now passed to FATAL level.
+* If connector starts with any errors, the gateway shutdown.
+
 ## Version v2024.12.10.689 (10 December, 2024)
 ### Changes
 * MT5 Gateway API has been updated to v4731;
