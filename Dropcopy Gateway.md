@@ -4,7 +4,7 @@
 ### Changes
 * Log files are now stored inside a single log folder. Previously they were divided between different folders.
 * BadConfiguration error now passed to FATAL level.
-* If connector starts with any errors, the gateway shutdown.
+* If connector starts with any errors, the gateway shuts down.
 
 ## Version v2024.12.10.689 (10 December, 2024)
 ### Changes
