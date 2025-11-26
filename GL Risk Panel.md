@@ -1,5 +1,11 @@
 # GL Risk Panel
 
+## Version 2025.11.24.1143 (25 November, 2025)
+### Changes
+* 'Min correction limit' has been added to Position checker.
+* 'Correction limit' has been renamed to 'Max Correction Limit, USD' and now converts values to USD.
+* Symbols which have no exposure on MT side are now pinned to the top of the table.
+
 ## Version 2025.11.13.670 (18 November, 2025)
 ### Changes
 * Now when symbol has positions within several LPs, this symbol is highlighted.
