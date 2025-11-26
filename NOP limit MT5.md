@@ -1,5 +1,9 @@
 # NOP limit MT5
 
+## Version 25.11.24.64 (24 November, 2025)
+### Changes
+* Added 'PASSED' event to log files.
+
 ## Version 25.10.28.51 (30 October, 2025)
 ### Features
 * 'Volume unit' parameter has been added to define how limit will be calculated: in lots or in USD.
