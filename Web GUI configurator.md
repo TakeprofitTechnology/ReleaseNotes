@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.11.24.531 (24 November, 2025)
+### Changes
+* NOP Limit MT5: fixed columns width.
+
 ## Version 2025.11.14.783 (14 November, 2025)
 ### Changes
 * EasyMAM MT5: now it's possible to choose many items on the page using shift button.
