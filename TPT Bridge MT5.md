@@ -2,6 +2,7 @@
 
 ## Version 25.11.20.18 (20 November, 2025)
 ### Changes
+* .xml, .csv files have been replaced with new formats for backup compatibility.
 * Overall logging improvements: server/owner name is now stored to cache on first gateway start.
 * FATALs are now can be sent before actual gateway start (on initialization process).
 
