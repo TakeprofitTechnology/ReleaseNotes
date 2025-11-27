@@ -2,6 +2,7 @@
 
 ## Version 2025.11.18.661 (20 November, 2025)
 ### Changes
+* .xml files have been replaced with .dat files for backup compatibility.
 * Log files are now stored inside a single log folder. Previously they were divided between different folders.
 * BadConfiguration error now passed to FATAL level.
 * If connector starts with any errors, the gateway shuts down.
