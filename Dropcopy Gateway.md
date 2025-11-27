@@ -7,9 +7,13 @@
 * BadConfiguration error now passed to FATAL level.
 * If connector starts with any errors, the gateway shuts down.
 
+## Version 2025.11.14.684 (14 November, 2025)
+### Changes
+* The mechanism of cache initialization is improved: the cache will be initialized before processing requests or any other operations. 
+
 ## Version v2024.12.10.689 (10 December, 2024)
 ### Changes
-* MT5 Gateway API has been updated to v4731;
+* MT5 Gateway API has been updated to v4731.
 
 ## Version 1.07 (3 March, 2023)
 ### Changes
