@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.11.21.846 (21 November, 2025)
+### Changes
+* Since this version, if in risk profiles (rules or default) the B-book part is set to 100%, the hub will take into account the incoming requested price (from 35=D FIX message) to define the worst price for order confirmation.
+
 ## Version 2025.11.14.626 (7 November, 2025)
 ### Changes
 * "Notifications" tab is renamed to "Alerts".
