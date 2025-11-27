@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.11.14.626 (7 November, 2025)
+### Changes
+* "Notifications" tab is renamed to "Alerts".
+
 ## Version 2025.11.07.669 (7 November, 2025)
 ### Changes
 * Added an option to hide B-book accounts in deals, positions and position history filters.
