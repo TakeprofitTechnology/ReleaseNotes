@@ -3,6 +3,7 @@
 ## Version 2025.11.26.527 (27 November, 2025)
 ### Changes
 * Fixed a bug with pending and rejected orders not showing correctly.
+* Fixed a bug when Profiling panel did not count closed volumes for MT4. 
 
 ## Version 2025.10.29.595 (5 November, 2025)
 ### Changes
