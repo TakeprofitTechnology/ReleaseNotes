@@ -1,4 +1,8 @@
-# MT5 Risk profiling panel
+# Risk profiling panel
+
+## Version 2025.11.26.527 (27 November, 2025)
+### Changes
+* Fixed a bug with pending and rejected orders not showing correctly.
 
 ## Version 2025.10.29.595 (5 November, 2025)
 ### Changes
