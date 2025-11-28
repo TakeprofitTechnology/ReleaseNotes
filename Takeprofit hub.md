@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+## Version 2025.11.24.1060 (24 November, 2025)
+### Changes
+* Minor GUI improment: ID column width in tables is decreased.
 
 ## Version 2025.11.21.846 (21 November, 2025)
 ### Changes
