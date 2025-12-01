@@ -1,5 +1,9 @@
 # MT4 Takeprofit Bridge
 
+## Version 25.11.14.61 (21 November, 2025)
+### Changes
+* File format has been changed and updated with new formats for better backup compatibility.
+
 ## Version v25.08.15.38 (18 August, 2025)
 ### Changes
 * Fixed reason match between acceptor and connector parts.
