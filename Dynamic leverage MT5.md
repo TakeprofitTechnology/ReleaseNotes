@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 25.11.14.45 (20 November, 2025)
+### Changes
+* Rules.tsv changed to .ini for backup compatibility.
+
 ## Version 25.10.06.71 (6 October, 2025)
 ### Changes
 * Build on the latest 5320 API version has been released.
