@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 25.11.27.49 (1 December, 2025)
+### Changes
+* Extra Slippage can now be applied with action H even with Delay=0.
+
 ## Version 25.11.06.55 (7 November, 2025)
 ### Changes
 * The gateway was rebuilt to have a compatibility with the MT5 build 5370.
