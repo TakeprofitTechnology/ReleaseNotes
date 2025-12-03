@@ -4,6 +4,7 @@
 ## Version 2025.12.01.653 (12 December, 2025)
 ### Changes
 * Symbols page loading is sped up (~ 4 times).
+* The bug of incorrect data in equity reports is fixed.
 
 ## Version 2025.11.26.685 (26 November, 2025)
 ### Changes
