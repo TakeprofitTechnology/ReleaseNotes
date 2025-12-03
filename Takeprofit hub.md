@@ -6,6 +6,8 @@
 * Binance Spot maker connection issues are fixed (race condition issue on reconnection logic).
 * Integral taker logging logic is improved.
 
+
+
 ## Version 2025.11.24.1060 (24 November, 2025)
 ### Changes
 * Minor GUI improment: ID column width in tables is decreased.
@@ -39,6 +41,7 @@
 ## Version 2025.10.31.594 (31 October, 2025)
 ### Changes
 * The bug of incorrect price channel rules is fixed.
+* Sending to T4B takers full market snapshot (35=W) instead of incremental refresh by default. 
 
 
 
