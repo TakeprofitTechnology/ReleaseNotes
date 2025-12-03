@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2025.12.01.653 (12 December, 2025)
+### Changes
+* Symbols page loading is sped up (~ 4 times).
+
 ## Version 2025.11.26.685 (26 November, 2025)
 ### Changes
 * Binance Spot maker connection issues are fixed (race condition issue on reconnection logic).
