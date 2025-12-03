@@ -4,6 +4,7 @@
 ## Version 2025.11.26.685 (26 November, 2025)
 ### Changes
 * Binance Spot maker connection issues are fixed (race condition issue on reconnection logic).
+* Integral taker logging logic is improved.
 
 ## Version 2025.11.24.1060 (24 November, 2025)
 ### Changes
