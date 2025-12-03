@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.11.27.49 (1 December, 2025)
+### Changes
+* Extra Slippage can now be applied with actions H and HM even with Delay=0.
+
 ## Version 25.11.20.18 (20 November, 2025)
 ### Changes
 * .xml, .csv files have been replaced with new formats for backup compatibility.
