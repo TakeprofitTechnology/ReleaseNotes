@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version 2025.12.4.376 (5 December, 2025)
+### Changes
+* Fixed the bug with empty data for some MT4 accounts.
+
 ## Version 2025.11.26.527 (27 November, 2025)
 ### Changes
 * Fixed the bug with pending and rejected orders not showing correctly.
