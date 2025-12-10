@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.12.9.879 (10 December, 2025)
+### Changes
+* MT4 Ashira: Position lifetime has been renamed to Position lifetime (sec).
+
 ## Version 2025.11.24.531 (24 November, 2025)
 ### Changes
 * NOP Limit MT5: fixed columns width.
