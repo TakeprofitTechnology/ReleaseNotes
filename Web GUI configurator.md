@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2025.12.10.715 (10 December, 2025)
+### Changes
+* Takeprofit Bridge MT5: Fixed the bug when 'Change price' checbox was frozen. 
+
 ## Version 2025.12.9.879 (10 December, 2025)
 ### Changes
 * MT4 Ashira: Position lifetime has been renamed to Position lifetime (sec).
