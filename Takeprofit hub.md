@@ -5,6 +5,10 @@
 ### Changes
 * The settings of Integral FIX taker is fixed (some of parameters were duplicated in the settings).
 
+## Version 2025.12.08.431 (8 December, 2025)
+### Changes
+* Minor alerting bug is fixed (some artefacts in log files had been left after the alert was removed).
+
 ## Version 2025.12.01.653 (1 December, 2025)
 ### Changes
 * Symbols page loading is sped up (~ 4 times).
