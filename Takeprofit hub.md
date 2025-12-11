@@ -1,7 +1,11 @@
 # Takeprofit hub
 
 
-## Version 2025.12.01.653 (12 December, 2025)
+## Version 2025.12.09.394 (9 December, 2025)
+### Changes
+* The settings of Integral FIX taker is fixed (some of parameters were duplicated in the settings).
+
+## Version 2025.12.01.653 (1 December, 2025)
 ### Changes
 * Symbols page loading is sped up (~ 4 times).
 * The bug of incorrect data in equity reports is fixed.
