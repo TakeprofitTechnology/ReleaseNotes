@@ -37,7 +37,7 @@
 ### Changes
 * Since this version, if in risk profiles (rules or default) the B-book part is set to 100%, the hub will take into account the incoming requested price (from 35=D FIX message) to define the worst price for order confirmation.
 
-## Version 2025.11.14.626 (7 November, 2025)
+## Version 2025.11.14.626 (14 November, 2025)
 ### Changes
 * "Notifications" tab is renamed to "Alerts".
 * The bug of position liquidation on margin account is fixed (earlier the position liquidation on margin account hadn't triggered the liquidation on selected taker and created an exception).
