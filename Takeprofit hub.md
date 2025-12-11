@@ -41,6 +41,7 @@
 ### Changes
 * "Notifications" tab is renamed to "Alerts".
 * The bug of position liquidation on margin account is fixed (earlier the position liquidation on margin account hadn't triggered the liquidation on selected taker and created an exception).
+* The alerts settings are extended: added mre options, like "Telegram chats", "Sending interval", etc.
 
 ## Version 2025.11.07.669 (7 November, 2025)
 ### Changes
