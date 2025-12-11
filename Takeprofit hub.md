@@ -8,6 +8,7 @@
 ## Version 2025.12.08.431 (8 December, 2025)
 ### Changes
 * Minor alerting bug is fixed (some artefacts in log files had been left after the alert was removed).
+* Minor GUI elements (buttons) render process is optimized.
 
 ## Version 2025.12.02.691 (2 December, 2025)
 ### Features
