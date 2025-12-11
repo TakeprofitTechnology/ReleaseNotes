@@ -7,6 +7,7 @@
 ## Version 2025.12.9.879 (10 December, 2025)
 ### Changes
 * MT4 Ashira: Position lifetime has been renamed to Position lifetime (sec).
+* MT5 Drawdown Limit: fixed unhandled exception which led to the WebGUI crash. Added a configuration notice if WebGUI support is not added to the plugin's parameters.
 
 ## Version 2025.11.24.531 (24 November, 2025)
 ### Changes
