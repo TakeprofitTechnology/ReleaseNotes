@@ -23,11 +23,7 @@
 ### Changes
 * Binance Spot maker connection issues are fixed (race condition issue on reconnection logic).
 * Integral taker logging logic is improved.
-
-## Version 2025.11.26.536 (26 November, 2025)
-### Changes
 * Removed columns "consumerId" and "marginAccountId" from Account history tab.
-
 
 ## Version 2025.11.24.1060 (24 November, 2025)
 ### Changes
