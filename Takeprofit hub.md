@@ -23,9 +23,12 @@
 * NOP limit alert by symbol for each account is added.
 
 ## Version 2025.12.01.653 (1 December, 2025)
+### Features
+* Orders report is added to Overview/Reports.
 ### Changes
 * Symbols page loading is sped up (~ 4 times).
 * The bug of incorrect data in equity reports is fixed.
+
 
 ## Version 2025.11.26.685 (26 November, 2025)
 ### Changes
