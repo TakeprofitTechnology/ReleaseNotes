@@ -12,6 +12,11 @@
 * Minor alerting bug is fixed (some artefacts in log files had been left after the alert was removed).
 * Minor GUI elements (buttons) render process is optimized.
 
+
+## Version 2025.12.04.372 (4 December, 2025)
+### Changes
+* Minor changes to exported taker Session.ini files (SYMBOLSFILE: Symbols.csv => Symbols.ini)
+
 ## Version 2025.12.02.691 (2 December, 2025)
 ### Features
 * Account total NOP limit alert is added.
