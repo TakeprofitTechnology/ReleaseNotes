@@ -3,6 +3,7 @@
 ## Version 25.12.11.40 (11 December, 2025)
 ### Changes
 * Added a protection for starting the gateway with bad configuration: now it will be shut down if no/bad dictionary file has been found.
+* Added a process shutdown if unhandled exception has been faced on starting process. 
 
 ## Version 25.11.27.49 (1 December, 2025)
 ### Changes
