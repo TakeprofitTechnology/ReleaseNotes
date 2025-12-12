@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.12.11.40 (11 December, 2025)
+### Changes
+* Added a protection for starting the gateway with bad configuration: now it will be shut down if no/bad dictionary file has been found.
+
 ## Version 25.11.27.49 (1 December, 2025)
 ### Changes
 * Extra Slippage can now be applied with actions H and HM even with Delay=0.
