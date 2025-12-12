@@ -59,6 +59,12 @@
 * The bug is fixed: the list of margin accounts was empty in reports (open positions report).
 * Minor improvements in filters (orders, deals, positions, etc.).
 
+## Version 2025.11.06.783 (6 November, 2025)
+### Features
+* "Volume report" is added to Deals table.
+### Changes
+* "TSV report" button converted to dropdown list to show 2 available types of report.
+
 ## Version 2025.11.05.362 (5 November, 2025)
 ### Changes
 * Additional confirmation when saving the price channels rules is added.
