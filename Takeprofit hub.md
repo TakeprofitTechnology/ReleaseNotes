@@ -6,6 +6,8 @@
 * The settings of Integral FIX taker is fixed (some of parameters were duplicated in the settings).
 
 ## Version 2025.12.08.431 (8 December, 2025)
+### Features
+* It is possible to send orders to makers with reversed direction since this version (negative volume multiplier in Risk profile rules).
 ### Changes
 * Minor alerting bug is fixed (some artefacts in log files had been left after the alert was removed).
 * Minor GUI elements (buttons) render process is optimized.
