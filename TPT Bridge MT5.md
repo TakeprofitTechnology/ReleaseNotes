@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 25.12.12.50 (12 December, 2025)
+### Changes
+* Added a protection mechanism for cases when rejected orders are passed further to LP. Now if Fatal occurs on Abook order, Abook will be blocked for this trading account.
+
 ## Version 25.12.11.40 (11 December, 2025)
 ### Changes
 * Added a protection for starting the gateway with bad configuration: now it will be shut down if no/bad dictionary file has been found.
