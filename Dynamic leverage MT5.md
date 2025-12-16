@@ -2,7 +2,7 @@
 
 ## Version 25.12.11.65 (12 December, 2025)
 ### Changes
-* Fixed the bug with incorrect MarginMultiplier value affected margin recalculation.
+* Fixed the bug with incorrect MarginMultiplier value affected margin recalculation when equity is out of leverage tiers.
 
 ## Version 25.11.14.45 (20 November, 2025)
 ### Changes
