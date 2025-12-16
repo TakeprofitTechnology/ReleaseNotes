@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 25.11.24.63 (16 December, 2025)
+### Changes
+* Fixed the rounding issue which blocked withdrawal of funds in some cases.
+
 ## Version 25.10.10.54 (10 October, 2025)
 ### Changes
 * Cache initialization has been improved:
