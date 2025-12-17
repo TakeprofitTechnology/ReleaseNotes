@@ -1,5 +1,10 @@
 # MT5 Swap Free
 
+
+## Version 25.12.12.56 (12 December, 2025)
+### Changes
+* The parameter "ProcessNettingByDeal" is added to MT plugin settings.
+
 ## Version 25.10.22.76 (27 October, 2025)
 ### Changes
 * Processing of REST API requests have been rebuilt.
