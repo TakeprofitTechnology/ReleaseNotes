@@ -1,5 +1,10 @@
 # Risk profiling panel
 
+## Version 2025.12.11.579 (19 December, 2025)
+### Changes
+* Fixed the bug with incorrect calculation of partial closures.
+* Fixed the bug with blank Winners/Losers page after program restart. 
+
 ## Version 2025.12.4.376 (5 December, 2025)
 ### Changes
 * Fixed the bug with empty data for some MT4 accounts.
