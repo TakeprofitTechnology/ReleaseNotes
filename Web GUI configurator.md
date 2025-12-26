@@ -1,5 +1,10 @@
 # Web GUI сonfigurator
 
+## Version 2025.12.17.776 (26 December, 2025)
+### Changes
+* Dealer MT5: Rules file format has been changed from .csv to .ini.
+* Dealer MT5: Fatal error added if config is invalid.
+
 ## Version 2025.12.11.770 (11 December, 2025)
 ### Changes
 * Takeprofit Bridge MT5, MT4, Kloshira MT5: 'Comment' field has been renamed to 'Note'.
