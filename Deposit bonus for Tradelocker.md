@@ -8,3 +8,12 @@
 ### Changes
 * REST API requests are now added to log files.
 * The logic of bonus creation is added (as a credit and as a deposit).
+
+## Version 2025.12.2.742 (2 December, 2025)
+### Changes
+* GUI is created.
+* Rules saving and editing logic is added.
+* appsettings.json file with parameters is added.
+* REST API integration with Tradelocker is added.
+* The logic of deposit tracking is added.
+
