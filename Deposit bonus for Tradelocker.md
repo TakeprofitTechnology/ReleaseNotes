@@ -7,3 +7,4 @@
 ## Version 2025.12.8.985 (8 December, 2025)
 ### Changes
 * REST API requests are now added to log files.
+* The logic of bonus creation is added (as a credit and as a deposit).
