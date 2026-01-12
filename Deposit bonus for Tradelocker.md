@@ -1,5 +1,11 @@
 # Deposit bonus for Tradelocker
 
+
+
+## Version 2025.12.19.710 (19 December, 2025)
+### Changes
+* Tooltips are removed from the GUI.
+
 ## Version 2025.12.15.416 (15 December, 2025)
 ### Features
 * Max bonus (acc ccy) parameter is added (the parameter allows to set max bonus amount for one bonus).
