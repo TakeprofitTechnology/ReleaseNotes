@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2025.12.30.919 (30 December, 2025)
+### Changes
+* Improved authentication stability by fixing the login and 2FA request flow.
+
 ## Version 2025.11.24.1143 (25 November, 2025)
 ### Changes
 * 'Min correction limit' has been added to Position checker.
