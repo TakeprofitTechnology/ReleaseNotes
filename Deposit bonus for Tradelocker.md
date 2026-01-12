@@ -5,6 +5,7 @@
 ## Version 2025.12.19.710 (19 December, 2025)
 ### Changes
 * Tooltips are removed from the GUI.
+* The parameter "ApiRateLimitPer10Sec" is added to the application.
 
 ## Version 2025.12.15.416 (15 December, 2025)
 ### Features
