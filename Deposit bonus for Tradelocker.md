@@ -3,6 +3,7 @@
 ## Version 2025.12.15.416 (15 December, 2025)
 ### Features
 * Max bonus (acc ccy) parameter is added (the parameter allows to set max bonus amount for one bonus).
+* Bonus withdrawal logic is added.
 ### Changes
 * Bonus rules are added to log files.
 
