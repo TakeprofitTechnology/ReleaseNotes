@@ -7,6 +7,8 @@
 * Inner optimizations and refactoring. The speed of bonus processing is increased.
 
 ## Version 2025.12.19.710 (19 December, 2025)
+### Features
+* The app removes the bonus if equity is less than credit.
 ### Changes
 * Tooltips are removed from the GUI.
 * The parameter "ApiRateLimitPer10Sec" is added to the application.
