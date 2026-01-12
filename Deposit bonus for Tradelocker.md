@@ -1,5 +1,8 @@
 # Deposit bonus for Tradelocker
 
+## Version 2025.12.29.587 (29 December, 2025)
+### Changes
+* Second part of inner optimizations and refactoring. The speed of bonus processing is increased.
 
 
 ## Version 2025.12.23.3820 (23 December, 2025)
