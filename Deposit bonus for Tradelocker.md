@@ -1,6 +1,8 @@
 # Deposit bonus for Tradelocker
 
 ## Version 2025.12.9.653 (9 December, 2025)
+### Features
+* The logic of total bonus for each account is added.
 ### Changes
 * The license check mechanism is added.
 
