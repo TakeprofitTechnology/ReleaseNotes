@@ -1,5 +1,11 @@
 # Dynamic leverage MT5
 
+
+## Version 26.01.13.47 (13 January, 2026)
+### Changes
+* The negative equity protection is added (for traders it was possible to perform trades even if the equity is negative).
+
+
 ## Version 25.12.11.65 (12 December, 2025)
 ### Changes
 * Fixed the bug with incorrect MarginMultiplier value affected margin recalculation when equity is out of leverage tiers.
