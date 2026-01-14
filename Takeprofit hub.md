@@ -1,5 +1,10 @@
 # Takeprofit hub
 
+
+## Version 2025.12.22.628 (22 December, 2025)
+### Changes
+* Minor GUI bugs (page refreshing) are fixed.
+
 ## Version 2025.12.18.667 (18 December, 2025)
 ### Changes
 * Symbols operations are optimized (delete all, import).
