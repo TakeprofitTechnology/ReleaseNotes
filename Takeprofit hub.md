@@ -9,6 +9,7 @@
 ### Changes
 * Symbols operations are optimized (delete all, import).
 * Symbols and takers tabs representation is optimized (new grid component is used to represent data).
+* Exposure calculation bug (case when conversion rate = 1) is fixed.
 
 ## Version 2025.12.09.394 (9 December, 2025)
 ### Changes
