@@ -3,6 +3,7 @@
 ## Version 2025.12.18.667 (18 December, 2025)
 ### Changes
 * Symbols operations are optimized (delete all, import).
+* Symbols and takers tabs representation is optimized (new grid component is used to represent data).
 
 ## Version 2025.12.09.394 (9 December, 2025)
 ### Changes
