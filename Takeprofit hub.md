@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+## Version 2025.12.24.579 (24 December, 2025)
+### Changes
+* RetargetAccountID validation is added when importing TSV file (Risk profile rules).
 
 ## Version 2025.12.22.628 (22 December, 2025)
 ### Changes
