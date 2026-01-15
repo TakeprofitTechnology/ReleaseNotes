@@ -11,6 +11,11 @@
 * Volume (USD) column is added to account positions table.
 * Deleted margin accounts names are represented as a text (not as links as before).
 
+
+## Version 2025.12.19.492 (19 December, 2025)
+### Changes
+* The logic of NOP limit alerts is changed. 
+
 ## Version 2025.12.18.667 (18 December, 2025)
 ### Changes
 * Symbols operations are optimized (delete all, import).
