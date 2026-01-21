@@ -15,6 +15,7 @@
 ## Version 2025.12.19.492 (19 December, 2025)
 ### Changes
 * The logic of NOP limit alerts is changed (the alerts now are simply sent once at specified time interval).
+* "Choose columns" button on all pages is renamed to "Columns".
 
 ## Version 2025.12.18.667 (18 December, 2025)
 ### Changes
