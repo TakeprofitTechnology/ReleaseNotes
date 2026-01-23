@@ -1,5 +1,10 @@
 # MT4 Takeprofit Bridge
 
+
+## Version 26.01.22.24 (22 January, 2026)
+### Changes
+* Klsohira MT4 is renamed to Takeprofit bridge (the name can be seen in MT4 administrator, plugins).
+
 ## Version 25.11.14.61 (21 November, 2025)
 ### Changes
 * File format has been changed and updated with new formats for better backup compatibility.
