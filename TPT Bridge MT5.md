@@ -3,7 +3,7 @@
 
 ## Version 26.01.19.84 (26 January, 2026)
 ### Changes
-* FNS value (and a couple of other values) are added to B-book orders execution reports.
+* FNS value (and a couple of other values) are added to A-book orders execution reports.
 
 ## Version 25.12.12.50 (12 December, 2025)
 ### Changes
