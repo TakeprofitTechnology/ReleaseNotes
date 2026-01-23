@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+
+## Version 26.01.19.84 (26 January, 2026)
+### Changes
+* FNS value (and a couple of other values) are added to B-book orders execution reprots.
+
 ## Version 25.12.12.50 (12 December, 2025)
 ### Changes
 * Added a protection mechanism for cases when orders filled on LP are rejected on MT5 side. Now if Fatal occurs on Abook order, Abook will be blocked for this trading account.
