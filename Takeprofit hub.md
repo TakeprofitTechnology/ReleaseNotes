@@ -24,6 +24,11 @@
 * Exposure calculation bug (case when conversion rate = 1) is fixed.
 * Minor GUI (dropdown lists, incorrect width of elements) bugs are fixed.
 
+
+## Version 2025.12.12.479 (12 December, 2025)
+### Changes
+* Now it is possible to select the columns to represent in Symbols table (Market watch tab);
+
 ## Version 2025.12.09.394 (9 December, 2025)
 ### Changes
 * The settings of Integral FIX taker is fixed (some of parameters were duplicated in the settings).
