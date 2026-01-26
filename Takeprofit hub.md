@@ -27,7 +27,7 @@
 
 ## Version 2025.12.12.479 (12 December, 2025)
 ### Changes
-* Now it is possible to select the columns to represent in Symbols table (Market watch tab);
+* Now it is possible to select the columns to represent in Symbols table (Market watch tab).
 
 ## Version 2025.12.09.394 (9 December, 2025)
 ### Changes
