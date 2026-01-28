@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 26.01.15.77 (20 January, 2026)
+### Changes
+* Minor internal optimizations and stability improvements have been implemented.
+
 ## Version 25.11.24.63 (16 December, 2025)
 ### Changes
 * Fixed the rounding issue which blocked withdrawal of funds in some cases.
