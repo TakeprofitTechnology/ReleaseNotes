@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.1.22.485 (23 Friday, 2026)
+### Changes
+* TakeprofitBridge MT5: Slippage tolerance value is now set to 0 when using a default rule.
+
 ## Version 2025.12.17.776 (26 December, 2025)
 ### Changes
 * Dealer MT5: Rules file format has been changed from .csv to .ini.
