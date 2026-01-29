@@ -1,5 +1,10 @@
 # Takeprofit hub
 
+
+## Version 2026.01.27.1055 (27 January, 2026)
+### Changes
+* External reason is added as a filter to Risk profiles rules.
+
 ## Version 2025.12.24.579 (24 December, 2025)
 ### Changes
 * RetargetAccountID validation is added when importing TSV file (Risk profile rules).
