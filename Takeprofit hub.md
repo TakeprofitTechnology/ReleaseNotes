@@ -4,6 +4,7 @@
 ## Version 2026.01.27.1055 (27 January, 2026)
 ### Changes
 * External reason is added as a filter to Risk profiles rules.
+* NOP limit symbol search bug is fixed.
 
 ## Version 2026.01.23.1055 (23 January, 2026)
 ### Changes
