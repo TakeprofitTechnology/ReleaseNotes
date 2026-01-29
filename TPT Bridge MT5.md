@@ -1,5 +1,8 @@
 # Takeprofit Bridge MT5
 
+## Version 26.01.22.32 (23 January, 2026)
+### Changes
+* Slippage tolerance value is now 0 while using a default rule
 
 ## Version 26.01.19.84 (26 January, 2026)
 ### Changes
