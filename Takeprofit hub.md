@@ -8,6 +8,7 @@
 ## Version 2026.01.23.1055 (23 January, 2026)
 ### Changes
 * Parameter SendOnlyFinalExecutionReport is added to taker FIX connection details (only for OZ).
+* Some GUI optimizations are made to avoid errors when representing data in web browser.
 
 ## Version 2025.12.24.579 (24 December, 2025)
 ### Changes
