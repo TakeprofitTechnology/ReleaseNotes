@@ -13,6 +13,11 @@
 * Parameter SendOnlyFinalExecutionReport is added to taker FIX connection details (only for OZ).
 * Some GUI optimizations are made to avoid errors when representing data in web browser.
 
+
+## Version 2026.01.22.689 (22 January, 2026)
+### Changes
+* Timeframes H4 and D1 are removed from market watch.
+
 ## Version 2026.1.21.528 (21 January, 2026)
 ### Changes
 * The hub is migrated to .net v10.
