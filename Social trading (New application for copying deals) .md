@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2026.1.21.368 (26 January, 2026)
+### Changes
+* Added the option to connect Tradelocker server for testing.
+* Removed legacy 'Add account' button.
+
 ## Version 2025.10.31.521 (31 October, 2025)
 ### Changes
 * Fixed start page for unauthorized user.
