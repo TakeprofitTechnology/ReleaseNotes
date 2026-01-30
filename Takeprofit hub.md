@@ -6,6 +6,7 @@
 * External reason is added as a filter to Risk profiles rules.
 * NOP limit symbol search bug is fixed.
 * Minor GUI data representation bugs are fixed.
+* The bug of incorrect execution map representation is fixed.
 
 ## Version 2026.01.23.1055 (23 January, 2026)
 ### Changes
