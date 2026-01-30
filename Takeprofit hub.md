@@ -20,6 +20,10 @@
 * RetargetAccountID validation is added when importing TSV file (Risk profile rules).
 * Reentrancy vulnerability protection is added to margin account deposit/withdrawal logic.
 
+## Version 2025.12.23.780 (23 December, 2025)
+### Features
+* Now it is possible to import hub symbols using MT5 Symbols json exported file.
+
 ## Version 2025.12.22.628 (22 December, 2025)
 ### Changes
 * Minor GUI bugs (page refreshing) are fixed.
