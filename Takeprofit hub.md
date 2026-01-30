@@ -49,6 +49,8 @@
 * Symbols and takers tabs representation is optimized (new grid component is used to represent data).
 * Exposure calculation bug (case when conversion rate = 1) is fixed.
 * Minor GUI (dropdown lists, incorrect width of elements) bugs are fixed.
+### Features
+* Now it is possible to set the timeframes for market watch (M1, M15, M30, H1, H4, D1).
 
 
 ## Version 2025.12.12.479 (12 December, 2025)
