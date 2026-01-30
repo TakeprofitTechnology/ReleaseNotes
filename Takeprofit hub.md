@@ -29,6 +29,7 @@
 * Minor GUI bugs (page refreshing) are fixed.
 * Volume (USD) column is added to account positions table.
 * Deleted margin accounts names are represented as a text (not as links as before).
+* Browser data representation is improved.
 
 
 ## Version 2025.12.19.492 (19 December, 2025)
