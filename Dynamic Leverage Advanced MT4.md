@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 26.01.16.38 (21 January, 2026)
+### Changes
+* Exposure volumetype is now applied to Levels 1-9
+
 ## Version 25.11.14.51 (14 November, 2025)
 ### Changes
 * Fixed log spam due to incorrect ForceRecalculation behavior.
