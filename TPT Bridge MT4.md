@@ -3,6 +3,7 @@
 ## Version 26.01.29.35 (29 January, 2026)
 ### Changes
 * Fixed the issue with default rule used not optimal default values
+* Slippage tolerance value is now 0 while using a default rule
 
 ## Version 26.01.22.24 (22 January, 2026)
 ### Changes
