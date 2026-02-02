@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 26.01.29.35 (29 January, 2026)
+### Changes
+* Fixed the issue with default rule used not optimal default values
+
 ## Version 25.11.27.49 (1 December, 2025)
 ### Changes
 * Extra Slippage can now be applied with action H even with Delay=0.
