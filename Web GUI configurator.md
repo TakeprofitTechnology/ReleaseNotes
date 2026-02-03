@@ -1,6 +1,10 @@
 # Web GUI сonfigurator
 
-## Version 2026.1.22.485 (23 Friday, 2026)
+## Version 2026.1.30.772 (30 January, 2026)
+### Changes
+* TakeprofitBridge MT5: fixed the popup appearence.
+
+## Version 2026.1.22.485 (23 January, 2026)
 ### Changes
 * TakeprofitBridge MT5: Slippage tolerance value is now set to 0 when using a default rule.
 
