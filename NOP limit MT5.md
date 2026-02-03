@@ -1,5 +1,9 @@
 # NOP limit MT5
 
+## Version 26.01.29.54 (3 February, 2026)
+### Changes
+* Fixed the rounding issue which triggered the plugin to block the volume even if the threshold is not reached.
+
 ## Version 25.11.24.64 (24 November, 2025)
 ### Changes
 * Added 'PASSED' event to log files.
