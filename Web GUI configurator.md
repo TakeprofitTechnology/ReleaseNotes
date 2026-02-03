@@ -3,6 +3,7 @@
 ## Version 2026.1.30.772 (30 January, 2026)
 ### Changes
 * TakeprofitBridge MT5: fixed the popup appearence.
+* TakeprofitBridge MT4: Added order execution report.
 
 ## Version 2026.1.22.485 (23 January, 2026)
 ### Changes
