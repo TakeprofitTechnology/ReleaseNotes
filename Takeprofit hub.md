@@ -9,6 +9,7 @@
 * Connection statuses of makers and takers now have different colors (green, red, grey).
 * Symbols search on market watch tab is improved ("/" can be input).
 * Now it is not possible to edit price channel symbols in cell of symbols table. It is only possible in a symbol settings popup.
+* Minor logs representation improvements (Orders, Deals, etc. tabs).
 
 ## Version 2026.01.27.1055 (27 January, 2026)
 ### Changes
