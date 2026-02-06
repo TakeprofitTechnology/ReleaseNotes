@@ -1,5 +1,10 @@
 # Deposit bonus for Tradelocker
 
+
+## Version 2026.2.1.1089 (2 February, 2026)
+### Changes
+* The bug (the bonus is not deducted when ev < bonus amount) is fixed.
+
 ## Version 2025.12.29.587 (29 December, 2025)
 ### Changes
 * Second part of inner optimizations and refactoring. The speed of bonus processing is increased.
