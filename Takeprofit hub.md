@@ -6,6 +6,7 @@
 * Takers search is improved (Takers tab).
 * Bug (can't save Risk Profile rules after changing their priority) is fixed.
 * OneZero maker settings template is fixed (SendOnlyFinalExecutionreport parameter is moved to Default section).
+* Connection statuses of makers and takers now have different colors (green, red, grey).
 
 ## Version 2026.01.27.1055 (27 January, 2026)
 ### Changes
