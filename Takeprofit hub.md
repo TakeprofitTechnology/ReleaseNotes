@@ -4,6 +4,7 @@
 ## Version 2026.01.30.914 (30 January, 2026)
 ### Changes
 * Takers search is improved (Takers tab).
+* Bug (can't save Risk Profile rules after changing their priority) is fixed.
 
 ## Version 2026.01.27.1055 (27 January, 2026)
 ### Changes
