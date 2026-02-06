@@ -1,4 +1,7 @@
 # Takeprofit hub
+## Version 2026.2.2.1074 (2 February, 2026)
+### Changes
+* The bug of broken maker symbols import is fixed.
 
 
 ## Version 2026.01.30.914 (30 January, 2026)
