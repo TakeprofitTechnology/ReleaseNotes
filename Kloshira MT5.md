@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 26.02.04.50 (5 February, 2026)
+### Changes
+* Added some modifications to decrease AV triggers when using gateway.
+
 ## Version 26.01.29.35 (29 January, 2026)
 ### Changes
 * Fixed the issue with default rule used not optimal default values
