@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2026.01.30.914 (30 January, 2026)
+### Changes
+* Takers search is improved (Takers tab).
+
 ## Version 2026.01.27.1055 (27 January, 2026)
 ### Changes
 * External reason is added as a filter to Risk profiles rules.
