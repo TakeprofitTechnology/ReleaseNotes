@@ -1,6 +1,11 @@
 # Takeprofit Bridge MT5
 
-## Version 26.02.04.50 (5 February, 2026)
+
+## Version 2026.2.5.640 (5 February, 2026)
+### Changes
+* External order ID is added to order execution report.
+
+## Version 26.02.04.50 (4 February, 2026)
 ### Changes
 * Added some modifications to decrease AV triggers when using gateway.
 
