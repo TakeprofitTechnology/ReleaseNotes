@@ -1,7 +1,13 @@
 # MT4 Takeprofit Bridge
 
 
-## Version 26.01.30.29 30 January, 2026)
+## Version 26.02.05.45 (5 February, 2026)
+### Changes
+* Tags fns, mslipUSD and eslipUSD are added to execution report for B-book orders.
+* External order ID (FIX tag 11) is added to execution report.
+
+
+## Version 26.01.30.29 (30 January, 2026)
 ### Changes
 * The bug of incorrect behavior regarding SessionQualifiers in acceptors is fixed.
 
