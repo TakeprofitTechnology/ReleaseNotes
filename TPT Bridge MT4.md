@@ -1,5 +1,10 @@
 # MT4 Takeprofit Bridge
 
+
+## Version 26.01.30.29 30 January, 2026)
+### Changes
+* The bug of incorrect behavior regarding SessionQualifiers in acceptors is fixed.
+
 ## Version 26.01.29.35 (29 January, 2026)
 ### Changes
 * Fixed the issue with default rule used not optimal default values
