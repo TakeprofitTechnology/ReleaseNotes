@@ -8,6 +8,7 @@
 ## Version 2026.02.11.1097 (11 February, 2026)
 ### Changes
 * Incorrect GUI behavior (risk profiles rules) is fixed (export and import buttons worked incorrect if there were some manipulations with the rules).
+* Dropdown list of takers issue is fixed (allow all checkbox didn't uncheck all takers checkbox).
 
 ## Version 2026.02.10.897 (10 February, 2026)
 ### Changes
