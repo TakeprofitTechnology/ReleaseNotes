@@ -1,5 +1,10 @@
 # Takeprofit hub
 
+
+## Version 2026.02.11.1097 (11 February, 2026)
+### Changes
+* Incorrect GUI behavior (risk profiles rules) is fixed (export and import buttons worked incorrect if there were some manipulations with the rules).
+
 ## Version 2026.02.10.897 (10 February, 2026)
 ### Changes
 * REST API is extended: GET /accounts/{id} returns more data then before, GET /accounts/{id}/nop_limits endpoint is added.
