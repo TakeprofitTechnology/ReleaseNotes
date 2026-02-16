@@ -1,5 +1,10 @@
 # GL Risk Panel
 
+
+## Version 2026.2.11.337 (11 February, 2026)
+### Changes
+* The bug is fixed: the descripancies must be moved to the top of the list.
+
 ## Version 2025.12.30.919 (30 December, 2025)
 ### Changes
 * Improved authentication stability by fixing the login and 2FA request flow.
