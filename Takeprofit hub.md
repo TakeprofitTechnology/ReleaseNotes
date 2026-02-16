@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2026.02.12.1060 (12 February, 2026)
+### Changes
+* Incorrect GUI behavior (risk profiles rules) is fixed (save button was sometimes unavalible).
+
 ## Version 2026.02.11.1097 (11 February, 2026)
 ### Changes
 * Incorrect GUI behavior (risk profiles rules) is fixed (export and import buttons worked incorrect if there were some manipulations with the rules).
