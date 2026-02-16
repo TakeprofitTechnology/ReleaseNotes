@@ -1,5 +1,10 @@
 # Risk profiling panel
 
+
+## Version 2026.1.30.735 (30 January, 2026)
+### Changes
+* Account list page loading is sped up.
+
 ## Version 2025.12.11.579 (19 December, 2025)
 ### Changes
 * Fixed the bug with incorrect calculation of partial closures.
