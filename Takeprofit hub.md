@@ -1,4 +1,10 @@
 # Takeprofit hub
+
+
+## Version2026.02.06.686 (6 February, 2026)
+### Changes
+* The logs are improved (there was not the full list of parameters when the risk profile was changed).
+
 ## Version 2026.2.2.1074 (2 February, 2026)
 ### Changes
 * The bug of broken maker symbols import is fixed.
