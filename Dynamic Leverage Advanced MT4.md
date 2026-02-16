@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 26.02.09.61 (9 February, 2026)
+### Changes
+* MaxLogsGigabytes is added to the predefined list of parameters.
+
 ## Version 26.01.16.38 (21 January, 2026)
 ### Changes
 * Exposure volumetype is now applied to Levels 1-9
