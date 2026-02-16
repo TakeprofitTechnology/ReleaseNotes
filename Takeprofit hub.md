@@ -15,6 +15,7 @@
 ### Changes
 * The logs are improved (there was not the full list of parameters when the risk profile was changed).
 * The jumping grid in market watch is fixed.
+* External acc color is added to risk profile rules.
 
 ## Version 2026.02.05.781 (5 February, 2026)
 ### Changes
