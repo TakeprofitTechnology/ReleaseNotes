@@ -1,7 +1,11 @@
 # Takeprofit hub
 
+## Version 2026.02.10.897 (10 February, 2026)
+### Changes
+* REST API is extended: GET /accounts/{id} returns more data then before, GET /accounts/{id}/nop_limits endpoint is added.
 
-## Version2026.02.06.686 (6 February, 2026)
+
+## Version 2026.02.06.686 (6 February, 2026)
 ### Changes
 * The logs are improved (there was not the full list of parameters when the risk profile was changed).
 * The jumping grid in market watch is fixed.
