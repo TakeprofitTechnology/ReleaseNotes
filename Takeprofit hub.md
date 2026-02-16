@@ -10,6 +10,10 @@
 * The logs are improved (there was not the full list of parameters when the risk profile was changed).
 * The jumping grid in market watch is fixed.
 
+## Version 2026.02.05.781 (5 February, 2026)
+### Changes
+* The mechanism of refreshing the symbol subscribtion is added to hub's taker connection
+
 ## Version 2026.2.2.1074 (2 February, 2026)
 ### Changes
 * The bug of broken maker symbols import is fixed.
