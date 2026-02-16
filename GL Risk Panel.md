@@ -4,7 +4,7 @@
 ## Version 2026.2.11.337 (11 February, 2026)
 ### Changes
 * The bug is fixed: the descripancies must be moved to the top of the list.
-* the bug is fixed: incorrect alerts were sent.
+* The bug is fixed: incorrect alerts were sent.
 
 ## Version 2025.12.30.919 (30 December, 2025)
 ### Changes
