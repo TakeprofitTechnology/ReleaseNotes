@@ -3,6 +3,7 @@
 ## Version 2026.02.10.897 (10 February, 2026)
 ### Changes
 * REST API is extended: GET /accounts/{id} returns more data then before, GET /accounts/{id}/nop_limits endpoint is added.
+* Market watch tables loading speed is increased.
 
 
 ## Version 2026.02.06.686 (6 February, 2026)
