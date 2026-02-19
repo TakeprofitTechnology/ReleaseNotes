@@ -1,6 +1,11 @@
 # Takeprofit hub
 
 
+## Version 2026.02.16.450 (16 February, 2026)
+### Changes
+* Inccorrect filling of FIX message for PrimeXM maker is fixed (now tags 1 and 115 are filled according to hub's routing rules).
+
+
 ## Version 2026.02.12.1060 (12 February, 2026)
 ### Changes
 * Incorrect GUI behavior (risk profiles rules) is fixed (save button was sometimes unavalible).
