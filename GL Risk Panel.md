@@ -1,5 +1,8 @@
 # GL Risk Panel
 
+## Version 2026.2.16.680 (16 February, 2026)
+### Changes
+* The calculation bug is fixed (Risk Panel calculated GL → LP discrepancy incorrectly).
 
 ## Version 2026.2.11.337 (11 February, 2026)
 ### Changes
