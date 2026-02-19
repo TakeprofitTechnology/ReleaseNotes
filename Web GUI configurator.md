@@ -1,5 +1,10 @@
 # Web GUI сonfigurator
 
+
+## Version 2026.2.9.719 (9 February, 2026)
+### Changes
+* Small fixes were added to Dynamic leverage MT5 GUI.
+
 ## Version 2026.1.30.772 (30 January, 2026)
 ### Changes
 * TakeprofitBridge MT5: fixed the popup appearence.
