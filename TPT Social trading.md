@@ -1,5 +1,10 @@
 # TPT Social trading
 
+
+## Version 2026.2.11.336 (11 February, 2026)
+### Changes
+* The protection of double fee chargings is added.
+
 ## Version 2026.1.21.368 (26 January, 2026)
 ### Changes
 * Added the option to connect Tradelocker server for testing.
