@@ -4,7 +4,7 @@
 ## Version 2026.2.20.378 (20 February, 2026)
 ### Changes
 * The hub does not support Linux OS anymore.
-* Minor GUI bugs are fixed.
+* Minor GUI bugs and errors are fixed.
 
 ## Version 2026.02.18.721 (18 February, 2026)
 ### Changes
