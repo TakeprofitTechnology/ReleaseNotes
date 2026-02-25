@@ -1,9 +1,18 @@
 # Takeprofit hub
 
 
+
+
+
+
+
 ## Version 2026.2.20.378 (20 February, 2026)
 ### Changes
 * The hub does not support Linux OS anymore.
+
+## Version 2026.02.18.721 (18 February, 2026)
+### Changes
+* The bug is fixed: not all removed makers were marked as deleted.
 
 ## Version 2026.02.16.450 (16 February, 2026)
 ### Changes
