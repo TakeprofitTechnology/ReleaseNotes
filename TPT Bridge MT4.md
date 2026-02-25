@@ -1,5 +1,8 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.02.11.59 (12 February, 2026)
+### Changes
+* Fixed incorrect definition for multiple reasons (client, dealer, expert) by the Bridge, which showed UNKNOWN instead. 
 
 ## Version 26.02.05.45 (5 February, 2026)
 ### Changes
