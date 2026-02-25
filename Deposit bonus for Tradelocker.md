@@ -1,6 +1,12 @@
 # Deposit bonus for Tradelocker
 
 
+## Version 2026.2.20.576 (2 February, 2026)
+### Changes
+* Websocket API is removed.
+* Requesting accounts states via REST API.
+* Check of missing operations is removed.
+
 ## Version 2026.2.1.1089 (2 February, 2026)
 ### Changes
 * The bug (the bonus is not deducted when ev < bonus amount) is fixed.
