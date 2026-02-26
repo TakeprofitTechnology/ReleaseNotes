@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version 26.02.25.43 (26 February, 2026)
+### Changes
+* 'Swap allocation mode' parameter has been added.
+
 ## Version 25.09.11.56 (9 September, 2025)
 ### Changes
 * Logging has been improved.
