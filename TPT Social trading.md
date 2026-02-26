@@ -1,5 +1,8 @@
 # TPT Social trading
 
+## Version 2026.2.9.692 (18 Februrary, 2026)
+### Changes
+* 'Disable leader fees' parameter has been added to the administrator dashboard.
 
 ## Version 2026.2.11.336 (11 February, 2026)
 ### Changes
