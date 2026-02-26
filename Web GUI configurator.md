@@ -4,6 +4,7 @@
 ## Version 2026.2.9.719 (9 February, 2026)
 ### Changes
 * Small fixes were added to Dynamic leverage MT5 GUI.
+* Takeprofit Bridge MT5: External order ID is added to Order execution report.
 
 ## Version 2026.1.30.772 (30 January, 2026)
 ### Changes
