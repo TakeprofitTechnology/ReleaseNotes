@@ -1,5 +1,8 @@
 # Takeprofit Bridge MT5
 
+## Version 26.02.27.36 (27 February, 2026)
+### Changes
+* MT5 API has been updated for stable operation.
 
 ## Version 2026.2.5.640 (5 February, 2026)
 ### Changes
