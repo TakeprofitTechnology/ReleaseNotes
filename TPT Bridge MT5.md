@@ -4,6 +4,10 @@
 ### Changes
 * MT5 API has been updated for stable operation.
 
+## Version 26.02.10.51 (10 February, 2026)
+### Changes
+* Fixed a small issue with reports.
+
 ## Version 2026.2.5.640 (5 February, 2026)
 ### Changes
 * External order ID is added to order execution report.
