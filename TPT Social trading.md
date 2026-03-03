@@ -3,6 +3,7 @@
 ## Version 2026.2.27.837 (2 March, 2026)
 ### Changes
 * Fixed dissapearing button bug.
+* Fixed reset of performance fee while changing the percentage.
 
 ## Version 2026.2.9.692 (18 Februrary, 2026)
 ### Changes
