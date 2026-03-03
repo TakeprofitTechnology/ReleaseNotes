@@ -2,6 +2,7 @@
 
 ## Version 2026.2.27.837 (2 March, 2026)
 ### Changes
+* Added a new GUI for batch operations.
 * Fixed dissapearing button bug.
 * Fixed reset of performance fee while changing the percentage.
 * Fixed the issue led to product crush if there were no money on followers.
