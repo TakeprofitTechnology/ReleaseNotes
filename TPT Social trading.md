@@ -4,6 +4,7 @@
 ### Changes
 * Fixed dissapearing button bug.
 * Fixed reset of performance fee while changing the percentage.
+* Fixed the issue led to product crush if there were no money on followers.
 
 ## Version 2026.2.9.692 (18 Februrary, 2026)
 ### Changes
