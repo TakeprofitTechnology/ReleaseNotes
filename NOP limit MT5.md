@@ -1,5 +1,9 @@
 # NOP limit MT5
 
+## Version 26.03.02.44 (3 March, 2026)
+### Changes
+* Added virtual position cache to reduce execution delays.
+
 ## Version 26.01.29.54 (3 February, 2026)
 ### Changes
 * Fixed the rounding issue which triggered the plugin to block the volume even if the threshold is not reached.
