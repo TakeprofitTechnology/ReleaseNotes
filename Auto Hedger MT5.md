@@ -3,6 +3,8 @@
 ## Version 26.02.23.52 (24 February, 2026)
 ### Changes
 * History page has been added.
+* Comment format has been changed.
+* 
 
 ## Version 26.01.22.46 (22 January, 2026)
 ### Changes
