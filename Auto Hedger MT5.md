@@ -4,7 +4,7 @@
 ### Changes
 * History page has been added.
 * Comment format has been changed.
-* 
+* Fixed the bug with deals being duplicated on coverage account.
 
 ## Version 26.01.22.46 (22 January, 2026)
 ### Changes
