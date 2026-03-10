@@ -1,5 +1,8 @@
 # Web GUI сonfigurator
 
+## Version 2026.3.10.366 (10 March, 2026)
+### Changes
+* Drawdown Limit MT5: Daily drawdown base mode parameter has been added.
 
 ## Version 2026.2.9.719 (9 February, 2026)
 ### Changes
