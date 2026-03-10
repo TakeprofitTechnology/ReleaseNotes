@@ -1,5 +1,9 @@
 # Drawdown Limit MT5
 
+## Version 26.03.06.46 (10 March, 2026)
+### Features
+* Daily drawdown base mode parameter has been added.
+
 ## Version 25.11.07.43 (7 November, 2025)
 ### Features
 * Drawdown Comment feature has been added for marking the accounts affected by the plugin.
