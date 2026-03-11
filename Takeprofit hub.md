@@ -1,10 +1,13 @@
 # Takeprofit hub
 
-
-## Version 2026.2.20.378 (20 February, 2026)
+## Version 2026.02.20.378 (20 February, 2026)
 ### Changes
 * The hub does not support Linux OS anymore.
 * Minor GUI bugs and errors are fixed.
+
+## Version 2026.02.19.797 (19 February, 2026)
+### Changes
+* The text of incorrect hub logon data is fixed.
 
 ## Version 2026.02.18.721 (18 February, 2026)
 ### Changes
