@@ -14,6 +14,11 @@
 * PrimeXM taker connection is improved: 35=W quote updates are added.
 * The hub URL redirection issues are fixed.
 
+
+## Version 2026.2.24.768 (24 February, 2026)
+### Changes
+* "Filled price" column is added to Orders tab.
+
 ## Version 2026.02.20.378 (20 February, 2026)
 ### Changes
 * The hub does not support Linux OS anymore.
