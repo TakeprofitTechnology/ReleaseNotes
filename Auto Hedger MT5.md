@@ -2,7 +2,7 @@
 
 ## Version 2026.3.5.724 (6 March, 2026)
 ### Changes
-* Fixed the bug with WebGUI with stuck cells.
+* Fixed the WebGUI bug with stuck cells.
 
 ## Version 26.02.23.52 (24 February, 2026)
 ### Changes
