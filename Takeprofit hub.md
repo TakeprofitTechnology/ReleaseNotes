@@ -8,6 +8,7 @@
 ## Version 2026.02.19.797 (19 February, 2026)
 ### Changes
 * The text of incorrect hub logon data is fixed.
+* Made all symbol name comparisons case-insensitive across position caches, trade caches, calculation helpers, and related components.
 
 ## Version 2026.02.18.721 (18 February, 2026)
 ### Changes
