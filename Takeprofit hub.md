@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2026.3.10.412 (10 March, 2026)
+### Changes
+* OneZero taker connection is improved: the hub suppoerts JSON external data in FIX tag 1.
+
 ## Version 2026.3.5.1124 (5 March, 2026)
 ### Changes
 * Logging is improved.
