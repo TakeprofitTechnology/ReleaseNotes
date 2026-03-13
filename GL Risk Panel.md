@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2026.3.12.480 (12 March, 2026)
+### Changes
+* Overall optimization of the product's recalculation speed.
+
 ## Version 2026.2.16.680 (16 February, 2026)
 ### Changes
 * The calculation bug is fixed (Risk Panel calculated GL → LP discrepancy incorrectly).
