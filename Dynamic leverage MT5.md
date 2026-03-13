@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 26.03.10.72 (12 March, 2026)
+### Changes
+* Added reject reasons for CancelPendingIfNoMargin parameter.
+
 ## Version 26.02.16.46 (2 February, 2026)
 ### Features
 * The parameter CancelPendingIfNoMargin is added to the plugin.
