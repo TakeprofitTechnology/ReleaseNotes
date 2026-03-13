@@ -2,7 +2,7 @@
 
 ## Version 26.03.10.72 (12 March, 2026)
 ### Changes
-* Added reject reasons for CancelPendingIfNoMargin parameter.
+* Added reject reasons for CancelPendingIfNoMargin parameter. Reasons are added to comment of the order, for the full list of reasons please refer to the user manual.
 
 ## Version 26.02.16.46 (2 February, 2026)
 ### Features
