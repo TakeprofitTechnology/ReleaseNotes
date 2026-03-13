@@ -14,6 +14,16 @@
 * PrimeXM taker connection is improved: 35=W quote updates are added.
 * The hub URL redirection issues are fixed.
 
+## Version 2026.2.26.443 (26 February, 2026)
+### Changes
+* New SPA interface for login, dashboard, makers, takers, margin accounts and B-Book accounts.
+* List pages with search, card/table view toggle and pagination.
+* Detail pages with tabs: overview, positions, symbols, routing, history, deposit/credit.
+* Full CRUD for all entities via modal dialogs.
+* Position adjustments and order sending from maker/taker/account detail pages.
+* Symbol modifier management for makers (add/edit/delete, TSV import/export).
+* New REST API backend for all SPA pages.
+* Automated E2E tests covering all new SPA functionality.
 
 ## Version 2026.2.24.768 (24 February, 2026)
 ### Changes
