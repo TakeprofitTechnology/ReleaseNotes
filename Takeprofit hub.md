@@ -25,6 +25,10 @@
 * New REST API backend for all SPA pages.
 * Automated E2E tests covering all new SPA functionality.
 
+## Version 2026.2.25.362 (25 February, 2026)
+### Changes
+* PostgreSQL connection errors are fixed.
+
 ## Version 2026.2.24.768 (24 February, 2026)
 ### Changes
 * "Filled price" column is added to Orders tab.
