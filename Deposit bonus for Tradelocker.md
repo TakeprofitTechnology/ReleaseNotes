@@ -14,6 +14,7 @@
 ## Version 2026.1.29.363 (29 January, 2026)
 ### Changes
 * Now the application processes bonuses and withdrawals according to their order (first in - first processed).
+* Fixed GUI issues.
 
 
 ## Version 2025.12.29.587 (29 December, 2025)
