@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 26.03.17.59 (17 March, 2026)
+### Changes
+* UpdateExistingPositions parameter has been added.
+
 ## Version 26.02.09.61 (9 February, 2026)
 ### Changes
 * MaxLogsGigabytes is added to the predefined list of parameters.
