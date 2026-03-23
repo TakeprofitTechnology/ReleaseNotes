@@ -1,9 +1,9 @@
 # MT4 Takeprofit Bridge
 
-
 ## Version 26.03.23.39 (23 March, 2026)
 ### Changes
 * The bridge now sends order "Comment" value in external data of FIX message.
+* Position lifetime value has been added to external data
 
 ## Version 26.02.11.59 (12 February, 2026)
 ### Changes
