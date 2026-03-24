@@ -3,6 +3,7 @@
 ## Version 2026.3.23.649 (24 March, 2026)
 ### Changes
 * Fixed API parsing issue.
+* Fixed API usage with old API keys.
 
 ## Version 2026.3.5.695 (6 March, 2026)
 ### Changes
