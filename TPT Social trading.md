@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2026.3.23.649 (24 March, 2026)
+### Changes
+* Fixed API parsing issue.
+
 ## Version 2026.3.5.695 (6 March, 2026)
 ### Changes
 * Added logs for calculation of Equity(Rounddown) mode 
