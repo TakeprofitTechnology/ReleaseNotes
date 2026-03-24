@@ -4,6 +4,7 @@
 ### Changes
 * Fixed API parsing issue.
 * Fixed API usage with old API keys.
+* Added the setting to hide registration button.
 
 ## Version 2026.3.5.695 (6 March, 2026)
 ### Changes
