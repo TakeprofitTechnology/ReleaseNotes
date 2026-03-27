@@ -9,6 +9,11 @@
 ### Changes
 * Risk profiles tab is rebuild with new visual style and GUI elements.
 
+
+## Version 2026.3.13.660 (13 March, 2026)
+### Changes
+* The exception related with Binance maker connection is fixed.
+
 ## Version 2026.3.10.412 (10 March, 2026)
 ### Changes
 * OneZero taker connection is improved: the hub suppoerts JSON external data in FIX tag 1.
