@@ -18,6 +18,7 @@
 ### Changes
 * OneZero taker connection is improved: the hub suppoerts JSON external data in FIX tag 1.
 * OKX maker order book processing is improved, errors are fixed.
+* Current websocket framework is replaced by System.Net.WebSockets.ClientWebSocket.
 
 ## Version 2026.3.5.1124 (5 March, 2026)
 ### Feeatures
