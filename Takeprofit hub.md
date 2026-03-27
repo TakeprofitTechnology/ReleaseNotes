@@ -241,7 +241,8 @@
 ## Version 2025.10.31.594 (31 October, 2025)
 ### Changes
 * The bug of incorrect price channel rules is fixed.
-* Sending to T4B takers full market snapshot (35=W) instead of incremental refresh by default. 
+* Sending to T4B takers full market snapshot (35=W) instead of incremental refresh by default.
+* SQLite database now can be used by the hub to store the data.
 
 
 
