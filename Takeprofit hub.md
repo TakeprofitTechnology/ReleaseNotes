@@ -1,6 +1,10 @@
 # Takeprofit hub
 
 
+## Version 2026.3.25.693 (25 March, 2026)
+### Changes
+* "External comment" is added to Risk profiling rules.
+
 ## Version 2026.3.19.807 (19 March, 2026)
 ### Changes
 * Risk profiles tab is rebuild with new visual style and GUI elements.
