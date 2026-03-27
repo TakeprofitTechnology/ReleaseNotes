@@ -12,7 +12,7 @@
 
 ## Version 2026.3.13.660 (13 March, 2026)
 ### Changes
-* The exception related with Binance maker connection is fixed.
+* The exception related to Binance maker connection is fixed.
 
 ## Version 2026.3.10.412 (10 March, 2026)
 ### Changes
