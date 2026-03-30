@@ -17,6 +17,11 @@
 * Risk profiles tab is rebuild with new visual style and GUI elements.
 
 
+## Version 2026.3.17.609 (17 March, 2026)
+### Changes
+* Updated Kraken connection test to use a read-only OpenOrders endpoint instead of AddOrder, removing the need for trading permissions.
+
+
 ## Version 2026.3.13.660 (13 March, 2026)
 ### Changes
 * The exception related to Binance maker connection is fixed.
