@@ -1,9 +1,9 @@
 # Takeprofit hub
 
-
 ## Version 2026.3.25.693 (25 March, 2026)
 ### Changes
 * "External comment" is added to Risk profiling rules.
+* Fixed parsing logic for Groups & Logins and Actions to correctly classify values and handle edge cases (A-Book/B-Book behavior, volume rules).
 
 ## Version 2026.3.19.807 (19 March, 2026)
 ### Changes
