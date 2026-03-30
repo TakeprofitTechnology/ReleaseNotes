@@ -14,6 +14,11 @@
 ### Changes
 * The exception related to Binance maker connection is fixed.
 
+## Version 2026.3.12.1138 (12 March, 2026)
+### Changes
+* Restored the Consumer External Data column and filter across Orders, Deals, and Active Orders, making the data searchable and visible in row details.
+* Added a Column Manager with persistent settings across all pages and replaced abbreviated column headers with full, clearer names.
+
 ## Version 2026.3.10.412 (10 March, 2026)
 ### Changes
 * OneZero taker connection is improved: the hub suppoerts JSON external data in FIX tag 1.
