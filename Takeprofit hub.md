@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+
+
+
 ## Version 2026.3.26.657 (26 March, 2026)
 ### Changes
 * Fixed a critical SQLite issue where symbol aggregation priorities were not cleared after restart by ensuring DELETE executes even for empty priority lists.
@@ -17,6 +20,7 @@
 ## Version 2026.3.13.660 (13 March, 2026)
 ### Changes
 * The exception related to Binance maker connection is fixed.
+* Standardized maker states based on status: enabled makers can be Connected, Disconnected, or Market Close (for Alpaca), while disabled makers always show Disabled.
 
 ## Version 2026.3.12.1138 (12 March, 2026)
 ### Changes
