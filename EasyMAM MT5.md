@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2026.3.23.613 (23 March, 2026)
+### Changes
+* MaxExceptionsBeforeRestart setting has been added to appsettings.json, to determine the number of reconnection attempts EasyMAM will make to MT5 before it stops itself, so that Windows can fully restart it as a service.
+
 ## Version 2025.10.24.486 (24 October, 2025)
 ### Changes
 * Fixed the bug with EasyMAM took old credits into account when calculating balance on investor accounts.
