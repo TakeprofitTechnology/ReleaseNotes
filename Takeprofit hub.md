@@ -41,6 +41,7 @@
 * OKX maker order book processing is improved, errors are fixed.
 * Current websocket framework is replaced by System.Net.WebSockets.ClientWebSocket.
 * Reworked the Binance Spot trade connector to use WebSocket instead of REST listenKey, and improved error handling with proper socket closure on failures.
+* iSAM maker is added.
 
 ## Version 2026.3.5.1124 (5 March, 2026)
 ### Feeatures
