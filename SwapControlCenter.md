@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version 26.03.27.47 (27 March, 2026)
+### Changes
+* Refactored virtual positions processing to avoid deadlocks.
+
 ## Version 26.02.25.43 (26 February, 2026)
 ### Changes
 * 'Swap allocation mode' parameter has been added.
