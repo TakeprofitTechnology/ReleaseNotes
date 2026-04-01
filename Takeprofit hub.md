@@ -6,6 +6,8 @@
 ## Version 2026.3.26.657 (26 March, 2026)
 ### Changes
 * Fixed a critical SQLite issue where symbol aggregation priorities were not cleared after restart by ensuring DELETE executes even for empty priority lists.
+* Price channels tab is rebuild with new visual style and GUI elements.
+* Events tab is rebuild with new visual style and GUI elements.
 
 ## Version 2026.3.25.693 (25 March, 2026)
 ### Changes
