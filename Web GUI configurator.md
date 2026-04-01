@@ -8,6 +8,7 @@
 ### Changes
 * Drawdown Limit MT5: Daily drawdown base mode parameter has been added.
 * AutoHedger MT5: WebGUI bugfix.
+* TakeprofitBridge MT5: fixed the bug with chinese locale.
 
 ## Version 2026.2.9.719 (9 February, 2026)
 ### Changes
