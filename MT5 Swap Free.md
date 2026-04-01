@@ -1,5 +1,8 @@
 # MT5 Swap Free
 
+## Version 26.03.06.87 (13 March, 2026)
+### Changes
+* Fixed log message in swap deal creation — now correctly displays 'balance deal' or 'commission deal' depending on the UseCommissionType setting, instead of always showing 'commission deal'.
 
 ## Version 25.12.12.56 (12 December, 2025)
 ### Changes
