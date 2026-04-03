@@ -2,7 +2,7 @@
 
 ## Version 2026.3.30.899 (30 March, 2026)
 ### Changes
-* Market watch is rebuilt.
+* Market watch tab is rebuilt.
 
 
 ## Version 2026.3.26.657 (26 March, 2026)
