@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 26.03.26.42 (26 March, 2026)
+### Changes
+* DeductOnlyFirstBonus parameter has been added for deducting the bonus which was applied with FirstDepositBonusPercentage parameter.
+
 ## Version 26.01.15.77 (20 January, 2026)
 ### Changes
 * Minor internal optimizations and stability improvements have been implemented.
