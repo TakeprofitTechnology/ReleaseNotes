@@ -8,6 +8,7 @@
 ## Version 2026.3.30.899 (30 March, 2026)
 ### Changes
 * Market watch tab is rebuilt.
+* Fixed infinite loading on the Rejections page by optimizing database queries and handling empty results correctly.
 
 ## Version 2026.3.26.657 (26 March, 2026)
 ### Changes
