@@ -1,9 +1,12 @@
 # Takeprofit hub
 
+## Version 2026.4.3.1033 (4 April, 2026)
+### Changes
+* Fixed issues with historical data access by improving partition handling, adding validation, and making date filtering more robust.
+
 ## Version 2026.3.30.899 (30 March, 2026)
 ### Changes
 * Market watch tab is rebuilt.
-
 
 ## Version 2026.3.26.657 (26 March, 2026)
 ### Changes
