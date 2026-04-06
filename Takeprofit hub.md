@@ -1,5 +1,6 @@
 # Takeprofit hub
 
+
 ## Version 2026.4.3.1033 (4 April, 2026)
 ### Changes
 * Fixed issues with historical data access by improving partition handling, adding validation, and making date filtering more robust.
@@ -9,6 +10,7 @@
 ### Changes
 * Market watch tab is rebuilt.
 * Fixed infinite loading on the Rejections page by optimizing database queries and handling empty results correctly.
+* Renamed "Connection String" to "Connection Settings" in Maker and Taker edit forms.
 
 ## Version 2026.3.26.657 (26 March, 2026)
 ### Changes
