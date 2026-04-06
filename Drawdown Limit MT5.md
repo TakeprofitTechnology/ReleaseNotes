@@ -3,6 +3,7 @@
 ## Version 26.04.06.34 (6 April, 2026)
 ### Changes
 * FirstLimitsCalculation added to plugin's default parameters list.
+* Added support of DNS addresses.
 
 ## Version 26.03.06.46 (10 March, 2026)
 ### Features
