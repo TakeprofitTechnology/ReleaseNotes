@@ -2,6 +2,7 @@
 
 ## Version 2026.4.1.606 (7 April, 2026)
 ### Changes
+* New design of login/registration page has been applied.
 * Fixed the behavior when in Equity copying mode leaders and followers with different currencies had incorrect positions calculation due to conversion issue.
 * Fixed the bug with incorrect volume calculation in Equity copying mode, when equity changed on both leader or follower with positive or negative PnL.
 
