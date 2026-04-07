@@ -1,5 +1,9 @@
 # Drawdown Limit MT4
 
+## Version 26.03.30.55 (6 April, 2026)
+### Changes
+* Daily Withdrawal Adjustment mechanism was added — so that withdrawals (e.g. profit sharing) in F-mode are not counted as drawdown.
+
 ## Version 25.11.12.32 (12 November, 2025)
 ### Features
 * Drawdown Comment feature has been added for marking the accounts affected by the plugin.
