@@ -4,6 +4,10 @@
 ### Changes
 * Daily Withdrawal Adjustment mechanism was added — so that withdrawals (e.g. profit sharing) in F-mode are not counted as drawdown.
 
+## Version 26.03.26.42 (26 March, 2026)
+### Changes
+* Fixed bug: MT4 OnRollover was using groups from plugin settings instead of those defined in the GUI rules.
+
 ## Version 25.11.12.32 (12 November, 2025)
 ### Features
 * Drawdown Comment feature has been added for marking the accounts affected by the plugin.
