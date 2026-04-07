@@ -2,7 +2,8 @@
 
 ## Version 2026.4.1.606 (7 April, 2026)
 ### Changes
-* Fixed the behavior when in Equity copying mode leaders and followers with different currencies had incorrect positions calculation due to conversion issue. 
+* Fixed the behavior when in Equity copying mode leaders and followers with different currencies had incorrect positions calculation due to conversion issue.
+* Fixed the bug with incorrect volume calculation in Equity copying mode, when equity changed on both leader or follower with positive or negative PnL.
 
 ## Version 2026.3.23.649 (24 March, 2026)
 ### Changes
