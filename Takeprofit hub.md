@@ -1,5 +1,7 @@
 # Takeprofit hub
 
+
+
 ## Version 2026.4.7.695 (7 April, 2026)
 ### Changes
 * Added validation for remote folder names in SqliteRsyncService to skip entries containing control characters instead of crashing.
@@ -15,6 +17,8 @@
 * Market watch tab is rebuilt.
 * Fixed infinite loading on the Rejections page by optimizing database queries and handling empty results correctly.
 * Renamed "Connection String" to "Connection Settings" in Maker and Taker edit forms.
+* Added contextual info icons with tooltips to symbol settings, explaining Aggregation Mode behavior (Advanced vs Simple) and maker selection rules.
+* Improved UI clarity by providing dynamic hints based on selected options and configuration settings.
 
 ## Version 2026.3.26.657 (26 March, 2026)
 ### Changes
