@@ -1,5 +1,9 @@
 # Broctagon Risk Panel
 
+## Version 2026.3.26.785 (3 April, 2026)
+### Changes
+* MT5 DC Sum column has been reverted.
+
 ## Version 2026.2.27.565 (6 March, 2026)
 ### Changes
 * Fixed the mapping mechanism. Added logging for $BRO symbols mapping.
