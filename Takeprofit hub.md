@@ -25,6 +25,8 @@
 * Fixed a critical SQLite issue where symbol aggregation priorities were not cleared after restart by ensuring DELETE executes even for empty priority lists.
 * Price channels tab is rebuild with new visual style and GUI elements.
 * Events tab is rebuild with new visual style and GUI elements.
+* Fixed UI issues in order/deal details, including incorrect labels, execution time formatting, and log export functionality.
+* Corrected USD volume display for deals to ensure accurate data presentation.
 
 ## Version 2026.3.25.693 (25 March, 2026)
 ### Changes
