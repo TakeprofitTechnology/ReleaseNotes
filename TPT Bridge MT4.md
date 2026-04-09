@@ -1,5 +1,9 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.04.09.32 (9 April, 2026)
+### Changes
+* Added 'Account color' parameter to the rules.
+
 ## Version 26.03.23.39 (23 March, 2026)
 ### Changes
 * The bridge now sends order "Comment" value in external data of FIX message.
