@@ -3,6 +3,7 @@
 ## Version 2026.3.26.785 (3 April, 2026)
 ### Changes
 * MT4/5 DC Sum columns have been reverted.
+* GL section has been removed.
 
 ## Version 2026.2.27.565 (6 March, 2026)
 ### Changes
