@@ -49,6 +49,8 @@
 ### Changes
 * The exception related to Binance maker connection is fixed.
 * Standardized maker states based on status: enabled makers can be Connected, Disconnected, or Market Close (for Alpaca), while disabled makers always show Disabled.
+* Added MT4/MT5 bridge rules import with improved parsing, validation, and field mapping (types, schedules, AccountColor, multipliers).
+* Fixed data consistency issues (grid delete bug) and enhanced handling of edge cases (unmapped types, empty tokens, default schedules).
 
 ## Version 2026.3.12.1138 (12 March, 2026)
 ### Changes
