@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.3.26.753 (31 March, 2026)
+### Changes
+* Fixed interval scheduling format.
+
 ## Version 2026.3.17.890 (17 March, 2026)
 ### Changes
 * Dynamic Leverage advanced: Update Existing Positions parameter has been added.
