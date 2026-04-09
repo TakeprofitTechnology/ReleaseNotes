@@ -1,5 +1,9 @@
 # Takeprofit hub
 
+## Version 2026.4.7.695 (7 April, 2026)
+### Changes
+* Added validation for remote folder names in SqliteRsyncService to skip entries containing control characters instead of crashing.
+* Improved stability during SSH-based folder discovery, with warnings logged for invalid (corrupted) folder names.
 
 ## Version 2026.4.3.1033 (4 April, 2026)
 ### Changes
