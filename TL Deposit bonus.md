@@ -4,3 +4,8 @@
 ### Changes
 * Reduced plugin startup delay (~13 → ~3.5 min) by skipping unnecessary account discovery on first bonus check and significantly cutting API calls.
 * Fixed excessive logging and added cleanup for stuck pending operations (>24h), improving stability and processing reliability.
+
+## Version 2026.3.30.582 (30 March, 2026)
+### Changes
+* Fixed lost bonuses during rule changes by introducing rule history, ensuring deposits receive the correct bonus based on the active rule at deposit time.
+* Added fast-track account discovery (reducing delay to ~5s) and expanded test coverage (45+ tests) to improve reliability across rule changes and edge cases.
