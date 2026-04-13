@@ -4,6 +4,7 @@
 ### Changes
 * Added sorting to Balances menu > MT5 acc ID column.
 * OneZero TOTAL column has been removed.
+* Added filter for 'Dropcopy accounts' section.
 
 ## Version 2026.3.26.785 (3 April, 2026)
 ### Changes
