@@ -3,6 +3,7 @@
 ## Version 2026.4.10.626 (10 April, 2026)
 ### Changes
 * Added sorting to Balances menu > MT5 acc ID column.
+* OneZero TOTAL column has been removed.
 
 ## Version 2026.3.26.785 (3 April, 2026)
 ### Changes
