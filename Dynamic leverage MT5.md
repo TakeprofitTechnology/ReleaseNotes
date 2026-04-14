@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 26.4.3.63 (3 April, 2026)
+### Changes
+* Calculates predicted floating PnL (tempPnL) for market open requests based on current ticks and caches it until order execution/rejection.
+
 ## Version 26.03.10.72 (12 March, 2026)
 ### Changes
 * Added reject reasons for CancelPendingIfNoMargin parameter. Reasons are added to comment of the order, for the full list of reasons please refer to the user manual.
