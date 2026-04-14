@@ -5,6 +5,7 @@
 * Added sorting to columns in Balances menu.
 * OneZero TOTAL column has been removed.
 * Added filter for 'Dropcopy accounts' section.
+* Logging has been improved.
 
 ## Version 2026.3.26.785 (3 April, 2026)
 ### Changes
