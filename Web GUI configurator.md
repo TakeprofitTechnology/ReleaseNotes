@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.4.9.711 (15 April, 2026)
+### Changes
+* AutoHedger MT5: 'Omnibus account' column has been added.
+
 ## Version 2026.3.26.753 (31 March, 2026)
 ### Changes
 * Fixed interval scheduling format.
