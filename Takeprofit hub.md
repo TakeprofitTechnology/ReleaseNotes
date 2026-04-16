@@ -58,6 +58,8 @@
 * Added a Column Manager with persistent settings across all pages and replaced abbreviated column headers with full, clearer names.
 
 ## Version 2026.3.10.412 (10 March, 2026)
+### Features
+* Extended hub risk profiles with a new rule column “Position lifetime (sec).
 ### Changes
 * OneZero taker connection is improved: the hub suppoerts JSON external data in FIX tag 1.
 * OKX maker order book processing is improved, errors are fixed.
@@ -65,8 +67,8 @@
 * Reworked the Binance Spot trade connector to use WebSocket instead of REST listenKey, and improved error handling with proper socket closure on failures.
 * iSAM maker is added.
 
+
 ## Version 2026.3.5.1124 (5 March, 2026)
-### Feeatures
 * "External securities" is added to Risk profiles rules.
 ### Changes
 * Logging is improved.
