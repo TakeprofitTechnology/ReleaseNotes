@@ -59,7 +59,7 @@
 
 ## Version 2026.3.10.412 (10 March, 2026)
 ### Features
-* Extended hub risk profiles with a new rule column “Position lifetime (sec).
+* Extended hub risk profiles with a new rule column “Position lifetime (sec)".
 ### Changes
 * OneZero taker connection is improved: the hub suppoerts JSON external data in FIX tag 1.
 * OKX maker order book processing is improved, errors are fixed.
