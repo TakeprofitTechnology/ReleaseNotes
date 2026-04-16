@@ -3,6 +3,8 @@
 ## Version 2026.4.9.648 (9 April, 2026)
 ### Changes
 * Removed misleading “Change %” indicator from Market Watch (symbol overview and ticker strip), previously calculated from session start price.
+* Added date to Hub header next to UTC time, now displaying in HH:MM:SS UTC YYYY-MM-DD format.
+* Updated navbar UTC formatter to ensure correct date display and rollover at midnight UTC.
 
 ## Version 2026.4.7.695 (7 April, 2026)
 ### Changes
