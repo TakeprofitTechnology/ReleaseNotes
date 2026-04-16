@@ -1,5 +1,10 @@
 # Auto Hedger MT5
 
+## Version 26.04.09.47 (15 April, 2026)
+### Changes
+* OmniGroups parameter has been added. Now it's possible to specify multiple omnibus accounts for the plugin work.
+* Now it is possible to trigger multiple rules at once - they are not working in terms of priority.
+
 ## Version 2026.3.5.724 (6 March, 2026)
 ### Changes
 * Fixed the WebGUI bug with stuck cells.
