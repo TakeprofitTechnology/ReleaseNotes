@@ -1,6 +1,8 @@
 # Takeprofit hub
 
-
+## Version 2026.4.9.648 (9 April, 2026)
+### Changes
+* Removed misleading “Change %” indicator from Market Watch (symbol overview and ticker strip), previously calculated from session start price.
 
 ## Version 2026.4.7.695 (7 April, 2026)
 ### Changes
