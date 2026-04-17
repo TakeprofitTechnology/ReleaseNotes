@@ -1,6 +1,9 @@
 # Takeprofit hub
 
 
+## Version 2026.4.10.529 (10 April, 2026)
+### Changes
+* Symbols page search now supports slash-insensitive matching.
 
 ## Version 2026.4.9.648 (9 April, 2026)
 ### Changes
