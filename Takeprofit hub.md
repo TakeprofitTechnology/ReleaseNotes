@@ -1,10 +1,12 @@
 # Takeprofit hub
 
 
+
 ## Version 2026.4.10.529 (10 April, 2026)
 ### Changes
 * Symbols page search now supports slash-insensitive matching.
 * Fixed the “Export Channel Settings” feature on the Symbols page. The exported TSV now correctly uses each symbol’s actual Digits value instead of always writing 8.
+* Fixed the “Generate report” button getting stuck in a loading state after download. Resolved dependency on SignalR notification so the button now resets reliably even if the connection drops.
 
 ## Version 2026.4.9.648 (9 April, 2026)
 ### Changes
