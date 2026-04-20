@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2026.4.14.654 (16 April, 2026)
+### Changes
+* Fixed the bug with copying speed.
+
 ## Version 2026.4.1.606 (7 April, 2026)
 ### Changes
 * 'Copy deals by leader price' feature has been added.
