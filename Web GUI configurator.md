@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.4.17.308 (17 April, 2026)
+### Changes
+* Takeprofit Bridge MT4: Added country, zip, direction parameters to the rules.
+
 ## Version 2026.4.9.711 (15 April, 2026)
 ### Changes
 * AutoHedger MT5: 'Omnibus account' column has been added.
