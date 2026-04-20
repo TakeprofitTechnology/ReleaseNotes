@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2026.4.15.672 (17 Friday, 2026)
+### Changes
+* Fixed the start/stop process, so it won't cause sudden drops.
+
 ## Version 2026.3.23.613 (23 March, 2026)
 ### Changes
 * MaxExceptionsBeforeRestart setting has been added to appsettings.json, to determine the number of reconnection attempts EasyMAM will make to MT5 before it stops itself, so that Windows can fully restart it as a service.
