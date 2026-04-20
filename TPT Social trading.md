@@ -3,7 +3,8 @@
 ## Version 2026.4.14.654 (16 April, 2026)
 ### Changes
 * Fixed the bug with copying speed.
-* Fixed the bug which blocked copying if the symbol had no quotes.
+* Fixed the bug which blocked copying on MT4 if the symbol had no quotes.
+* Fixed the bug with MT4 accounts showed no equity/free margin if there were no open positions on the account.
 
 ## Version 2026.4.1.606 (7 April, 2026)
 ### Changes
