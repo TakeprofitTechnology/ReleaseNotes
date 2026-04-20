@@ -3,6 +3,7 @@
 ## Version 2026.4.14.654 (16 April, 2026)
 ### Changes
 * Fixed the bug with copying speed.
+* Fixed the bug which blocked copying if the symbol had no quotes.
 
 ## Version 2026.4.1.606 (7 April, 2026)
 ### Changes
