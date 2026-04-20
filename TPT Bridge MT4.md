@@ -1,5 +1,9 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.04.17.20 (17 April, 2026)
+### Changes
+* Added country, zip and direction parameters to the rules.
+
 ## Version 26.04.09.32 (9 April, 2026)
 ### Changes
 * Added 'Account color' parameter to the rules.
