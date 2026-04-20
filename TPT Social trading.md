@@ -6,6 +6,7 @@
 * Fixed the bug which blocked copying on MT4 if the symbol had no quotes.
 * Fixed the bug with MT4 accounts showed no equity/free margin if there were no open positions on the account.
 * Fixed login form visual bugs.
+* Removed 'Select server' option from the servers list.
 
 ## Version 2026.4.1.606 (7 April, 2026)
 ### Changes
