@@ -2,7 +2,7 @@
 
 ## Version 2026.4.15.672 (17 Friday, 2026)
 ### Changes
-* Fixed the start/stop process, so it won't cause sudden drops.
+* Fixed the start/stop process, so it won't trigger heavy operations like reloading deals from MT5 during stopping the app. 
 
 ## Version 2026.3.23.613 (23 March, 2026)
 ### Changes
