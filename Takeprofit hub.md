@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+## Version 2026.4.14.597 (14 April, 2026)
+### Features
+* Added a new Trading Performance page with live KPIs (volumes, orders, P&L, execution times, rejects, liquidity, connections, etc.), aggregated from Hub and Prometheus, with 15s auto-refresh.
 
 
 ## Version 2026.4.10.529 (10 April, 2026)
