@@ -2,7 +2,7 @@
 
 ## Version 2026.4.20.640 (20 April, 2026)
 ### Changes
-* Manager API version in EasyMAM has been updated to v5800.
+* MT5 Manager API version in EasyMAM has been updated to v5800.
 
 ## Version 2026.4.15.672 (17 Friday, 2026)
 ### Changes
