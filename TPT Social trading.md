@@ -1,8 +1,9 @@
 # TPT Social trading
 
-## Version 2026.4.22.665 (22 April, 2026)
+## Version 2026.4.22.1147 (22 April, 2026)
 ### Changes
 * Fixed API response style from PascalCase to camelCase.
+* Added logging for highwatermark fee payment or non-payment events.
 
 ## Version 2026.4.14.654 (16 April, 2026)
 ### Changes
