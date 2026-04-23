@@ -4,7 +4,8 @@
 ### Changes
 * Fixed API response style from PascalCase to camelCase.
 * Added logging for highwatermark fee payment or non-payment events.
-
+* Fixed HMAC authentication accepted future timestamps.
+  
 ## Version 2026.4.14.654 (16 April, 2026)
 ### Changes
 * Fixed the bug with copying speed.
