@@ -10,6 +10,7 @@ Fixed price calculation per partial fill; final VWAP now correctly reflects actu
 * Improved numeric formatting: volume now display with 0 decimal places by default, expanding up to 8 decimal places only when needed to show non-zero digits.
 ### Changes
 * "Volume factor" option is removed from maker symbols settings.
+* The name of the product is added to logon page.
 
 ## Version 2026.4.14.597 (14 April, 2026)
 ### Features
