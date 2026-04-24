@@ -4,6 +4,7 @@
 ### Changes
 * Incorrect price calculation for partially filled orders could result in wrong intermediate deal prices.
 Fixed price calculation per partial fill; final VWAP now correctly reflects actual execution.
+* Timeline bar color changed from purple to green in Risk Profile rules.
 
 ## Version 2026.4.16.392 (16 April, 2026)
 ### Features
