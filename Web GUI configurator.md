@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.4.20.691 (20 April, 2026)
+### Changes
+* Dynamic Leverage MT5: Explanation tooltip is added to leverage tiers
+
 ## Version 2026.4.17.308 (17 April, 2026)
 ### Changes
 * Takeprofit Bridge MT4: Added country, zip, direction parameters to the rules.
