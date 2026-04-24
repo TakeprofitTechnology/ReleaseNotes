@@ -3,6 +3,8 @@
 ## Version 2026.4.16.392 (16 April, 2026)
 ### Features
 * Improved numeric formatting: volume now display with 0 decimal places by default, expanding up to 8 decimal places only when needed to show non-zero digits.
+### Changes
+* "Volume factor" option is removed from maker symbols settings.
 
 ## Version 2026.4.14.597 (14 April, 2026)
 ### Features
