@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2026.4.17.1016 (17 April, 2026)
+### Changes
+* Fortex LP has been removed.
+
 ## Version 2026.3.12.480 (12 March, 2026)
 ### Changes
 * Overall optimization of the product's recalculation speed.
