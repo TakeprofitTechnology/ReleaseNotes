@@ -3,6 +3,7 @@
 ## Version 2026.4.20.691 (20 April, 2026)
 ### Changes
 * Dynamic Leverage MT5: Explanation tooltip is added to leverage tiers
+* Takeprofit Bridge MT5: Now if try to set slippage tolerance in the period cell validation, it raises an error.
 
 ## Version 2026.4.17.308 (17 April, 2026)
 ### Changes
