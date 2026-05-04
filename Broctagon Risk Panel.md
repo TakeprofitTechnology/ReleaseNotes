@@ -4,6 +4,7 @@
 ### Changes
 * Now it's possible to copy info from Balances to buffer.
 * Added Broctagon Hub 2 column.
+* Changed the logic of difference highlightning. Now it works this way: (Hub balance + credit + 10000 USD) - (DC balance + credit) = if the difference is below 10000 → highlight in red.
 
 ## Version 2026.4.10.626 (10 April, 2026)
 ### Changes
