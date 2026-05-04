@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.4.27.521 (30 April, 2026)
+### Changes
+* Drawdown Limit MT4: Fixed exception spam.
+
 ## Version 2026.4.20.691 (20 April, 2026)
 ### Changes
 * Dynamic Leverage MT5: Explanation tooltip is added to leverage tiers
