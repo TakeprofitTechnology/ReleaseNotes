@@ -1,5 +1,9 @@
 # EasyMAM MT5
 
+## Version 2026.4.30.866 (30 April, 2026)
+### Changes
+* Fixed issue with batch attach
+
 ## Version 2026.4.20.640 (20 April, 2026)
 ### Changes
 * MT5 Manager API version in EasyMAM has been updated to v5800.
