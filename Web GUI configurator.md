@@ -3,6 +3,7 @@
 ## Version 2026.4.27.521 (30 April, 2026)
 ### Changes
 * Drawdown Limit MT4: Fixed exception spam.
+* Fixed the bug with dissapearing cursor after new row adding.
 
 ## Version 2026.4.20.691 (20 April, 2026)
 ### Changes
