@@ -3,6 +3,7 @@
 ## Version 2026.4.29.497 (30 April, 2026)
 ### Changes
 * Now it's possible to copy info from Balances to buffer.
+* Added Broctagon Hub 2 column.
 
 ## Version 2026.4.10.626 (10 April, 2026)
 ### Changes
