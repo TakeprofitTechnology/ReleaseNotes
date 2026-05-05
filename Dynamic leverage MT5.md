@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 26.04.24.41 (30 April, 2026)
+### Changes
+* RejectOnNegativeFM parameter has been added.
+
 ## Version 26.4.3.63 (3 April, 2026)
 ### Changes
 * Calculates predicted floating PnL (tempPnL) for market open requests based on current ticks and caches it until order execution/rejection.
