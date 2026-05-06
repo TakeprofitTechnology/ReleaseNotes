@@ -1,4 +1,7 @@
 # Takeprofit hub
+## Version 2026.4.30.635 (6 May, 2026)
+### Changes
+* 'NOP limit' section was rebuilt significantly. 
 
 ## Version 2026.4.22.715 (22 April, 2026)
 ### Changes
