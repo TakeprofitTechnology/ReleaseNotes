@@ -1,5 +1,9 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.04.22.38 (28 April, 2026)
+### Changes
+* MDEntrySize has been added to 35=W messages.
+
 ## Version 26.04.17.20 (17 April, 2026)
 ### Changes
 * Added country, zip and direction parameters to the rules.
