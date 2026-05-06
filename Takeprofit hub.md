@@ -3,6 +3,10 @@
 ### Changes
 * 'NOP limit' section was rebuilt significantly. 
 
+## Version 2026.4.28.643 (28 April, 2026)
+### Changes
+* Fixed partition issue after migrating the Algotech hub to SQLite
+
 ## Version 2026.4.22.715 (22 April, 2026)
 ### Changes
 * Incorrect price calculation for partially filled orders could result in wrong intermediate deal prices.
