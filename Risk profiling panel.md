@@ -1,5 +1,9 @@
 # Risk profiling panel
 
+## Version 2026.3.20.303 (24 April, 2026)
+### Features
+* Risk profiling panel UI has been redesigned.
+
 ## Version 2026.4.16.386 (16 April, 2026)
 ### Changes
 * 'Profit increase on initial balance' notification has been renamed to 'Profit increase on net balance'
