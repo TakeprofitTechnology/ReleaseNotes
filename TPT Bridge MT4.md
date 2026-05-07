@@ -2,7 +2,7 @@
 
 ## Version 26.04.22.38 (28 April, 2026)
 ### Changes
-* MDEntrySize has been added to 35=W messages.
+* MDEntrySize has been added to 35=W messages filled with default value.
 
 ## Version 26.04.17.20 (17 April, 2026)
 ### Changes
