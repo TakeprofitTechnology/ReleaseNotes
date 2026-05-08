@@ -1,5 +1,9 @@
 # Dynamic Leverage Advanced MT4
 
+## Version 26.04.23.51 (28 April, 2026)
+### Changes
+* Fixed the bug with incorrect hedged margin when symbol has both initial margin and hedged set
+
 ## Version 26.03.17.59 (17 March, 2026)
 ### Changes
 * UpdateExistingPositions parameter has been added.
