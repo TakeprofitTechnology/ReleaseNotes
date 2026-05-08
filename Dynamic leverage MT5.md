@@ -3,6 +3,7 @@
 ## Version 26.04.24.41 (30 April, 2026)
 ### Changes
 * RejectOnNegativeFM parameter has been added.
+* 'Groups' parameter has been added to the base plugin.
 
 ## Version 26.4.3.63 (3 April, 2026)
 ### Changes
