@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2026.5.4.748 (6 May, 2026)
+### Changes
+* Fixed the discrepancy not pinned to top because of checking wrong columns.
+
 ## Version 2026.4.17.1016 (17 April, 2026)
 ### Changes
 * Fortex LP has been removed.
