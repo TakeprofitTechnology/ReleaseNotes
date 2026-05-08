@@ -1,7 +1,8 @@
 # Takeprofit hub
 ## Version 2026.4.30.635 (6 May, 2026)
 ### Changes
-* 'NOP limit' section was rebuilt significantly. 
+* 'NOP limit' section was rebuilt significantly.
+* 'Trading performance' page UI has been improved.
 
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
