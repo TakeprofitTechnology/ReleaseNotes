@@ -1,5 +1,11 @@
 # Takeprofit hub
-## Version 2026.4.30.635 (6 May, 2026)
+
+
+## Version 2026.5.6.659 (6 May, 2026)
+### Changes
+* Adjustment modal on account pages now shows only takers linked to the selected account.
+
+## Version 2026.4.30.635 (30 April, 2026)
 ### Changes
 * 'NOP limit' section was rebuilt significantly.
 * 'Trading performance' page UI has been improved.
