@@ -1,5 +1,8 @@
 # TPT Social trading
 
+## Version 2026.5.12.750 (13 May, 2026)
+### Changes
+* Some changes to brand logo has been applied.
 
 ## Version 2026.4.22.1147 (22 April, 2026)
 ### Features
