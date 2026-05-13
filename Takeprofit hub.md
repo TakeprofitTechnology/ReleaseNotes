@@ -13,6 +13,8 @@
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
 * Fixed partition issue after migrating the Algotech hub to SQLite
+* Rebuilt the Reports tab in the Overview menu as a SPA page. Reports now open in dedicated modals with Hub date picker, account multiselect, and direct file download support in existing formats.
+
 
 ## Version 2026.4.22.715 (22 April, 2026)
 ### Changes
