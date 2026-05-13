@@ -4,6 +4,7 @@
 ## Version 2026.5.6.659 (6 May, 2026)
 ### Changes
 * Adjustment modal on account pages now shows only takers linked to the selected account.
+* Fixed SQLite warnings on test environments with more than 10 trading-history partitions. Hub now loads partition files on demand and rotates them dynamically while preserving access to all historical data.
 
 ## Version 2026.4.30.635 (30 April, 2026)
 ### Changes
