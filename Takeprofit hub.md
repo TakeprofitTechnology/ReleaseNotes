@@ -7,6 +7,7 @@
 * Fixed SQLite warnings on test environments with more than 10 trading-history partitions. Hub now loads partition files on demand and rotates them dynamically while preserving access to all historical data.
 * Split FIX wire-level logs into separate quote and trade/drop-copy log files with independent rotation and archive settings.
 * Reduced Prometheus connection log noise by removing verbose multi-line HTTP exceptions and stack traces.
+* Eliminated noisy SignalR “Forbidden” log spam on the Market Watch hub caused by stale taker subscriptions.
 
 ## Version 2026.4.30.635 (30 April, 2026)
 ### Changes
