@@ -18,6 +18,7 @@
 * Makers are now ordered by aggregation priority in the symbols list, and Simple-mode behaviour/tooltips were aligned with legacy Hub logic.
 * B-Book accounts are no longer available in the Account dropdown of the Taker create/edit dialog.
 * API validation was added to prevent attaching takers to B-Book accounts.
+* Removed the Execution Map page from the Overview menu.
 
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
