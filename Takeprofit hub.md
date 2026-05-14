@@ -1,6 +1,7 @@
 # Takeprofit hub
 
 
+
 ## Version 2026.5.6.659 (6 May, 2026)
 ### Changes
 * Adjustment modal on account pages now shows only takers linked to the selected account.
@@ -15,6 +16,8 @@
 * 'Trading performance' page UI has been improved.
 * Symbol edit dialog now supports Aggregation Priority settings in Simple aggregation mode without losing values when switching modes.
 * Makers are now ordered by aggregation priority in the symbols list, and Simple-mode behaviour/tooltips were aligned with legacy Hub logic.
+* B-Book accounts are no longer available in the Account dropdown of the Taker create/edit dialog.
+* API validation was added to prevent attaching takers to B-Book accounts.
 
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
