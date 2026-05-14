@@ -13,6 +13,8 @@
 ### Changes
 * 'NOP limit' section was rebuilt significantly.
 * 'Trading performance' page UI has been improved.
+* Symbol edit dialog now supports Aggregation Priority settings in Simple aggregation mode without losing values when switching modes.
+* Makers are now ordered by aggregation priority in the symbols list, and Simple-mode behaviour/tooltips were aligned with legacy Hub logic.
 
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
