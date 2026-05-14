@@ -19,6 +19,7 @@
 * B-Book accounts are no longer available in the Account dropdown of the Taker create/edit dialog.
 * API validation was added to prevent attaching takers to B-Book accounts.
 * Removed the Execution Map page from the Overview menu.
+* Market Watch charts now fill inactive periods with dashed carry-forward segments instead of showing empty gaps.
 
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
