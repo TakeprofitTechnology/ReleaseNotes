@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2026.5.14.587 (14 May, 2026)
+### Changes
+* Overall logging improvements.
+* Changed the ROI calculation formula to: pnl / (deposits(+) + credit(+/-)) * 100 
+
 ## Version 2026.5.12.750 (13 May, 2026)
 ### Changes
 * Some changes to brand logo has been applied.
