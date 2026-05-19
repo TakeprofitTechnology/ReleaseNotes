@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2026.5.8.654 (13 May, 2026)
+### Changes
+* Fixed 'unresponsive' status on CapXM account in Maker dashboard.
+
 ## Version 2026.5.4.748 (6 May, 2026)
 ### Changes
 * Fixed the discrepancy not pinned to top because of checking wrong columns.
