@@ -3,6 +3,7 @@
 ## Version 2026.5.8.654 (13 May, 2026)
 ### Changes
 * Fixed 'unresponsive' status on CapXM account in Maker dashboard.
+* 'KamaCapital' and 'Taker institutional' were removed from panel.
 
 ## Version 2026.5.4.748 (6 May, 2026)
 ### Changes
