@@ -1,5 +1,9 @@
 # TL Deposit bonus
 
+## Version 2026.5.13.441 (15 May, 2026)
+### Changes
+* Fixed the bug when the plugin removed syntetic positions from cache, which led to withdrawing credits when it was not needed. 
+
 ## Version 2026.4.2.950 (2 April, 2026)
 ### Changes
 * Reduced plugin startup delay (~13 → ~3.5 min) by skipping unnecessary account discovery on first bonus check and significantly cutting API calls.
