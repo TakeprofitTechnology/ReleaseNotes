@@ -1,5 +1,9 @@
 # Swap control center MT5
 
+## Version 26.05.01.40 (4 May, 2026)
+### Changes
+* Fixed plugin crash with VolumeLimit = 0 without GUI.
+  
 ## Version 26.03.27.47 (27 March, 2026)
 ### Changes
 * Refactored virtual positions processing to avoid deadlocks.
