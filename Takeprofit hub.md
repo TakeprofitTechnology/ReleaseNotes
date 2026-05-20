@@ -2,6 +2,7 @@
 
 
 
+
 ## Version 2026.5.6.659 (6 May, 2026)
 ### Changes
 * Adjustment modal on account pages now shows only takers linked to the selected account.
@@ -38,6 +39,11 @@ Fixed price calculation per partial fill; final VWAP now correctly reflects actu
 * Timeline bar color changed from purple to green in Risk Profile rules.
 * Invalid TSV files could be accepted and cause unclear errors. Market Watch could fail on invalid symbols. Improved validation and handling to prevent these issues.
 * Market watch symbol representation bug: fixed symbol initialization to ensure proper loading.
+
+## Version 2026.4.20.509 (20 April, 2026)
+### Changes
+* Migrated the Users page from legacy MVC (Syncfusion Grid) to the new SPA architecture.
+* Updated the UI to align with other Hub pages, including Makers, Takers, and Accounts.
 
 ## Version 2026.4.16.392 (16 April, 2026)
 ### Features
