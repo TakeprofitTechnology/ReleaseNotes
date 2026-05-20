@@ -3,11 +3,11 @@
 ## Version 26.05.01.40 (4 May, 2026)
 ### Changes
 * Fixed plugin crash with VolumeLimit = 0 without GUI.
-* Summary
+* Summary:
 On plugin start VirtualPositionKeeper's cache is being filled that can take a long time on huge history, up to several minutes.
 If a deal appears at the moment, it's put into the cache but probably earlier than all other deals of the user. It may lead to wrong position calculation.
 
-* What was done
+* What was done:
 All new deals that appear during the initializing are deferred to be handled after initialization is completed.
   
 ## Version 26.03.27.47 (27 March, 2026)
