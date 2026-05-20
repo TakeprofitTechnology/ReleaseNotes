@@ -1,5 +1,9 @@
 # Ashira dealer MT4
 
+## Version 26.05.18.48 (20 May, 2026)
+### Changes
+* Overall FATAL logs improvements: correct login in FATAL records, self-contained command entry log, logging resilience on crash, reason field in MT4 structure logs. 
+
 ## Version 25.10.03.45 (3 October, 2025)
 ### Changes
 * Request ID added to execution report.
