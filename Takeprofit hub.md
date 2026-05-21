@@ -21,6 +21,9 @@
 * API validation was added to prevent attaching takers to B-Book accounts.
 * Removed the Execution Map page from the Overview menu.
 * Market Watch charts now fill inactive periods with dashed carry-forward segments instead of showing empty gaps.
+* B-Book accounts are now excluded from the Account dropdown in Create/Edit User dialogs, so only Margin accounts can be assigned to users.
+* API validation was added to block any attempt to attach users to B-Book accounts, including direct requests via Swagger, Postman, or scripts.
+
 
 ## Version 2026.4.28.643 (28 April, 2026)
 ### Changes
