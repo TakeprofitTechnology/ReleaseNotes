@@ -1,5 +1,10 @@
 # Risk profiling panel
 
+## Version 2026.5.14.519 (21 May, 2026)
+### Changes
+* Case register has been fixed for some UI elements.
+* Fixed the bug with Balances&Equities chart not adjusted as per specified sorting.
+
 ## Version 2026.3.20.303 (24 April, 2026)
 ### Features
 * Risk profiling panel UI has been redesigned.
