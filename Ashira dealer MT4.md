@@ -4,6 +4,7 @@
 ### Changes
 * Overall FATAL logs improvements: correct login in FATAL records, self-contained command entry log, logging resilience on crash, reason field in MT4 structure logs.
 * Overall hot-path & memory optimization.
+* Fixed: C++ exception attribution in crash reports — Windows Event Log now correctly identifies the DLL that threw the exception as the crash source.
 
 ## Version 25.10.03.45 (3 October, 2025)
 ### Changes
