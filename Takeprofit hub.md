@@ -33,6 +33,8 @@
 * Added the Maker column directly to the Deals and Orders tables next to the Taker column.
 * Hub now refreshes sessions only for authentication-related changes, avoiding unnecessary disconnects and login-page connection issues.
 * The “Import Symbols” action now supports CSV and XLSX files in addition to TSV format. All formats use the same schema and validation rules during import.
+* Renamed “Import Symbol modifiers” to “Import Symbols” and “Export Symbol modifiers” to “Export Symbols” on the Maker Details → Symbols tab.
+* Symbol import now supports CSV and XLSX files in addition to TSV, with the same schema and validation rules across all formats.
 
 
 ## Version 2026.4.22.715 (22 April, 2026)
