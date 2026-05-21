@@ -5,6 +5,11 @@
 * Overall FATAL logs improvements: correct login in FATAL records, self-contained command entry log, logging resilience on crash, reason field in MT4 structure logs.
 * Overall hot-path & memory optimization.
 * Fixed: C++ exception attribution in crash reports — Windows Event Log now correctly identifies the DLL that threw the exception as the crash source.
+* Crash diagnostics: FATAL log entries now include the exception type and structured-exception code (e.g. "SEH 0xc0000005 at 0x6C0F4A12" for an access violation) instead of the generic "Unhandled unknown exception" message.
+* Crash diagnostics: FATAL log stack traces now include the specific MT4 server API call executing at the time of the crash (e.g. RequestsConfirm, OrdersGet, TradesMarginCheck).
+* Crash attribution: when a third-party plugin or mtsrv internals crash the server, Windows Event Log now correctly identifies the actual faulting DLL instead of blaming Ashira/Kloshira.
+* Crash attribution: stack overflow and C++ exception crash reports now correctly identify the DLL that is the actual crash source.
+* Minor: eliminated two redundant MT4 server API user-record lookups, reducing the number of MT4 API calls per trade event.
 
 ## Version 25.10.03.45 (3 October, 2025)
 ### Changes
