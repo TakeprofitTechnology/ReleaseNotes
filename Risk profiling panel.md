@@ -5,6 +5,10 @@
 * Case register has been fixed for some UI elements.
 * Fixed the bug with Balances&Equities chart not adjusted as per specified sorting.
 
+## Version 2026.5.6.556 (12 May, 2026)
+### Changes
+* Fixed the bug with the old data display on "Balances & Equities" tab after refreshing.
+
 ## Version 2026.3.20.303 (24 April, 2026)
 ### Features
 * Risk profiling panel UI has been redesigned.
