@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 26.05.22.46 (22 May, 2026)
+### Changes
+* Fixed a startup crash ("Can't Create manager API with code: Disk error") on MT5 Build 5830 caused by an unresolved .. segment in the Manager API data path; the path is now fully resolved before initialization. The resolved path is also logged at startup for easier diagnostics.
+
 ## Version 26.03.25.78 (25 March, 2026)
 ### Changes
 * Fixed compatibility with old processors.
