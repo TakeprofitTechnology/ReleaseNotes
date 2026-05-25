@@ -10,6 +10,8 @@
 * Some changes to brand logo has been applied.
 
 ## Version 2026.5.8.693 (12 May, 2026)
+### Features
+* Leader dashboard has been significantly redesigned.
 ### Changes
 * Fixed not working clipboard button.
 
