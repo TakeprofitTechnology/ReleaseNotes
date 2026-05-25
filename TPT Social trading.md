@@ -9,6 +9,10 @@
 ### Changes
 * Some changes to brand logo has been applied.
 
+## Version 2026.5.8.693 (12 May, 2026)
+### Changes
+* Fixed not working clipboard button.
+
 ## Version 2026.4.22.1147 (22 April, 2026)
 ### Features
 * Redesigned administrator dashboard.
