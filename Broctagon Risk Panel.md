@@ -1,5 +1,9 @@
 # Broctagon Risk Panel
 
+## Version 2026.5.15.562 (21 May, 2026)
+### Changes
+* OZ BP Total column has been added.
+
 ## Version 2026.4.29.497 (30 April, 2026)
 ### Changes
 * Now it's possible to copy info from Balances to buffer.
