@@ -1,5 +1,9 @@
 # Broctagon Risk Panel
 
+## Version 2026.5.22.708 (26 May, 2026)
+### Changes
+* Memory usage overall optimisation.
+
 ## Version 2026.5.15.562 (21 May, 2026)
 ### Changes
 * OZ BP Total column has been added.
