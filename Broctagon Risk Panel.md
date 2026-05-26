@@ -3,6 +3,8 @@
 ## Version 2026.5.22.708 (26 May, 2026)
 ### Changes
 * Memory usage overall optimisation.
+* Dramatically reduced network activity (~126 KB/sec avg vs ~5 MB/sec avg in old version)
+* Significantly lower CPU usage (~1.5% avg vs ~33% avg in old version);
 
 ## Version 2026.5.15.562 (21 May, 2026)
 ### Changes
