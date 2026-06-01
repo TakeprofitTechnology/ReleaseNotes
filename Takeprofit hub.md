@@ -1,8 +1,11 @@
 # Takeprofit hub
 
+
 ## Version 2026.5.27.279 (27 May, 2026)
 ### Changes
 * Migrated Trader Positions History to the new SPA with role-based account scoping. Added redirect from the legacy page and ensured traders can access only their own history.
+* Improved Trading Performance monitoring with Hub collision detection and clearer status reporting.
+
 
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
