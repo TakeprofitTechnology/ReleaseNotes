@@ -1,10 +1,12 @@
 # Takeprofit hub
 
+## Version 2026.5.27.279 (27 May, 2026)
+### Changes
+* Migrated Trader Positions History to the new SPA with role-based account scoping. Added redirect from the legacy page and ensured traders can access only their own history.
 
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
 * Implemented the new Roles & Permissions model (Admin, Account Manager, account scopes, custom permissions). Validated migrations, backward compatibility, and permission-based access control across UI and API.
-
 
 ## Version 2026.5.6.659 (6 May, 2026)
 ### Changes
