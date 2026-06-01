@@ -1,6 +1,9 @@
 # Takeprofit hub
 
 
+## Version 2026.5.7.540 (7 May, 2026)
+### Changes
+* Implemented the new Roles & Permissions model (Admin, Account Manager, account scopes, custom permissions). Validated migrations, backward compatibility, and permission-based access control across UI and API.
 
 
 ## Version 2026.5.6.659 (6 May, 2026)
