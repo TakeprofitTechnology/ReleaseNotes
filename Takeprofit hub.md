@@ -1,5 +1,8 @@
 # Takeprofit hub
 
+## Version 2026.5.26.321 (26 May, 2026)
+### Changes
+* Migrated Trader Orders History to the new Orders page with trader-specific access restrictions and legacy page redirection.
 
 ## Version 2026.5.27.279 (27 May, 2026)
 ### Changes
