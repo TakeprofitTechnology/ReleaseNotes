@@ -22,6 +22,7 @@
 ## Version 2026.5.19.398 (19 May, 2026)
 ### Changes
 * Migrated trader reporting to the new SPA Reports page with account-scoped data access and export support.
+* Enhanced Risk Profile rule import to support both 24-hour and AM/PM time formats for improved spreadsheet compatibility.
 
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
