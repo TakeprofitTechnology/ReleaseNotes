@@ -15,6 +15,10 @@
 ### Changes
 * Standardized comment display across card views by fixing truncation behavior and improving consistency for long comments.
 
+## Version 2026.5.20.418 (20 May, 2026)
+### Changes
+* Improved user creation popup by removing duplicate error messages and redundant error highlighting.
+
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
 * Implemented the new Roles & Permissions model (Admin, Account Manager, account scopes, custom permissions). Validated migrations, backward compatibility, and permission-based access control across UI and API.
