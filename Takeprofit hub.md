@@ -11,6 +11,10 @@
 ### Changes
 * Migrated Trader Orders History to the new Orders page with trader-specific access restrictions and legacy page redirection.
 
+## Version 2026.5.22.140 (22 May, 2026)
+### Changes
+* Improved Trading Performance reliability and metrics accuracy, including outage resilience, correct volume calculations, updated rankings, and clearer metric labels.
+
 ## Version 2026.5.21.575 (21 May, 2026)
 ### Changes
 * Standardized comment display across card views by fixing truncation behavior and improving consistency for long comments.
