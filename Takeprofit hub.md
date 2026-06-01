@@ -15,6 +15,10 @@
 ### Changes
 * Implemented the new Roles & Permissions model (Admin, Account Manager, account scopes, custom permissions). Validated migrations, backward compatibility, and permission-based access control across UI and API.
 
+## Version 2026.5.21.575 (21 May, 2026)
+### Changes
+* Standardized comment display across card views by fixing truncation behavior and improving consistency for long comments.
+
 ## Version 2026.5.6.659 (6 May, 2026)
 ### Changes
 * Adjustment modal on account pages now shows only takers linked to the selected account.
