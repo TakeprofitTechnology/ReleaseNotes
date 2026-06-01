@@ -14,6 +14,7 @@
 ## Version 2026.5.22.140 (22 May, 2026)
 ### Changes
 * Improved Trading Performance reliability and metrics accuracy, including outage resilience, correct volume calculations, updated rankings, and clearer metric labels.
+* Fixed an issue where the Order Execution Tree could fail to load in certain scenarios.
 
 ## Version 2026.5.21.575 (21 May, 2026)
 ### Changes
