@@ -1,5 +1,12 @@
 # Swap control center MT5
 
+## Version 26.05.19.52 (29 May, 2026)
+### Changes
+* Fixed an issue where scheduled rules with swap type SWAP only logged the swap change but did not apply swap values to open MT5 positions.
+* Fixed an issue where swap settings modified in Swap Manager were not saved after clicking "Save to MT5".
+* Fixed incorrect date calculation for virtual positions when determining the number of swap-free days.
+
+
 ## Version 26.05.01.40 (4 May, 2026)
 ### Changes
 * During VirtualPositionKeeper initialization, incoming deals are now queued and processed only after the cache is fully built, preventing incorrect position calculations caused by out-of-order deal insertion.
