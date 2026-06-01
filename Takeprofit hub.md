@@ -19,6 +19,10 @@
 ### Changes
 * Improved user creation popup by removing duplicate error messages and redundant error highlighting.
 
+## Version 2026.5.19.398 (19 May, 2026)
+### Changes
+* Migrated trader reporting to the new SPA Reports page with account-scoped data access and export support.
+
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
 * Implemented the new Roles & Permissions model (Admin, Account Manager, account scopes, custom permissions). Validated migrations, backward compatibility, and permission-based access control across UI and API.
