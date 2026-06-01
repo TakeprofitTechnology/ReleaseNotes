@@ -14,6 +14,7 @@
 * Leader dashboard has been significantly redesigned.
 ### Changes
 * Fixed not working clipboard button.
+* Fixed an issue where deals were copied to MT4 followers even when the symbol was disabled or unavailable for the follower's group.
 
 ## Version 2026.4.22.1147 (22 April, 2026)
 ### Features
