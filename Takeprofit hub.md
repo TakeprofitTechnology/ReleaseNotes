@@ -2,6 +2,7 @@
 
 
 
+
 ## Version 2026.5.27.279 (27 May, 2026)
 ### Changes
 * Migrated Trader Positions History to the new SPA with role-based account scoping. Added redirect from the legacy page and ensured traders can access only their own history.
@@ -28,6 +29,7 @@
 ### Changes
 * Migrated trader reporting to the new SPA Reports page with account-scoped data access and export support.
 * Enhanced Risk Profile rule import to support both 24-hour and AM/PM time formats for improved spreadsheet compatibility.
+* Added quick-access icons to settings tables for direct navigation to entity sub-pages.
 
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
