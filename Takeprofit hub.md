@@ -25,6 +25,7 @@
 ## Version 2026.5.20.418 (20 May, 2026)
 ### Changes
 * Improved user creation popup by removing duplicate error messages and redundant error highlighting.
+* Fixed a Home page Connections panel layout issue that caused table columns to shift when switching between connection views.
 
 ## Version 2026.5.19.398 (19 May, 2026)
 ### Changes
