@@ -1,5 +1,10 @@
 # Risk profiling panel
 
+## Version 2026.6.1.474 (2 June, 2026)
+### Changes
+* Fixed log label for **Position profit within time period** notification — the log now correctly shows "Positions" instead of "Accounts", matching what the email notification reports.
+
+
 ## Version 2026.5.14.519 (21 May, 2026)
 ### Changes
 * Case register has been fixed for some UI elements.
