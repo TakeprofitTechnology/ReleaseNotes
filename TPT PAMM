@@ -1,0 +1,9 @@
+# TPT PAMM
+## Version 0.0.0.1 (9 April, 2026)
+### Changes
+* Initial .NET (ASP.NET Core) backend with React 19 + TypeScript frontend.
+* CI/CD pipeline — GitHub Actions workflows for .NET build + tests, frontend build + type-check, and automated bundle creation (Autobundler).
+* Windows Service installer and installation scripts for deployment.
+* Three-role system: Administrator, Leader (formerly Trader), Investor — with role-based dashboard routing.
+* Basic investment UI — My Investments page, leader cards, deposit flow (demo).
+* SPA build paths (wwwroot), npm install compatibility, autobuilder workflow.
