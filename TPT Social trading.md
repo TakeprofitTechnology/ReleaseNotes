@@ -1,5 +1,21 @@
 # TPT Social trading
 
+## Version 2026.6.2.878 (2 June, 2026)
+### Changes
+* Fixed incorrect profit calculation for followers when 'Copy deals by leader's price' is enabled — buy deals were being calculated as sell and vice versa.
+
+## Version 2026.6.2.575 (2 June, 2026)
+### Features
+* Follower dashboard has been migrated to a single-page application (SPA) with an updated design.
+### Changes
+* Fixed automatic logout occurring when an old or missing session cookie was present (e.g. in incognito mode).
+* Fixed leader card view not resizing correctly when the browser window is scaled down from fullscreen.
+* Fixed performance fee type label — now correctly shows 'Performance: daily/weekly/monthly' instead of 'Daily'.
+* Fixed REST API returning 200 for out-of-range enum values in BulkRuleRole, BulkRuleScope, PerformanceFeeType, and chart type parameters — these now correctly return 400.
+* Fixed error log spam after deleting a leader or follower account that had an active strategy.
+* Fixed multiple UI issues on the Leaderboard page: chart tooltip overflow at the last data point, pie chart rendering artifacts, empty column artifacts in Traded Volume chart, missing currency symbol on subscription fee, and leader detail panel positioning.
+* Fixed server creation and editing allowing empty or whitespace-only names; server names are now trimmed and validated.
+
 ## Version 2026.5.14.587 (14 May, 2026)
 ### Changes
 * Overall logging improvements.
