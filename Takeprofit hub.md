@@ -26,6 +26,8 @@
 ### Changes
 * Improved user creation popup by removing duplicate error messages and redundant error highlighting.
 * Fixed a Home page Connections panel layout issue that caused table columns to shift when switching between connection views.
+* Native Market orders now retain their original behavior without IOC/FOK-to-GTC conversion, preventing false auto-cancels and resolving the underlying incident cause.
+* Order lifecycle handling is more robust: cancel rejects affect only the cancel request, order state is driven solely by execution reports, and provider send failures are now clearly traceable in logs.
 
 ## Version 2026.5.19.398 (19 May, 2026)
 ### Changes
