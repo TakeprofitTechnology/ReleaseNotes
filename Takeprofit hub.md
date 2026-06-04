@@ -21,6 +21,7 @@
 ### Changes
 * Standardized comment display across card views by fixing truncation behavior and improving consistency for long comments.
 * Added OneZeroTradeLocker as a new taker connection type with safe default execution-report settings and override validation.
+* Replaced the legacy trader Open Positions page with the new SPA, providing a modernized and unified trading experience.
 
 ## Version 2026.5.20.418 (20 May, 2026)
 ### Changes
