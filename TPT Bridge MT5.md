@@ -1,5 +1,11 @@
 # Takeprofit Bridge MT5
 
+## Version 26.06.02.486 (2 June, 2026)
+### Changes
+* Unified configuration validation: invalid configs are safely rejected with clear operator guidance, while the gateway continues running on the last valid configuration.
+* Improved reliability: atomic routing rule saves, no config-related crashes, and automatic SCM restart after configuration fixes.
+
+
 ## Version 26.05.22.46 (22 May, 2026)
 ### Changes
 * Fixed a startup crash ("Can't Create manager API with code: Disk error") on MT5 Build 5830 caused by an unresolved .. segment in the Manager API data path; the path is now fully resolved before initialization. The resolved path is also logged at startup for easier diagnostics.
