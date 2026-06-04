@@ -1,5 +1,14 @@
 # Funding fee collector
 
+
+## Version 2026.6.3.650 (3 June, 2026)
+### Features
+* Operations & History now has full page navigation with first, previous, next and last arrows, numbered page links with an ellipsis for large ranges, and a per-page selector (50 / 100 / 200) that opens upward so it is never clipped below the screen. The page count always reflects the current search and filter.
+### Changes
+* Fixed saving a Brand API base URL that is not a valid web address: the value is now rejected at save time with a clear message, and if new settings fail to build a connection the service keeps the last working connection instead of breaking.
+* Fixed symbol mapping save returning HTTP 500 when the same symbol was used for both TradeLocker and MT5: the plugin now automatically upgrades the per-platform uniqueness constraint so the same symbol can coexist across both platforms; true same-platform duplicates are still rejected with a proper error.
+* Fixed the manual funding cycle trigger reporting success when the MT5 server was disconnected: cycles that cannot run due to an unavailable MT5 connection are now held for retry and show a clear error, while cycles that ran and found no eligible positions continue to show a success result.
+
 ## Version 2026.6.2.619 (3 June, 2026)
 ### Features
 * Added a MetaTrader 5 Manager API connection section to the Settings tab (Host, Port, Manager Login, Manager Password).
