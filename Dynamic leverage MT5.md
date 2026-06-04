@@ -2,7 +2,7 @@
 
 ## Version 26.06.02.63 (2 June, 2026)
 ### Changes
-* Added a comprehensive fake-based test framework for MT5DynamicLeverage, enabling deterministic unit and integration testing without a live MT5 server.
+* Added a comprehensive fake-based test framework to the plugin, enabling deterministic unit and integration testing without a live MT5 server.
 
 ## Version 26.04.24.41 (30 April, 2026)
 ### Changes
