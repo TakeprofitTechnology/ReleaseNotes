@@ -1,5 +1,10 @@
 # Kloshira MT5
 
+## Version 26.06.02.51 (2 June, 2026)
+### Changes
+* Unified configuration validation: invalid configs are safely rejected with clear operator guidance, while the gateway continues running on the last valid configuration.
+* Improved reliability: atomic routing rule saves, no config-related crashes, and automatic SCM restart after configuration fixes.
+
 ## Version 26.02.04.50 (5 February, 2026)
 ### Changes
 * Added some modifications to decrease AV triggers when using gateway.
