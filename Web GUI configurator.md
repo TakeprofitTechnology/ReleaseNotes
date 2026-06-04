@@ -1,5 +1,12 @@
 # Web GUI сonfigurator
 
+
+## Version 2026.6.3.751 (3 June, 2026)
+### Changes
+* Fixed bridge execution rules not appearing in the WEB GUI when the rules file used lowercase Action codes (h, s, hm, etc.) — Action codes are now matched case-insensitively, so rules load correctly regardless of letter case.
+* Fixed an unknown Action code causing the entire rules file to fail loading — only the unrecognized rule is now skipped, and its original code is shown in the Action column as written rather than left blank.
+* Fixed lowercase MULTIPLY action codes (e.g. m[2], x[3]) losing their multiplier value when read — the multiplier is now preserved regardless of letter case.
+
 ## Version 2026.4.27.521 (30 April, 2026)
 ### Changes
 * Drawdown Limit MT4: Fixed exception spam.
