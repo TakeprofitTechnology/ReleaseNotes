@@ -12,6 +12,7 @@
 * Legacy Account History pages were removed, URLs and navigation updated, and filter reference data is now restricted to the trader’s account scope.
 * Fixed Deals report compatibility with older archived SQLite partitions, ensuring historical data is processed correctly regardless of schema version.
 * Total volume calculations now include the full archived history and match standalone validation results exactly.
+* Extended Risk Profile and Events time-range selection from 24 to 48 hours, allowing a single continuous window to span across midnight.
 
 ## Version 2026.5.26.321 (26 May, 2026)
 ### Changes
