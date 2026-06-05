@@ -13,6 +13,7 @@
 * Fixed Deals report compatibility with older archived SQLite partitions, ensuring historical data is processed correctly regardless of schema version.
 * Total volume calculations now include the full archived history and match standalone validation results exactly.
 * Extended Risk Profile and Events time-range selection from 24 to 48 hours, allowing a single continuous window to span across midnight.
+* Migrated traders to the unified Active Orders SPA, providing a modern interface with live order status notifications and order cancellation capabilities.
 
 ## Version 2026.5.26.321 (26 May, 2026)
 ### Changes
