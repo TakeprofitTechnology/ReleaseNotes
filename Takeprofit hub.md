@@ -7,6 +7,8 @@
 * Improved Trading Performance monitoring with Hub collision detection and clearer status reporting.
 * Traders now use the unified SPA Account History page with a role-aware UI that hides irrelevant columns and filters while preserving all key search and export capabilities.
 * Legacy Account History pages were removed, URLs and navigation updated, and filter reference data is now restricted to the trader’s account scope.
+* Fixed Deals report compatibility with older archived SQLite partitions, ensuring historical data is processed correctly regardless of schema version.
+* Total volume calculations now include the full archived history and match standalone validation results exactly.
 
 ## Version 2026.5.26.321 (26 May, 2026)
 ### Changes
