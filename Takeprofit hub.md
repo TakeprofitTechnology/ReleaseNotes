@@ -41,6 +41,10 @@
 * Enhanced Risk Profile rule import to support both 24-hour and AM/PM time formats for improved spreadsheet compatibility.
 * Added quick-access icons to settings tables for direct navigation to entity sub-pages.
 
+## Version 2026.5.18.809 (18 May, 2026)
+### Changes
+* Fixed NOP-limit attribution for environments with multiple streams per symbol by introducing taker and quote-stream awareness across rules, positions, deals, and order routing.
+
 ## Version 2026.5.7.540 (7 May, 2026)
 ### Changes
 * Implemented the new Roles & Permissions model (Admin, Account Manager, account scopes, custom permissions). Validated migrations, backward compatibility, and permission-based access control across UI and API.
