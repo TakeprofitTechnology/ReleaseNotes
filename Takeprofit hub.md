@@ -15,6 +15,8 @@
 * Total volume calculations now include the full archived history and match standalone validation results exactly.
 * Extended Risk Profile and Events time-range selection from 24 to 48 hours, allowing a single continuous window to span across midnight.
 * Migrated traders to the unified Active Orders SPA, providing a modern interface with live order status notifications and order cancellation capabilities.
+* Redesigned the Trading Performance dashboard with a more prominent top section, highlighting A-Book/B-Book distribution, Top Symbols, and live Liquidity Flow metrics.
+* Added a new Intraday Volume chart and streamlined the layout by reducing the emphasis on the 30-day volume card.
 
 ## Version 2026.5.26.321 (26 May, 2026)
 ### Changes
