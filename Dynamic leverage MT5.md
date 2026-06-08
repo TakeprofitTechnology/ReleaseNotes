@@ -4,6 +4,10 @@
 ### Changes
 * Added a comprehensive fake-based test framework to the plugin, enabling deterministic unit and integration testing without a live MT5 server.
 
+## Version 26.05.19.43 (25 May, 2026)
+### Changes
+* Fixed a fail-open bug: close requests are now correctly rejected when equity is insufficient under HMR leverage tiers, even when the matching HMR profile has UpdateExistingPositions=false.
+
 ## Version 26.04.24.41 (30 April, 2026)
 ### Changes
 * RejectOnNegativeFM parameter has been added.
