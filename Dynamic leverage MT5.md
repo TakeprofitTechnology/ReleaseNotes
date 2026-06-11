@@ -6,7 +6,7 @@
 
 ## Version 26.05.19.43 (25 May, 2026)
 ### Changes
-* Fixed a fail-open bug: close requests are now correctly rejected when equity is insufficient under HMR leverage tiers, even when the matching HMR profile has UpdateExistingPositions=false.
+* Fixed a bug: if there is no positions and orders related to a rule, margin check on closing was skipped even with RejectOnNegativeFMOnClose=true.
 
 ## Version 26.04.24.41 (30 April, 2026)
 ### Changes
