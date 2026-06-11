@@ -1,5 +1,11 @@
 # Dynamic Leverage Advanced MT4
 
+
+## Version 26.06.01.47 (9 June, 2026)
+### Features
+* Added `RejectOnNegativeFM` parameter (default: `true`). When set to `false`, the plugin allows closing a leg of a hedged position even when the recalculated margin for the remaining open leg exceeds the account equity.
+### Changes
+* Fixed the margin estimate for new orders: the plugin's leverage multiplier is now correctly applied to the preview entry used for margin calculation on the open side.
 ## Version 26.04.23.51 (28 April, 2026)
 ### Changes
 * Fixed the bug with incorrect hedged margin when symbol has both initial margin and hedged set
