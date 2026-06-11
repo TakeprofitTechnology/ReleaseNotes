@@ -1,5 +1,14 @@
 # TPT Social trading
 
+
+## Version 2026.6.11.608 (11 June, 2026)
+### Changes
+* Fixed dropdown appearance across all pages after the migration to the new design -- dropdowns now match the style used in other products.
+
+## Version 2026.6.9.374 (9 June, 2026)
+### Changes
+* Fixed an issue where deals created on the leader account before the strategy was configured were being incorrectly copied to followers.
+
 ## Version 2026.6.2.878 (2 June, 2026)
 ### Changes
 * Fixed incorrect profit calculation for followers when 'Copy deals by leader's price' is enabled — buy deals were being calculated as sell and vice versa.
