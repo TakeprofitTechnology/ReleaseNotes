@@ -1,6 +1,12 @@
 # Funding fee collector
 
 
+## Version 2026.6.8.975 (8 June, 2026)
+### Features
+* Failed operations in Operations History now show a clickable badge: clicking it opens a panel explaining the failure in plain language, with technical details available under a collapsible section. Applies to both new and existing failed operations.
+* A failure-reason column has been added to the CSV export.
+### Changes
+* Failed funding fee operations now write a clear warning to the journal identifying the account, symbol, and the exact reason TradeLocker rejected the charge (e.g. insufficient free balance, or fee amount below the 2-decimal-digit minimum).
 ## Version 2026.6.3.650 (3 June, 2026)
 ### Features
 * Operations & History now has full page navigation with first, previous, next and last arrows, numbered page links with an ellipsis for large ranges, and a per-page selector (50 / 100 / 200) that opens upward so it is never clipped below the screen. The page count always reflects the current search and filter.
