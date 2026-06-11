@@ -3,7 +3,7 @@
 
 ## Version 26.06.01.46 (4 June, 2026)
 ### Changes
-* Fixed the error messages shown when the plugin cannot interpret an order on the omnibus account to now include an explicit hint that trade and coverage accounts must not belong to an omnibus group.
+* Fixed the error messages shown when the plugin cannot interpret an order on the omnibus account to now include an explicit hint that trade accounts must not belong to an omnibus group.
 ## Version 26.04.09.47 (15 April, 2026)
 ### Changes
 * OmniGroups parameter has been added. Now it's possible to specify multiple omnibus accounts for the plugin work.
