@@ -23,6 +23,8 @@
 ### Changes
 * Fixed the MT5 connector crashing at startup in production builds due to a native library loading failure in single-file deployments.
 * Fixed the connection status badge showing "License invalid" when the Brand API server was unreachable or credentials were empty — the badge now correctly reflects the connection state.
+* Fixed LMAX connection status badge still showing "Healthy" after changing or removing credentials — the status now resets immediately.
+* Removed the redundant "Connectivity" label above the "Test connection" button for all connection types (LMAX, TradeLocker, MT5).
 
 ## Version 2026.5.30.949 (1 June, 2026)
 ### Changes
