@@ -4,6 +4,10 @@
 ## Version 2026.6.11.608 (11 June, 2026)
 ### Changes
 * Fixed dropdown appearance across all pages after the migration to the new design -- dropdowns now match the style used in other products.
+* Fixed a security issue where logged-in traders could access other traders' private account data.
+* Fixed deleted or password-reset users remaining logged in with stale sessions.
+* Fixed accounts without a password being able to log in.
+* Applied 50+ additional bug fixes covering race conditions, trading-logic edge cases, fee calculation accuracy, and recovery after disconnects.
 
 ## Version 2026.6.9.374 (9 June, 2026)
 ### Changes
