@@ -1,5 +1,13 @@
 # Takeprofit hub
 
+## Version 2026.6.16.813 (16 June, 2026)
+### Changes
+* Fixed an issue where Risk management menu items (Risk Profiling Panel, MetaTrader servers, and others) did nothing when clicked; the panels now open correctly from the menu.
+
+## Version 2026.6.15.989 (15 June, 2026)
+### Changes
+* Fixed Market Watch live prices updating only about once every 38 seconds on some hubs; live instrument quotes now tick in real time again.
+
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
 * Added a new administrator-only Sensitive Reports permission to control access to the Slippage and Deals reports.
