@@ -1,5 +1,9 @@
 # Dynamic leverage MT5
 
+## Version 26.06.17.71 (22 June, 2026)
+### Changes
+* Fixed CancelPendingIfNoMargin: pending orders rejected for insufficient margin are now reliably removed. Previously the cancellation request was acknowledged by the trade server but the order was not actually deleted, causing MT5 to retry activation thousands of times.
+
 ## Version 26.06.02.63 (2 June, 2026)
 ### Changes
 * Added a comprehensive fake-based test framework to the plugin, enabling deterministic unit and integration testing without a live MT5 server.
