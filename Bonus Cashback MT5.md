@@ -2,7 +2,7 @@
 
 ## Version 26.06.19.50 (22 June, 2026)
 ### Changes
-* Fixed cashback direction logic in PROFIT mode: the deposit/withdrawal direction is now determined by the sign of the rule's percent value (positive deposits, negative withdraws), regardless of trade outcome. Previously the direction was incorrectly tied to whether the position closed in profit or loss.
+* Fixed cashback direction logic in PROFIT and MARGIN modes: the deposit/withdrawal direction is now determined by the sign of the rule's percent value (positive deposits, negative withdraws), regardless of trade outcome. Previously the direction was incorrectly tied to whether the position closed in profit or loss.
 
 ## Version 26.06.08.68 (26 June, 2025)
 ### Features
