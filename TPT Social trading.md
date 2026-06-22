@@ -1,6 +1,11 @@
 # TPT Social trading
 
 
+## Version 2026.6.18.408 (19 June, 2026)
+### Changes
+* The Stop Loss field in the subscription form now accepts only numeric values; non-numeric characters cannot be entered.
+* Fixed stop loss handling during strategy subscription: the Stop Loss field is now hidden when the leader has disabled it, and the stop loss value is now validated against the follower's current equity on strategy creation.
+
 ## Version 2026.6.11.608 (11 June, 2026)
 ### Changes
 * Fixed dropdown appearance across all pages after the migration to the new design -- dropdowns now match the style used in other products.
