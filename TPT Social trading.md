@@ -1,11 +1,21 @@
 # TPT Social trading
 
 
+## Version 2026.6.23.346 (24 June, 2026)
+### Changes
+* Fixed an issue where the Leader ID was missing from the follower's History page after the associated strategy was deleted.
+* Fixed the OpenAPI spec for `GET /api/v1/information` -- auth headers are no longer listed as required; the endpoint is correctly documented as a public, unauthenticated health-check.
+* Added 401 and other error status codes to all signed API endpoints in the OpenAPI spec.
+* Signed API endpoints now return a `WWW-Authenticate: TokenSignature` challenge header with 401 responses, per the HTTP specification; this behavior is now documented in the OpenAPI spec.
+
 ## Version 2026.6.18.408 (19 June, 2026)
 ### Changes
 * The Stop Loss field in the subscription form now accepts only numeric values; non-numeric characters cannot be entered.
 * Fixed stop loss handling during strategy subscription: the Stop Loss field is now hidden when the leader has disabled it, and the stop loss value is now validated against the follower's current equity on strategy creation.
 
+## Version 2026.6.16.452 (16 June, 2026)
+### Features
+* Added a **Reverse copying** mode for strategy followers: when enabled, trades are opened in the opposite direction from the leader's (leader's BUY -> follower's SELL). Only market orders are copied in this mode; pending orders and TP/SL are not. The setting is configurable from the leader's profile and supports bulk changes.
 ## Version 2026.6.11.608 (11 June, 2026)
 ### Changes
 * Fixed dropdown appearance across all pages after the migration to the new design -- dropdowns now match the style used in other products.
