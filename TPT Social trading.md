@@ -1,6 +1,10 @@
 # TPT Social trading
 
 
+## Version 2026.6.25.983 (29 June, 2026)
+### Changes
+* Optimized service startup and shutdown times u2014 startup now completes in ~2u20133 seconds and shutdown in u22645 seconds, preventing supervisor-triggered kills during updates.
+
 ## Version 2026.6.23.346 (24 June, 2026)
 ### Changes
 * Fixed an issue where the Leader ID was missing from the follower's History page after the associated strategy was deleted.
