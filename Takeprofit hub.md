@@ -29,6 +29,7 @@
 * Fixed the Deselect all action in multi-select fields of the Risk Profiling rule editor. All selected items can now be cleared with a single click, while validation still requires at least one value before saving.
 * Updated the Account Report date validation message to display the expected YYYY-MM-DD format only, matching the date-only input fields.
 * Fixed the Account Report CSV download filename. Exported files are now named AccountReport_<timestamp>.csv instead of ExecutionReport_<timestamp>.csv.
+* Improved TSV import error handling by replacing raw parser errors with clear, line-specific validation messages for malformed files across rules, symbols, scheduled events, and price channels.
 
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
