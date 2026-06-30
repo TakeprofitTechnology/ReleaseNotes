@@ -22,6 +22,10 @@
 ### Changes
 * Significantly reduced report generation time — account and slippage reports that previously took over 2 minutes now complete in under 1 second in most cases.
 
+## Version 2026.6.4.965 (4 June, 2026)
+### Changes
+* Fixed an incorrect Deleted-1 prefix displayed for the internal HUB maker after database upgrades. The maker remains hidden as intended, and the change does not affect trading or reporting data.
+
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
 * Added a new administrator-only Sensitive Reports permission to control access to the Slippage and Deals reports.
