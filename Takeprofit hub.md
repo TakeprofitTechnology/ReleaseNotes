@@ -25,6 +25,7 @@
 ## Version 2026.6.4.965 (4 June, 2026)
 ### Changes
 * Fixed an incorrect Deleted-1 prefix displayed for the internal HUB maker after database upgrades. The maker remains hidden as intended, and the change does not affect trading or reporting data.
+* Removed redundant hover tooltips from permission rows in the account create and edit dialog.
 
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
