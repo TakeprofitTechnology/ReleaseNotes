@@ -4,6 +4,10 @@
 ### Changes
 * Margin and exposure are now calculated using netted positions across all takers, matching MT5 netting behavior and preventing false order rejections.
 
+## Version 2026.6.17.70 (17 June, 2026)
+### Changes
+* Date-only pickers now apply the selected date immediately and close automatically, removing the extra Apply step.
+
 ## Version 2026.6.16.813 (16 June, 2026)
 ### Changes
 * Fixed an issue where Risk management menu items (Risk Profiling Panel, MetaTrader servers, and others) did nothing when clicked; the panels now open correctly from the menu.
