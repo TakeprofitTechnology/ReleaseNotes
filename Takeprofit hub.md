@@ -26,6 +26,7 @@
 ### Changes
 * Fixed an incorrect Deleted-1 prefix displayed for the internal HUB maker after database upgrades. The maker remains hidden as intended, and the change does not affect trading or reporting data.
 * Removed redundant hover tooltips from permission rows in the account create and edit dialog.
+* Fixed the Deselect all action in multi-select fields of the Risk Profiling rule editor. All selected items can now be cleared with a single click, while validation still requires at least one value before saving.
 
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
