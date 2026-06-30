@@ -7,6 +7,7 @@
 ## Version 26.06.02.63 (2 June, 2026)
 ### Changes
 * Added a comprehensive fake-based test framework to the plugin, enabling deterministic unit and integration testing without a live MT5 server.
+* Improved configuration validation and error reporting to prevent invalid configurations from being applied while keeping the last valid configuration active.
 
 ## Version 26.05.19.43 (25 May, 2026)
 ### Changes
