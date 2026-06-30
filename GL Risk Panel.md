@@ -1,5 +1,9 @@
 # GL Risk Panel
 
+## Version 2026.6.25.1070 (29 June, 2026)
+### Changes
+* Fixed an issue where symbols with all-zero volumes (LP returned 0 volume or MT netting result was 0) were incorrectly displayed as missing in the Position Checker table.
+
 ## Version 2026.5.8.654 (13 May, 2026)
 ### Changes
 * Fixed 'unresponsive' status on CapXM account in Maker dashboard.
