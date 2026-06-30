@@ -35,6 +35,7 @@
 * Updated the Account Report date validation message to display the expected YYYY-MM-DD format only, matching the date-only input fields.
 * Fixed the Account Report CSV download filename. Exported files are now named AccountReport_<timestamp>.csv instead of ExecutionReport_<timestamp>.csv.
 * Improved TSV import error handling by replacing raw parser errors with clear, line-specific validation messages for malformed files across rules, symbols, scheduled events, and price channels.
+* Enabled one-click selection of adjacent-month days in the shared date picker. Clicking a faded day now automatically switches to the corresponding month and selects the date, including across year boundaries.
 
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
