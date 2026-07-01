@@ -7,6 +7,7 @@
 ## Version 2026.6.17.70 (17 June, 2026)
 ### Changes
 * Date-only pickers now apply the selected date immediately and close automatically, removing the extra Apply step.
+* Renamed the "Add Row" button to "Add Rule". The new label is now used on the Price Channel Rules and Risk Profile Rules pages for improved consistency.
 
 ## Version 2026.6.16.813 (16 June, 2026)
 ### Changes
