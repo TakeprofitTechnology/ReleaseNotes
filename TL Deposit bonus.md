@@ -1,5 +1,10 @@
 # TL Deposit bonus
 
+
+## Version 2026.6.10.511 (10 June, 2026)
+### Changes
+* Removed 5 minutes checking interval (additional check to correct balance which was not necessary and was a reason of a bug).
+
 ## Version 2026.5.13.441 (15 May, 2026)
 ### Changes
 * Fixed the bug when the plugin removed syntetic positions from cache, which led to withdrawing credits when it was not needed. 
