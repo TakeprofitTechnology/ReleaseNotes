@@ -1,5 +1,10 @@
 # MT5 Real margin stopout
 
+## Version 26.06.03.70 (23 June, 2026)
+### Changes
+* Configuration is now validated at startup: invalid settings (e.g. unrecognized values for DeductCredit or SwitchToReadOnly, negative LogMaxSize) cause the plugin to refuse to start with a clear FATAL log entry, instead of silently ignoring bad values.
+* Invalid configuration changes applied at runtime are now rejected — the plugin retains the last valid configuration and logs an ERROR, without crashing or requiring an MT5 server restart.
+
 ## Version 26.01.16.74 (20 January, 2026)
 ### Changes
 * Fixed comment of credit withdrawal operation 
