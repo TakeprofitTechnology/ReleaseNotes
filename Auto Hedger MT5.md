@@ -1,6 +1,10 @@
 # Auto Hedger MT5
 
 
+## Version 26.06.30.22 (30 June, 2026)
+### Changes
+* Fixed a bug where a failed REST bind on first load could deadlock the entire MT5 trade server.
+
 ## Version 26.06.01.46 (4 June, 2026)
 ### Changes
 * Fixed the error messages shown when the plugin cannot interpret an order on the omnibus account to now include an explicit hint that trade accounts must not belong to an omnibus group.
