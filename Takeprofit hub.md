@@ -26,6 +26,9 @@
 ### Changes
 * Fixed several UI issues, including bid/ask price display in Market Watch, symbol loading for account managers, the Back button on the 403 page, and theme switch colors in light and dark modes.
 
+## Version 2026.6.5.536 (5 June, 2026)
+### Changes
+Removed legacy MVC/Razor components, unused dependencies, and obsolete frontend assets, while simplifying application startup and routing.
 
 ## Version 2026.6.4.965 (4 June, 2026)
 ### Changes
