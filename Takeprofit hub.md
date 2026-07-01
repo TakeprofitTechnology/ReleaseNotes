@@ -33,6 +33,7 @@
 ### Changes
 * Removed legacy MVC/Razor components, unused dependencies, and obsolete frontend assets, while simplifying application startup and routing.
 * Restricted all shared date and date-time inputs to numeric values with automatic formatting.
+* Added support for randomized Bid and Ask markups. Price Channel rules can now apply a random markup within a configured min/max range instead of a fixed value.
 
 ## Version 2026.6.4.965 (4 June, 2026)
 ### Changes
