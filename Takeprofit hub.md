@@ -25,6 +25,7 @@
 * Buy/Sell Slippage values in Risk Profile rules are now restricted to whole points, with decimal values rejected by validation instead of being rounded automatically.
 * Fixed a startup timing issue affecting taker subscriptions. Takers that reconnect immediately after a Hub restart now receive their price subscriptions correctly without requiring manual reconnection or re-enablement.
 * Improved login redirection. Users are now returned to the originally requested Hub page after signing in instead of being redirected to the home page.
+* Disabled development features by default. Development-only maker and taker connection types are now hidden unless DevFeaturesEnabled is explicitly enabled in the configuration.
 
 ## Version 2026.6.9.523 (9 June, 2026)
 ### Changes
