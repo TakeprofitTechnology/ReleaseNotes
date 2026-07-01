@@ -141,6 +141,7 @@ Fixed price calculation per partial fill; final VWAP now correctly reflects actu
 * Timeline bar color changed from purple to green in Risk Profile rules.
 * Invalid TSV files could be accepted and cause unclear errors. Market Watch could fail on invalid symbols. Improved validation and handling to prevent these issues.
 * Market watch symbol representation bug: fixed symbol initialization to ensure proper loading.
+* Added optional ClickHouse storage for historical liquidity provider quotes with asynchronous batch writes and Prometheus monitoring.
 
 ## Version 2026.4.20.509 (20 April, 2026)
 ### Changes
