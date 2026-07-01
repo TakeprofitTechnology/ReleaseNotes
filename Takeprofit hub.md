@@ -22,6 +22,7 @@
 ### Changes
 * Significantly reduced report generation time — account and slippage reports that previously took over 2 minutes now complete in under 1 second in most cases.
 * Added support for saving the generated SQLite database to any configured output path to Migration tool. This removes the need for manual file copying and provides clearer validation for invalid or missing paths.
+* Buy/Sell Slippage values in Risk Profile rules are now restricted to whole points, with decimal values rejected by validation instead of being rounded automatically.
 
 ## Version 2026.6.9.523 (9 June, 2026)
 ### Changes
