@@ -53,6 +53,7 @@
 * Improved TSV import error handling by replacing raw parser errors with clear, line-specific validation messages for malformed files across rules, symbols, scheduled events, and price channels.
 * Enabled one-click selection of adjacent-month days in the shared date picker. Clicking a faded day now automatically switches to the corresponding month and selects the date, including across year boundaries.
 * Restricted the symbol filter for Account Manager users. The symbol dropdown on the Active Orders, Orders, and Deals pages now displays only the price-channel symbols available through the accounts assigned to the user, while Administrators continue to see all symbols.
+* Added MT5 Order ID and Deal ID tracking. The Hub now stores MT5 Order and Deal IDs received from the MT5 bridge and displays them in the Order and Deal details pages.
 
 ## Version 2026.6.1.322 (1 June, 2026)
 ### Changes
