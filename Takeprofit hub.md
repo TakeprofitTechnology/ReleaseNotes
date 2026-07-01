@@ -25,6 +25,7 @@
 ## Version 2026.6.9.523 (9 June, 2026)
 ### Changes
 * Fixed several UI issues, including bid/ask price display in Market Watch, symbol loading for account managers, the Back button on the 403 page, and theme switch colors in light and dark modes.
+* Trading Performance: Prevented inactive Hub instances from displaying Prometheus metrics belonging to another instance.
 
 ## Version 2026.6.5.536 (5 June, 2026)
 ### Changes
