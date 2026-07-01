@@ -28,7 +28,8 @@
 
 ## Version 2026.6.5.536 (5 June, 2026)
 ### Changes
-Removed legacy MVC/Razor components, unused dependencies, and obsolete frontend assets, while simplifying application startup and routing.
+* Removed legacy MVC/Razor components, unused dependencies, and obsolete frontend assets, while simplifying application startup and routing.
+* Restricted all shared date and date-time inputs to numeric values with automatic formatting.
 
 ## Version 2026.6.4.965 (4 June, 2026)
 ### Changes
