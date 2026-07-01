@@ -1,5 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 26.06.05.12 (5 June, 2026)
+### Changes
+* The Bridge now sends MT5 Order and Deal IDs after execution, allowing the Hub to store and display them in the Order and Deal details pages.
+
 ## Version 26.06.02.486 (2 June, 2026)
 ### Changes
 * Unified configuration validation: invalid configs are safely rejected with clear operator guidance, while the gateway continues running on the last valid configuration.
