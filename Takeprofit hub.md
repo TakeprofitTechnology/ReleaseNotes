@@ -60,6 +60,7 @@
 ### Changes
 * Added a new administrator-only Sensitive Reports permission to control access to the Slippage and Deals reports.
 * Fixed SQLite trading-history partition cleanup failures caused by orphaned balance-to-deal references, allowing partition maintenance to self-heal and complete automatically.
+* Added the Slippage report. The report provides detailed slippage analysis, including market slippage, markup slippage, and their corresponding profit values.
 
 ## Version 2026.5.27.279 (27 May, 2026)
 ### Changes
