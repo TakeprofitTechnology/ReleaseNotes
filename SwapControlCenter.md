@@ -1,5 +1,11 @@
 # Swap control center MT5
 
+## Version 26.07.01.54 (2 July, 2026)
+### Changes
+* The plugin now refuses to start if a required setting or configuration file is missing or invalid, showing a clear error status and naming the problem in the journal.
+* A bad configuration pushed while the plugin is running is now rejected — the plugin keeps running on the previous valid configuration, with the rejection reason shown on the status.
+* Configuration errors no longer crash the MT5 host process.
+
 ## Version 26.05.19.52 (29 May, 2026)
 ### Changes
 * Fixed an issue where scheduled rules with swap type SWAP only logged the swap change but did not apply swap values to open MT5 positions.
