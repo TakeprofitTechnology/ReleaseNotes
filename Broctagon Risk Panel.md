@@ -1,5 +1,9 @@
 # Broctagon Risk Panel
 
+## Version 2026.6.29.789 (1 July, 2026)
+### Changes
+* Removed the MT4 server entirely from the panel, as it's no longer used in the client's setup.
+
 ## Version 2026.5.22.708 (26 May, 2026)
 ### Changes
 * Memory usage overall optimisation.
