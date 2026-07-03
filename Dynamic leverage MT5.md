@@ -1,5 +1,12 @@
 # Dynamic leverage MT5
 
+## Version 26.06.25.62 (30 June, 2026)
+### Changes
+* Fixed a rare issue where honest clients could be incorrectly rejected with "not enough money" errors once order numbers on a server grew past a certain threshold.
+* Closed two additional gaps in the EA-burst abuse protection, including a case where a broken price feed could make the protection work against the account instead of protecting it.
+* Fixed an issue where the plugin could overwrite an order while a dealer was actively processing it, which could wipe out flags the dealer had just set.
+* Improved plugin resilience: a single transient error no longer disables margin enforcement for the whole server, and the plugin's web interface now stops correctly when the plugin itself stops.
+* Configuration validation is now stricter: rules with misspelled or invalid values are now rejected with a clear error message instead of being silently accepted and applied incorrectly. A configuration that previously loaded (only because errors were silently ignored) may now be rejected — please review your configuration if this happens after upgrading.
 ## Version 26.06.17.71 (22 June, 2026)
 ### Changes
 * Fixed CancelPendingIfNoMargin: pending orders rejected for insufficient margin are now reliably removed. Previously the cancellation request was acknowledged by the trade server but the order was not actually deleted, causing MT5 to retry activation thousands of times.
