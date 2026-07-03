@@ -1,5 +1,12 @@
 # TPT Social trading
 
+## Version 2026.7.2.1013 (3 July, 2026)
+### Features
+* Added new CompanyBrand value.
+### Changes
+* Renamed the 'Revert copy' setting to 'Enable reverse copying' and added an explanatory hint describing how it affects copied trades.
+* Fixed the registration error message for duplicate MetaTrader accounts — it no longer confirms account existence to unauthenticated users and instead suggests signing in or contacting support.
+
 
 ## Version 2026.6.25.983 (29 June, 2026)
 ### Changes
