@@ -4,6 +4,8 @@
 ## Version 26.06.30.22 (30 June, 2026)
 ### Changes
 * Fixed a bug where a failed REST bind on first load could deadlock the entire MT5 trade server.
+### Features
+* Added an optional "Account Color" filter to hedging rules — a rule can now apply only to accounts with specific standard MT5 colors, matching the existing behavior in TPT Bridge and Hub. Custom colors are not supported, and rules without a color set continue to apply to all accounts as before.
 
 ## Version 26.06.01.46 (4 June, 2026)
 ### Changes
