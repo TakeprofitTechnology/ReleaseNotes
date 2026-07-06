@@ -1,5 +1,9 @@
 # MT5 Deposit Bonus
 
+## Version 26.07.01.76 (6 July, 2026)
+### Features
+* DeductBonus parameter has been added. When disabled, the bonus is no longer removed once the balance reaches zero, letting the trader keep trading on it; all other bonus-removal cases (withdrawal, drawdown/balance-loss limits, expiration) work as before.
+
 ## Version 26.03.26.42 (26 March, 2026)
 ### Changes
 * DeductOnlyFirstBonus parameter has been added for deducting the bonus which was applied with FirstDepositBonusPercentage parameter.
