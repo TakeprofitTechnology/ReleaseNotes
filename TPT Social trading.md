@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2026.7.3.249 (3 July, 2026)
+### Changes
+* Fixed an issue where a follower could be left holding "orphaned" positions after a leader closed several positions at once under tight margin. Such positions are now closed automatically within milliseconds instead of lingering until the leader's next trade.
+
 ## Version 2026.7.2.1013 (3 July, 2026)
 ### Features
 * Added new CompanyBrand value.
