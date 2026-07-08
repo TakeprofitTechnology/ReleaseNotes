@@ -1,5 +1,10 @@
 # Web GUI сonfigurator
 
+## Version 2026.7.3.672 (8 July, 2026)
+### Features
+* TPT Bridge MT5: Added a new "Execution rules only" permission (off by default) — when enabled for a user, they see only the Execution rules tab on Bridge instances, with other tabs and the product type/version hidden; the product type label is also hidden on that user's home page cards.
+* TPT Bridge MT5: Users with "Execution rules only" can no longer edit an instance's connection settings after creation — a wrongly configured instance must be deleted and recreated instead.
+
 ## Version 2026.6.29.1097 (29 June, 2026)
 ### Changes
 * TPT Bridge MT5: Fixed MULTIPLY and MULTIPLY NO MIN VALUE actions not accepting negative values — MULTIPLY now accepts values in [-1, -0.01] or [0.01, 1], MULTIPLY NO MIN VALUE accepts [-10, 0) or (0, 10].
