@@ -1,5 +1,9 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.07.07.18  (7 July, 2026)
+### Changes
+* Improved quote processing performance by removing the synchronous bottleneck in the FIX-to-MT quote pipeline. Quote latency under peak load was reduced from seconds to sub-millisecond levels
+
 ## Version 26.05.18.48 (18 May, 2026)
 ### Changes
 * Fixed: C++ exception attribution in crash reports — Windows Event Log now correctly identifies the DLL that threw the exception as the crash source.
