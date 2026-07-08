@@ -1,6 +1,6 @@
 # Web GUI сonfigurator
 
-## Version 2026.6.29.1097 (30 June, 2026)
+## Version 2026.6.29.1097 (29 June, 2026)
 ### Changes
 * TPT Bridge MT5: Fixed MULTIPLY and MULTIPLY NO MIN VALUE actions not accepting negative values — MULTIPLY now accepts values in [-1, -0.01] or [0.01, 1], MULTIPLY NO MIN VALUE accepts [-10, 0) or (0, 10].
 * TPT Bridge MT5: Dropdown menus in the Reason, Color, Country, and Direction columns in the bottom rules now unfold upwards.
