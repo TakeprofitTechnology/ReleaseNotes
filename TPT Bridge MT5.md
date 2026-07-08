@@ -1,5 +1,11 @@
 # Takeprofit Bridge MT5
 
+
+
+## Version 26.07.07.18  (7 July, 2026)
+### Changes
+* Improved quote processing performance by removing the synchronous bottleneck in the FIX-to-MT quote pipeline. Quote latency under peak load was reduced from seconds to sub-millisecond levels
+
 ## Version 26.06.05.12 (5 June, 2026)
 ### Changes
 * The Bridge now sends MT5 Order and Deal IDs after execution, allowing the Hub to store and display them in the Order and Deal details pages.
