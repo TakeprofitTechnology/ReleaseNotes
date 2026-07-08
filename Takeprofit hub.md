@@ -4,6 +4,10 @@
 ### Changes
 * Margin and exposure are now calculated using netted positions across all takers, matching MT5 netting behavior and preventing false order rejections.
 
+## Version 2026.6.23.416 (23 June, 2026)
+### Changes
+* Force-rejected client orders now generate a final cancel report, ensuring clients receive immediate order status updates without polling.
+
 ## Version 2026.6.22.254 (22 June, 2026)
 ### Changes
 * Improved handling of overfilled executions. If a liquidity provider reports a fill volume greater than the requested order volume, the Hub now caps the executed volume to the original order size and logs the excess.
