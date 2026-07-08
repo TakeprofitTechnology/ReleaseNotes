@@ -4,7 +4,7 @@
 ### Changes
 * TPT Bridge MT5: Fixed MULTIPLY and MULTIPLY NO MIN VALUE actions not accepting negative values — MULTIPLY now accepts values in [-1, -0.01] or [0.01, 1], MULTIPLY NO MIN VALUE accepts [-10, 0) or (0, 10].
 * TPT Bridge MT5: Dropdown menus in the Reason, Color, Country, and Direction columns in the bottom rules now unfold upwards.
-* * Introduced a redesigned React-based Web Configurator with a modern UI, real-time connection monitoring, simplified rule scheduling, and enhanced Dynamic Leverage rule management.
+* Introduced a redesigned React-based Web Configurator with a modern UI, real-time connection monitoring, simplified rule scheduling, and enhanced Dynamic Leverage rule management.
 
 ## Version 2026.6.17.1070 (18 June, 2026)
 ### Features
