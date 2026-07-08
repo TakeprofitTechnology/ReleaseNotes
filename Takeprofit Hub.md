@@ -1,4 +1,4 @@
-# Takeprofit hub
+# Takeprofit Hub
 
 ## Version 2026.6.26.645 (26 June, 2026)
 ### Changes
@@ -12,6 +12,10 @@
 ### Changes
 * Improved handling of overfilled executions. If a liquidity provider reports a fill volume greater than the requested order volume, the Hub now caps the executed volume to the original order size and logs the excess.
 * Prevented rejected orders from being retransmitted to liquidity providers after a connection reconnect.
+
+## Version 2026.6.19.706 (19 June, 2026)
+### Changes
+* Added pagination to the Active Orders page, significantly improving performance and responsiveness when managing large numbers of active orders.
 
 ## Version 2026.6.17.70 (17 June, 2026)
 ### Changes
