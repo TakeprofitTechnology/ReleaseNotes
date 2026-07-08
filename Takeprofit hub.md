@@ -7,6 +7,7 @@
 ## Version 2026.6.22.254 (22 June, 2026)
 ### Changes
 * Improved handling of overfilled executions. If a liquidity provider reports a fill volume greater than the requested order volume, the Hub now caps the executed volume to the original order size and logs the excess.
+* Prevented rejected orders from being retransmitted to liquidity providers after a connection reconnect.
 
 ## Version 2026.6.17.70 (17 June, 2026)
 ### Changes
