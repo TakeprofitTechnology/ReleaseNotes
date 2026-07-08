@@ -23,6 +23,10 @@
 * Fixed a bug where makers configured with only a quote session or only a trade session disconnected immediately on every login. Both session types are now optional — a maker can run with a quote session only, a trade session only, or both.
 * Significantly improved quote-distribution and trade-processing performance with no configuration or behavioral changes. Quote engine throughput improved up to 9x at the engine level; memory per quote reduced by ~85%; trade processing throughput improved ~4x at normal load; overall process memory reduced ~50% under heavy load.
 
+## Version 2026.6.13.431 (13 June, 2026)
+### Changes
+* Added the Hub Map widget to visualize real-time trade execution across A-Book, B-Book, and liquidity providers.
+
 ## Version 2026.6.11.594 (11 June, 2026)
 ### Changes
 * Significantly reduced report generation time — account and slippage reports that previously took over 2 minutes now complete in under 1 second in most cases.
