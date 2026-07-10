@@ -1,5 +1,10 @@
 # Web GUI сonfigurator
 
+## Version 2026.7.8.853 (9 July, 2026)
+### Features
+* AutoHedger MT5: The configuration page has been completely rebuilt with a new design (the same UI already used for Dynamic Leverage, TPT Bridge and Bonus Cashback), with General, Rules, Symbols and History tabs.
+* AutoHedger MT5: The History tab now shows a read-only view of deal-copying history, with symbol filtering, paging, CSV export, and automatic refresh every 5 minutes.
+
 ## Version 2026.7.3.672 (8 July, 2026)
 ### Features
 * TPT Bridge MT5: Added a new "Execution rules only" permission (off by default) — when enabled for a user, they see only the Execution rules tab on Bridge instances, with other tabs and the product type/version hidden; the product type label is also hidden on that user's home page cards.
