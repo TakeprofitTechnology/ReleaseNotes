@@ -1,5 +1,10 @@
 # Takeprofit Hub
 
+
+## Version 2026.7.2.488  (2 July, 2026)
+### Changes
+* Added an optional per-symbol Quote Expiration setting. If a maker stops sending fresh quotes for longer than the configured timeout, the Hub removes its stale book and automatically switches both pricing and order routing to the next available maker.
+
 ## Version 2026.6.26.645 (26 June, 2026)
 ### Changes
 * Margin and exposure are now calculated using netted positions across all takers, matching MT5 netting behavior and preventing false order rejections.
