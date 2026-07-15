@@ -3,6 +3,7 @@
 ## Version 2026.6.16.737 (16 June, 2026)
 * Improved the reliability of MT5 balance operations by introducing an automatic retry queue. Failed operations are now retried using a configurable backoff schedule before being marked as failed, while completed operations are never executed twice. 
 * Added operation lifecycle tracking, retry metadata, and administrative API endpoints for monitoring, retrying, cancelling, and manually resolving balance operations.
+* Added idempotency protection for MT5 balance operations to prevent duplicate deposits and withdrawals during retries, worker restarts, or temporary failures. Each operation is uniquely identified, protected against concurrent processing with worker locks, and validated before execution to ensure completed operations are never sent to MT5 more than once.
 
 ## Version 2026.6.8.595 (8 June, 2026)
 * Added a new Operations administration page for monitoring and managing asynchronous operations. Administrators can view operation statuses, inspect detailed execution history, retry failed operations, cancel pending or failed operations, and manually resolve completed operations. All manual actions require confirmation and are recorded in the audit log.
