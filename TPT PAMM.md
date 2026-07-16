@@ -13,6 +13,7 @@
 ## Version 2026.7.1.865 (1 July, 2026)
 * Added a guided Investment Onboarding Wizard that walks investors through leader selection, strategy review, investment setup, risk protection, and confirmation.
 * Added an Operations Monitoring Dashboard that provides real-time visibility into MT5 connectivity, financial operations, background workers, queue status, and overall system health.
+* Added a Reconciliation Service that automatically compares PAMM data with MT5, validates balances, investments, settlements, and financial operations, detects inconsistencies, and provides reconciliation status and issue reporting.
 
 ## Version 2026.6.23.348 (23 June, 2026)
 * Added Portfolio Analytics with portfolio value, ROI, realized and unrealized PnL, allocation breakdown, investment details, and performance charts.
