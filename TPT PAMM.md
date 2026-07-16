@@ -7,6 +7,7 @@
 * Added a Risk Score for leaders based on trading performance and risk metrics. The score is displayed throughout the platform and can be used to sort leader rankings by lowest or highest risk.
 * Added public Leader Statistics, including ROI, AUM, investor count, current equity, and key performance metrics to help investors compare leaders.
 * Added Investor Statements with portfolio summaries, transaction history, settlement history, and filtering by date, investment, and transaction type.
+* Added an Investor Ledger that records all investment-related financial events, including deposits, withdrawals, settlements, performance fees, stop-loss events, and investment closures.
 
 ## Version 2026.6.8.595 (8 June, 2026)
 * Added a new Operations administration page for monitoring and managing asynchronous operations. Administrators can view operation statuses, inspect detailed execution history, retry failed operations, cancel pending or failed operations, and manually resolve completed operations. All manual actions require confirmation and are recorded in the audit log.
