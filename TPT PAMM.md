@@ -3,6 +3,8 @@
 ## Version 2026.7.6.993 (6 July, 2026)
 * Added Public Leader Profiles with leader biographies, strategy descriptions, key performance metrics, and historical performance charts to help investors evaluate leaders before investing.
 * Added Follow Leaders and Watchlist functionality, allowing investors to follow, favorite, and monitor leaders before investing.
+* Added Performance History with historical ROI, equity and drawdown charts, monthly returns, and key performance milestones to help investors evaluate long-term consistency.
+
 
 ## Version 2026.7.3.464 (3 July, 2026)
 * Fixed the transaction amount sign in Investor Statements. Investment deposits are now shown as negative amounts (funds leaving the investor account), while investment closures and returned funds are shown as positive amounts (funds credited back to the investor account).
