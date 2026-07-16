@@ -2,6 +2,7 @@
 
 ## Version 2026.7.6.993 (6 July, 2026)
 * Added Public Leader Profiles with leader biographies, strategy descriptions, key performance metrics, and historical performance charts to help investors evaluate leaders before investing.
+* Added Follow Leaders and Watchlist functionality, allowing investors to follow, favorite, and monitor leaders before investing.
 
 ## Version 2026.7.2.481 (2 July, 2026)
 * Replaced the existing main-page leader section with the full Leaders Board, while keeping the investor’s balance, active investments, and personal account data visible.
