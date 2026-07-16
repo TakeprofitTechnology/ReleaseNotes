@@ -1,5 +1,8 @@
 # TPT PAMM
 
+## Version 2026.6.23.348 (23 June, 2026)
+* Added Portfolio Analytics with portfolio value, ROI, realized and unrealized PnL, allocation breakdown, investment details, and performance charts.
+
 ## Version 2026.6.16.737 (16 June, 2026)
 * Improved the reliability of MT5 balance operations by introducing an automatic retry queue. Failed operations are now retried using a configurable backoff schedule before being marked as failed, while completed operations are never executed twice. 
 * Added operation lifecycle tracking, retry metadata, and administrative API endpoints for monitoring, retrying, cancelling, and manually resolving balance operations.
