@@ -1,5 +1,13 @@
 # TPT Social trading
 
+## Version 2026.7.13.361 (15 July, 2026)
+### Features
+* Added a "Sort" dropdown to the Leaderboard, letting traders sort leaders by ROI (default), number of followers, or registration date. The chosen sort is remembered between visits and works in both table and card views.
+
+## Version 2026.7.10.364 (10 July, 2026)
+### Features
+* Added a "History" page to the leader dashboard showing closed trades, summary cards, a cumulative P&L chart, filters, and CSV export — mirroring the follower's History page (without the "Leader" column). Available for all brands, not just 10tradeFX.
+
 ## Version 2026.7.3.249 (3 July, 2026)
 ### Changes
 * Fixed an issue where a follower could be left holding "orphaned" positions after a leader closed several positions at once under tight margin. Such positions are now closed automatically within milliseconds instead of lingering until the leader's next trade.
