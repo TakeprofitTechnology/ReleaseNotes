@@ -7,6 +7,9 @@
 ## Version 2026.7.2.481 (2 July, 2026)
 * Replaced the existing main-page leader section with the full Leaders Board, while keeping the investor’s balance, active investments, and personal account data visible.
 
+## Version 2026.7.1.865 (1 July, 2026)
+* Added a guided Investment Onboarding Wizard that walks investors through leader selection, strategy review, investment setup, risk protection, and confirmation.
+
 ## Version 2026.6.23.348 (23 June, 2026)
 * Added Portfolio Analytics with portfolio value, ROI, realized and unrealized PnL, allocation breakdown, investment details, and performance charts.
 * Added Leader Rankings with multiple ranking categories, sorting options, and time-based filters to help investors discover and compare leaders.
