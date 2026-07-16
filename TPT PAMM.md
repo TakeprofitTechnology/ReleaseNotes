@@ -8,6 +8,7 @@
 
 ## Version 2026.6.8.595 (8 June, 2026)
 * Added a new Operations administration page for monitoring and managing asynchronous operations. Administrators can view operation statuses, inspect detailed execution history, retry failed operations, cancel pending or failed operations, and manually resolve completed operations. All manual actions require confirmation and are recorded in the audit log.
+* Added configurable Investment Stop Loss to automatically protect investments when a predefined loss threshold is reached.
 
 
 ## Version 2026.5.27.597 (27 May, 2026)
