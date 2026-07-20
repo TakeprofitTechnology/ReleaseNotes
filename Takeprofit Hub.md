@@ -5,6 +5,7 @@
 
 ## Version 2026.7.6.311 (6 July, 2026)
 * Fixed liquidation of positions opened before version 2026.5.19.585, allowing both regular and B-Book account positions to be liquidated successfully after upgrading.
+* Fixed duplicate NOP limit rules that could be created after a Hub rollback and re-upgrade, preventing configuration updates. Existing duplicate rules are automatically cleaned up during upgrade.
 
 ## Version 2026.7.2.488 (2 July, 2026)
 ### Changes
