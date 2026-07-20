@@ -3,6 +3,9 @@
 ## Version 26.07.16.25 (16 July, 2026)
 * Fixed an issue where the MT4 Position Lifetime filter could incorrectly reject opening orders when the configured range started at 0 seconds. The MT4 bridge now skips the Position Lifetime filter for opening orders, matching the existing MT5 behavior.
 
+## Version 2026.7.6.311 (6 July, 2026)
+* Fixed liquidation of positions opened before version 2026.5.19.585, allowing both regular and B-Book account positions to be liquidated successfully after upgrading.
+
 ## Version 2026.7.2.488 (2 July, 2026)
 ### Changes
 * Added an optional per-symbol Quote Expiration setting. If a maker stops sending fresh quotes for longer than the configured timeout, the Hub removes its stale book and automatically switches both pricing and order routing to the next available maker.
