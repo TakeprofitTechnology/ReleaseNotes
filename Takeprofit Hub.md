@@ -3,6 +3,9 @@
 ## Version 26.07.16.25 (16 July, 2026)
 * Fixed an issue where the MT4 Position Lifetime filter could incorrectly reject opening orders when the configured range started at 0 seconds. The MT4 bridge now skips the Position Lifetime filter for opening orders, matching the existing MT5 behavior.
 
+## Version 2026.7.10.325 (10 July, 2026)
+* Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
+
 ## Version 2026.7.6.311 (6 July, 2026)
 * Fixed liquidation of positions opened before version 2026.5.19.585, allowing both regular and B-Book account positions to be liquidated successfully after upgrading.
 * Fixed duplicate NOP limit rules that could be created after a Hub rollback and re-upgrade, preventing configuration updates. Existing duplicate rules are automatically cleaned up during upgrade.
