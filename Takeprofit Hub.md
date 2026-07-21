@@ -13,6 +13,7 @@
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
+* Fixed reporting of negative extra slippage in execution logs and Trading Performance metrics. Markup P&L now correctly reflects client givebacks.
 
 ## Version 2026.7.9.633 (9 July, 2026)
 * Added Round direction for Risk Profiles, allowing rounding toward either the A-book or B-book side when splitting order volume. Supports profile defaults, rule overrides, import/export, and audit logging.
