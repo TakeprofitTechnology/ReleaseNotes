@@ -4,9 +4,6 @@
 * Updated TSV import for editable rule tables: imported changes are now applied only after Save.
 * Improved TSV import validation and reliability.
 
-## Version 26.07.16.25 (16 July, 2026)
-* Fixed an issue where the MT4 Position Lifetime filter could incorrectly reject opening orders when the configured range started at 0 seconds. The MT4 bridge now skips the Position Lifetime filter for opening orders, matching the existing MT5 behavior.
-
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
 
