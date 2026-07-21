@@ -1,5 +1,8 @@
 # Takeprofit Hub
 
+## Version 2026.7.20.613 (20 July, 2026)
+* Updated TSV import for editable rule tables: imported changes are now applied only after Save.
+* Improved TSV import validation and reliability.
 
 ## Version 26.07.16.25 (16 July, 2026)
 * Fixed an issue where the MT4 Position Lifetime filter could incorrectly reject opening orders when the configured range started at 0 seconds. The MT4 bridge now skips the Position Lifetime filter for opening orders, matching the existing MT5 behavior.
