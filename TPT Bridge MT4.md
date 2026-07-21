@@ -1,5 +1,8 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.07.16.25 (16 July, 2026)
+* Fixed an issue where the MT4 Position Lifetime filter could incorrectly reject opening orders when the configured range started at 0 seconds. The MT4 bridge now skips the Position Lifetime filter for opening orders, matching the existing MT5 behavior.
+
 ## Version 26.07.07.18  (7 July, 2026)
 ### Changes
 * Improved quote processing performance by removing the synchronous bottleneck in the FIX-to-MT quote pipeline. Quote latency under peak load was reduced from seconds to sub-millisecond levels
