@@ -9,6 +9,7 @@
 
 ## Version 2026.7.9.633 (9 July, 2026)
 * Added Round direction for Risk Profiles, allowing rounding toward either the A-book or B-book side when splitting order volume. Supports profile defaults, rule overrides, import/export, and audit logging.
+* Removed duplicate dashboard widgets, keeping a single instance of Volume Split, Server Performance, Inactive Items, and Top Symbols by Volume.
 
 ## Version 2026.7.6.311 (6 July, 2026)
 * Fixed liquidation of positions opened before version 2026.5.19.585, allowing both regular and B-Book account positions to be liquidated successfully after upgrading.
