@@ -6,6 +6,7 @@
 * Added tooltip descriptions for all columns in the Risk Profile Rules table to improve usability and clarify rule settings.
 * Added resizable columns to the Risk Profile Rules table. Column widths are saved as a per-user browser preference.
 * Improved performance of Slippage, Deals, and Orders reports, significantly reducing generation time for large datasets without changing report contents.
+* Removed support for calendar-date restrictions in rule schedules. Rules now support only day-of-week and time-of-day scheduling.
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
