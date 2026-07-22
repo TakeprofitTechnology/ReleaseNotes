@@ -4,6 +4,8 @@
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
 * Removed the public /leaders endpoint and fixed a critical database update issue that could cause user data loss.
 * Removed the Leaders navigation button and deprecated the public /leaders endpoint from the login page.
+* Prevented investors from reopening the Investment Wizard for leaders they have already invested in.
+* Replaced the Invest button with an Already Invested badge for existing investments.
 
 ## Version 2026.7.8.1155  (8 July, 2026)
 * Added out-of-the-box HTTP support for authentication, with optional HTTPS configuration documented.
