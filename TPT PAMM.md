@@ -1,5 +1,9 @@
 # TPT PAMM
 
+
+## Version 2026.7.8.1155  (8 July, 2026)
+* Added out-of-the-box HTTP support for authentication, with optional HTTPS configuration documented.
+
 ## Version 2026.7.6.993 (6 July, 2026)
 * Added Public Leader Profiles with leader biographies, strategy descriptions, key performance metrics, and historical performance charts to help investors evaluate leaders before investing.
 * Added Follow Leaders and Watchlist functionality, allowing investors to follow, favorite, and monitor leaders before investing.
