@@ -8,6 +8,7 @@
 * Replaced the Invest button with an Already Invested badge for existing investments.
 * Added transactional email notifications with configurable user preferences and branded email templates.
 * Removed the manual email endpoint (POST /notifications/email) and simplified email delivery status tracking.
+* Removed the duplicate Watchlist button from the PAMM user interface.
 
 ## Version 2026.7.8.1155  (8 July, 2026)
 * Added out-of-the-box HTTP support for authentication, with optional HTTPS configuration documented.
