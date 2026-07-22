@@ -2,6 +2,9 @@
 
 
 
+## Version 26.07.15.60 (15 July, 2026)
+### Changes
+* Restored the feeder log that stopped being written after the recent quote-processing performance update. Each quote sent to MT5 is recorded again (one line per quote) when the bridge's debug logging is enabled; quote delivery to MT5 itself was never affected.
 ## Version 26.07.07.18  (7 July, 2026)
 ### Changes
 * Improved quote processing performance by removing the synchronous bottleneck in the FIX-to-MT quote pipeline. Quote latency under peak load was reduced from seconds to sub-millisecond levels
