@@ -10,6 +10,11 @@
 * Removed the manual email endpoint (POST /notifications/email) and simplified email delivery status tracking.
 * Removed the duplicate Watchlist button from the PAMM user interface.
 
+## Version 2026.7.16.1111  (16 July, 2026)
+* Added a leader verification system with Pending, Verified, and Featured statuses.
+* Introduced verification badges across leader listings and profiles, along with administrative verification management.
+
+
 ## Version 2026.7.8.1155  (8 July, 2026)
 * Added out-of-the-box HTTP support for authentication, with optional HTTPS configuration documented.
 
