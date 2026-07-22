@@ -6,7 +6,7 @@
 
 ## Version 2026.7.10.364 (10 July, 2026)
 ### Features
-* Added a "History" page to the leader dashboard showing closed trades, summary cards, a cumulative P&L chart, filters, and CSV export — mirroring the follower's History page (without the "Leader" column). Available for all brands, not just 10tradeFX.
+* Added a "History" page to the leader dashboard showing closed trades, summary cards, a cumulative P&L chart, filters, and CSV export — mirroring the follower's History page (without the "Leader" column). 
 
 ## Version 2026.7.3.249 (3 July, 2026)
 ### Changes
