@@ -3,6 +3,7 @@
 ## Version 2026.7.20.999  (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
 * Removed the public /leaders endpoint and fixed a critical database update issue that could cause user data loss.
+* Removed the Leaders navigation button and deprecated the public /leaders endpoint from the login page.
 
 ## Version 2026.7.8.1155  (8 July, 2026)
 * Added out-of-the-box HTTP support for authentication, with optional HTTPS configuration documented.
