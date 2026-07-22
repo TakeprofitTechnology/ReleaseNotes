@@ -1,5 +1,8 @@
 # Dynamic leverage MT5
 
+## Version 26.07.16.51 (17 July, 2026)
+### Changes
+* Fixed an issue where Dynamic Leverage could overwrite a position that was still being filled in parts — rolling its size back and changing its open price and external ID. A new optional setting, UpdatePositionsDelayMs (off by default), makes the plugin wait the configured number of milliseconds before it starts processing a newly opened or closing position, so the fill can finish first.
 ## Version 26.06.25.62 (30 June, 2026)
 ### Changes
 * Fixed a rare issue where honest clients could be incorrectly rejected with "not enough money" errors once order numbers on a server grew past a certain threshold.
