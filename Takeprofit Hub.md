@@ -10,6 +10,7 @@
 * Improved execution log search performance and memory usage on the Order/Deal Details Logs tab, preventing excessive RAM spikes during large log searches.
 * Added single-search protection for execution logs and support for multi-ID filtering across Orders, Deals, Positions, and Account History.
 * Updated the application logo to use the official company logotype on the login page and in the navigation bar.
+* Renamed "Change Price" to "Change Price on Chart" across the UI and validation messages.
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
