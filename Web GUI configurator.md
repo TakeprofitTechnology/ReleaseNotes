@@ -1,5 +1,15 @@
 # Web GUI сonfigurator
 
+## Version 2026.7.22.693 (22 July, 2026)
+### Features
+* MT5 Hedge Locker: Added a Web Configurator screen for the Hedge Locker plugin, letting brokers set up and manage rules through the interface instead of editing files by hand. The screen has General and Rules tabs, with per-rule groups & logins, symbols, schedule, and hedge-ratio threshold; Symbols, Groups & logins, and Schedule are required fields.
+
+## Version 2026.7.14.503 (16 July, 2026)
+### Features
+* TPT Bridge MT5: Column widths in configuration tables can now be adjusted manually by dragging, while a minimum width is preserved so a column can't be shrunk below its default size.
+### Changes
+* TPT Bridge MT5: Renamed the "Change price" option to "Change price on chart" in the Execution rules tab.
+
 ## Version 2026.7.8.853 (9 July, 2026)
 ### Features
 * AutoHedger MT5: The configuration page has been completely rebuilt with a new design (the same UI already used for Dynamic Leverage, TPT Bridge and Bonus Cashback), with General, Rules, Symbols and History tabs.
