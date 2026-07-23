@@ -13,6 +13,8 @@
 ## Version 2026.7.16.1111  (16 July, 2026)
 * Added a leader verification system with Pending, Verified, and Featured statuses.
 * Introduced verification badges across leader listings and profiles, along with administrative verification management.
+* Added white-label branding with customizable platform appearance, including logos, colors, login page, and branding profiles.
+* Applied branding consistently across the platform, including the dashboard, login page, navigation, and email templates.
 
 
 ## Version 2026.7.8.1155  (8 July, 2026)
