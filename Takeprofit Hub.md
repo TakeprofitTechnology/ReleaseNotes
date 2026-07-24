@@ -11,6 +11,7 @@
 * Added single-search protection for execution logs and support for multi-ID filtering across Orders, Deals, Positions, and Account History.
 * Updated the application logo to use the official company logotype on the login page and in the navigation bar.
 * Renamed "Change Price" to "Change Price on Chart" across the UI and validation messages.
+* Added a new Order Rejection alert with count and rate trigger modes. Supports filters and existing email/Telegram notifications.
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
