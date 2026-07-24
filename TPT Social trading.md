@@ -6,6 +6,7 @@
 
 ## Version 2026.7.10.364 (10 July, 2026)
 ### Features
+* Added SQLite as a database option for new installations. Set `Provider` to `SQLite` under `DatabaseSettings` in appsettings.json; existing PostgreSQL installations are not migrated.
 * Added a "History" page to the leader dashboard showing closed trades, summary cards, a cumulative P&L chart, filters, and CSV export — mirroring the follower's History page (without the "Leader" column). 
 
 ## Version 2026.7.3.249 (3 July, 2026)
