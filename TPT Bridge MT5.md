@@ -2,6 +2,10 @@
 
 
 
+## Version 26.07.21.46 (22 July, 2026)
+### Changes
+* The Bridge now validates the Disabled, Direction, AccountColor, and Country columns in the Rules file on load and reload. Invalid values are rejected with a clear error naming the bad value, instead of passing through silently into the UI and logs (a bad Disabled value could previously break the WebGUI Rules tab).
+* Because these checks are stricter, an existing Rules file with an unsupported value in one of these columns will stop the Bridge from starting until the value is corrected — this includes older Direction shorthand (e.g. "buy,sell", "b*") and countries not on the WebGUI list. A mixed-case Direction such as "Buy" now takes effect where it previously did nothing.
 ## Version 26.07.15.60 (15 July, 2026)
 ### Changes
 * Restored the feeder log that stopped being written after the recent quote-processing performance update. Each quote sent to MT5 is recorded again (one line per quote) when the bridge's debug logging is enabled; quote delivery to MT5 itself was never affected.
