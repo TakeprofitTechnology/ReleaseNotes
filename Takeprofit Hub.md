@@ -12,6 +12,7 @@
 * Updated the application logo to use the official company logotype on the login page and in the navigation bar.
 * Renamed "Change Price" to "Change Price on Chart" across the UI and validation messages.
 * Added a new Order Rejection alert with count and rate trigger modes. Supports filters and existing email/Telegram notifications.
+* Added Tick Delay and Max Delay settings to Risk Profile rules. Orders can now be delayed until a specified number of new quotes is received, with an optional maximum delay to prevent indefinite waiting.
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
