@@ -1,5 +1,13 @@
 # TPT Social trading
 
+## Version 2026.7.24.613 (27 July, 2026)
+### Changes
+* Restored the "Daily" performance fee period option where it had previously been disabled — it is again selectable in both the admin account settings and the trader's leader profile, and saves correctly on every path.
+* Fixed multi-select dropdowns closing immediately after you selected or deselected a value; the dropdown now stays open until you click away.
+* Fixed the UI breaking at certain browser zoom/resolution levels (e.g. 80%), where charts and tables stretched beyond their containers.
+* Fixed a table that jumped and shifted position while in use.
+* Stop-loss log entries now include the configured stop-loss value alongside the follower's current equity, making it clearer what triggered a stop-loss removal.
+
 ## Version 2026.7.13.361 (15 July, 2026)
 ### Features
 * Added a "Sort" dropdown to the Leaderboard, letting traders sort leaders by ROI (default), number of followers, or registration date. The chosen sort is remembered between visits and works in both table and card views.
