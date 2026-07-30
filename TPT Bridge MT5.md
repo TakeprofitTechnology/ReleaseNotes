@@ -2,6 +2,10 @@
 
 
 
+## Version 26.07.25.79 (27 July, 2026)
+### Changes
+* Fixed the Bridge showing as "Disconnected" in WebGUI and rejecting every command as "Unknown command" while it was actually running and trading normally. This happened when the trade-server connection dropped briefly during startup, leaving the Bridge running with its WebGUI command interface switched off; a startup drop now ends in a clean automatic restart with a fully working interface.
+
 ## Version 26.07.21.46 (22 July, 2026)
 ### Changes
 * The Bridge now validates the Disabled, Direction, AccountColor, and Country columns in the Rules file on load and reload. Invalid values are rejected with a clear error naming the bad value, instead of passing through silently into the UI and logs (a bad Disabled value could previously break the WebGUI Rules tab).
