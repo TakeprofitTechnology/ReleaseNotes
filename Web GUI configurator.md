@@ -1,8 +1,17 @@
 # Web GUI сonfigurator
 
+## Version 2026.7.27.710 (28 July, 2026)
+### Features
+* MT5 Kloshira: The configuration screen moved to the new web interface (General, Rules and Routing tabs). Existing rule and routing files stay fully compatible with the trading gateway.
+* MT5 Kloshira: Columns in the Rules table can now be resized by dragging their right edge, and double-clicking the edge resets a column. A column can't be made narrower than its header (the width used when the value is "*"), and widths are remembered per browser.
+* MT5 Kloshira: Selection boxes in the Rules table (Schedule, Reason, Action, Direction) now take only the space their content needs, long values shorten with "…" in narrow columns, and open dropdowns are as wide as their longest option. Editing a text cell no longer shifts column widths.
+* MT5 Kloshira: The Rules table again shows a read-only default row that hedges (HEDGE) every trade matching none of the rules above. It is hidden as soon as an enabled rule matching everything is added.
+* TPT Bridge MT5: The same content-based box sizing was applied to the Bridge Rules table, including the Account color and Country selection boxes.
+
 ## Version 2026.7.22.693 (22 July, 2026)
 ### Features
 * MT5 Hedge Locker: Added a Web Configurator screen for the Hedge Locker plugin, letting brokers set up and manage rules through the interface instead of editing files by hand. The screen has General and Rules tabs, with per-rule groups & logins, symbols, schedule, and hedge-ratio threshold; Symbols, Groups & logins, and Schedule are required fields.
+* The main page now has a switcher between the card view and a new table view, making the configurator easier to use when there are many instances.
 
 ## Version 2026.7.14.503 (16 July, 2026)
 ### Features
