@@ -1,5 +1,9 @@
 # TPT Social trading
 
+## Version 2026.7.29.550 (29 July, 2026)
+### Changes
+* Fixed Weekly and Monthly performance fees being zeroed instead of paid when the fee settlement type or parameter was changed mid-period — the elapsed part of the period (excluding the current day) is now settled at the moment of the change. This applies to changes made via leader settings, follower fee disabling, and leader/follower bulk rules.
+
 ## Version 2026.7.24.613 (27 July, 2026)
 ### Changes
 * Restored the "Daily" performance fee period option where it had previously been disabled — it is again selectable in both the admin account settings and the trader's leader profile, and saves correctly on every path.
