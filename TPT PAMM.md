@@ -15,6 +15,7 @@
 * Introduced verification badges across leader listings and profiles, along with administrative verification management.
 * Added white-label branding with customizable platform appearance, including logos, colors, login page, and branding profiles.
 * Applied branding consistently across the platform, including the dashboard, login page, navigation, and email templates.
+* Added a centralized real-time Notification Center for Investors, Leaders, and Operators with persistent notification history, read/unread management, and direct navigation to related pages. Profit information is included in settlement notifications rather than as a separate notification.
 
 
 ## Version 2026.7.8.1155  (8 July, 2026)
