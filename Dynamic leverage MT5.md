@@ -1,5 +1,11 @@
 # Dynamic leverage MT5
 
+## Version 26.07.29.86 (30 July, 2026)
+### Changes
+* Fixed a stale Total margin in the "Margin recalculation report" log. The report is now written whenever the account total margin changes, not only when the plugin changes a managed symbol's leverage rate — so a hedge or a close on a symbol the plugin does not re-leverage now produces a fresh report line. A recalculation where nothing changed still writes nothing.
+* Fixed margin-reducing requests being wrongly rejected with a "not enough money" error under Leverage-mode rules when the account held positions on symbols the plugin does not re-leverage (CFD, CFD-Index, Futures). Such symbols are now included in the account's current margin used by the check.
+* Index CFD positions now contribute their tick-based margin to the account total instead of counting as zero.
+* A symbol whose margin cannot be calculated now keeps its last known value in the report instead of dropping to zero or suppressing the whole report.
 ## Version 26.07.16.51 (17 July, 2026)
 ### Changes
 * Fixed an issue where Dynamic Leverage could overwrite a position that was still being filled in parts — rolling its size back and changing its open price and external ID. A new optional setting, UpdatePositionsDelayMs (off by default), makes the plugin wait the configured number of milliseconds before it starts processing a newly opened or closing position, so the fill can finish first.
