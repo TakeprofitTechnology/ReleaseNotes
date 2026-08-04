@@ -6,6 +6,10 @@
 * Fixed margin-reducing requests being wrongly rejected with a "not enough money" error under Leverage-mode rules when the account held positions on symbols the plugin does not re-leverage (CFD, CFD-Index, Futures). Such symbols are now included in the account's current margin used by the check.
 * Index CFD positions now contribute their tick-based margin to the account total instead of counting as zero.
 * A symbol whose margin cannot be calculated now keeps its last known value in the report instead of dropping to zero or suppressing the whole report.
+* The plugin binary now identifies itself properly: description, original file name and company name are filled in, which makes it easier to get antivirus false-positive alerts cleared.
+* Updated the bundled third-party networking, compression, archive and database libraries, and replaced a 13-year-old cryptography library with the one built into Windows. The replacement produces byte-for-byte identical results, so the trading connection is unaffected.
+* The plugin is now built with an additional Windows exploit-protection feature enabled, at a cost of about 1% in file size.
+* Crashes on broker servers can now be investigated: debugging information is now produced and kept internally, and is not shipped to customers.
 ## Version 26.07.16.51 (17 July, 2026)
 ### Changes
 * Fixed an issue where Dynamic Leverage could overwrite a position that was still being filled in parts — rolling its size back and changing its open price and external ID. A new optional setting, UpdatePositionsDelayMs (off by default), makes the plugin wait the configured number of milliseconds before it starts processing a newly opened or closing position, so the fill can finish first.
