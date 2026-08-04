@@ -3,6 +3,9 @@
 ## Version 2026.7.27.370 (27 July, 2026)
 * Added support for creating synthetic liquidity for both standalone synthetic symbols and existing maker-fed symbols. Synthetic and real liquidity can now be combined into a single order book with improved execution routing and a redesigned configuration workflow.
 
+
+
+
 ## Version 2026.7.20.613 (20 July, 2026)
 * Updated TSV import for editable rule tables: imported changes are now applied only after Save.
 * Improved TSV import validation and reliability.
@@ -16,6 +19,7 @@
 * Renamed "Change Price" to "Change Price on Chart" across the UI and validation messages.
 * Added a new Order Rejection alert with count and rate trigger modes. Supports filters and existing email/Telegram notifications.
 * Added Tick Delay and Max Delay settings to Risk Profile rules. Orders can now be delayed until a specified number of new quotes is received, with an optional maximum delay to prevent indefinite waiting.
+* Added a Simulate action to the Risk Profile → Rules tab to preview the impact of rule changes on historical trading.
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
