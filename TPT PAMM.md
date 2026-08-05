@@ -1,6 +1,8 @@
 # TPT PAMM
 
-## Version 2026.7.20.999  (20 July, 2026)
+## Version 2026.7.29.579 (29 July, 2026)
+* Improved live updates for PAMM leader statistics by refreshing the investor count alongside AUM every ~5 seconds after investment changes.
+
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
 * Removed the public /leaders endpoint and fixed a critical database update issue that could cause user data loss.
 * Removed the Leaders navigation button and deprecated the public /leaders endpoint from the login page.
