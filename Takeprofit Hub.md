@@ -1,10 +1,12 @@
 # Takeprofit Hub
 
+
+## Version 2026.7.31.981 (31 July, 2026)
+* Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
+
+
 ## Version 2026.7.27.370 (27 July, 2026)
 * Added support for creating synthetic liquidity for both standalone synthetic symbols and existing maker-fed symbols. Synthetic and real liquidity can now be combined into a single order book with improved execution routing and a redesigned configuration workflow.
-
-
-
 
 ## Version 2026.7.20.613 (20 July, 2026)
 * Updated TSV import for editable rule tables: imported changes are now applied only after Save.
