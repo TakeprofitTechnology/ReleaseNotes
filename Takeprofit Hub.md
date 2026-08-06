@@ -3,6 +3,7 @@
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
+* Added support for DNS hostnames as the server address for Unifeeder takers. In addition to IP addresses, hostnames can now be used for listener configuration, simplifying deployment in dynamic network environments.
 
 
 ## Version 2026.7.27.370 (27 July, 2026)
