@@ -1,5 +1,9 @@
 # Kloshira MT5
 
+## Version 26.08.01.13  (2 August, 2026)
+### Changes
+* Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
+
 ## Version 26.06.02.51 (2 June, 2026)
 ### Changes
 * Unified configuration validation: invalid configs are safely rejected with clear operator guidance, while the gateway continues running on the last valid configuration.
