@@ -5,6 +5,7 @@
 ## Version 26.07.25.79 (27 July, 2026)
 ### Changes
 * Fixed the Bridge showing as "Disconnected" in WebGUI and rejecting every command as "Unknown command" while it was actually running and trading normally. This happened when the trade-server connection dropped briefly during startup, leaving the Bridge running with its WebGUI command interface switched off; a startup drop now ends in a clean automatic restart with a fully working interface.
+* Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
 
 ## Version 26.07.21.46 (22 July, 2026)
 ### Changes
