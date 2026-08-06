@@ -5,6 +5,7 @@
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
 * Added support for DNS hostnames as the server address for Unifeeder takers. In addition to IP addresses, hostnames can now be used for listener configuration, simplifying deployment in dynamic network environments.
 * The Makers column now updates automatically from live market data and no longer displays stale maker information after a failover.
+* Improved execution logs to show why a delayed order was released, including time delay, tick target, or maximum delay reached.
 
 
 ## Version 2026.7.27.370 (27 July, 2026)
