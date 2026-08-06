@@ -6,7 +6,7 @@
 * Added support for DNS hostnames as the server address for Unifeeder takers. In addition to IP addresses, hostnames can now be used for listener configuration, simplifying deployment in dynamic network environments.
 * The Makers column now updates automatically from live market data and no longer displays stale maker information after a failover.
 * Improved execution logs to show why a delayed order was released, including time delay, tick target, or maximum delay reached.
-
+* Improved logging for insufficient margin rejections by recording a snapshot of the account's margin state at the time the order is rejected, simplifying troubleshooting and support.
 
 ## Version 2026.7.27.370 (27 July, 2026)
 * Added support for creating synthetic liquidity for both standalone synthetic symbols and existing maker-fed symbols. Synthetic and real liquidity can now be combined into a single order book with improved execution routing and a redesigned configuration workflow.
