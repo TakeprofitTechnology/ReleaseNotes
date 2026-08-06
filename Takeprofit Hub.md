@@ -9,6 +9,7 @@
 * Improved logging for insufficient margin rejections by recording a snapshot of the account's margin state at the time the order is rejected, simplifying troubleshooting and support.
 * Added validation for the maximum NOP Limit (USD) value to ensure precise processing and prevent invalid configurations from being saved.
 * Improved taker connection status reporting with separate Quotes, Trading, and Dropcopy session states.
+* Improved number formatting across database pages by using a consistent thousands separator for prices, volumes, and conversion rates.
 
 ## Version 2026.7.27.370 (27 July, 2026)
 * Added support for creating synthetic liquidity for both standalone synthetic symbols and existing maker-fed symbols. Synthetic and real liquidity can now be combined into a single order book with improved execution routing and a redesigned configuration workflow.
