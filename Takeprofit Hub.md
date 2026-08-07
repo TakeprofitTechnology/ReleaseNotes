@@ -12,6 +12,7 @@
 * Improved number formatting across database pages by using a consistent thousands separator for prices, volumes, and conversion rates.
 * Improved ClickHouse connection logging by reducing repetitive error messages during connection outages and adding a notification when the connection is restored.
 * Improved the Rules table layout by displaying empty tables at the full available width, providing a consistent appearance with populated tables.
+* Added the Book Price Basis setting to Risk Profile rules, with VWAP and Top of Book pricing options for A-Book and B-Book orders.
 
 ## Version 2026.7.27.370 (27 July, 2026)
 * Added support for creating synthetic liquidity for both standalone synthetic symbols and existing maker-fed symbols. Synthetic and real liquidity can now be combined into a single order book with improved execution routing and a redesigned configuration workflow.
