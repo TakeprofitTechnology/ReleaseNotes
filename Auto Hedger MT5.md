@@ -1,6 +1,11 @@
 # Auto Hedger MT5
 
 
+## Version 26.08.01.14 (4 August, 2026)
+### Changes
+* When a client account's color or group changes so that the account starts matching a hedging rule, the plugin now automatically reconciles its already-open positions and creates the corresponding coverage orders on the omnibus account, as long as the matching rule has RunReconciliation enabled. Previously this required saving the rules or restarting the plugin.
+* Routine account events, such as a position closing, no longer trigger an unnecessary reconciliation pass - the plugin now reacts only when the color or group actually changes.
+
 ## Version 26.06.30.22 (30 June, 2026)
 ### Changes
 * Fixed a bug where a failed REST bind on first load could deadlock the entire MT5 trade server.
