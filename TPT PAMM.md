@@ -3,6 +3,7 @@
 ## Version 2026.8.6.599 (6 August, 2026)
 * Added Leader Profiles with automatically generated performance statistics based on MT5 trading history, including activity before joining PAMM. Profiles include ROI, PnL, AUM, drawdown, volatility, risk score, charts, and other key trading metrics.
 * Improved investor exits by proportionally reducing open positions instead of closing and reopening the entire portfolio, minimizing unnecessary spread and slippage for remaining investors.
+* Fixed investment P/L calculation to ensure investors only receive profits or losses generated after they join the pool, including movements on positions opened before they joined.
 
 ## Version 2026.7.29.579 (29 July, 2026)
 * Improved live updates for PAMM leader statistics by refreshing the investor count alongside AUM every ~5 seconds after investment changes.
