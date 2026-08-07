@@ -1,5 +1,8 @@
 # TPT PAMM
 
+## Version 2026.8.6.599 (6 August, 2026)
+* Added Leader Profiles with automatically generated performance statistics based on MT5 trading history, including activity before joining PAMM. Profiles include ROI, PnL, AUM, drawdown, volatility, risk score, charts, and other key trading metrics.
+
 ## Version 2026.7.29.579 (29 July, 2026)
 * Improved live updates for PAMM leader statistics by refreshing the investor count alongside AUM every ~5 seconds after investment changes.
 
