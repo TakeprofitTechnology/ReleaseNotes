@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.8.6.655 (6 August, 2026)
+### Changes
+* The buttons block and the table header now stay pinned to the screen while scrolling on all configurator pages, so controls and column names stay visible on wide tables such as the Bridge MT5 Execution rules page.
+
 ## Version 2026.7.27.710 (28 July, 2026)
 ### Features
 * MT5 Kloshira: The configuration screen moved to the new web interface (General, Rules and Routing tabs). Existing rule and routing files stay fully compatible with the trading gateway.
