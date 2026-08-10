@@ -26,6 +26,7 @@
 * Improved related reconciliation alerts to show the correct detection time and remain visible until resolved.
 * Simplified manual reconciliation runs by removing the note requirement, allowing administrators to start a check immediately with Run now.
 * Improved reconciliation error details with clear explanations, expected values, and recommended actions for each issue type, making discrepancies easier to investigate and resolve.
+* Improved the experience for disabled investors by hiding all options to start new investments while keeping access to leader information and existing investments.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
