@@ -31,6 +31,10 @@
 * Added white-label branding with customizable platform appearance, including logos, colors, login page, and branding profiles.
 * Applied branding consistently across the platform, including the dashboard, login page, navigation, and email templates.
 * Added a centralized real-time Notification Center for Investors, Leaders, and Operators with persistent notification history, read/unread management, and direct navigation to related pages. Profit information is included in settlement notifications rather than as a separate notification.
+* Added a new broker administration portal for TPT PAMM with key platform KPIs.
+* Added investor management, including search, filtering, balance and investment monitoring, and enable/disable controls.
+* Added leader management with verification status, AUM, investor count, and performance information.
+* Added access to active, pending, and closed investments.
 
 
 ## Version 2026.7.8.1155  (8 July, 2026)
