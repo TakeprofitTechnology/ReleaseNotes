@@ -21,6 +21,8 @@
 * Added pagination to the notification bell, allowing users to browse all unread and historical notifications while keeping the Recent tab limited to the latest 20.
 * Fixed incorrect profit/loss and stop-loss calculations for legacy investments when broker credit is added after the investment starts.
 * Improved handling of unavailable credit data to prevent incorrect calculations and stop-loss triggers.
+* Added an admin Rebaseline action to repair stuck leader accounts and unblock investor payouts, with a preview and confirmation before applying changes.
+* Improved related reconciliation alerts to show the correct detection time and remain visible until resolved.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
