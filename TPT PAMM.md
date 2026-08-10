@@ -9,6 +9,9 @@
 ## Version 2026.7.29.579 (29 July, 2026)
 * Improved live updates for PAMM leader statistics by refreshing the investor count alongside AUM every ~5 seconds after investment changes.
 * Added a requirements checklist to the leader list, showing how many requirements each leader currently meets.
+* Improved investor and leader management, including complete account lists, faster leader history and risk data, correct account names, and server-specific leader visibility.
+* Improved reconciliation and investment processing, preventing false reports and ensuring stopped investments update correctly.
+* Improved MT5 integration and stability, including connection re-creation and reduced unnecessary logging.
 
 ## Version 2026.7.27.1249 (27 July, 2026)
 * Leader avatars are now displayed consistently across the admin console, investor lists, investment portfolio, invest wizard, and leader sidebar.
