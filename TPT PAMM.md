@@ -10,6 +10,8 @@
 * Improved live updates for PAMM leader statistics by refreshing the investor count alongside AUM every ~5 seconds after investment changes.
 * Added a requirements checklist to the leader list, showing how many requirements each leader currently meets.
 
+## Version 2026.7.27.1249 (27 July, 2026)
+* Leader avatars are now displayed consistently across the admin console, investor lists, investment portfolio, invest wizard, and leader sidebar.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
