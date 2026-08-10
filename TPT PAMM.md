@@ -12,6 +12,9 @@
 
 ## Version 2026.7.27.1249 (27 July, 2026)
 * Leader avatars are now displayed consistently across the admin console, investor lists, investment portfolio, invest wizard, and leader sidebar.
+* Added automatic MT5 connection recovery, restoring dropped connections without manual intervention.
+* Improved connection monitoring with regular health and liveness checks and automatic configuration reload after connection settings are changed.
+* Added safe MT5 connection deletion, preventing connections from being removed while they have active investments, pending operations, or financial operations in progress.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
