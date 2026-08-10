@@ -12,6 +12,7 @@
 * Improved investor and leader management, including complete account lists, faster leader history and risk data, correct account names, and server-specific leader visibility.
 * Improved reconciliation and investment processing, preventing false reports and ensuring stopped investments update correctly.
 * Improved MT5 integration and stability, including connection re-creation and reduced unnecessary logging.
+* Prevented adding duplicate MT5 server connections to PAMM, avoiding duplicate accounts and incorrect equity histories.
 
 ## Version 2026.7.27.1249 (27 July, 2026)
 * Leader avatars are now displayed consistently across the admin console, investor lists, investment portfolio, invest wizard, and leader sidebar.
