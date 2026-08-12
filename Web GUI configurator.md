@@ -5,6 +5,7 @@
 * MT5 Kloshira and TPT Bridge MT5: The "Types" column in the Rules table is now a dropdown with the available values, the same way the Reason, Action and Direction columns already work, instead of a free-text field.
 ### Changes
 * Dynamic Leverage MT5: Importing a rules file with duplicate Profile ID values no longer fails with "ProfileID must be unique" — the previous Web GUI import behaviour has been restored, so large rule batches import without editing Profile IDs by hand.
+
 ## Version 2026.8.6.655 (6 August, 2026)
 ### Changes
 * The buttons block and the table header now stay pinned to the screen while scrolling on all configurator pages, so controls and column names stay visible on wide tables such as the Bridge MT5 Execution rules page.
