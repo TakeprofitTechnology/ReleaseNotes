@@ -1,6 +1,5 @@
 # MT4 Takeprofit Bridge
 
-
 ## Version 26.07.25.79 (27 July, 2026)
 ### Features
 * Added a "Position lifetime" filter to the Rules tab in the Web GUI. You can set an exact value or a range in seconds, and the configured action is applied to matching positions on close. The setting is included in Rules import and export.
