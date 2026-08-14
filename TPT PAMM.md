@@ -41,6 +41,7 @@
 * Removed the duplicate Watchlist button from the PAMM user interface.
 * Fixed an issue where the risk amount input in PAMM strategy creation incorrectly displayed a leading "0" while typing.
 * Added automatic status refresh across TPT PAMM pages to ensure connection status updates without requiring a manual page refresh.
+* Investments and Investment History separated: active and processing investments are now shown on the Investments page, while completed investments are available in Investment History.
 
 ## Version 2026.7.16.1111  (16 July, 2026)
 * Added a leader verification system with Pending, Verified, and Featured statuses.
