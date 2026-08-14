@@ -1,5 +1,8 @@
 # Web GUI сonfigurator
 
+## Version 2026.8.12.711 (12 August, 2026)
+* Added the B-book profit (slippage) report to the MT4 Bridge Reports page. The report shows per-symbol market and extra slippage in points and USD, including the total profit.
+
 ## Version 2026.8.7.693 (11 August, 2026)
 ### Features
 * MT5 Kloshira and TPT Bridge MT5: The "Types" column in the Rules table is now a dropdown with the available values, the same way the Reason, Action and Direction columns already work, instead of a free-text field.
