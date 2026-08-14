@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2026.8.11.385 (12 August, 2026)
+### Changes
+* Stop loss now triggers within about a minute of a follower crossing its stop-loss level, instead of waiting up to an hour for the next equity refresh вЂ” balance operations are picked up almost instantly.
+* Stop loss is no longer triggered on outdated equity: if a follower's money has just changed and the fresh figure cannot be read yet, the system waits for an up-to-date value before deciding.
+
 ## Version 2026.7.29.550 (29 July, 2026)
 ### Changes
 * Fixed Weekly and Monthly performance fees being zeroed instead of paid when the fee settlement type or parameter was changed mid-period — the elapsed part of the period (excluding the current day) is now settled at the moment of the change. This applies to changes made via leader settings, follower fee disabling, and leader/follower bulk rules.
