@@ -1,5 +1,9 @@
 # TPT PAMM
 
+
+## Version 2026.8.13.570 (13 August, 2026)
+* Investors now always land on the Overview page after signing in, including first-time users with no investments.
+
 ## Version 2026.8.6.599 (6 August, 2026)
 * Added Leader Profiles with automatically generated performance statistics based on MT5 trading history, including activity before joining PAMM. Profiles include ROI, PnL, AUM, drawdown, volatility, risk score, charts, and other key trading metrics.
 * Improved investor exits by proportionally reducing open positions instead of closing and reopening the entire portfolio, minimizing unnecessary spread and slippage for remaining investors.
