@@ -7,6 +7,8 @@
 * Added Settings → General for configuring Quote History Recording and the outgoing Webhook.
 * Added recorder status, disk usage monitoring, and estimated storage footprint for quote history.
 * Removed the broken “Open maker page” link for Synthetic Liquidity makers in Hub Map while keeping it available for regular makers.
+* Updated commission calculation to charge per million of traded volume instead of executed price, providing more consistent fees for Buy and Sell orders.
+* Commission conversion uses the live base-to-account currency rate and rounds exact ties in the Hub’s favour.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
