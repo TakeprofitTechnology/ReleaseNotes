@@ -16,6 +16,8 @@
 * Moved Settings from the top bar to the left sidebar, where it now appears as the last navigation item for all user roles.
 * Improved sign-in handling: if the trading server cannot be reached, users now see “Sign-in is temporarily unavailable” instead of an incorrect credentials error.
 * Fixed API error responses, recurring resolved accounting issues, and orphaned stop-loss rules that could block new investments.
+* Fixed exits from fully depleted investment pools, so investors can stop an investment without repeated errors.
+* Corrected displayed and recorded losses so they cannot exceed the investment’s current booked principal.
 
 ## Version 2026.7.27.1249 (27 July, 2026)
 * Leader avatars are now displayed consistently across the admin console, investor lists, investment portfolio, invest wizard, and leader sidebar.
