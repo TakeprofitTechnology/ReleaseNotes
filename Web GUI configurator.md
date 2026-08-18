@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.8.17.736 (17 August, 2026)
+* Dynamic Leverage MT5: importing rules now automatically renumbers Profile IDs as 1, 2, 3… in file order, allowing duplicate or missing IDs to import and save correctly.
+* Dynamic Leverage MT5: Custom Profile ID labels are replaced during import; Save still requires unique IDs, while Export remains unaffected.
+
 ## Version 2026.8.12.711 (12 August, 2026)
 * Added the B-book profit (slippage) report to the MT4 Bridge Reports page. The report shows per-symbol market and extra slippage in points and USD, including the total profit.
 
