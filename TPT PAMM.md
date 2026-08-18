@@ -29,6 +29,8 @@
 * Improved the experience for disabled investors by hiding all options to start new investments while keeping access to leader information and existing investments.
 * Added live leader board updates, refreshing AUM, 30-day PnL, investor counts, and charts every 5 seconds without reloading the page.
 * Added the default Takeprofit favicon and improved broker branding so custom favicons display correctly across supported formats.
+* Improved Performance Chart calculations using Time-Weighted Return (TWR) to exclude the impact of deposits and withdrawals.
+* Updated the large performance charts to anchor the Y-axis at zero for a more consistent view.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
