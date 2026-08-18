@@ -1,5 +1,9 @@
 # TL Deposit bonus
 
+## Version 2026.8.13.712 (13 August, 2026)
+Improved TradeLocker operation history processing to handle large histories more reliably by using smaller request windows and automatically narrowing them on timeout.
+Improved error reporting for timeouts and connection failures, making issues easier to diagnose and resolve.
+
 
 ## Version 2026.6.10.511 (10 June, 2026)
 ### Changes
