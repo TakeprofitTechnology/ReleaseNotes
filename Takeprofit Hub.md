@@ -31,6 +31,7 @@
 * Added a new Order Rejection alert with count and rate trigger modes. Supports filters and existing email/Telegram notifications.
 * Added Tick Delay and Max Delay settings to Risk Profile rules. Orders can now be delayed until a specified number of new quotes is received, with an optional maximum delay to prevent indefinite waiting.
 * Added a Simulate action to the Risk Profile → Rules tab to preview the impact of rule changes on historical trading.
+* Delayed orders execute at the worst market price observed during the delay window (“action W” behavior).
 
 ## Version 2026.7.10.325 (10 July, 2026)
 * Fixed commission calculation for closing and reducing trades. Commission is now charged on every fill, ensuring correct account balances and margin validation.
