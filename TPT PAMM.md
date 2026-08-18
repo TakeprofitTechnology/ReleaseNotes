@@ -48,6 +48,7 @@
 * Redesigned Allocation in Investor Analytics as a 100% stacked bar, showing each Leader’s share of active investments.
 * Added proportional segments and a detailed legend with each Leader’s current value and allocation percentage.
 * Admin → Investors now automatically includes MT5 investor accounts matching the configured group mask, even before their first PAMM sign-in.
+* Increased the Investment Wizard width to align it with the Leader profile pages and provide more space for content.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
