@@ -1,5 +1,7 @@
 # Takeprofit Hub
 
+## Version 2026.8.13.1381 (13 August, 2026)
+* Provider-level prices in Orders, Active Orders, and the execution tree now respect the symbol’s configured digits.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
