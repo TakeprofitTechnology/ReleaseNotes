@@ -42,6 +42,8 @@
 * Updated the large performance charts to anchor the Y-axis at zero for a more consistent view.
 * Replaced the horizontal navigation with a persistent left sidebar and a simplified top bar, with role-specific navigation for Investors, Leaders, and Administrators.
 * Updated leader card badges to icon-only and expanded the main content area to use the available screen width.
+* Fixed navigation so Leaders can no longer access the Investor dashboard and are redirected to their own Dashboard.
+* Removed the “All leaders” link from the Leader profile page.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
