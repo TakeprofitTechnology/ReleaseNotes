@@ -6,6 +6,7 @@
 * Removed the flashing “Source is silent” warning from the synthetic symbol Live order book.
 * Added Settings → General for configuring Quote History Recording and the outgoing Webhook.
 * Added recorder status, disk usage monitoring, and estimated storage footprint for quote history.
+* Removed the broken “Open maker page” link for Synthetic Liquidity makers in Hub Map while keeping it available for regular makers.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
