@@ -3,6 +3,7 @@
 ## Version 2026.8.13.1381 (13 August, 2026)
 * Provider-level prices in Orders, Active Orders, and the execution tree now respect the symbol’s configured digits.
 * Increased the price channel rule limit from 5,000 to 65,536, matching the maximum number of core symbols.
+* Removed the flashing “Source is silent” warning from the synthetic symbol Live order book.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
