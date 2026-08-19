@@ -51,6 +51,9 @@
 * Increased the Investment Wizard width to align it with the Leader profile pages and provide more space for content.
 * Improved Leader cards by displaying the full risk score without truncation.
 * Replaced badge emoji with clean line icons for a more consistent look across Leader cards, lists, and profiles.
+* Added Admin.Credentials to manage administrator accounts through appsettings.json, with validation during server start-up.
+* Simplified the configuration file to keep only logging, network/HTTPS, email, and administrator settings.
+* MT5 connections, branding, fees, and other operational settings are managed in the Administration Portal.
 
 ## Version 2026.7.20.999 (20 July, 2026)
 * Merged the public Leaders page into the investor My Dashboard with direct profile access and one-click investing.
