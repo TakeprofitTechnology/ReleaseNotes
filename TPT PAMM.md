@@ -3,6 +3,7 @@
 
 ## Version 2026.8.13.570 (13 August, 2026)
 * Investors now always land on the Overview page after signing in, including first-time users with no investments.
+* PAMM balance operations now include MT5 comments identifying the related investor or leader, making account activity easier to track and reconcile. Existing MT5 deals remain unchanged.
 
 ## Version 2026.8.6.599 (6 August, 2026)
 * Added Leader Profiles with automatically generated performance statistics based on MT5 trading history, including activity before joining PAMM. Profiles include ROI, PnL, AUM, drawdown, volatility, risk score, charts, and other key trading metrics.
