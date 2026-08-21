@@ -3,6 +3,7 @@
 
 ## Version 2026.8.19.1429 (19 August, 2026)
 * Added Range markups to Event Rule Overrides, with separate units for Bid and Ask and full support for saving, displaying, editing, and applying range values.
+* Added a Direction filter to Risk Profile rules, allowing rules to apply to all, BUY, or SELL orders while keeping existing rules unchanged by default.
 
 
 ## Version 2026.8.13.1381 (13 August, 2026)
