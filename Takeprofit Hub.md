@@ -13,6 +13,7 @@
 * Background report generation with a new My reports library, instant downloads, status tracking, and email/Telegram notifications.
 * Fixed partial fill reporting to PrimeXM to prevent repeated order submissions and ensure correct fill price and volume.
 * Improved the external reporting API with stricter validation, consistent paging and response formats, better error handling, EOD snapshot date-range support, and correct 404 handling for non-existent takers.
+* Added symbol suggestions when typing formulas for synthetic symbols, making symbol selection faster and consistent with Market Watch search.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
