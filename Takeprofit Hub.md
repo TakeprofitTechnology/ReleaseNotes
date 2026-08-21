@@ -5,6 +5,9 @@
 * Added Range markups to Event Rule Overrides, with separate units for Bid and Ask and full support for saving, displaying, editing, and applying range values.
 * Added a Direction filter to Risk Profile rules, allowing rules to apply to all, BUY, or SELL orders while keeping existing rules unchanged by default.
 
+## Version 2026.8.18.505 (18 August, 2026)
+* Improved large symbol imports to prevent them from blocking other configuration imports, reducing configuration lock time from minutes to seconds.
+
 
 ## Version 2026.8.13.1381 (13 August, 2026)
 * Provider-level prices in Orders, Active Orders, and the execution tree now respect the symbol’s configured digits.
