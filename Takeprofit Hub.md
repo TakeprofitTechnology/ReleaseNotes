@@ -24,6 +24,7 @@
 * Improved the external reporting API with stricter validation, consistent paging and response formats, better error handling, EOD snapshot date-range support, and correct 404 handling for non-existent takers.
 * Added symbol suggestions when typing formulas for synthetic symbols, making symbol selection faster and consistent with Market Watch search.
 * Added a unified Execution Price Policy editor with three configurable choices: price source, VWAP or Top of Book, and worst or base price for delayed/reversed fills. Existing rules keep their current pricing behavior until changed.
+* Fixed price formatting for consumer-level orders to use the decimal precision configured for the symbol.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
