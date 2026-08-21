@@ -1,5 +1,10 @@
 # Takeprofit Hub
 
+
+## Version 2026.8.19.1429 (19 August, 2026)
+* Added Range markups to Event Rule Overrides, with separate units for Bid and Ask and full support for saving, displaying, editing, and applying range values.
+
+
 ## Version 2026.8.13.1381 (13 August, 2026)
 * Provider-level prices in Orders, Active Orders, and the execution tree now respect the symbol’s configured digits.
 * Increased the price channel rule limit from 5,000 to 65,536, matching the maximum number of core symbols.
