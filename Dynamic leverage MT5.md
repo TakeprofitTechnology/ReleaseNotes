@@ -1,5 +1,10 @@
 # Dynamic leverage MT5
 
+
+## Version 26.08.21.32 (21 August, 2026)
+* Fixed position processing delays during high-volume trading bursts by removing blocking waits and improving parallel processing. 
+* Also improved margin-rate update safety and logging to prevent incorrect repeated margin adjustments.
+
 ## Version 26.07.29.86 (30 July, 2026)
 ### Changes
 * Fixed a stale Total margin in the "Margin recalculation report" log. The report is now written whenever the account total margin changes, not only when the plugin changes a managed symbol's leverage rate — so a hedge or a close on a symbol the plugin does not re-leverage now produces a fresh report line. A recalculation where nothing changed still writes nothing.
