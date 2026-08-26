@@ -6,6 +6,7 @@
 * PAMM balance operations now include MT5 comments identifying the related investor or leader, making account activity easier to track and reconcile. Existing MT5 deals remain unchanged.
 * Added My Accounts, allowing investors and leaders to view their PAMM accounts linked by the same MT5 address.
 * Added support for running the external REST API on a separate configurable port using ApiSettings, with its own Swagger page.
+* Investors and leaders can now sign in using the email associated with their MT5 account and their MT5 password. The new My Accounts page lists other MT5 accounts associated with the same email address.
 
 ## Version 2026.8.6.599 (6 August, 2026)
 * Added Leader Profiles with automatically generated performance statistics based on MT5 trading history, including activity before joining PAMM. Profiles include ROI, PnL, AUM, drawdown, volatility, risk score, charts, and other key trading metrics.
