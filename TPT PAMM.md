@@ -5,6 +5,8 @@
 * Leader deposits and withdrawals no longer distort investor profit, ROI, drawdown, or payouts.
 * Stop-loss checks now verify the latest pool state before closing an investor position.
 * Unknown MT5 transaction types are kept with the leader instead of being distributed to investors.
+* Fixed an issue where trades opened shortly after an investor joined could cause incorrect profit and investment values.
+* The investor’s profit baseline is now recorded immediately when the investment is made.
 
 
 ## Version 2026.8.13.570 (13 August, 2026)
