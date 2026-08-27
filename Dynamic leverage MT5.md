@@ -1,6 +1,13 @@
 # Dynamic leverage MT5
 
 
+## Version 26.08.25.73 (25 August, 2026)
+* Trade requests waiting for execution are now included in margin checks, preventing multiple pending requests from using the same available equity.
+* Risk-reducing trades, such as closing or offsetting existing positions, remain allowed while other requests are pending.
+* Opposite pending requests no longer offset each other until execution is confirmed, which may temporarily reject a hedge against a trade still awaiting execution.
+* Reserved margin is automatically released when the request is completed, rejected, cancelled, or otherwise resolved.
+
+
 ## Version 26.08.21.32 (21 August, 2026)
 * Fixed position processing delays during high-volume trading bursts by removing blocking waits and improving parallel processing. 
 * Also improved margin-rate update safety and logging to prevent incorrect repeated margin adjustments.
