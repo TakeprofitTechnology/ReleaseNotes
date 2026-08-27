@@ -1,5 +1,11 @@
 # TPT PAMM
 
+## Version 2026.8.19.982  (19 August, 2026)
+* Non-trading transactions on the leader’s MT5 account are no longer treated as pool P/L or distributed among investors.
+* Leader deposits and withdrawals no longer distort investor profit, ROI, drawdown, or payouts.
+* Stop-loss checks now verify the latest pool state before closing an investor position.
+* Unknown MT5 transaction types are kept with the leader instead of being distributed to investors.
+
 
 ## Version 2026.8.13.570 (13 August, 2026)
 * Investors now always land on the Overview page after signing in, including first-time users with no investments.
