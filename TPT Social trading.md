@@ -1,5 +1,13 @@
 # TPT Social trading
 
+## Version 2026.8.26.754 (26 August, 2026)
+### Changes
+* Failed create and registration operations no longer leave incomplete records or reserved logins.
+* Connectors now automatically recover accounts missed during initial synchronization.
+* Create and delete operations are more resilient to failures in follow-up processing.
+* API errors now return clear messages with a correlation ID instead of internal .NET errors.
+* Subscription failures now correctly report cases where a fee was already charged.
+
 ## Version 2026.8.11.385 (12 August, 2026)
 ### Changes
 * Stop loss now triggers within about a minute of a follower crossing its stop-loss level, instead of waiting up to an hour for the next equity refresh вЂ” balance operations are picked up almost instantly.
