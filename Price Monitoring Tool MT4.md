@@ -1,6 +1,11 @@
 # Price Monitoring Tool MT4
 
 
+## Version 2026.8.26.435 (26 August, 2026)
+* Deleted MT4 symbols now stop being monitored within one minute, preventing false price alerts.
+* Symbol status changes are now clearly reported in the logs.
+
+
 ## Version 2026.8.19.982 (19 August, 2026)
 * Improved market-hours monitoring with correct handling of closed, overnight, consecutive and overlapping quote sessions, faster schedule updates, and more reliable monitoring and alert recovery.
 
