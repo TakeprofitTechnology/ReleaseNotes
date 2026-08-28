@@ -7,6 +7,9 @@
 * Unknown MT5 transaction types are kept with the leader instead of being distributed to investors.
 * Fixed an issue where trades opened shortly after an investor joined could cause incorrect profit and investment values.
 * The investor’s profit baseline is now recorded immediately when the investment is made.
+* Added installation-level bearer API keys for machine-to-machine integrations.
+* Keys support scopes, optional expiration, immediate revocation, and usage tracking.
+* Money operations now require an Idempotency-Key for safer retries.
 
 
 ## Version 2026.8.13.570 (13 August, 2026)
