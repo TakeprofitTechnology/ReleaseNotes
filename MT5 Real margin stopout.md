@@ -1,5 +1,9 @@
 # MT5 Real margin stopout
 
+
+## Version 26.08.25.53 (26 August, 2026)
+* Accounts in a negative-funds state are now logged only once per occurrence, preventing repeated log entries every second.
+
 ## Version 26.06.03.70 (23 June, 2026)
 ### Changes
 * Configuration is now validated at startup: invalid settings (e.g. unrecognized values for DeductCredit or SwitchToReadOnly, negative LogMaxSize) cause the plugin to refuse to start with a clear FATAL log entry, instead of silently ignoring bad values.
