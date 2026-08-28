@@ -1,5 +1,7 @@
 # Takeprofit Hub
 
+## Version 2026.8.24.405 (24 August, 2026)
+* Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
 
 ## Version 2026.8.19.1429 (19 August, 2026)
 * Added Range markups to Event Rule Overrides, with separate units for Bid and Ask and full support for saving, displaying, editing, and applying range values.
