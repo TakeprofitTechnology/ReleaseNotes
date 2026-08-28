@@ -1,5 +1,9 @@
 # Web GUI сonfigurator
 
+## Version 2026.8.24.898 (24 August, 2026)
+* Reduced repeated server unavailable log messages.
+* Outages and connection recovery are now logged once.
+
 ## Version 2026.8.17.736 (17 August, 2026)
 * Dynamic Leverage MT5: importing rules now automatically renumbers Profile IDs as 1, 2, 3… in file order, allowing duplicate or missing IDs to import and save correctly.
 * Dynamic Leverage MT5: Custom Profile ID labels are replaced during import; Save still requires unique IDs, while Export remains unaffected.
