@@ -3,6 +3,7 @@
 ## Version 2026.8.24.898 (24 August, 2026)
 * Reduced repeated server unavailable log messages.
 * Outages and connection recovery are now logged once.
+* Rules can now be dragged beyond the visible grid area with automatic scrolling.
 
 ## Version 2026.8.17.736 (17 August, 2026)
 * Dynamic Leverage MT5: importing rules now automatically renumbers Profile IDs as 1, 2, 3… in file order, allowing duplicate or missing IDs to import and save correctly.
