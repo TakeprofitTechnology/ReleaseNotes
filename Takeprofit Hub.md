@@ -1,5 +1,7 @@
 # Takeprofit Hub
 
+
+
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
 * Fixed price ladder calculation for Percent and Spreads steps.
@@ -9,6 +11,9 @@
 ## Version 2026.8.19.1429 (19 August, 2026)
 * Added Range markups to Event Rule Overrides, with separate units for Bid and Ask and full support for saving, displaying, editing, and applying range values.
 * Added a Direction filter to Risk Profile rules, allowing rules to apply to all, BUY, or SELL orders while keeping existing rules unchanged by default.
+
+## Version 2026.8.17.335 (17 August, 2026)
+* Added an administrator-only Quote History page for reviewing recorded Bid/Ask history, tick data, and the order book at a selected time.
 
 ## Version 2026.8.18.505 (18 August, 2026)
 * Improved large symbol imports to prevent them from blocking other configuration imports, reducing configuration lock time from minutes to seconds.
