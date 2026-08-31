@@ -7,6 +7,8 @@
 * Create and delete operations are more resilient to failures in follow-up processing.
 * API errors now return clear messages with a correlation ID instead of internal .NET errors.
 * Subscription failures now correctly report cases where a fee was already charged.
+* TradeLocker-specific fields such as WSS address are now shown only when adding or editing a TradeLocker server, and are hidden for other server types.
+* The "WSS address" column is hidden in the servers list when TradeLocker support is disabled in the configuration.
 
 ## Version 2026.8.11.385 (12 August, 2026)
 ### Changes
