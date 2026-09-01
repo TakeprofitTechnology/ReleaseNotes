@@ -1,5 +1,15 @@
 # TPT Social trading
 
+## Version 2026.8.31.1077 (1 September, 2026)
+### Changes
+* Deleting a server now also deletes its bulk rules.
+* The delete-server dialog now shows how many bulk rules will be removed.
+* Reordering bulk rules now reports an error instead of silently doing nothing.
+* A reorder naming a rule that no longer exists is now refused entirely.
+* A failed save no longer leaves the service applying outdated bulk rules.
+* Platform outages during trader or account creation are now reported as "service unavailable" instead of "wrong password". A genuinely wrong password is still reported as before.
+* Refused password checks are now logged with the account number and the platform's error code.
+
 ## Version 2026.8.26.754 (26 August, 2026)
 ### Changes
 * Failed create and registration operations no longer leave incomplete records or reserved logins.
