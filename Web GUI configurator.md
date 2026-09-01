@@ -22,6 +22,15 @@
 ### Changes
 * The buttons block and the table header now stay pinned to the screen while scrolling on all configurator pages, so controls and column names stay visible on wide tables such as the Bridge MT5 Execution rules page.
 
+## Version 2026.8.5.324 (6 August, 2026)
+### Features
+* MT5 EasyMAM: The configuration screen moved to the new web interface, with General, Money managers, Investors and Settings tabs. Existing bookmarked links to the old pages now redirect to the new screen.
+* MT5 EasyMAM: The Money managers and Investors tables now support server-side filtering, sorting and paging, a column chooser and per-row context menus. Selection is kept while paging and filtering, so a batch command applies to everything selected, and "Choose all" picks the whole filtered set.
+* MT5 EasyMAM: Commands (Attach, Detach, profit fee, stop loss, payout, payment interval and Cancel) are now validated before they are sent, so an invalid target is reported immediately instead of showing up on the row minutes later. The status cell also distinguishes a queued command from a refused one.
+* MT5 EasyMAM: The Settings tab is read-only and gated behind the new AllowSettingsView permission, which denies access by default - previously anyone who knew the URL could read the plugin configuration. The tab is temporarily hidden until the related plugin issue is fixed.
+### Changes
+* MT5 EasyMAM: All text filters now match by case-insensitive substring, including Login, Group and Currency.
+* MT5 EasyMAM: Payment interval and profit fee can now only be set for an investor that is already attached, since the plugin cannot store either value for an unattached one.
 ## Version 2026.7.27.710 (28 July, 2026)
 ### Features
 * MT5 Kloshira: The configuration screen moved to the new web interface (General, Rules and Routing tabs). Existing rule and routing files stay fully compatible with the trading gateway.
