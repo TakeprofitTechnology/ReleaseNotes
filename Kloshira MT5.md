@@ -1,5 +1,12 @@
 # Kloshira MT5
 
+## Version 26.08.28.73 (31 August, 2026)
+### Changes
+* Fixed a start-up failure on installations with a large backup folder: the start-up scan no longer reads the backup folders, so the gateway starts normally even where backups have already accumulated.
+* Backup copies of configuration files are now saved with a .bak extension (for example 20260827_101010.Rules.ini.bak), which keeps them out of the file set MetaTrader copies between servers. Uploads to the report server are unaffected.
+* Backup copies older than 30 days are now deleted automatically at start, including those left by earlier versions. The folder holding copies waiting to be uploaded to the report server is not touched.
+* When several connectors share one symbols file, it is now backed up once per operation instead of once per connector, so identical duplicate backups are no longer created.
+* If a settings change is applied but its backup copy cannot be written, the error message now also states that this settings version will not reach the report server.
 ## Version 26.08.01.13  (2 August, 2026)
 ### Changes
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
