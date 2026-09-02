@@ -2,6 +2,7 @@
 
 
 
+
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
 * Fixed price ladder calculation for Percent and Spreads steps.
@@ -36,6 +37,9 @@
 * Added symbol suggestions when typing formulas for synthetic symbols, making symbol selection faster and consistent with Market Watch search.
 * Added a unified Execution Price Policy editor with three configurable choices: price source, VWAP or Top of Book, and worst or base price for delayed/reversed fills. Existing rules keep their current pricing behavior until changed.
 * Fixed price formatting for consumer-level orders to use the decimal precision configured for the symbol.
+* Quote recorder status now updates immediately after changing Quote History Recording settings, without a page reload.
+* The browser now correctly displays “General Settings” tab.
+* Quote History Recording remains enabled by default to ensure historical quote data is available when needed.
 
 ## Version 2026.7.31.981 (31 July, 2026)
 * Added support for the TakeprofitUltra binary protocol, providing lower latency, reduced network traffic, independent Quotes, Trading, and Reporting connections, and improved reliability.
