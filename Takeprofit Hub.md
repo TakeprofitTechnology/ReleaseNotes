@@ -5,6 +5,7 @@
 * Added four new operations to the Formula Editor: Power (xʸ), Nth root (ⁿ√), Natural logarithm (ln), and Exponent (eˣ). The editor also provides clearer validation messages when a formula cannot produce a valid price.
 * Fixed an issue where a FIX taker port could remain occupied after the Hub was stopped, preventing the Bridge from reconnecting.
 * Added logging for expired maker quotes, showing the affected maker, symbol, quote age, and available makers.
+* Improved Quote History symbol search to find all recorded symbols, including on hubs with thousands of symbols.
 
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
