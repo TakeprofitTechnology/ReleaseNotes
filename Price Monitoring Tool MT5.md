@@ -10,6 +10,7 @@
 * A misspelt symbol name in Symbols.csv is now reported clearly instead of a generic error.
 * Symbol changes on the server are picked up within seconds instead of up to a minute.
 * Fewer repeated errors in the log when symbols are missing or unavailable.
+
 ## Version 2026.8.20.784 (20 August, 2026)
 * Improved monitoring for closed days, overnight and overlapping trading sessions.
 * Symbols with no active sessions no longer generate false price alerts.
