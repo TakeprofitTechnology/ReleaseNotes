@@ -8,6 +8,7 @@
 * Improved Quote History symbol search to find all recorded symbols, including on hubs with thousands of symbols.
 * Added a "Calculating..." indicator to the Deals total volume card while the value is being calculated or updated after filter changes.
 * Updated report wording for clarity: "Order report" is now "Generate report", with improved status messages for report generation and empty report lists.
+* Added clearer guidance for the Range spread mode, explaining that it limits the final spread and pointing to Dynamic for changing spreads.
 
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
