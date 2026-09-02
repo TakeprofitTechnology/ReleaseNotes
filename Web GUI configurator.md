@@ -9,6 +9,7 @@
 * If the server stops responding mid-action, the message now says the result is unknown and asks to reload and check, instead of reporting a failure.
 * TPT Bridge MT5: reports can now be cancelled, and stop automatically when switching tabs or products.
 * TPT Bridge MT5: Restart FIX and Send test trade now show which server the action ran on.
+
 ## Version 2026.8.17.736 (17 August, 2026)
 * Dynamic Leverage MT5: importing rules now automatically renumbers Profile IDs as 1, 2, 3… in file order, allowing duplicate or missing IDs to import and save correctly.
 * Dynamic Leverage MT5: Custom Profile ID labels are replaced during import; Save still requires unique IDs, while Export remains unaffected.
