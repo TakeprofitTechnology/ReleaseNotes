@@ -4,7 +4,11 @@
 * Reduced repeated server unavailable log messages.
 * Outages and connection recovery are now logged once.
 * Rules can now be dragged beyond the visible grid area with automatic scrolling.
-
+* Dynamic Leverage MT5, Bonus Cashback, AutoHedger, Hedge Locker MT5, Kloshira MT5 and TPT Bridge MT5: settings are now saved back to the same server they were loaded from. If that server is unavailable, the save is refused and asks to reload the data first, so settings no longer end up on a different server unnoticed.
+* Dynamic Leverage MT5, Bonus Cashback, AutoHedger, Hedge Locker MT5, Kloshira MT5 and TPT Bridge MT5: file import can be cancelled and no longer freezes the rules table when the server does not answer.
+* If the server stops responding mid-action, the message now says the result is unknown and asks to reload and check, instead of reporting a failure.
+* TPT Bridge MT5: reports can now be cancelled, and stop automatically when switching tabs or products.
+* TPT Bridge MT5: Restart FIX and Send test trade now show which server the action ran on.
 ## Version 2026.8.17.736 (17 August, 2026)
 * Dynamic Leverage MT5: importing rules now automatically renumbers Profile IDs as 1, 2, 3… in file order, allowing duplicate or missing IDs to import and save correctly.
 * Dynamic Leverage MT5: Custom Profile ID labels are replaced during import; Save still requires unique IDs, while Export remains unaffected.
