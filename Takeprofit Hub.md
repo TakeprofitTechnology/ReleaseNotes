@@ -3,6 +3,7 @@
 ## Version 2026.8.28.385 (28 August, 2026)
 * Price channel names in the Takers list and Overview are now clickable links for quick navigation to the channel.
 * Added four new operations to the Formula Editor: Power (xʸ), Nth root (ⁿ√), Natural logarithm (ln), and Exponent (eˣ). The editor also provides clearer validation messages when a formula cannot produce a valid price.
+* Fixed an issue where a FIX taker port could remain occupied after the Hub was stopped, preventing the Bridge from reconnecting.
 
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
