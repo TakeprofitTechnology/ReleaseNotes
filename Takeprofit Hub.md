@@ -1,7 +1,7 @@
 # Takeprofit Hub
 
-
-
+## Version 2026.8.28.385 (28 August, 2026)
+* Price channel names in the Takers list and Overview are now clickable links for quick navigation to the channel.
 
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
