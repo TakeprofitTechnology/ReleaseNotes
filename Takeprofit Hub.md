@@ -27,6 +27,7 @@
 
 ## Version 2026.8.17.335 (17 August, 2026)
 * Added an administrator-only Quote History page for reviewing recorded Bid/Ask history, tick data, and the order book at a selected time.
+* Added Dynamic Spread settings for price channels. The published spread can now change automatically based on the current Hub spread using configurable bands with minimum and maximum target values.
 
 ## Version 2026.8.13.1381 (13 August, 2026)
 * Provider-level prices in Orders, Active Orders, and the execution tree now respect the symbol’s configured digits.
