@@ -6,6 +6,7 @@
 * Fixed an issue where a FIX taker port could remain occupied after the Hub was stopped, preventing the Bridge from reconnecting.
 * Added logging for expired maker quotes, showing the affected maker, symbol, quote age, and available makers.
 * Improved Quote History symbol search to find all recorded symbols, including on hubs with thousands of symbols.
+* Added a "Calculating..." indicator to the Deals total volume card while the value is being calculated or updated after filter changes.
 
 ## Version 2026.8.24.405 (24 August, 2026)
 * Fixed the alignment of the Enabled control on the add and edit synthetic symbol screens.
