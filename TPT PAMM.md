@@ -10,6 +10,7 @@
 * Added installation-level bearer API keys for machine-to-machine integrations.
 * Keys support scopes, optional expiration, immediate revocation, and usage tracking.
 * Money operations now require an Idempotency-Key for safer retries.
+* Added API versioning with /api/v1/... routes while keeping existing /api/... routes for backward compatibility.
 
 
 ## Version 2026.8.13.570 (13 August, 2026)
