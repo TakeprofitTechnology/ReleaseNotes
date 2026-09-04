@@ -15,6 +15,7 @@
 * Keys support scopes, optional expiration, immediate revocation, and usage tracking.
 * Money operations now require an Idempotency-Key for safer retries.
 * Added API versioning with /api/v1/... routes while keeping existing /api/... routes for backward compatibility.
+* Fixed Total ROI calculations after a leader account wipe-out. Performance metrics now restart after the wipe-out while keeping the event visible in the leader’s history.
 
 
 ## Version 2026.8.13.570 (13 August, 2026)
