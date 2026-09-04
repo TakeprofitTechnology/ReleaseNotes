@@ -1,5 +1,8 @@
 # Takeprofit Hub
 
+## Version 2026.9.1.337  (1 September, 2026)
+* Improved Synthetic Liquidity validation and support for using symbols that extend their own book as formula sources.
+
 ## Version 2026.8.28.385 (28 August, 2026)
 * Price channel names in the Takers list and Overview are now clickable links for quick navigation to the channel.
 * Added four new operations to the Formula Editor: Power (xʸ), Nth root (ⁿ√), Natural logarithm (ln), and Exponent (eˣ). The editor also provides clearer validation messages when a formula cannot produce a valid price.
