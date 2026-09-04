@@ -1,5 +1,9 @@
 # TPT PAMM
 
+
+## Version 2026.9.2.77  (2 September, 2026)
+* Improved daily return calculations to handle deposits and withdrawals correctly.
+
 ## Version 2026.8.19.982  (19 August, 2026)
 * Non-trading transactions on the leader’s MT5 account are no longer treated as pool P/L or distributed among investors.
 * Leader deposits and withdrawals no longer distort investor profit, ROI, drawdown, or payouts.
