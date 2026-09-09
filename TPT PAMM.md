@@ -7,6 +7,10 @@
 
 ## Version 2026.8.27.930 (27 August, 2026)
 * Simplified the My Accounts page to show only the signed-in account and removed address group details.
+* Fixed display of names containing symbols, parentheses, non-Latin characters, and emoji across PAMM.
+* Previously mangled account names now self-repair on the next account read.
+* Fixed initials/avatar rendering for emoji and flags, including fallback support for older browsers.
+* Added startup validation to prevent administrator names containing @, which would make sign-in impossible.
 
 ## Version 2026.8.19.982  (19 August, 2026)
 * Non-trading transactions on the leader’s MT5 account are no longer treated as pool P/L or distributed among investors.
