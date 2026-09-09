@@ -11,6 +11,9 @@
 * Previously mangled account names now self-repair on the next account read.
 * Fixed initials/avatar rendering for emoji and flags, including fallback support for older browsers.
 * Added startup validation to prevent administrator names containing @, which would make sign-in impossible.
+* Added five configurable PAMM leader fees: Performance, Management, Entry, Deposit, and Withdrawal.
+* Added broker/leader fee sharing, scheduled fee transfers, and a Fee Income Report.
+* Investors can now review applicable fees before investing or withdrawing.
 
 ## Version 2026.8.19.982  (19 August, 2026)
 * Non-trading transactions on the leader’s MT5 account are no longer treated as pool P/L or distributed among investors.
