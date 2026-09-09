@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+## Version 2026.9.2.819 (2 September, 2026)
+* Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
+
+
 ## Version 2026.9.1.337  (1 September, 2026)
 * Improved Synthetic Liquidity validation and support for using symbols that extend their own book as formula sources.
 
