@@ -4,6 +4,8 @@
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
 * Improved Simulate to include execution markup and slippage in projected broker P&L.
 * Simulation results now show separate changes from routing, execution markup, and slippage settings.
+* Added Slack as a notification destination for alerts, NOP limits, and reports.
+* Added Slack channel configuration in the Hub GUI and NOP import/export.
 
 
 ## Version 2026.9.1.337  (1 September, 2026)
