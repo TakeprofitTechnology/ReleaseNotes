@@ -2,6 +2,8 @@
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
+* Improved Simulate to include execution markup and slippage in projected broker P&L.
+* Simulation results now show separate changes from routing, execution markup, and slippage settings.
 
 
 ## Version 2026.9.1.337  (1 September, 2026)
