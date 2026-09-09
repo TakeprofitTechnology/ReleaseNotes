@@ -7,6 +7,7 @@
 * Added Slack as a notification destination for alerts, NOP limits, and reports.
 * Fixed Min Spread rules to preserve full Ask market depth instead of collapsing it to the top level.
 * Large B-Book orders now use the full adjusted Ask ladder for execution.
+* Improved Synthetic Liquidity symbol search to find symbols without typing separators, matching Market Watch behavior.
 
 
 ## Version 2026.9.1.337  (1 September, 2026)
