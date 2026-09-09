@@ -14,6 +14,9 @@
 * Added five configurable PAMM leader fees: Performance, Management, Entry, Deposit, and Withdrawal.
 * Added broker/leader fee sharing, scheduled fee transfers, and a Fee Income Report.
 * Investors can now review applicable fees before investing or withdrawing.
+* Added leader notifications when an investor joins or leaves an investment, with a new Investor activity setting.
+* Added a margin level warning when an investor exit causes the leader’s margin level to fall below 500%.
+* Improved notification visibility by keeping internal operator alerts hidden from leaders.
 
 ## Version 2026.8.19.982  (19 August, 2026)
 * Non-trading transactions on the leader’s MT5 account are no longer treated as pool P/L or distributed among investors.
