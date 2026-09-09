@@ -5,7 +5,8 @@
 * Improved Simulate to include execution markup and slippage in projected broker P&L.
 * Simulation results now show separate changes from routing, execution markup, and slippage settings.
 * Added Slack as a notification destination for alerts, NOP limits, and reports.
-* Added Slack channel configuration in the Hub GUI and NOP import/export.
+* Fixed Min Spread rules to preserve full Ask market depth instead of collapsing it to the top level.
+* Large B-Book orders now use the full adjusted Ask ladder for execution.
 
 
 ## Version 2026.9.1.337  (1 September, 2026)
