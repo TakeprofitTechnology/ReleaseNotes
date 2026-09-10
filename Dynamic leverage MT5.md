@@ -1,6 +1,13 @@
 # Dynamic leverage MT5
 
 
+## Version 26.09.08.41 (9 September, 2026)
+### Changes
+* Volume limits (AccountExposureLimit, ExposureLimit) now count requests that have been accepted but not yet executed, so a burst of simultaneous orders can no longer take an account past its cap. This completes the same fix made for margin checks in 26.08.25.73.
+* Rejections by the per-symbol limit are now labelled "Symbol Exposure Limit" in the log, and volume awaiting execution is shown separately from the volume of open positions.
+* Fixed an edit to a leverage tier being silently ignored when the new threshold differed from the old one only past the sixth digit.
+* Numbers in report lines no longer carry trailing zeros — 1000.00 prints as 1000, 0.50 as 0.5. The values are unchanged, but scripts that parse the exact text of these reports may need updating. Prices keep their trailing zeros.
+
 ## Version 26.08.25.73 (25 August, 2026)
 * Trade requests waiting for execution are now included in margin checks, preventing multiple pending requests from using the same available equity.
 * Risk-reducing trades, such as closing or offsetting existing positions, remain allowed while other requests are pending.
