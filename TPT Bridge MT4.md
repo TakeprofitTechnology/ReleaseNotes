@@ -2,9 +2,9 @@
 
 ## Version 26.09.04.89 (10 September, 2026)
 ### Changes
-* Backups now include every per-LP session file used by an aggregating setup, at any nesting depth, so the stored configuration set can fully restore the Bridge. Passwords and the RawData field are masked in the stored copies.
+* Backups now include every per-LP session file used by an aggregating setup, at any nesting depth, so the stored configuration set can fully restore the Bridge. Passwords and the RawData field are masked in the stored copies. 
 * The main sessions file is now stored in the local backup folder as well, not only in the folder uploaded to the Utilities server, and the session files of the four incoming FIX endpoints are now backed up too.
-* A sessions file that fails to load is now backed up before it is read, so the copy needed to investigate a failed start is available.
+* A sessions file that fails to load is now backed up before it is read, so the copy needed to investigate a failed start is available. Acceptors sessions are also backed up.
 * Referenced FIX dictionary files are now checked each time a configuration is applied — at server start and on a later push. A missing dictionary file used to disable only the affected endpoint; it is now a configuration error, so the Bridge refuses to start or the push is rejected and the previous working configuration stays live. Verify that every referenced dictionary file exists before upgrading.
 * The sessions file is now backed up when the connection is built rather than at every start, so an installation with no connection configured stores no sessions copy.
 
