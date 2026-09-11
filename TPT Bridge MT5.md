@@ -1,6 +1,11 @@
 # Takeprofit Bridge MT5
 
-
+## Version 26.09.04.89 (10 September, 2026)
+### Changes
+* Backups now include every per-LP session file used by an aggregating setup (API=AGGREGATOR), at any nesting depth, so the stored configuration set can fully restore the Bridge. Passwords and the RawData field are masked in the stored copies.
+* A sessions file that fails to load is now backed up before it is read, so the copy needed to investigate a failed start is available.
+* The check on referenced FIX dictionary files now covers per-LP session files, not just the main one. Note: a referenced dictionary file that is missing now blocks start-up even where the FIX engine would never open it — verify that every referenced dictionary file exists before upgrading.
+* A section that switches dictionary use off no longer requires its referenced file to exist, including when the switch is inherited from the defaults block, and a referenced path containing a folder is now resolved the way the FIX engine resolves it.
 
 ## Version 26.08.28.73 (31 August, 2026)
 ### Changes
