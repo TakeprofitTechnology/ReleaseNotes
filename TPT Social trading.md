@@ -28,6 +28,7 @@
 * Followers are now told when a missing or unavailable symbol blocks copying, instead of the trade silently never arriving. The notice clears once the copy opens or the leader closes the position.
 * The delete-server dialog now states how many symbol mapping rules the deletion will remove and how many will keep working without that server.
 * The "copying problems" indicator is now per strategy and goes out once that strategy has no remaining errors, instead of staying lit after the problem was resolved.
+
 ## Version 2026.8.11.385 (12 August, 2026)
 ### Changes
 * Stop loss now triggers within about a minute of a follower crossing its stop-loss level, instead of waiting up to an hour for the next equity refresh вЂ” balance operations are picked up almost instantly.
