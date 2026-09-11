@@ -20,6 +20,14 @@
 * TradeLocker-specific fields such as WSS address are now shown only when adding or editing a TradeLocker server, and are hidden for other server types.
 * The "WSS address" column is hidden in the servers list when TradeLocker support is disabled in the configuration.
 
+## Version 2026.8.19.934 (19 August, 2026)
+### Features
+* Added symbol mapping: an admin can now map a leader's symbol to a differently named follower symbol (for example EURUSD → EURUSD.x) through the new "Symbol mapping" button on the Servers page. Rules are scoped by server and group/login on both sides, ordered by priority, and can be disabled instead of deleted.
+* Copies that are already open keep the symbol they were opened with — adding or editing a rule affects only new copies.
+### Changes
+* Followers are now told when a missing or unavailable symbol blocks copying, instead of the trade silently never arriving. The notice clears once the copy opens or the leader closes the position.
+* The delete-server dialog now states how many symbol mapping rules the deletion will remove and how many will keep working without that server.
+* The "copying problems" indicator is now per strategy and goes out once that strategy has no remaining errors, instead of staying lit after the problem was resolved.
 ## Version 2026.8.11.385 (12 August, 2026)
 ### Changes
 * Stop loss now triggers within about a minute of a follower crossing its stop-loss level, instead of waiting up to an hour for the next equity refresh вЂ” balance operations are picked up almost instantly.
