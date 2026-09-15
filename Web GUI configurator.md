@@ -1,5 +1,15 @@
 # Web GUI сonfigurator
 
+## Version 2026.9.10.711 (15 September, 2026)
+### Features
+* Dynamic Leverage MT5: added a tooltip to the Margin Rules table reminding that limits are set in millions when Volume Type is Exposure.
+### Changes
+* The "Data source server" line is back in the product header and now also covers Kloshira MT5, AutoHedger, Dynamic Leverage MT5, Bonus Cashback and Hedge Locker MT5. Green "(primary)" or red "(backup)" shows where the data came from.
+* Each tab now shows the server its own data was loaded from, instead of one shared value for the whole product. Products with a single server show the line without the primary/backup label.
+* A product configured by DNS name is no longer marked "(primary)" when it has no backup server.
+* The Tools page no longer shows this line REPLDASH the message after Restart FIX or Send test trade already names the server the command ran on.
+* Dynamic Leverage MT5, TPT Bridge MT5 and Kloshira MT5: column titles now stay visible in all tables while scrolling.
+
 ## Version 2026.8.24.898 (24 August, 2026)
 * Reduced repeated server unavailable log messages.
 * Outages and connection recovery are now logged once.
