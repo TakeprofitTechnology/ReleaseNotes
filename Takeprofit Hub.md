@@ -10,6 +10,7 @@
 * Updated LMAX symbol mapping to use standard LMAX symbols such as XAU/USD and GER30. Symbol matching is now case-insensitive, and startup logs help identify old configurations that need updating.
 * Updated the bundled LMAX instruments file to the latest version, including new instrument details.
 * Restored Volume Factor for maker symbols.
+* Fixed rare duplicate position counting in Simulate, which could temporarily cause incorrect P&L, commission, and markup figures during data archiving.
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
