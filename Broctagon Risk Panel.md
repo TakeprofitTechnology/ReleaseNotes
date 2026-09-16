@@ -1,5 +1,8 @@
 # Broctagon Risk Panel
 
+## Version 2026.9.9.618 (9 September, 2026)
+* Added equity comparison to the Balances page, showing MT5 and Hub equity and highlighting differences of 10% or more.
+
 ## Version 2026.9.7.760 (8 September, 2026)
 ### Changes
 * The panel can now collect data from several OneZero databases at once. The single `DatabaseConnectionId` setting in the `OneZeroSettings` section has been replaced with the `DatabaseConnectionIds` list, for example: `"DatabaseConnectionIds": [ 4275, 8374 ]`.
