@@ -4,6 +4,7 @@
 
 ## Version 2026.9.9.1029 (9 September, 2026)
 * Added TickPrime, a new quotes-only FIX 4.4 price feed. It supports authenticated top-of-book market data subscriptions with no order execution.
+* Fixed incorrect point values in Slippage and Deals reports when price-channel and core-symbol digits differ. Reports now use quote-stream digits consistent with live pricing.
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
