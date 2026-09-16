@@ -6,6 +6,7 @@
 * Added TickPrime, a new quotes-only FIX 4.4 price feed. It supports authenticated top-of-book market data subscriptions with no order execution.
 * Fixed incorrect point values in Slippage and Deals reports when price-channel and core-symbol digits differ. Reports now use quote-stream digits consistent with live pricing.
 * Updated access rules for Deals, Orders, and Active Orders. Account Managers now only see the data and filters available to their role, and traders are redirected from pages they should not access.
+* Fixed USD values in Simulate for non-USD accounts. Currency conversion now uses live Core rates, so the total, USD metrics, and chart show the correct converted amounts.
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
