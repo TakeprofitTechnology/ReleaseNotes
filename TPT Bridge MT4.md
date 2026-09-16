@@ -1,6 +1,10 @@
 # MT4 Takeprofit Bridge
 
-## Version 26.09.04.89 (10 September, 2026)
+## Version 26.09.14.45 (9 September, 2026)
+### Changes
+* Added Centroid as a new LP connector for TPT Bridge MT5 and MT4, supporting FIX 4.4 market data and order execution.
+
+## Version 26.09.04.89 (4 September, 2026)
 ### Changes
 * Backups now include every per-LP session file used by an aggregating setup, at any nesting depth, so the stored configuration set can fully restore the Bridge. Passwords and the RawData field are masked in the stored copies. 
 * The main sessions file is now stored in the local backup folder as well, not only in the folder uploaded to the Utilities server, and the session files of the four incoming FIX endpoints are now backed up too.
