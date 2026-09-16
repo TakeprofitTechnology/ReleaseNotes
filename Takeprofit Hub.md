@@ -8,6 +8,7 @@
 * Updated access rules for Deals, Orders, and Active Orders. Account Managers now only see the data and filters available to their role, and traders are redirected from pages they should not access.
 * Fixed USD values in Simulate for non-USD accounts. Currency conversion now uses live Core rates, so the total, USD metrics, and chart show the correct converted amounts.
 * Updated LMAX symbol mapping to use standard LMAX symbols such as XAU/USD and GER30. Symbol matching is now case-insensitive, and startup logs help identify old configurations that need updating.
+* Updated the bundled LMAX instruments file to the latest version, including new instrument details.
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
