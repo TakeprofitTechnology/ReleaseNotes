@@ -1,5 +1,17 @@
 # Takeprofit Bridge MT5
 
+## Version 26.09.17.47 (17 September, 2026)
+### Changes
+* A symbol list sent in the wrong format is now rejected with an error, and the existing symbol map is kept. Before, the request was accepted and the whole MT5 → LP symbol map was replaced with an empty one, both in memory and in the connector's symbols file.
+* A symbol row with a missing or blank name is now rejected, and the error says which row is wrong. Before, such rows were dropped without any message and the map was saved without them.
+* Saving rules or routing without the file content now fails with a clear error and the stored file is left untouched. Before, it was treated as an empty file and could erase the routing table. Sending empty content to routing still clears all routes, as before.
+* A routing line with too few columns is now rejected, with the bad lines named in the error. Nothing is saved and the running routing stays in place. Before, such a line was accepted with all its values shifted one column to the left, and orders matching it got no answer.
+* A rules line whose number of columns does not match the header is now rejected the same way. Before, it was saved with the values shifted — a rule meant to reject could end up hedging instead — and a line with one column too many quietly lost its last value. Lines ending with ";" still load, and older configurator versions can still save their rules.
+* A rules file sent without the header line is now rejected, and the error lists the expected column names. Before, the first rule was taken as the header, the rule set loaded empty, and every trade fell through to hedging.
+* An empty rules file, or a header that lists the same column twice, is now rejected as well. A header with no rules under it — what the configurator sends to delete all rules — still works as before.
+* An unknown column name in the rules header is still accepted, but is now written to the log. Before, a misspelt column was ignored silently and stayed at its default in every rule.
+* These checks now also run when the file is saved, not only at start-up, so a saved file can no longer prevent the Bridge from starting after the next restart.
+
 ## Version 26.09.04.89 (10 September, 2026)
 ### Changes
 * Backups now include every per-LP session file used by an aggregating setup (API=AGGREGATOR), at any nesting depth, so the stored configuration set can fully restore the Bridge. Passwords and the RawData field are masked in the stored copies.
