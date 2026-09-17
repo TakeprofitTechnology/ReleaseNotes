@@ -1,5 +1,15 @@
 # TPT Social trading
 
+## Version 2026.9.15.1043 (17 September, 2026)
+### Changes
+* Editing or removing a server connection now takes effect right away. Before, the old connection kept working for a few more seconds, and the balances, equity, deals and copy errors it sent in that time were still applied to the server's accounts. The accounts are now rebuilt from the new connection instead.
+* Balance and equity readings taken through the old connection are no longer used. Before, an outdated figure could be treated as the latest one — the stop-loss check could act on it. The PnL display now keeps its previous values until the new connection reports.
+* The following fee is now charged up to the unfollow day only. Before, if the final settlement ran on a later day (for example an unfollow on Friday evening settled on Monday), the follower was also charged for the days in between.
+* Unfollowing on the same day the strategy was created is still free of following fee, even when the settlement runs on a later day.
+* Turning leader fees off after an unfollow no longer cancels that unfollow's settlement.
+* Removed the tooltips in the side panel of the admin, follower and leader panels — they repeated what was already shown on the screen.
+* Added spacing between the table and the button on the Symbol Mappings and Bulk Rules screens, where the button was stuck to the table.
+
 ## Version 2026.8.31.1077 (1 September, 2026)
 ### Changes
 * Deleting a server now also deletes its bulk rules.
