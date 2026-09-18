@@ -1,6 +1,9 @@
 # TPT Social trading
 
 ## Version 2026.9.15.1043 (17 September, 2026)
+### Features
+* The Servers table now shows why a server is DISCONNECTED — hover the "i" icon next to the badge to see the reason.
+* `GET /api/v1/servers` and `GET /api/v1/servers/{id}/status` now return a `disconnectReason` field.
 ### Changes
 * Editing or removing a server connection now takes effect right away. Before, the old connection kept working for a few more seconds, and the balances, equity, deals and copy errors it sent in that time were still applied to the server's accounts. The accounts are now rebuilt from the new connection instead.
 * Balance and equity readings taken through the old connection are no longer used. Before, an outdated figure could be treated as the latest one — the stop-loss check could act on it. The PnL display now keeps its previous values until the new connection reports.
@@ -9,6 +12,16 @@
 * Turning leader fees off after an unfollow no longer cancels that unfollow's settlement.
 * Removed the tooltips in the side panel of the admin, follower and leader panels — they repeated what was already shown on the screen.
 * Added spacing between the table and the button on the Symbol Mappings and Bulk Rules screens, where the button was stuck to the table.
+* The manager login and password are now checked with the broker before the server is saved. A wrong one is refused right away instead of leaving a server that never connects.
+* On MT5 the error says what is wrong: not a manager account, account disabled, API access off, or wrong login or password.
+* On MT4 the error lists what to check — address, login, password — because the platform reports all failures the same way.
+* The manager login must now be a positive whole number. Text, zero and negative values are refused on create and edit.
+* Saving a server now takes a few seconds. If the broker does not answer within 25 seconds, the save is refused.
+* Changing the address, platform, login or password re-checks the credentials. Renaming a server does not.
+* A server can no longer be saved with an address that nothing answers on.
+* A connector no longer starts if the manager is missing a required right. The error names the missing rights and where to grant them, and the server connects on its own once they are granted.
+* If the optional right for copying the leader's price is missing, the log now shows a warning. Copying works as before.
+* Connector logs now show which manager login the server connects as.
 
 ## Version 2026.8.31.1077 (1 September, 2026)
 ### Changes
@@ -825,3 +838,4 @@
 * Added autorization page in GUI;
 * Added editing and deleting client accounts;
 * Added page for changing account password in GUI.
+
