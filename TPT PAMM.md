@@ -1,9 +1,10 @@
 # TPT PAMM
 
+## Version 2026.9.14.1003   (14 September, 2026)
+* Fixed an issue where Performance Timeline and Portfolio Growth started one day earlier than the actual start date. The first data point now shows the correct date, and reconstructed history no longer misses a day.
 
 ## Version 2026.9.2.77  (2 September, 2026)
 * Improved daily return calculations to handle deposits and withdrawals correctly.
-
 
 ## Version 2026.8.27.930 (27 August, 2026)
 * Simplified the My Accounts page to show only the signed-in account and removed address group details.
