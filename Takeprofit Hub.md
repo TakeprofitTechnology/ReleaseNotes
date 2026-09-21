@@ -3,6 +3,8 @@
 
 ## Version 2026.9.16.756 (16 September, 2026)
 * Fixed an issue with Level Retention on Synthetic Liquidity symbols where price levels could appear in the wrong order after a source price change.
+* Fixed an issue where Order Rejection alerts did not count orders sent manually from the Hub interface.
+* Fixed resting orders being reported as cancelled instead of rejected, ensuring correct alerts and rejection statistics.
 
 ## Version 2026.9.9.1029 (9 September, 2026)
 * Added TickPrime, a new quotes-only FIX 4.4 price feed. It supports authenticated top-of-book market data subscriptions with no order execution.
