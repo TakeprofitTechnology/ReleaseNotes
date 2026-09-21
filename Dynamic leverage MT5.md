@@ -1,6 +1,20 @@
 # Dynamic leverage MT5
 
 
+## Version 26.09.17.51 (21 September, 2026)
+### Features
+* New parameter RecalcOnRuleEnd (true/false, default false). When it is on, margin is recalculated within a few seconds after a rule's schedule window closes.
+* RecalcOnRuleEnd works independently from ForceRecalculation — either one, both, or neither can be on.
+* Positions left without any matching rule keep the expired rule's margin rate. To return them to the normal rate, add a rule for the same accounts with no schedule and "Update existing positions" turned on.
+
+### Changes
+* Fixed margin reservations that were not released under heavy load. While a reservation was stuck, new orders were rejected with "not enough money" for up to an hour, even though the account had free margin.
+* A reservation is now also released when the position is closed, and every 30 seconds the plugin asks the server whether the order still exists and releases the reservation if it is gone.
+* The maximum lifetime of a waiting reservation is reduced from 1 hour to 5 minutes.
+* If an order is still live but has not executed within 5 minutes, the log now says so instead of reporting a missed event.
+* The log line for a cleared reservation now also names the symbol, volume, request type and the time the reservation was created.
+* Stranded reservations are now written as one log record per sweep instead of one line each. Log filters and Grafana rules built on the phrase "Purged stale in-flight entry" need to be updated.
+
 ## Version 26.09.08.41 (9 September, 2026)
 ### Changes
 * Volume limits (AccountExposureLimit, ExposureLimit) now count requests that have been accepted but not yet executed, so a burst of simultaneous orders can no longer take an account past its cap. This completes the same fix made for margin checks in 26.08.25.73.
