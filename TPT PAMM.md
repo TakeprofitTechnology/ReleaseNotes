@@ -1,10 +1,13 @@
 # TPT PAMM
 
-## Version 2026.9.14.1003   (14 September, 2026)
+## Version 2026.9.16.995 (16 September, 2026)
+* Fixed incorrect rounding for currencies without decimal units, such as JPY, which could cause reconciliation mismatches and incorrect displayed amounts.
+
+## Version 2026.9.14.1003 (14 September, 2026)
 * Fixed an issue where Performance Timeline and Portfolio Growth started one day earlier than the actual start date. The first data point now shows the correct date, and reconstructed history no longer misses a day.
 * Fixed an issue where investors could see leaders whose MT5 groups were no longer included in the PAMM leader mask. The leader board and watchlist now show only available leaders and update immediately after leader mask changes.
 
-## Version 2026.9.2.77  (2 September, 2026)
+## Version 2026.9.2.77 (2 September, 2026)
 * Improved daily return calculations to handle deposits and withdrawals correctly.
 
 ## Version 2026.8.27.930 (27 August, 2026)
