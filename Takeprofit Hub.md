@@ -17,6 +17,7 @@
 * Restored Volume Factor for maker symbols.
 * Fixed rare duplicate position counting in Simulate, which could temporarily cause incorrect P&L, commission, and markup figures during data archiving.
 * Improved SqliteRsyncService reliability by preventing stuck SSH sessions from stopping replication and ensuring automatic recovery after connection failures.
+* Added GET /accounts to return the live balance, credit, and equity of all margin accounts available to the user in a single request.
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
