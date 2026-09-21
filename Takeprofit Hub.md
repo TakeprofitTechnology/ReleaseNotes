@@ -1,6 +1,8 @@
 # Takeprofit Hub
 
 
+## Version 2026.9.16.756 (16 September, 2026)
+* Fixed an issue with Level Retention on Synthetic Liquidity symbols where price levels could appear in the wrong order after a source price change.
 
 ## Version 2026.9.9.1029 (9 September, 2026)
 * Added TickPrime, a new quotes-only FIX 4.4 price feed. It supports authenticated top-of-book market data subscriptions with no order execution.
