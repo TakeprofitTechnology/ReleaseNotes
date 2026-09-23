@@ -3,6 +3,7 @@
 ## Version 2026.9.16.995 (16 September, 2026)
 * Fixed incorrect rounding for currencies without decimal units, such as JPY, which could cause reconciliation mismatches and incorrect displayed amounts.
 * Fixed percentage markup reversal to use the exact inverse calculation, eliminating small price discrepancies on limit orders. Exact-limit fills now match the client’s limit price precisely on both buy and sell sides. The fix applies to price-channel markups, maker modifiers, and adjustments.
+* Updated risk-profile Simulate replay to handle positions with an unknown opening order type explicitly instead of treating them as limit orders. Such positions are now excluded from projected P&L.
 
 ## Version 2026.9.14.1003 (14 September, 2026)
 * Fixed an issue where Performance Timeline and Portfolio Growth started one day earlier than the actual start date. The first data point now shows the correct date, and reconstructed history no longer misses a day.
