@@ -1,5 +1,18 @@
 # TPT Social trading
 
+## Version 2026.9.18.994 (22 September, 2026)
+### Features
+* Followers now start on a new Overview page, which sits above "My positions" in the sidebar. Leaders do not have it.
+* The page shows one row per leader you follow, with the leader's order and your own copy of it as they happen. If a copy could not be placed, the row says why.
+* The header shows four figures for the day: copied P&L, copied volume, fees and the number of leaders you follow.
+* Today's fees are now shown as they accrue, in your own currency — in the header and for each leader separately.
+* The board can be sorted by ROI, followers, your P&L today, leader activity or your fees. Click a leader to open a card with their details and your settings on them.
+* A six-step tour on the page explains how to read it.
+### Changes
+* Editing an account, adding, editing or deleting a strategy, and editing a server no longer report a failure for a change that was actually saved.
+* If the fee bookkeeping behind such a change fails, the log now names the money that has to be settled by hand.
+* An account whose trade history failed to process now recovers on its own in about 30 seconds, instead of standing still until the server is reconnected.
+* A connected server left without any account data is now reconnected automatically, up to three times, after which it logs an error. Tradelocker servers are excluded.
 ## Version 2026.9.15.1043 (17 September, 2026)
 ### Features
 * The Servers table now shows why a server is DISCONNECTED — hover the "i" icon next to the badge to see the reason.
