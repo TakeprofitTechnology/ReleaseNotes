@@ -14,6 +14,8 @@
 * If an order is still live but has not executed within 5 minutes, the log now says so instead of reporting a missed event.
 * The log line for a cleared reservation now also names the symbol, volume, request type and the time the reservation was created.
 * Stranded reservations are now written as one log record per sweep instead of one line each. Log filters and Grafana rules built on the phrase "Purged stale in-flight entry" need to be updated.
+* The per-symbol volume limit is now called SymbolExposureLimit in the log, in rule validation messages, in the column header the plugin writes and in the shipped Rules.ini template.
+* The parameter key in admin mode is unchanged - it stays ExposureLimit.
 
 ## Version 26.09.08.41 (9 September, 2026)
 ### Changes
