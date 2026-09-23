@@ -5,6 +5,7 @@
 * Fixed percentage markup reversal to use the exact inverse calculation, eliminating small price discrepancies on limit orders. Exact-limit fills now match the client’s limit price precisely on both buy and sell sides. The fix applies to price-channel markups, maker modifiers, and adjustments.
 * Updated risk-profile Simulate replay to handle positions with an unknown opening order type explicitly instead of treating them as limit orders. Such positions are now excluded from projected P&L.
 * Reduced redundant quote updates by sending quotes only when the aggregated book actually changes.
+* Added the Allow margin check option to account settings, allowing the pre-trade margin check to be disabled for selected accounts.
 
 ## Version 2026.9.14.1003 (14 September, 2026)
 * Fixed an issue where Performance Timeline and Portfolio Growth started one day earlier than the actual start date. The first data point now shows the correct date, and reconstructed history no longer misses a day.
