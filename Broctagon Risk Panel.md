@@ -1,5 +1,8 @@
 # Broctagon Risk Panel
 
+## Version 2026.9.22.641 (22 September, 2026)
+### Changes
+* Fixed table data overlapping the header on the Positions page.
 ## Version 2026.9.9.618 (9 September, 2026)
 * Added equity comparison to the Balances page, showing MT5 and Hub equity and highlighting differences of 10% or more.
 
