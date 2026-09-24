@@ -18,6 +18,7 @@
 * Fixed rare duplicate position counting in Simulate, which could temporarily cause incorrect P&L, commission, and markup figures during data archiving.
 * Improved SqliteRsyncService reliability by preventing stuck SSH sessions from stopping replication and ensuring automatic recovery after connection failures.
 * Added GET /accounts to return the live balance, credit, and equity of all margin accounts available to the user in a single request.
+* Added Quote Monitoring alerts to notify users about stale quotes and abnormal price movements, with configurable symbols, price sources, thresholds, and notification settings.
 
 ## Version 2026.9.2.819 (2 September, 2026)
 * Added a spreadsheet view for Price Channel rules with inline editing, column filters, bulk updates, and Excel copy/paste.
