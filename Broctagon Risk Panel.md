@@ -1,8 +1,16 @@
 # Broctagon Risk Panel
 
 ## Version 2026.9.22.641 (22 September, 2026)
+### Features
+* Added the Equity coverage alert page. When a client's Hub equity falls below MT5 equity by more than the set tolerance, the panel sends a notification through a make.com webhook.
+* The alert tolerance can be set in USD, in percent, or both. Cooldown and escalation settings control repeat notifications.
+* Added a Settings button to the Balances page to change the highlight thresholds: the balance buffer in USD and the equity difference in percent. Defaults stay 10 000 USD and 10%.
+* Each highlight rule can now be turned off. The page shows the current thresholds and how many rows are highlighted.
 ### Changes
 * Fixed table data overlapping the header on the Positions page.
+* The panel has a new interface. Addresses, logins and columns stay the same.
+* Data now appears about 40 seconds after start instead of about 5 minutes. Balances refresh every minute, positions every 5 minutes.
+* Each page shows how old its data is. A source that does not answer is shown as unavailable, not as zero.
 ## Version 2026.9.9.618 (9 September, 2026)
 * Added equity comparison to the Balances page, showing MT5 and Hub equity and highlighting differences of 10% or more.
 
