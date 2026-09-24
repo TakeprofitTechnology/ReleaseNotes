@@ -1,5 +1,13 @@
 # Takeprofit Bridge MT5
 
+## Version 26.09.23.50 (24 September, 2026)
+### Changes
+* A single lost LP fill no longer blocks A-book trading for the account. The Bridge still writes a critical log entry for every such case.
+* A-book trading for an account now stops after two lost fills on the same order or position. All A-book trading stops after three lost fills within 5 minutes, five since start, or more than 500 000 USD in total. The stop lasts until the Bridge restarts.
+* When all A-book trading stops, the Bridge now shows as disconnected in the MT5 Administrator.
+* The Bridge now retries once when MT5 refuses a fill because the server is busy.
+* Fixed the Bridge keeping a failed order in memory until restart. This caused a false position-difference alarm on every shutdown.
+
 ## Version 26.09.17.47 (17 September, 2026)
 ### Changes
 * A symbol list sent in the wrong format is now rejected with an error, and the existing symbol map is kept. Before, the request was accepted and the whole MT5 → LP symbol map was replaced with an empty one, both in memory and in the connector's symbols file.
