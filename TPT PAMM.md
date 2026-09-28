@@ -3,6 +3,13 @@
 
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
+* Added system monitoring for disk capacity, CPU, memory, process health, database performance, MT5 latency, e-mail delivery, and HTTP errors.
+* Added monitoring for registrations, investor activity, investment lifecycle, pending investments, net money flow, and leader activity.
+* Added security monitoring for failed and rate-limited sign-ins, administrator actions, API-key usage, idle keys, and deprecated API calls.
+* Added a 365-day audit trail for administrative actions, including money-related operations performed by administrators or API keys.
+* Added a Prometheus endpoint with pamm_* metrics, server-calculated alert levels, and bundled alert rules.
+* Added admin API endpoints for current and historical system, investor, risk, and security monitoring data.
+* Added monitoring for stop-loss health, AUM concentration, limits, fees, failed payouts, and notifications through the API and Prometheus.
 
 ## Version 2026.9.16.995 (16 September, 2026)
 * Fixed incorrect rounding for currencies without decimal units, such as JPY, which could cause reconciliation mismatches and incorrect displayed amounts.
