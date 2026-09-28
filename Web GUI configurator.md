@@ -1,5 +1,12 @@
 # Web GUI сonfigurator
 
+## Version 2026.9.23.1064 (25 September, 2026)
+### Changes
+* TPT Bridge MT5, Kloshira MT5, Dynamic Leverage MT5, Bonus Cashback, Hedge Locker MT5 and AutoHedger: when the plugin rejects a rule value, the configurator now shows the plugin's own message with the field and line. Before, it showed "The gateway is unreachable or returned an error".
+* "The gateway is unreachable" is now shown only when the server really cannot be reached or fails to save the file.
+* Kloshira MT5: error messages no longer include the file path on the server.
+* EasyMAM MT5: fixed an error that blocked attaching an investor to a master with open positions.
+
 ## Version 2026.9.10.711 (15 September, 2026)
 ### Features
 * Dynamic Leverage MT5: added a tooltip to the Margin Rules table reminding that limits are set in millions when Volume Type is Exposure.
