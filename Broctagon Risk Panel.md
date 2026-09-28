@@ -1,5 +1,10 @@
 # Broctagon Risk Panel
 
+## Version 2026.9.23.600 (25 September, 2026)
+### Changes
+* On the Balances page, the balance difference column now comes right after the balance and credit columns, the same way as the equity columns.
+* The column is now called "Balance Difference".
+
 ## Version 2026.9.22.641 (22 September, 2026)
 ### Features
 * Added the Equity coverage alert page. When a client's Hub equity falls below MT5 equity by more than the set tolerance, the panel sends a notification through a make.com webhook.
