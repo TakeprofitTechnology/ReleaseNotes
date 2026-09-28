@@ -3,7 +3,7 @@
 ## Version 26.09.24.41 (24 September, 2026)
 ### Changes
 * A trade the Bridge refuses before applying it now writes a minus report line to the reports log. This includes trades rejected by a rule with action R.
-* The minus report line now shows the trade direction (buy or sell).
+* The [-report] line now shows the trade direction (buy or sell).
 
 ## Version 26.09.23.50 (24 September, 2026)
 ### Changes
