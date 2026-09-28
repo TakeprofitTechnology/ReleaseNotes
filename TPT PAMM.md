@@ -1,5 +1,9 @@
 # TPT PAMM
 
+
+## Version 2026.9.25.673 (25 September, 2026)
+* Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
+
 ## Version 2026.9.16.995 (16 September, 2026)
 * Fixed incorrect rounding for currencies without decimal units, such as JPY, which could cause reconciliation mismatches and incorrect displayed amounts.
 * Fixed percentage markup reversal to use the exact inverse calculation, eliminating small price discrepancies on limit orders. Exact-limit fills now match the client’s limit price precisely on both buy and sell sides. The fix applies to price-channel markups, maker modifiers, and adjustments.
