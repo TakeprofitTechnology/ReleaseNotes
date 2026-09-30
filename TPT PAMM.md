@@ -15,6 +15,7 @@
 * Improved synchronization of account currency and PAMM status after MT5 group changes.
 * Simplified the Monitoring page by removing unnecessary metrics and sections and renaming Machine CPU to Total CPU.
 * Simplified the interface across all roles by removing unnecessary explanatory text and renamed the summary Current Value to Lifetime Value.
+* Fixed an issue where same-second leader deposits could prevent investment figures from updating and stop-losses from triggering.
 
 ## Version 2026.9.16.995 (16 September, 2026)
 * Fixed incorrect rounding for currencies without decimal units, such as JPY, which could cause reconciliation mismatches and incorrect displayed amounts.
