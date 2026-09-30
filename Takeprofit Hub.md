@@ -2,7 +2,7 @@
 
 ## Version 2026.9.29.380 (29 September, 2026)
 * Fixed the hint for “Allow makers only from aggregation priority” to correctly describe the setting’s behavior.
-
+* Simplified Order Rejection alert messages by removing filter details and ID lists, leaving only the alert name and breach information.
 
 ## Version 2026.9.16.756 (16 September, 2026)
 * Fixed an issue with Level Retention on Synthetic Liquidity symbols where price levels could appear in the wrong order after a source price change.
