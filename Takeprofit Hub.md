@@ -7,6 +7,7 @@
 * Improved FIX order cancellation handling so LP cancel requests include the required order details, cancel rejects are forwarded to takers, and pending-cancel acknowledgements no longer close orders prematurely.
 * PrimeXM fill reports now include SettlDate (tag 64), using the LP-provided value date or a calculated spot value date when unavailable.
 * Improved handling of positions that offset across takers: zero-net positions are now visible and no longer block account deletion.
+* Updated Slack channel hints across alerts, NOP limit rules, and report notifications to clearly show the accepted channel name and ID formats.
 
 ## Version 2026.9.16.756 (16 September, 2026)
 * Fixed an issue with Level Retention on Synthetic Liquidity symbols where price levels could appear in the wrong order after a source price change.
