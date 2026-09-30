@@ -1,5 +1,24 @@
 # Drawdown Limit MT4
 
+## Version 26.09.28.59 (29 September, 2026)
+### Changes
+* Spaces around a value pushed from the Administrator are now removed, the same as when the settings file is read at startup.
+
+## Version 26.09.21.31 (25 September, 2026)
+### Changes
+* If a setting or the rules file is missing or invalid, the plugin now refuses to start. The status badge and a FATAL line in the journal name the wrong setting.
+* A bad configuration pushed from the Administrator is now rejected. The plugin keeps running on the previous valid configuration.
+* A configuration error never takes the MT4 server down.
+* The package now includes an empty rules file, so a fresh install with GUI configuration turned on starts normally.
+* A negative log size limit is now rejected. Before, it silently turned off log rotation.
+* An invalid FirstLimitsCalculation value is now rejected. Before, the first limits calculation was silently skipped.
+* An invalid value in the Enabled column of the rules file is now rejected. An empty value still means disabled.
+* Rules file errors now show the file, column, value and line number. The header counts as line 1.
+* A rejected rules import now returns an error code instead of a success code.
+* The daily recalculation no longer stops for everyone when one account can't be read. Archived and deleted accounts are removed from the plugin.
+* Deposits and withdrawals are now counted once, on the correct day.
+* After the upgrade, an installation with any of the invalid values above will not start until the value is fixed.
+
 ## Version 26.03.30.55 (6 April, 2026)
 ### Changes
 * Daily Withdrawal Adjustment mechanism was added — so that withdrawals (e.g. profit sharing) in F-mode are not counted as drawdown.
