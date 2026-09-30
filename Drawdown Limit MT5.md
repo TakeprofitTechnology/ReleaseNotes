@@ -1,5 +1,27 @@
 # Drawdown Limit MT5
 
+## Version 26.09.28.59 (29 September, 2026)
+### Changes
+* Internal update of shared code. No change in plugin behaviour.
+
+## Version 26.09.21.31 (25 September, 2026)
+### Changes
+* If a setting or the rules file is missing or invalid, the plugin now refuses to start. The status badge and a FATAL line in the journal name the wrong setting.
+* A bad configuration pushed from the Administrator is now rejected. The plugin keeps running on the previous valid configuration.
+* A configuration error never takes the MT5 server down.
+* Fixed: a broken configuration could freeze the Administrator and manager connections until the server was restarted.
+* Fixed: the periodic limit check could skip all accounts.
+* The plugin now picks up new accounts, group changes and deleted accounts right away.
+* Invalid values in the rules file, such as text in number fields or negative numbers, are now rejected.
+* An invalid value in the Enabled column of the rules file is now rejected. An empty value still means disabled.
+* An invalid log level is now rejected. Before, it was ignored.
+* Rules file errors now show the file, column, value and line number. The header counts as line 1.
+* A rejected rules import now returns an error code instead of a success code.
+* The daily recalculation no longer stops for everyone when one account can't be read. Archived and deleted accounts are removed from the plugin.
+* Deposits and withdrawals are now counted once, on the correct day.
+* If the plugin database can't be opened, the server no longer hangs. The plugin stays inactive and the status badge explains what to fix.
+* After the upgrade, an installation with any of the invalid values above will not start until the value is fixed.
+
 ## Version 26.04.06.34 (6 April, 2026)
 ### Changes
 * FirstLimitsCalculation added to plugin's default parameters list.
