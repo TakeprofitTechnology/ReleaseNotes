@@ -4,6 +4,7 @@
 * Fixed the hint for “Allow makers only from aggregation priority” to correctly describe the setting’s behavior.
 * Simplified Order Rejection alert messages by removing filter details and ID lists, leaving only the alert name and breach information.
 * Fixed extra slippage probability so configured percentages now match actual execution and simulation results.
+* Improved FIX order cancellation handling so LP cancel requests include the required order details, cancel rejects are forwarded to takers, and pending-cancel acknowledgements no longer close orders prematurely.
 
 ## Version 2026.9.16.756 (16 September, 2026)
 * Fixed an issue with Level Retention on Synthetic Liquidity symbols where price levels could appear in the wrong order after a source price change.
