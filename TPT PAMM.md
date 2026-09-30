@@ -13,6 +13,7 @@
 * Fixed non-PAMM accounts appearing and being counted on the Investors page.
 * Improved MT5 account synchronization so currency and PAMM membership changes are reflected faster after moving an account to another group.
 * Improved synchronization of account currency and PAMM status after MT5 group changes.
+* Simplified the Monitoring page by removing unnecessary metrics and sections and renaming Machine CPU to Total CPU.
 
 ## Version 2026.9.16.995 (16 September, 2026)
 * Fixed incorrect rounding for currencies without decimal units, such as JPY, which could cause reconciliation mismatches and incorrect displayed amounts.
