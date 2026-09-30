@@ -9,6 +9,7 @@
 * Improved handling of positions that offset across takers: zero-net positions are now visible and no longer block account deletion.
 * Updated Slack channel hints across alerts, NOP limit rules, and report notifications to clearly show the accepted channel name and ID formats.
 * Fixed stale quotes from disconnected makers remaining available for order execution.
+* Improved NOP limit performance by removing redundant usage recalculation after rule changes.
 
 ## Version 2026.9.16.756 (16 September, 2026)
 * Fixed an issue with Level Retention on Synthetic Liquidity symbols where price levels could appear in the wrong order after a source price change.
