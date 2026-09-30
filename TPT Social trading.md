@@ -852,3 +852,17 @@
 * Added editing and deleting client accounts;
 * Added page for changing account password in GUI.
 
+
+## Version 2026.9.28.722 (30 September, 2026)
+### Features
+* The database connect and command timeouts can now be set in the configuration (ConnectTimeoutSeconds, CommandTimeoutSeconds).
+### Changes
+* After a deposit, withdrawal or credit operation on an MT5 account, the new balance, credit and equity now show within seconds. Before, the old figures could stay for up to an hour.
+* A failed create no longer allows a duplicate user, account, server or subscription. The leftover record now shows in the GUI and can be deleted.
+* A failed trader create no longer needs a restart to clean up.
+* Stored copy settings of deleted strategies are now removed after 180 days. On the closed positions page, old positions of such strategies show a blank mode.
+* Startup database errors now say what failed: the host, password, role or permissions.
+* The startup database check now uses the configured SSL mode and timeouts.
+* Installs with a dedicated database user now start correctly.
+* UseTestData: true no longer ignores "EnableDebugServer": false.
+
