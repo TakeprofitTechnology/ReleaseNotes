@@ -1,5 +1,9 @@
 # Takeprofit Hub
 
+ 
+## Version 2026.9.30.824 (30 September, 2026)
+* Fixed PrimeXM market data subscription IDs to prevent conflicts on 1000+ symbols and ensure unsubscribe requests use the original subscription ID.
+
 ## Version 2026.9.29.380 (29 September, 2026)
 * Fixed the hint for “Allow makers only from aggregation priority” to correctly describe the setting’s behavior.
 * Simplified Order Rejection alert messages by removing filter details and ID lists, leaving only the alert name and breach information.
