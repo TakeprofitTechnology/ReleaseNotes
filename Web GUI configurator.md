@@ -1,6 +1,12 @@
 # Web GUI сonfigurator
 
 ## Version 2026.9.23.1064 (25 September, 2026)
+### Features
+* Added the MT5 Market Depth product with General, Status, Settings and Symbols tabs.
+* MT5 Market Depth, Settings tab: price feeds, timeouts, default book values, dealing switches and the manager connection are edited in one form. Before saving, a dialog shows what will change on the running gateway.
+* MT5 Market Depth, Symbols tab: one row per symbol with its feed, book steps and live state. Empty cells show the default value in grey. The tab supports import, export, search, filters and bulk enable or disable, and the Book button opens the symbol's current order book.
+* MT5 Market Depth, Symbols tab: a symbol entry can be a pattern. A pattern row is collapsed and shows how many symbols it serves. Expanding it lists each symbol with its own state and order book.
+* MT5 Market Depth, Status tab: shows the gateway, feed and manager connections with their state, counters and the reason for any disconnect.
 ### Changes
 * TPT Bridge MT5, Kloshira MT5, Dynamic Leverage MT5, Bonus Cashback, Hedge Locker MT5 and AutoHedger: when the plugin rejects a rule value, the configurator now shows the plugin's own message with the field and line. Before, it showed "The gateway is unreachable or returned an error".
 * "The gateway is unreachable" is now shown only when the server really cannot be reached or fails to save the file.
