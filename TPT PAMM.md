@@ -46,6 +46,7 @@
 * Added leader notifications when an investor joins or leaves an investment, with a new Investor activity setting.
 * Added a margin level warning when an investor exit causes the leader’s margin level to fall below 500%.
 * Improved notification visibility by keeping internal operator alerts hidden from leaders.
+* Added email notifications for Leader and operational events, with delivery tracking and retry support in the Administration Portal.
 
 ## Version 2026.8.19.982  (19 August, 2026)
 * Non-trading transactions on the leader’s MT5 account are no longer treated as pool P/L or distributed among investors.
