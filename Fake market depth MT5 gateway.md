@@ -4,7 +4,6 @@
 ### Features
 * The gateway was rewritten in C++. It uses several times less processor time per price update and less memory than the previous version.
 * One gateway can now serve the symbols that used to be split across several gateways, so the MT5 server no longer receives duplicate order book updates.
-* Added a migration tool that converts existing gateway records into one configuration. If two records set up the same symbol differently, it stops and explains the conflict.
 * Added configuration through the Web GUI configurator (EnableGUIConfiguration). Changes take effect on the running gateway without a restart, and a change with errors is refused as a whole with every reason listed.
 * A new Web GUI mode record now gets starter Settings.ini and SymbolBooks.dat files and listens on 127.0.0.1, port 1975 by default.
 * A symbol entry can now be a pattern: a star matches any characters, terms are separated by commas, and a term starting with "!" excludes symbols. An exact entry placed above a pattern keeps its own settings.
