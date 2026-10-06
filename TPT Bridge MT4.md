@@ -1,5 +1,11 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.09.29.57 (30 September, 2026)
+### Features
+* A fresh install now comes with one default routing rule. It matches every order and sends the order details in FIX tag 1 (sub account). This needs the B-book feature to be licensed.
+* The default rule is added only on fresh installs. Updates keep the existing routing file.
+* New routing rules must be placed above the default rule, because the first matching rule wins.
+
 ## Version 26.09.14.45 (9 September, 2026)
 ### Changes
 * Added Centroid as a new LP connector for TPT Bridge MT5 and MT4, supporting FIX 4.4 market data and order execution.
