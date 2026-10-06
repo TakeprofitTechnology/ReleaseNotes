@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+## Version 26.09.30.87 (1 October, 2026)
+### Changes
+* The log entry for a released lost fill now shows the real account instead of '0'.
+* Removed the SubAccount column from rules because it never affected matching. Old rules files still load normally.
+
 ## Version 26.09.24.41 (24 September, 2026)
 ### Changes
 * A trade the Bridge refuses before applying it now writes a [-report] line to the reports log. This includes trades rejected by a rule with action R.
