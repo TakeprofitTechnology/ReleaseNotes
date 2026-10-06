@@ -7,8 +7,17 @@
 * TPT Bridge MT5: fixed the styling of the Actions dropdown in the rules table.
 
 ## Version 2026.10.1.0 (1 October, 2026)
+### Features
+* DrawdownLimit MT4 and MT5, Rules table: added the "High watermark mode daily" and "High watermark mode total" columns. Each can be set to Inherit, Rollover or Instant.
 ### Changes
 * TPT Bridge MT5: removed the SubAccount field from rules. A rules file that still has this column opens normally and is saved without it.
+* DrawdownLimit MT4 and MT5: saving rules no longer deletes these two values from Rules.ini.
+* DrawdownLimit MT4 and MT5: the Rules page now opens even when the plugin is not connected.
+
+## Version 2026.9.29.871 (30 September, 2026)
+### Changes
+* TPT Bridge MT5, Routing tab: the SUB ACCOUNT column is renamed to SUB ACCOUNT (FIX TAG=1).
+* MT4 Kloshira, Routing tab: the "New sub account" column is renamed to "New sub account (FIX tag=1)".
 
 ## Version 2026.9.23.1064 (25 September, 2026)
 ### Features
