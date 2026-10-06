@@ -1,5 +1,15 @@
 # Web GUI сonfigurator
 
+## Version 2026.10.5.461 (5 October, 2026)
+### Features
+* The product type list in the Add Product window now has search and opens below the field, like in Hub.
+### Changes
+* TPT Bridge MT5: fixed the styling of the Actions dropdown in the rules table.
+
+## Version 2026.10.1.0 (1 October, 2026)
+### Changes
+* TPT Bridge MT5: removed the SubAccount field from rules. A rules file that still has this column opens normally and is saved without it.
+
 ## Version 2026.9.23.1064 (25 September, 2026)
 ### Features
 * Added the MT5 Market Depth product with General, Status, Settings and Symbols tabs.
