@@ -5,6 +5,12 @@
 * The log entry for a released lost fill now shows the real account instead of '0'.
 * Removed the SubAccount column from rules because it never affected matching. Old rules files still load normally.
 
+## Version 26.09.29.57 (30 September, 2026)
+### Features
+* A fresh install now comes with one default routing rule. It matches every order and sends the order details in FIX tag 1 (sub account).
+* The default rule is added only on fresh installs. Updates keep the existing routing file.
+* New routing rules must be placed above the default rule, because the first matching rule wins.
+
 ## Version 26.09.24.41 (24 September, 2026)
 ### Changes
 * A trade the Bridge refuses before applying it now writes a [-report] line to the reports log. This includes trades rejected by a rule with action R.
