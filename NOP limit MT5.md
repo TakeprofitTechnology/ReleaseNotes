@@ -1,5 +1,13 @@
 # NOP limit MT5
 
+## Version 26.09.21.31 (25 September, 2026)
+### Changes
+* The plugin now refuses to start if a setting or limits file is missing or invalid. The Administrator shows a red "DISABLED" status with the reason.
+* A bad configuration pushed while the plugin is running is now rejected. The previous limits stay in effect, and the MT5 server never needs a restart.
+* Limit files now reject impossible values, such as negative limits, text in number fields or unknown values in the Enabled column. The error names the file, column, line and value. Check your limit files before upgrading.
+* Orders that are accepted but not yet filled now count toward the account limit.
+* Repeated server errors now appear in the journal as one summary line per minute.
+
 ## Version 26.03.02.44 (3 March, 2026)
 ### Changes
 * Added virtual position cache to reduce execution delays.
