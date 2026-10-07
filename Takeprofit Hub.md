@@ -12,6 +12,7 @@
 * Improved neutral coloring for zero, missing, and reference P&L values.
 * Fixed rule numbering in logs and save errors to match the Risk Profile Rules table.
 * Added in-flight margin reservation to prevent simultaneous orders from exceeding account margin limits.
+* External REST API now returns 503 Service Unavailable instead of 401 while Hub is starting or if startup fails, allowing integrations to distinguish startup state from authentication errors.
 
 Added a setting to disable in-flight margin reservation.
 
