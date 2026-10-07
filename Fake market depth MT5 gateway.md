@@ -1,5 +1,10 @@
 # Takeprofit MarketDepth MT5
 
+## Version 26.10.06.42 (6 October, 2026)
+### Changes
+* A feed address without a login and password (":@host:port") is now accepted. Before, the gateway refused it and kept restarting.
+* In Web GUI mode, the gateway no longer opens the REST API on 127.0.0.1:1975 by itself. If HttpServer and HttpPort are not set, REST stays off, so set both to keep the configurator working.
+* With MultiLateralLimitOrders on, prices and executions now start right away, even if AccessServer is unreachable. Before, the start was delayed by up to 120 seconds.
 ## Version 26.09.28.39 (28 September, 2026)
 ### Features
 * The gateway was rewritten in C++. It uses several times less processor time per price update and less memory than the previous version.
