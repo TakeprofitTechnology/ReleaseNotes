@@ -10,6 +10,7 @@
 * Improved P&L and volume color readability in the light theme.
 * Fixed missing P&L coloring across several tables.
 * Improved neutral coloring for zero, missing, and reference P&L values.
+* Fixed rule numbering in logs and save errors to match the Risk Profile Rules table.
 
 ## Version 2026.9.30.824 (30 September, 2026)
 * Fixed PrimeXM market data subscription IDs to prevent conflicts on 1000+ symbols and ensure unsubscribe requests use the original subscription ID.
