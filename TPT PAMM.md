@@ -4,6 +4,8 @@
 * Updated the Leaders console to show only active PAMM leaders. Leaders outside PAMM groups are now available on a separate Outside PAMM groups tab.
 * Improved PAMM transaction processing to ensure credits are sent only after the corresponding debit is successfully completed, preventing incorrect payouts when a debit fails.
 * Added flexible fee recipients for PAMM leaders, allowing fees to be split between multiple accounts with different shares for each fee type.
+* Added flexible fee recipients, allowing leader fees to be distributed between multiple accounts with different shares for each fee type.
+* Added per-recipient fee tracking, reporting, and individual payouts.
 
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
