@@ -11,6 +11,9 @@
 * Fixed missing P&L coloring across several tables.
 * Improved neutral coloring for zero, missing, and reference P&L values.
 * Fixed rule numbering in logs and save errors to match the Risk Profile Rules table.
+* Added in-flight margin reservation to prevent simultaneous orders from exceeding account margin limits.
+
+Added a setting to disable in-flight margin reservation.
 
 ## Version 2026.9.30.824 (30 September, 2026)
 * Fixed PrimeXM market data subscription IDs to prevent conflicts on 1000+ symbols and ensure unsubscribe requests use the original subscription ID.
