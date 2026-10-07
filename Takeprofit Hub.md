@@ -14,6 +14,7 @@
 * Added in-flight margin reservation to prevent simultaneous orders from exceeding account margin limits.
 * Added a setting to disable in-flight margin reservation.
 * External REST API now returns 503 Service Unavailable instead of 401 while Hub is starting or if startup fails, allowing integrations to distinguish startup state from authentication errors.
+* Added Bucket Mode for symbol overrides with two options: Risk limit keeps the existing behavior, while Accumulate and send accumulates B-book volume and sends it to a maker when Bucket Volume is reached.
 
 
 
