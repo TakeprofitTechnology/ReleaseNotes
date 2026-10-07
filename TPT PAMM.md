@@ -1,5 +1,7 @@
 # TPT PAMM
 
+## Version 2026.9.30.688 (30 September, 2026)
+* Updated the Leaders console to show only active PAMM leaders. Leaders outside PAMM groups are now available on a separate Outside PAMM groups tab.
 
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
