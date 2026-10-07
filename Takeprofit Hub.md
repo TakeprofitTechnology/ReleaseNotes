@@ -1,6 +1,13 @@
 # Takeprofit Hub
 
- 
+## Version 2026.10.6.1163 (10 October, 2026)
+* Added a structured form for editing FIX maker and taker settings, with Raw INI still available.
+* Added automatic TLS configuration and certificate management for FIX takers.
+* Added validation for conflicting TLS settings on shared taker ports.
+* Updated downloaded Sessions.ini files with the correct counterparty TLS settings.
+* Added masking of sensitive FIX credentials in configuration audit logs.
+* Added missing settings for GCEX and Integral makers and updated the default TLS configuration for new FXCubic makers.
+
 ## Version 2026.9.30.824 (30 September, 2026)
 * Fixed PrimeXM market data subscription IDs to prevent conflicts on 1000+ symbols and ensure unsubscribe requests use the original subscription ID.
 
