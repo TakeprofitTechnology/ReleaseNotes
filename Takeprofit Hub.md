@@ -7,6 +7,9 @@
 * Updated downloaded Sessions.ini files with the correct counterparty TLS settings.
 * Added masking of sensitive FIX credentials in configuration audit logs.
 * Added missing settings for GCEX and Integral makers and updated the default TLS configuration for new FXCubic makers.
+* Improved P&L and volume color readability in the light theme.
+* Fixed missing P&L coloring across several tables.
+* Improved neutral coloring for zero, missing, and reference P&L values.
 
 ## Version 2026.9.30.824 (30 September, 2026)
 * Fixed PrimeXM market data subscription IDs to prevent conflicts on 1000+ symbols and ensure unsubscribe requests use the original subscription ID.
