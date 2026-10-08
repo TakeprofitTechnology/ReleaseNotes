@@ -37,6 +37,7 @@
 * Fixed an issue where Performance Timeline and Portfolio Growth started one day earlier than the actual start date. The first data point now shows the correct date, and reconstructed history no longer misses a day.
 * Fixed an issue where investors could see leaders whose MT5 groups were no longer included in the PAMM leader mask. The leader board and watchlist now show only available leaders and update immediately after leader mask changes.
 * Added support for linking multiple MT5 accounts to one PAMM login and switching between Investor and Leader accounts without signing out.
+* Added multi-currency support. Account currencies are automatically detected from MT5 groups, and balances, profits, and fees are displayed accordingly.
 
 ## Version 2026.9.2.77 (2 September, 2026)
 * Improved daily return calculations to handle deposits and withdrawals correctly.
