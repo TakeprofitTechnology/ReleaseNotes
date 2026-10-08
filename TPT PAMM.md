@@ -6,6 +6,7 @@
 * Added flexible fee recipients for PAMM leaders, allowing fees to be split between multiple accounts with different shares for each fee type.
 * Added flexible fee recipients, allowing leader fees to be distributed between multiple accounts with different shares for each fee type.
 * Added per-recipient fee tracking, reporting, and individual payouts.
+* My Accounts and Settings → Sign-in and security now display the email address confirmation status (Confirmed or Not confirmed).
 
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
