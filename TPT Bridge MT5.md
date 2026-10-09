@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+## Version 26.10.08.31 (8 October, 2026)
+### Changes
+* The order execution report and the B-book profit report for a period with no trades now return an empty report. Before, they failed with "The plugin gateway is unreachable or returned an error".
+* The Bridge is available again as a separate bundle for MT5 servers on build 3550.
+
 ## Version 26.09.30.87 (1 October, 2026)
 ### Changes
 * The log entry for a released lost fill now shows the real account instead of '0'.
