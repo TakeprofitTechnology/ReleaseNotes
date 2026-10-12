@@ -4,6 +4,7 @@
 * Fixed an issue where investor withdrawals could close too much of the leader's trading positions due to incorrect currency calculations.
 * Fixed management fee calculations to use each investment's actual daily value.
 * Fixed false balance mismatch alerts when the first investment starts or a leader's account balance is recalculated.
+* Improved investment activation speed, allowing new investors to join the same leader faster.
 
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
