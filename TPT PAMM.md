@@ -2,6 +2,7 @@
 
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
+* Fixed an issue where one stuck investment could slow down MT5 data updates for other investments.
 
 
 ## Version 2026.9.30.688 (30 September, 2026)
