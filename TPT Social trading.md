@@ -1,5 +1,12 @@
 # TPT Social trading
 
+## Version 2026.10.7.813 (8 October, 2026)
+### Features
+* Leaderboard: the card of a leader you follow now shows your copy mode and stop loss next to ROI.
+* Leaderboard, table view: added the "Your strategy" and "Stop loss" columns.
+### Changes
+* The stop loss is now shown in the follower's currency. Before, the Set Stop Loss dialog used the leader's currency.
+* When the admin changes a follower's strategy, the Leaderboard and the Overview now update without a page reload.
 ## Version 2026.9.18.994 (22 September, 2026)
 ### Features
 * Followers now start on a new Overview page, which sits above "My positions" in the sidebar. Leaders do not have it.
