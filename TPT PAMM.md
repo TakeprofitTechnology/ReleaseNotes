@@ -5,6 +5,7 @@
 * Fixed an issue where one stuck investment could slow down MT5 data updates for other investments.
 * Fixed an issue where retrying a failed investor withdrawal could close the leader's trading positions more than once.
 * Fixed an issue where pending investments from an older version could be activated in the wrong order, causing incorrect investment balances.
+* Fixed an issue where old USD currency labels could cause incorrect withdrawal currencies and hide investment totals in reports.
 
 
 ## Version 2026.9.30.688 (30 September, 2026)
