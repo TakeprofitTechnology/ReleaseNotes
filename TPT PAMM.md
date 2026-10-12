@@ -10,6 +10,7 @@
 * Fixed an issue where balance operations could get stuck indefinitely when MT5 data was unavailable. Operators are now notified when manual review is needed.
 * Fixed an issue where a leader's deposit or withdrawal during a new investment could incorrectly increase other investors' profits.
 * Improved checks to prevent new investments when a leader withdraws more money than they own.
+* Fixed an issue where a failed investor payout could be incorrectly marked as completed without the money being sent.
 
 
 ## Version 2026.9.30.688 (30 September, 2026)
