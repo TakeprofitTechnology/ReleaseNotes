@@ -8,6 +8,7 @@
 * Improved investor dashboard loading speed and fixed timeouts for investors with a long investment history.
 * Fixed management fee calculations after server downtime to use each missed day's investment value instead of the latest value.
 * Fixed profit and loss calculations after a leader deposits or withdraws money, ensuring investors receive the correct amounts.
+* Fixed incorrect server error logs when registering with an existing email address or linking an account already in use.
 
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
