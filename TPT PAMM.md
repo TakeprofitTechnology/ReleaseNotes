@@ -7,6 +7,7 @@
 * Fixed an issue where pending investments from an older version could be activated in the wrong order, causing incorrect investment balances.
 * Fixed an issue where old USD currency labels could cause incorrect withdrawal currencies and hide investment totals in reports.
 * Fixed an issue where investor withdrawals could slightly reduce the leader's margin level when trading multiple symbols.
+* Fixed an issue where balance operations could get stuck indefinitely when MT5 data was unavailable. Operators are now notified when manual review is needed.
 
 
 ## Version 2026.9.30.688 (30 September, 2026)
