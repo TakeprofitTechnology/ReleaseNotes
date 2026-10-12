@@ -6,6 +6,7 @@
 * Fixed false balance mismatch alerts when the first investment starts or a leader's account balance is recalculated.
 * Improved investment activation speed, allowing new investors to join the same leader faster.
 * Improved investor dashboard loading speed and fixed timeouts for investors with a long investment history.
+* Fixed management fee calculations after server downtime to use each missed day's investment value instead of the latest value.
 
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
