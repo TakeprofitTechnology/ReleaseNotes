@@ -1,5 +1,11 @@
 # Web GUI сonfigurator
 
+## Version 2026.10.8.630 (8 October, 2026)
+### Features
+* Every save of rules, routing or symbols is now written to the WebGUI log, with the name of the user who made the change.
+* This works in Dynamic Leverage MT5, TPT Bridge MT5, Kloshira MT5, Hedge Locker MT5, AutoHedger MT5, Bonus Cashback MT5 and Market Depth MT5.
+* The log entry shows each added (+), removed (-), changed (~) and moved row.
+
 ## Version 2026.10.5.461 (5 October, 2026)
 ### Features
 * The product type list in the Add Product window now has search and opens below the field, like in Hub.
