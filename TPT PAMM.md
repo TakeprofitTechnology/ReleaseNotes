@@ -4,6 +4,7 @@
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
 * Fixed an issue where one stuck investment could slow down MT5 data updates for other investments.
 * Fixed an issue where retrying a failed investor withdrawal could close the leader's trading positions more than once.
+* Fixed an issue where pending investments from an older version could be activated in the wrong order, causing incorrect investment balances.
 
 
 ## Version 2026.9.30.688 (30 September, 2026)
