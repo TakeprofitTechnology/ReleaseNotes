@@ -8,6 +8,7 @@
 * Added per-recipient fee tracking, reporting, and individual payouts.
 * My Accounts and Settings → Sign-in and security now display the email address confirmation status (Confirmed or Not confirmed).
 * Updated the confirmation code re-send notice to “Check your inbox. A new code can be sent once per minute.”
+* Fixed sign-in errors during PAMM startup. Unavailable account balances and other figures now show a dash instead of 0.
 
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
