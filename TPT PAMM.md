@@ -1,5 +1,9 @@
 # TPT PAMM
 
+## Version 2026.10.8.639  (8 October, 2026)
+* Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
+
+
 ## Version 2026.9.30.688 (30 September, 2026)
 * Updated the Leaders console to show only active PAMM leaders. Leaders outside PAMM groups are now available on a separate Outside PAMM groups tab.
 * Improved PAMM transaction processing to ensure credits are sent only after the corresponding debit is successfully completed, preventing incorrect payouts when a debit fails.
