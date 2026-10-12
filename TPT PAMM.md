@@ -1,5 +1,8 @@
 # TPT PAMM
 
+## Version 2026.10.9.907 (9 October, 2026)
+* Fixed an issue where investor withdrawals could close too much of the leader's trading positions due to incorrect currency calculations.
+
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
 * Fixed an issue where one stuck investment could slow down MT5 data updates for other investments.
