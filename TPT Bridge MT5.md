@@ -1,5 +1,8 @@
 # Takeprofit Bridge MT5
 
+## Version 26.10.09.45 (9 October, 2026)
+* Fixed a gateway crash when calling test_trade without an active LP connector after a failed restart_fix. The command now returns an error instead of crashing the gateway.
+
 ## Version 26.10.08.31 (8 October, 2026)
 ### Changes
 * The order execution report and the B-book profit report for a period with no trades now return an empty report. Before, they failed with "The plugin gateway is unreachable or returned an error".
