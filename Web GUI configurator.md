@@ -2,7 +2,7 @@
 
 ## Version 2026.10.8.630 (8 October, 2026)
 * All changes to rules, routing, and symbols are now recorded in the WebGUI log, including the username and details of added, removed, modified, or reordered rows. Supported across Dynamic Leverage, TPT Bridge, Kloshira, Hedge Locker, AutoHedger, Bonus Cashback, and Market Depth MT5.
-* * Updated SLIP, SLIP EXCEPT LIMIT, and WORST tooltips for TPT Bridge MT5 and Kloshira MT5 to accurately reflect bridge execution logic. No changes to existing rules or order execution behavior.
+* Updated SLIP, SLIP EXCEPT LIMIT, and WORST tooltips for TPT Bridge MT5 and Kloshira MT5 to accurately reflect bridge execution logic. No changes to existing rules or order execution behavior.
 
 ## Version 2026.10.5.461 (5 October, 2026)
 ### Features
