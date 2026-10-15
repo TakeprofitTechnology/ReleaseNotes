@@ -1,10 +1,8 @@
 # Web GUI сonfigurator
 
 ## Version 2026.10.8.630 (8 October, 2026)
-### Features
-* Every save of rules, routing or symbols is now written to the WebGUI log, with the name of the user who made the change.
-* This works in Dynamic Leverage MT5, TPT Bridge MT5, Kloshira MT5, Hedge Locker MT5, AutoHedger MT5, Bonus Cashback MT5 and Market Depth MT5.
-* The log entry shows each added (+), removed (-), changed (~) and moved row.
+* All changes to rules, routing, and symbols are now recorded in the WebGUI log, including the username and details of added, removed, modified, or reordered rows. Supported across Dynamic Leverage, TPT Bridge, Kloshira, Hedge Locker, AutoHedger, Bonus Cashback, and Market Depth MT5.
+* * Updated SLIP, SLIP EXCEPT LIMIT, and WORST tooltips for TPT Bridge MT5 and Kloshira MT5 to accurately reflect bridge execution logic. No changes to existing rules or order execution behavior.
 
 ## Version 2026.10.5.461 (5 October, 2026)
 ### Features
