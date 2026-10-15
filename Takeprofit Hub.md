@@ -1,6 +1,9 @@
 # Takeprofit Hub
 
-## Version 2026.10.6.1163 (10 October, 2026)
+## Version 2026.10.7.899 (7 October, 2026)
+* Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
+
+## Version 2026.10.6.1163 (6 October, 2026)
 * Added a structured form for editing FIX maker and taker settings, with Raw INI still available.
 * Added automatic TLS configuration and certificate management for FIX takers.
 * Added validation for conflicting TLS settings on shared taker ports.
