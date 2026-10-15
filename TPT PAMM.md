@@ -6,6 +6,7 @@
 * Fixed PAMM valuation and stop-loss calculations to exclude pending deposits, and improved legacy investment handling to prevent incorrect pool allocations.
 * Improved PAMM transfer processing so offline MT5 connections no longer block transfers on healthy servers. Queued transfers resume automatically after reconnection.
 * Optimized PAMM investor dashboard performance by loading only active investments during refreshes and fetching investment history on demand, reducing data usage and loading times.
+* Optimized PAMM transfer queue processing by removing unnecessary pauses and batching database operations, significantly speeding up transfers during high-volume backlogs.
 
 ## Version 2026.10.9.907 (9 October, 2026)
 * Fixed an issue where investor withdrawals could close too much of the leader's trading positions due to incorrect currency calculations.
