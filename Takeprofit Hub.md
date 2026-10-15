@@ -20,6 +20,7 @@
 * Added Bucket Mode for symbol overrides with two options: Risk limit keeps the existing behavior, while Accumulate and send accumulates B-book volume and sends it to a maker when Bucket Volume is reached.
 * Improved the setup script to correctly create Windows user profiles and HubBases permissions, preventing database access errors during replication.
 * Added replication service files to the setup package.
+* Fixed SqliteRsyncService partition sync failures on storage servers running PowerShell in Constrained Language mode, with improved error handling and logging to prevent unintended partition deletion.
 
 
 
