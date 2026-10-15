@@ -1,5 +1,8 @@
 # TPT PAMM
 
+## Version 2026.10.12.863 (12 October, 2026)
+* Improved stop-loss execution speed when multiple stop-losses trigger simultaneously and fixed delays caused by other leaders' account history errors.
+
 ## Version 2026.10.9.907 (9 October, 2026)
 * Fixed an issue where investor withdrawals could close too much of the leader's trading positions due to incorrect currency calculations.
 * Fixed management fee calculations to use each investment's actual daily value.
