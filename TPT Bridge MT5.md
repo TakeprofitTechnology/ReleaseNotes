@@ -7,6 +7,7 @@
 ### Changes
 * The order execution report and the B-book profit report for a period with no trades now return an empty report. Before, they failed with "The plugin gateway is unreachable or returned an error".
 * The Bridge is available again as a separate bundle for MT5 servers on build 3550.
+* Updated source code comments to clarify SM, S, and L rule action behavior and differences from MT4 Kloshira. Corrected the misleading description of SM as unsupported and clarified its market-price execution logic. 
 
 ## Version 26.09.30.87 (1 October, 2026)
 ### Changes
