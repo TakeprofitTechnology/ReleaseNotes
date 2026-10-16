@@ -4,6 +4,7 @@
 * Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
 * Improved Risk Profile rule storage to prevent settings loss and protect against outdated clients and Hub rollbacks.
 * Improved status badge readability on the Accounts page in light theme. Dark theme remains unchanged.
+* Fixed net-position cache initialization so a pricing failure in one account no longer affects other accounts. Improved position reporting in the REST API, dashboard exposure and error monitoring while preserving safety checks.
 
 ## Version 2026.10.6.1163 (6 October, 2026)
 * Added a structured form for editing FIX maker and taker settings, with Raw INI still available.
