@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+## Version 26.10.13.66 (15 October, 2026)
+### Changes
+* Internal cleanup of third-party code. Settings, rules, log text and FIX messages stay the same.
+* A minus sign in a value that can never be negative is now refused. Before, it was turned into a very large number. No current settings are affected.
+
 ## Version 26.10.09.45 (9 October, 2026)
 * Fixed a gateway crash when calling test_trade without an active LP connector after a failed restart_fix. The command now returns an error instead of crashing the gateway.
 
