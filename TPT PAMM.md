@@ -20,6 +20,7 @@
 * Fixed false balance mismatch alerts after investor payouts caused by timing differences between the server and MT5.
 * Fixed an issue where slow or unresponsive MT5 connections could freeze pages and operations. Stuck connections are now automatically replaced.
 * Updated HTTPS support and fixed build issues. HTTPS now uses shared settings, so installations using the old certificate configuration must be updated.
+* Added unique passwords for each PAMM demo and a login panel displaying demo credentials with copy buttons. Regular installations remain unchanged.
 
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
