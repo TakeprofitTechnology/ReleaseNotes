@@ -1,6 +1,12 @@
 # Dynamic leverage MT5
 
 
+## Version 26.10.14.32 (15 October, 2026)
+### Changes
+* Internal cleanup of third-party code. Settings, rules, log text and plugin behaviour stay the same.
+* A schedule day of month of 65536 or more is now refused. Before, it was silently changed to a different day.
+* A minus sign in a value that can never be negative is now refused. Before, it was turned into a very large number. No current settings are affected.
+
 ## Version 26.09.17.51 (21 September, 2026)
 ### Features
 * New parameter RecalcOnRuleEnd (true/false, default false). When it is on, margin is recalculated within a few seconds after a rule's schedule window closes.
