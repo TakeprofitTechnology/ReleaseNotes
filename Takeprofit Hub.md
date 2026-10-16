@@ -6,6 +6,7 @@
 * Improved status badge readability on the Accounts page in light theme. Dark theme remains unchanged.
 * Fixed net-position cache initialization so a pricing failure in one account no longer affects other accounts. Improved position reporting in the REST API, dashboard exposure and error monitoring while preserving safety checks.
 * Added unique passwords for each Hub demo and a login panel with copyable credentials and manual password change indicators. Regular installations remain unchanged.
+* Added confirmation dialogs when enabling or disabling symbols on the Synthetic Liquidity page in both Table and Cards views.
 
 ## Version 2026.10.6.1163 (6 October, 2026)
 * Added a structured form for editing FIX maker and taker settings, with Raw INI still available.
