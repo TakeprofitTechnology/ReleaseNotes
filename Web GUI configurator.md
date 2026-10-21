@@ -1,5 +1,39 @@
 # Web GUI сonfigurator
 
+## Version 2026.10.21.694 (21 October, 2026)
+### Features
+* MT4 Quote Watcher, MT4 and MT5 Max position exposure, MT4 Flex rebate, MT4 Takeprofit Bridge, MT4 and MT5 Drawdown limit and MT4 Dynamic leverage advanced moved to the new web interface. The old pages are removed, and old bookmarks open the new product page.
+* For these products, saving without changes writes exactly the same file as before.
+* For these products, values are checked before saving. Wrong cells are highlighted in red, and Save stays disabled until they are fixed.
+* For these products, rules are saved to the same server they were loaded from. If that server is unavailable, the save is refused with a message to reload.
+* For these products, every save is recorded in the WebGUI log with the user name and the changes.
+* MT4 Quote Watcher: the Rules tab has Enabled, Symbols, Securities and Delay columns.
+* MT4 Max position exposure: Calc mode, Apply mode and Symbols mode are dropdowns.
+* MT5 Max position exposure: Accounts and Symbols are separate tabs, and each tab saves only its own file. Modes are dropdowns.
+* MT4 Flex rebate: the Rules tab shows all columns, including nine Agent / Commission pairs. Columns can be hidden and resized.
+* MT4 Takeprofit Bridge: the product has Symbols, Rules, Routing, Tools and Reports tabs, like MT5 Takeprofit Bridge. Bid and Ask in Symbols update live.
+* MT4 Takeprofit Bridge: Types, Reason, Direction and Action are dropdowns with the MT4 plugin's own values.
+* MT4 Drawdown limit and MT5 Drawdown limit: modes are dropdowns and are shown by name. The file still stores the short codes.
+* MT4 Dynamic leverage advanced: the nine Level columns are replaced by one Levels column. Clicking it opens a dialog to edit the levels.
+* MT4 Dynamic leverage advanced: Leverage mode, Multiplier mode and Volume type are dropdowns. Schedule uses the same editor as other products.
+* MT4 Dynamic leverage advanced: "Update existing positions" can now be changed.
+### Changes
+* MT4 and MT5 Max position exposure: rules with an empty filter are now shown and highlighted. Before, they were hidden and deleted on the next save.
+* MT5 Max position exposure: a new symbol rule starts with an empty Symbol instead of "*", which matched no symbol.
+* MT4 Drawdown limit and MT5 Drawdown limit: if the rules can't be read, the tab shows the error and a Retry button. Before, it showed an empty table, and saving it could overwrite the rules file.
+* MT5 Drawdown limit: after import, dropdown cells show names instead of codes.
+* MT4 Flex rebate: the plugin's default rules file now opens.
+* MT4 Takeprofit Bridge and MT4 Dynamic leverage advanced: a plugin version that can't be read no longer breaks the Rules page.
+
+## Version 2026.10.9.1028 (16 October, 2026)
+### Features
+* MT4 Ashira moved to the new web interface with General, Rules and Spreads tabs. The old pages are removed, and old bookmarks open the new product page.
+* MT4 Ashira: Direction, Reason, Types and Action are dropdowns with the MT4 plugin's own values. Schedule uses the same editor as other products.
+* MT4 Ashira: values are checked before saving, and wrong cells are highlighted in red.
+* MT4 Ashira: rules and spreads are saved to the same server they were loaded from. Every save is recorded in the WebGUI log.
+### Changes
+* MT4 Ashira: if the licence has no spread management, the Spreads tab shows a notice instead of the table. Rules keep working.
+
 ## Version 2026.10.8.630 (8 October, 2026)
 * All changes to rules, routing, and symbols are now recorded in the WebGUI log, including the username and details of added, removed, modified, or reordered rows. Supported across Dynamic Leverage, TPT Bridge, Kloshira, Hedge Locker, AutoHedger, Bonus Cashback, and Market Depth MT5.
 * Updated SLIP, SLIP EXCEPT LIMIT, and WORST tooltips for TPT Bridge MT5 and Kloshira MT5 to accurately reflect bridge execution logic. No changes to existing rules or order execution behavior.
