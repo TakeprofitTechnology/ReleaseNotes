@@ -1,7 +1,19 @@
 # Dynamic leverage MT5
 
 
+## Version 26.10.16.15 (21 October, 2026)
+### Changes
+* Logging now uses our own logger instead of a third-party library. Log files, names, rotation and line format stay the same.
+* Log lines now reach the log file almost at once. Before, they could be up to 30 seconds late.
+* The plugin no longer waits more than 5 seconds for a log line, so a slow or stuck disk can't freeze it.
+* If the process is killed, the last log lines are no longer cut off.
+
 ## Version 26.10.14.32 (15 October, 2026)
+### Features
+* "Recalc On Rule End" is now set per rule instead of one plugin-wide setting. It is the last column of the rules file.
+* The old plugin-wide RecalcOnRuleEnd setting is removed, and its value is not carried over. After the upgrade, every rule starts with the setting off.
+* Rules files without the new column still load, with the setting off. Accepted values are true/false, 1/0, yes/no and on/off. Any other value rejects the rules update.
+* Without WebGUI configuration, each profile has its own ProfileN-RecalcOnRuleEnd parameter. With 7 or more fully filled profiles, the server limit of 128 plugin parameters is exceeded.
 ### Changes
 * Internal cleanup of third-party code. Settings, rules, log text and plugin behaviour stay the same.
 * A schedule day of month of 65536 or more is now refused. Before, it was silently changed to a different day.
