@@ -1,5 +1,15 @@
 # TPT Social trading
 
+## Version 2026.10.12.875 (16 October, 2026)
+### Features
+* The web GUI can now work over HTTPS without a reverse proxy. Set WebProtocolSettings:Https:Mode to "On", and TST gets and renews its own certificate on the same port.
+* TST uses Let's Encrypt for a public name or address, and its own private CA for a LAN address or a local name.
+### Changes
+* HTTPS is off by default. With Mode "Off", TST works exactly as before.
+* With HTTPS on, plain HTTP pages are redirected to HTTPS, and plain HTTP API calls are refused.
+* With HTTPS on, the REST API also uses HTTPS with the same certificate. Clients on an external address must switch to https://. A REST API on 127.0.0.1 or localhost stays on HTTP.
+* With HTTPS on, sign-in is limited to 10 attempts a minute per address. With HTTPS off, the limit stays at 100.
+
 ## Version 2026.10.7.813 (8 October, 2026)
 ### Features
 * Leaderboard: the card of a leader you follow now shows your copy mode and stop loss next to ROI.
