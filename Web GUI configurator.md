@@ -17,6 +17,8 @@
 * MT4 Dynamic leverage advanced: the nine Level columns are replaced by one Levels column. Clicking it opens a dialog to edit the levels.
 * MT4 Dynamic leverage advanced: Leverage mode, Multiplier mode and Volume type are dropdowns. Schedule uses the same editor as other products.
 * MT4 Dynamic leverage advanced: "Update existing positions" can now be changed.
+* Dynamic Leverage MT5: new "Recalc On Rule End" ON/OFF column in Margin Rules, next to "Reject on negative FM". For a rule without a schedule, the switch is greyed out.
+* Dynamic Leverage MT5: rule import, export and the change log include the new column.
 ### Changes
 * MT4 and MT5 Max position exposure: rules with an empty filter are now shown and highlighted. Before, they were hidden and deleted on the next save.
 * MT5 Max position exposure: a new symbol rule starts with an empty Symbol instead of "*", which matched no symbol.
