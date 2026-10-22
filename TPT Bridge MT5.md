@@ -1,5 +1,12 @@
 # Takeprofit Bridge MT5
 
+## Version 26.10.16.15 (21 October, 2026)
+### Changes
+* Logging now uses our own logger instead of a third-party library. Log files, names, rotation and line format stay the same.
+* Log lines now reach the log file almost at once. Before, they could be up to 30 seconds late.
+* The plugin no longer waits more than 5 seconds for a log line, so a slow or stuck disk can't freeze it.
+* If the process is killed, the last log lines are no longer cut off.
+
 ## Version 26.10.13.66 (15 October, 2026)
 ### Changes
 * Internal cleanup of third-party code. Settings, rules, log text and FIX messages stay the same.
