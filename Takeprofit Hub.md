@@ -1,5 +1,10 @@
 # Takeprofit Hub
 
+## Version 2026.10.21.782 (22 October, 2026)
+* Added Phoenix (TransactCloud) as a new FIX maker type. It supports quotes and IOC and FOK orders.
+* Added the "Reject off-step volume" maker setting. When it is on, orders with a volume that does not match the symbol's Volume Step are rejected with the message "Order volume does not match the volume step".
+* The "Reject off-step volume" setting can be turned on only when every symbol of the maker has a Volume Step.
+
 ## Version 2026.10.7.899 (7 October, 2026)
 * Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
 * Improved Risk Profile rule storage to prevent settings loss and protect against outdated clients and Hub rollbacks.
