@@ -1,5 +1,13 @@
 # Password override tool MT4
 
+## Version 26.10.26.46 (26 October, 2026)
+### Changes
+* Fixed a server freeze when a manager changed the password of an account the plugin had not set up yet.
+* New account setup now runs in the plugin's own background task, about 1 second after the change.
+* If a trader logs in while the account setup is running, only one temporary password is issued.
+* A manager password change is now rejected while the account setup is running. Managers get the generated password from that setup.
+* If the account setup fails, it runs again on the trader's next login.
+
 ## Version 26.08.12.21 (13 August, 2026)
 ### Features
 * The `ManagerLogin` setting now accepts a comma-separated list of manager accounts (e.g. `1000,1001,2000`), and every manager on the list receives the same notifications. A single value keeps working as before; MetaTrader caps the setting at 127 characters (~15-20 logins), and any entry beyond that is dropped with a log message.
