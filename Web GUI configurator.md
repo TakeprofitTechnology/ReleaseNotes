@@ -1,5 +1,22 @@
 # Web GUI сonfigurator
 
+## Version 2026.10.27.749 (28 October, 2026)
+### Features
+* MT4 Ashira: the Action list has the new SLIP_REQUESTED action.
+* MT5 Takeprofit Bridge: the Action list has the new SLIP REQUESTED action. It is saved as SR.
+* The Schedule dialog now says that all times are MT4/MT5 server time, not your local time. This applies to every product with a Schedule column.
+* MT5 Dynamic Leverage: the "Rule starts" and "Rule ends" headers on the Margin Rules tab have a tooltip with the same hint.
+* When Save is disabled because of red cells, a note above the buttons now explains why.
+### Changes
+* MT4 Ashira and MT4 Takeprofit Bridge: a reversed range such as 9-2 is now refused. Before, it was saved and the plugin swapped its ends.
+* MT4 Ashira: a negative Max positive slippage is now refused. Before, it was saved and blocked positive slippage.
+* MT4 Ashira: a negative Max spread is now refused.
+* MT4 Ashira: a failed Rules or Spreads import now shows a short message with the row, column and wrong value. The log gets one ERROR line with no stack trace.
+* MT4 and MT5 Takeprofit Bridge: the B-book profit report no longer includes A-book deals. The Order execution report still shows all deals.
+* MT4 and MT5 Takeprofit Bridge: a report for a period with no trades now downloads an empty file. Before, it showed a gateway error.
+* MT5 Takeprofit Bridge: when a rules save is refused, the error now shows only the field, value, line and reason. The file path and technical prefixes are removed.
+* MT5 Dynamic Leverage: the Margin Rules tab no longer makes the whole page scroll sideways.
+
 ## Version 2026.10.21.694 (21 October, 2026)
 ### Features
 * MT4 Quote Watcher, MT4 and MT5 Max position exposure, MT4 Flex rebate, MT4 Takeprofit Bridge, MT4 and MT5 Drawdown limit and MT4 Dynamic leverage advanced moved to the new web interface. The old pages are removed, and old bookmarks open the new product page.
