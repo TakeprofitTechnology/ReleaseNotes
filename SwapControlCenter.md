@@ -1,5 +1,11 @@
 # Swap control center MT5
 
+## Version 26.10.26.61 (28 October, 2026)
+### Changes
+* Updated third-party libraries to their latest stable versions.
+* Empty groups and symbol swaps lists now show as empty in the configurator. Before, they caused an error.
+* Volume limits such as 0.29 lot are now read exactly. Before, they could be read as slightly less.
+
 ## Version 26.07.01.54 (2 July, 2026)
 ### Changes
 * The plugin now refuses to start if a required setting or configuration file is missing or invalid, showing a clear error status and naming the problem in the journal.
