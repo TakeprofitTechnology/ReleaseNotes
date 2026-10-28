@@ -1,5 +1,15 @@
 # Takeprofit Hub
 
+## Version 2026.10.26.951 (28 October, 2026)
+* Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
+* With the option on, all other actions of the rule are ignored. Their values are kept and apply again if the option is turned off.
+* An order is retargeted only once. A retarget set on the target account's rule is not followed.
+* In the Rules table, such rules show an "Own rules" badge and their ignored actions are dimmed. Double-click the Retarget Account cell to change the account and the option.
+* A rule with the option on no longer needs a B-Book Account on either account.
+* Rules TSV files have a new "RetargetRiskRule" column. Older files still import, with the option off.
+* A stop-out order is no longer moved to another account.
+* Before a rollback to an older Hub version, review rules with this option. The older version applies their kept actions again, including Force Reject and B-Book part.
+
 ## Version 2026.10.21.782 (22 October, 2026)
 * Added Phoenix (TransactCloud) as a new FIX maker type. It supports quotes and IOC and FOK orders.
 * Added the "Reject off-step volume" maker setting. When it is on, orders with a volume that does not match the symbol's Volume Step are rejected with the message "Order volume does not match the volume step".
