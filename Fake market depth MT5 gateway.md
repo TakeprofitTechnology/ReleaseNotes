@@ -1,5 +1,9 @@
 # Takeprofit MarketDepth MT5
 
+## Version 26.10.26.61 (28 October, 2026)
+### Changes
+* Updated third-party libraries to their latest stable versions.
+
 ## Version 26.10.06.42 (6 October, 2026)
 ### Changes
 * A feed address without a login and password (":@host:port") is now accepted. Before, the gateway refused it and kept restarting.
