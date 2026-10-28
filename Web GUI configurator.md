@@ -19,6 +19,10 @@
 * MT4 Dynamic leverage advanced: "Update existing positions" can now be changed.
 * Dynamic Leverage MT5: new "Recalc On Rule End" ON/OFF column in Margin Rules, next to "Reject on negative FM". For a rule without a schedule, the switch is greyed out.
 * Dynamic Leverage MT5: rule import, export and the change log include the new column.
+* MT4 Ashira, MT4 Takeprofit Bridge and MT5 Takeprofit Bridge: each rule row now has a Duplicate button next to Delete. It adds a copy of the rule at the bottom of the list.
+* The copy takes all the rule's values, including unsaved edits. It is saved only when you press Save.
+* The first matching rule wins, so the copy has no effect until you edit it or move it higher.
+* MT4 Ashira: the Spreads tab also has the Duplicate button.
 ### Changes
 * MT4 and MT5 Max position exposure: rules with an empty filter are now shown and highlighted. Before, they were hidden and deleted on the next save.
 * MT5 Max position exposure: a new symbol rule starts with an empty Symbol instead of "*", which matched no symbol.
