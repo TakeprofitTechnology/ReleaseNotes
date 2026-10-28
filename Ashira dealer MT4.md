@@ -1,5 +1,16 @@
 # Ashira dealer MT4
 
+## Version 26.10.27.49 (28 October, 2026)
+### Features
+* New rule action SR (SLIP_REQUESTED). The deal is filled at the requested price plus the Forced negative slippage, not at the market price.
+* With SR, a stop loss hit on a gap closes at the SL level plus slippage, not at the price after the gap.
+* With SR, instant execution requests are never requoted.
+* A stop-out under an SR rule is filled the same way as with S.
+* Older Ashira builds refuse a Rules.ini that contains SR. Change SR rules to another action before a downgrade.
+### Changes
+* A negative Max in Spreads.ini is now ignored with a warning in the log. Before, it made Bid higher than Ask.
+* The error for a wrong Reason value now lists all accepted values: '*' alone, or client, signal, expert, gateway, mobile, web, api.
+
 ## Version 26.05.18.48 (20 May, 2026)
 ### Changes
 * Overall FATAL logs improvements: correct login in FATAL records, self-contained command entry log, logging resilience on crash, reason field in MT4 structure logs.
