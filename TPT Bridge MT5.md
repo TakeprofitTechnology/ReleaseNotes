@@ -8,6 +8,14 @@
 * A stop-out under an SR rule is filled the same way as with S.
 * The gateway log shows the gap between the market and the requested price for SR deals.
 * Older Bridge builds do not start with SR in Rules.ini. Change SR rules to another action before a downgrade.
+### Changes
+* Updated third-party libraries to their latest stable versions.
+* Fixed FIX message resend after lost messages.
+* A FIX session started outside its trading hours no longer logs out on its own.
+* Fixed a rare error when a FIX connection is shutting down.
+* An empty symbols table now shows as empty in the configurator. Before, it caused an error.
+* Report downloads are faster and use less memory.
+* If archiving a log or settings file fails, an older archive waiting for upload is no longer deleted.
 
 ## Version 26.10.16.15 (21 October, 2026)
 ### Changes
