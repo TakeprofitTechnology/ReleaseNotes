@@ -1,5 +1,14 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.10.26.61 (28 October, 2026)
+### Changes
+* Updated third-party libraries to their latest stable versions.
+* Fixed FIX message resend after lost messages.
+* A FIX session started outside its trading hours no longer logs out on its own.
+* Fixed a rare error when a FIX connection is shutting down.
+* Report downloads are faster and use less memory. Large report periods are less likely to fail.
+* If archiving a log or settings file fails, an older archive waiting for upload is no longer deleted.
+
 ## Version 26.10.16.15 (21 October, 2026)
 ### Changes
 * Logging now uses our own logger instead of a third-party library. Log files, names, rotation and line format stay the same.
