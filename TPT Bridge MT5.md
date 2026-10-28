@@ -1,5 +1,14 @@
 # Takeprofit Bridge MT5
 
+## Version 26.10.27.49 (28 October, 2026)
+### Features
+* New rule action SR (SLIP_REQUESTED). A B-book deal is filled at the requested price plus the Extra slippage, not at the market price.
+* With SR, a stop loss hit on a gap closes at the SL level plus slippage, not at the price after the gap.
+* Slippage tolerance works with SR the same way as with S.
+* A stop-out under an SR rule is filled the same way as with S.
+* The gateway log shows the gap between the market and the requested price for SR deals.
+* Older Bridge builds do not start with SR in Rules.ini. Change SR rules to another action before a downgrade.
+
 ## Version 26.10.16.15 (21 October, 2026)
 ### Changes
 * Logging now uses our own logger instead of a third-party library. Log files, names, rotation and line format stay the same.
