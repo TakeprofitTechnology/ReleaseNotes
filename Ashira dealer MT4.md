@@ -10,6 +10,8 @@
 ### Changes
 * A negative Max in Spreads.ini is now ignored with a warning in the log. Before, it made Bid higher than Ask.
 * The error for a wrong Reason value now lists all accepted values: '*' alone, or client, signal, expert, gateway, mobile, web, api.
+* Updated third-party libraries to their latest stable versions.
+* If archiving a log or settings file fails, an older archive waiting for upload is no longer deleted.
 
 ## Version 26.05.18.48 (20 May, 2026)
 ### Changes
