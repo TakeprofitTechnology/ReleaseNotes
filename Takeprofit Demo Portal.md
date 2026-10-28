@@ -1,5 +1,15 @@
 # Takeprofit Demo Portal
 
+## Version 2026.10.27.649 (28 October, 2026)
+### Features
+* Each product now has one fixed address on the stand: tst., pamm. and hub. for the web UI, and tst-api., pamm-api. and hub-api. for the API. The portal opens each user's own demo there.
+* Links to the old per-demo addresses now lead to the portal.
+* Let's Encrypt no longer needs a Cloudflare token. The portal gets and renews the certificate itself through port 80, so the server must be reachable from the internet on port 80.
+* The Stand page shows the Let's Encrypt state: the last attempt, its result and error, the number of failed attempts in a row, and when the next attempt and renewal are due.
+* The admin can open any Ready demo and its Swagger from the Demos and Users pages.
+### Changes
+* After a wrong Acme:DirectoryUrl is fixed and the portal is restarted, Let's Encrypt now tries again.
+
 ## Version 2026.10.14.394 (15 October, 2026)
 ### Features
 * The portal and all demos can now work over HTTPS. HTTPS is off by default and is turned on in the settings file.
