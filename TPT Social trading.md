@@ -1,5 +1,10 @@
 # TPT Social trading
 
+## Version 2026.10.23.667 (26 October, 2026)
+### Features
+* The interface is now available in Chinese (Simplified). Set the language ("en" or "zh-CN") in appsettings.json. It applies to the Trader UI, the Admin GUI and API error messages.
+* The default language is English. The UI has no language switch.
+
 ## Version 2026.10.12.875 (16 October, 2026)
 ### Features
 * The web GUI can now work over HTTPS without a reverse proxy. Set WebProtocolSettings:Https:Mode to "On", and TST gets and renews its own certificate on the same port.
