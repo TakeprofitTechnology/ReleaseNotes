@@ -9,6 +9,27 @@
 * Rules TSV files have a new "RetargetRiskRule" column. Older files still import, with the option off.
 * A stop-out order is no longer moved to another account.
 * Before a rollback to an older Hub version, review rules with this option. The older version applies their kept actions again, including Force Reject and B-Book part.
+* The symbol list, symbol exports and Delete all now refuse a filter id that is not a whole number. Before, such a filter was ignored and the request covered every symbol.
+* On the Symbols page, the bulk delete button now reads "Delete selected" when filters or a search are applied. It deletes only the symbols matching the filters, not the ticked rows.
+* Fixed: a Hub symbol can no longer be deleted while a maker holds an open position on it. Delete all and Delete selected keep such symbols.
+* Fixed: a maker can no longer be deleted while it holds open positions. Adjust its positions to zero first.
+* The maker and taker Positions tabs now show the exact volume, up to 8 decimals.
+* Fixed: the maker Adjust now accepts only Hub symbols. A volume booked earlier under another name can only be reduced to zero. Such names are marked "(not a Hub symbol)" or "(stored name)" in the Adjust Volume window.
+* Fixed: a deposit, withdrawal or credit request with an unknown direction is now refused. Before, it was booked as a deposit or as added credit.
+* Amounts in the Deposit / Withdrawal and Credit confirmation windows now use the account's digits, for example "5 000.00 USD".
+* Fixed: removing credit is now refused if it would take the margin level to or below the stop-out level, the same as a withdrawal.
+* Two withdrawals or credit removals sent at the same time are now checked one after the other.
+* Fixed: account error messages now give the limits the server really uses: Digits from 1 to 8, Adjust price greater than 0.
+* Prices in the Adjust and Send Order windows now show the symbol's digits, for example 1.08520.
+* Position prices now use the digits of the price channel the position was booked on.
+* On the Equity Reports page, the Open Price of EOD positions is no longer rounded to the account's digits.
+* The Send Order window on the trader's Positions page now shows the account name.
+* Fixed: deleting a B-Book Account that another B-Book Account linked no longer breaks account changes until a Hub restart. A B-Book Account can now link only regular Accounts.
+* Deleting an account now also removes it from the linked accounts of every B-Book Account.
+* Fixed: an unknown B-Book Account id on an Account now gives a clear error instead of a server error.
+* On start, the Hub removes links to B-Book Accounts that no longer exist and writes a Warning to hub.log.
+* The account country must now be a three-letter ISO 3166 code, such as "USA". A blank country is still allowed.
+* The account currency is now saved in upper case, without extra spaces.
 
 ## Version 2026.10.21.782 (22 October, 2026)
 * Added Phoenix (TransactCloud) as a new FIX maker type. It supports quotes and IOC and FOK orders.
