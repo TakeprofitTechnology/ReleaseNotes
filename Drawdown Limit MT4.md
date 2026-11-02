@@ -1,5 +1,9 @@
 # Drawdown Limit MT4
 
+## Version 26.10.28.50 (30 October, 2026)
+### Changes
+* The webhook check at startup no longer writes the IntegrationWebhook URL to the server journal.
+
 ## Version 26.09.28.59 (29 September, 2026)
 ### Changes
 * Spaces around a value pushed from the Administrator are now removed, the same as when the settings file is read at startup.
