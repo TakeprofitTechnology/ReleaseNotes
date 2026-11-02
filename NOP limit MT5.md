@@ -1,5 +1,10 @@
 # NOP limit MT5
 
+## Version 26.10.28.49 (30 October, 2026)
+### Changes
+* Fixed: a limits save request without the file text cleared all limits. Such a request is now refused, and the limits stay as they were.
+* The limits file text can now be sent under `File` as well as `file`. Saving from the configurator works as before.
+
 ## Version 26.09.21.31 (25 September, 2026)
 ### Changes
 * The plugin now refuses to start if a setting or limits file is missing or invalid. The Administrator shows a red "DISABLED" status with the reason.
