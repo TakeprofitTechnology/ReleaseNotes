@@ -1,5 +1,10 @@
 # Auto Hedger MT5
 
+## Version 26.10.28.49 (30 October, 2026)
+### Changes
+* The plugin log no longer shows the IntegrationWebhook URL. It now shows `IntegrationWebhook = ***`, or `<empty>` when the parameter is blank.
+* Fixed: a rare REST error was not shown in the configurator. The command itself was still applied.
+* Fixed: Export CSV on the History tab wrote the omnibus account as a number like 0.00401000. It now writes the login, e.g. 401000.
 
 ## Version 26.10.26.61 (28 October, 2026)
 ### Changes
