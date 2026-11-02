@@ -1,5 +1,10 @@
 # Drawdown Limit MT5
 
+## Version 26.10.28.49 (30 October, 2026)
+### Changes
+* The plugin log no longer shows the IntegrationWebhook URL. It now shows `IntegrationWebhook = ***`, or `<empty>` when the parameter is blank.
+* The webhook check at startup no longer writes the URL to the server journal.
+
 ## Version 26.09.28.59 (29 September, 2026)
 ### Changes
 * Internal update of shared code. No change in plugin behaviour.
