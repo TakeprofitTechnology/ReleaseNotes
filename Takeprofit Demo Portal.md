@@ -1,5 +1,24 @@
 # Takeprofit Demo Portal
 
+## Version 2026.10.30.840 (30 October, 2026)
+### Features
+* Portal pages now update by themselves within about a second when a demo starts, stops or crashes. No reload is needed.
+* Admins see new accounts on the Users page and product version changes on the Stand page right away.
+* If the connection drops, the page checks for changes on a timer and reconnects on its own.
+* The Country dropdown now has a search.
+### Changes
+* Dropdowns now look the same as in other products.
+* The "Open tool" button is renamed to "Open application".
+
+## Version 2026.10.28.529 (29 October, 2026)
+### Features
+* The stand now backs itself up every day at 03:00 UTC. A backup keeps the database, the portal keys, the settings file and the Let's Encrypt certificate.
+* Daily backups are kept for 7 days. The folder and the number of days are set in the Backups section of appsettings.json.
+* The stand makes a backup before every update. If the backup fails, the update stops and nothing is changed.
+* New command `sudo ./demoportal.sh backup` makes a backup on demand.
+* New command `sudo ./demoportal.sh restore` puts a backup back. It shows a menu of backups, saves the current state first and asks for confirmation. The stand and all demos are down while it runs.
+* The Stand page and `demoportal.sh status` show the last backups and warn when there is no daily backup for over a day.
+
 ## Version 2026.10.27.649 (28 October, 2026)
 ### Features
 * Each product now has one fixed address on the stand: tst., pamm. and hub. for the web UI, and tst-api., pamm-api. and hub-api. for the API. The portal opens each user's own demo there.
