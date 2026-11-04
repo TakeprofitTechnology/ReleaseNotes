@@ -1,5 +1,10 @@
 # Password override tool MT4
 
+## Version 26.11.02.80 (3 November, 2026)
+### Changes
+* Fixed: "Read only" stayed on after a client changed the password, when another plugin was above Password Override Tool in the plugin list.
+* In this case the plugin writes a one-time [PWD: HOOK-MISSING] warning to the server journal. Moving the plugin above the other one is still recommended.
+
 ## Version 26.10.26.46 (26 October, 2026)
 ### Changes
 * Fixed a server freeze when a manager changed the password of an account the plugin had not set up yet.
