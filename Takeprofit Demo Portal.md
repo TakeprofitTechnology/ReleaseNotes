@@ -1,5 +1,17 @@
 # Takeprofit Demo Portal
 
+## Version 2026.11.2.745 (2 November, 2026)
+### Features
+* Product versions (TST, PAMM, Hub) now reach the stand through GHCR. No manual builds are needed.
+* The admin picks each product's version on the Stand page: a release from GHCR, an archive from the images folder, or an image already on the server.
+* Each demo keeps its own version through restarts. The default version is used only for new demos.
+* Running demos move to a new version only on request: all at once from the Stand page, or one by one from the Demos and Users pages. A client can update their own demo from My demos.
+* If an update fails, the demo goes back to its previous version and data.
+* The demo card and the Demos and Users pages show the version each demo runs.
+* The GHCR token is set on the Settings page. Check token shows the account and the packages it can see.
+### Changes
+* Archives of GHCR images saved into the images folder are now listed on the Stand page.
+
 ## Version 2026.10.30.840 (30 October, 2026)
 ### Features
 * Portal pages now update by themselves within about a second when a demo starts, stops or crashes. No reload is needed.
