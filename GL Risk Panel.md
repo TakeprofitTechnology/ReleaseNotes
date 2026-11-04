@@ -1,5 +1,28 @@
 # GL Risk Panel
 
+## Version 2026.11.2.1227 (3 November, 2026)
+### Features
+* Added the JAFX LIVE server (Pippodrome platform) to the Position Checker as a client and coverage pair, next to the MetaTrader pairs.
+* JAFX symbols are priced in USD from JAFX quotes, so they get Correction, USD values, limits and alerts.
+* The panel has a new web interface: a new sign-in page, data age and Retry on every page, and a phone view.
+* Position Checker: new Sources line, symbol filter and legend. A Correction, USD cell without a rate now reads "no rate".
+* The WL Correction dialog opens from a red pair cell's menu. The volume is prefilled with the exact difference and checked against the lot step.
+* When a source is down, its column shows Unresponsive and correction orders are blocked until it answers.
+* Maker Dashboard: a coverage account with an ML Notification threshold now sends alerts, like an LP.
+* Server Sync: Ignore holidays shows unsaved changes and has a Discard button.
+* Built-in HTTPS can be turned on in the settings. It is off by default.
+### Changes
+* Position Checker recalculation is faster.
+* Total X% Clients now counts the same way as the current bridges (Kloshira MT4, Takeprofit Bridge MT5).
+* Limit fields now read a comma as a decimal point: 1,5 is 1.5, not 15.
+* Fixed the USD value of symbols converted through a reverse quote such as USDJPY.
+* The Correction, USD value and its "no rate" mark now always match the correction shown in the row. A failed USD rate is requested again on the next recalculation.
+* The table and its red and "no rate" marks now update together when a recalculation ends.
+* Recalculate positions now says "already started" when a recalculation is already running.
+* Stopping the service during a recalculation no longer logs errors or publishes partial data.
+* A WL Correction pair is no longer blocked again as Duplicate when the coverage moves back after the order.
+* Before the first start, back up Contents\MakerDashboard.db: old Max limits are converted to USD.
+
 ## Version 2026.6.25.1070 (29 June, 2026)
 ### Changes
 * Fixed an issue where symbols with all-zero volumes (LP returned 0 volume or MT netting result was 0) were incorrectly displayed as missing in the Position Checker table.
