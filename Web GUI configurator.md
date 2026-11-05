@@ -1,5 +1,19 @@
 # Web GUI сonfigurator
 
+## Version 2026.10.28.1042 (4 November, 2026)
+### Features
+* MT5 Swaps free, MT4 Swap blocker and MT5 Swap blocker moved to the new web interface. The old Rules page is removed, and old bookmarks open the new product page.
+* For these products, the rules are in a Rules tab next to General, with Add Rule, Refresh, Save Rules, Import and Export buttons.
+* For these products, wrong cells are highlighted in red, and Save Rules stays disabled until they are fixed.
+* For these products, if the primary server does not answer, the rules load from the backup server. The page header shows which server is used, and Save Rules writes only to that server.
+* For these products, saving without changes writes exactly the same file as before.
+* Backup server addresses are now fetched right after a product card is created or its gateway is changed. Before, this could take up to an hour or a restart.
+* MT5 Dynamic Leverage: the Active days popover no longer has the None option. The last ticked day can't be unticked.
+### Changes
+* MT5 EasyMAM: fee columns now sort by percent, and Payment interval sorts from Once a day to Once a month. Before, they sorted as text.
+* MT4 and MT5 Swap control center: volume limits below 0.000001 are now shown and saved as plain numbers, such as 0.00000099. Before, they showed as 9.9e-7.
+* MT5 AutoHedger: the History tab shows volumes the way MT5 does, with at most 8 decimals. Before, 0.1 could show as 0.10000000000000001.
+
 ## Version 2026.10.27.749 (28 October, 2026)
 ### Features
 * MT4 Ashira: the Action list has the new SLIP_REQUESTED action.
