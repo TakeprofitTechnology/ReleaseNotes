@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+## Version 26.10.28.49 (4 November, 2026)
+### Changes
+* get_info now reports gui_prices_only as "true" when the licence enables the GUI-prices-only mode. Before, it was always "false".
+* In GUI-prices-only mode, the configurator now shows only the General, Symbols and Tools tabs.
+
 ## Version 26.10.27.49 (28 October, 2026)
 ### Features
 * New rule action SR (SLIP_REQUESTED). A B-book deal is filled at the requested price plus the Extra slippage, not at the market price.
