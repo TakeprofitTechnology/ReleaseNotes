@@ -1,5 +1,11 @@
 # MT4 Takeprofit Bridge
 
+## Version 26.11.03.70 (5 November, 2026)
+### Changes
+* A report request now uses about as much MT4 server memory as the report needs. Before, each request reserved 256 MB.
+* One report request returns at most 128 MB. For a longer period the plugin returns an error, so request a shorter period.
+* A log file that can't be read is still skipped, and the plugin log now names it.
+
 ## Version 26.10.26.61 (28 October, 2026)
 ### Changes
 * Updated third-party libraries to their latest stable versions.
