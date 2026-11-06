@@ -1,5 +1,25 @@
 # Web GUI сonfigurator
 
+## Version 2026.11.3.1255 (5 November, 2026)
+### Features
+* MT5 Dealer, MT5 NOP limit, MT5 Flex rebate and MT5 Commission manager moved to the new web interface. The old pages are removed, and old bookmarks open the new product page.
+* For these products, saving without changes writes exactly the same file as before.
+* For these products, wrong cells are highlighted in red, and Save stays disabled until they are fixed.
+* For these products, if the main server does not answer, the data loads from the backup server. Save writes only to the server it was read from.
+* For these products, every save is recorded in the WebGUI log with the user name and the changes.
+* MT5 Dealer: the Action column shows the same names as MT5 Takeprofit Bridge, such as REJECT, SLIP and WORST. The file still stores the short codes.
+* MT5 Dealer: a greyed last row shows that a request matching no rule is rejected.
+* MT5 NOP limit: the product has Total NOP limits and Symbols NOP limits tabs. The current NOP still updates every minute.
+* MT5 Commission manager: the product has Rules and Fees tabs. The Fees tab is shown for plugin 25.07.14 or later.
+* MT5 Flex rebate: the Rules tab shows nine Agent / Commission pairs. Columns can be hidden and resized.
+* MT4 and MT5 Swap control center: hovering over a red cell shows the reason. A list above the table names the problem cells, and a click jumps to the cell.
+* MT5 Swap control center: the Charge swap on excess column is hidden for plugin builds before 25.08.04.
+### Changes
+* MT5 Dealer: a Direction other than *, buy or sell is now refused on save. Before, it was saved and the rule never matched.
+* MT5 Dealer: a rules file the page cannot read now shows an error. Before, it showed an empty table that a save could write over the file.
+* MT5 NOP limit: total limits no longer depend on the server's regional settings. Before, a decimal comma could be written.
+* MT4 and MT5 Swap control center: the Swap manager save confirmation no longer says "All N rows are sent" when some symbols are skipped.
+
 ## Version 2026.10.28.1042 (4 November, 2026)
 ### Features
 * MT5 Swaps free, MT4 Swap blocker and MT5 Swap blocker moved to the new web interface. The old Rules page is removed, and old bookmarks open the new product page.
@@ -9,6 +29,15 @@
 * For these products, saving without changes writes exactly the same file as before.
 * Backup server addresses are now fetched right after a product card is created or its gateway is changed. Before, this could take up to an hour or a restart.
 * MT5 Dynamic Leverage: the Active days popover no longer has the None option. The last ticked day can't be unticked.
+* MT4 and MT5 Swap control center and MT4 Spread management moved to the new web interface. The old pages are removed, and old bookmarks open the new product page.
+* MT4 and MT5 Swap control center: the product page has Plugin rules and Swap manager tabs next to General.
+* MT4 Spread management: the product page has a Spreads tab next to General. The Disabled flag from the file is shown as Enabled (ON or OFF).
+* For these products, wrong cells are highlighted in red, and Save stays disabled until they are fixed.
+* For these products, if the main server does not answer, the data loads from the backup server. Save writes only to the server it was read from.
+* For these products, every save is recorded in the WebGUI log with the user name and the changes.
+* MT4 and MT5 Swap control center: Swap manager no longer sends symbols the server does not have. After the save, a warning lists them.
+* MT4 Swap control center: a group save with no known symbols is refused, so the group's swap list is not wiped.
+* MT4 Swap control center: the triple-swap day can be any day from Sunday to Saturday.
 ### Changes
 * MT5 EasyMAM: fee columns now sort by percent, and Payment interval sorts from Once a day to Once a month. Before, they sorted as text.
 * MT4 and MT5 Swap control center: volume limits below 0.000001 are now shown and saved as plain numbers, such as 0.00000099. Before, they showed as 9.9e-7.
