@@ -1,5 +1,8 @@
 # Takeprofit Hub
 
+## Version 2026.11.5.483 (5 November, 2026)
+* Maker trade sessions now disable sending-time checks by default to prevent lost fills. When enabled, late reports are re-requested on the next logon. Added rejection logging and metrics.
+
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
 * With the option on, all other actions of the rule are ignored. Their values are kept and apply again if the option is turned off.
