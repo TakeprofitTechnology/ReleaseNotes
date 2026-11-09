@@ -13,6 +13,7 @@
 * Account History TSV exports now show the total amount and separate totals for Balance, Profit, Commission, Swap, and Credit. Archived history entries are also included in the export and totals.
 * Fixed missing symbols in Account History Swap entries across the WebGUI, API, and TSV exports. The Symbol filter now correctly includes Swap entries.
 * Fixed numeric formatting in Deals, Positions, Positions History, and Account History TSV exports by removing thousands separators. Renamed the Deals export column "CommentStr" to "Comment" and fixed missing or duplicate deals in reports during archiving.
+* Fixed Positions and Positions History TSV exports downloading error responses as files when ID filters are invalid. Positions History exports now include archived positions and indicate incomplete reports when archive data is unavailable.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
