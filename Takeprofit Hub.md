@@ -14,6 +14,7 @@
 * Fixed missing symbols in Account History Swap entries across the WebGUI, API, and TSV exports. The Symbol filter now correctly includes Swap entries.
 * Fixed numeric formatting in Deals, Positions, Positions History, and Account History TSV exports by removing thousands separators. Renamed the Deals export column "CommentStr" to "Comment" and fixed missing or duplicate deals in reports during archiving.
 * Fixed Positions and Positions History TSV exports downloading error responses as files when ID filters are invalid. Positions History exports now include archived positions and indicate incomplete reports when archive data is unavailable.
+* Fixed MT5 and BP symbol imports to apply the same validation as symbol saving, skipping invalid rows and displaying errors. All symbol imports now normalize and clean input values, with improved error messages and line references.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
