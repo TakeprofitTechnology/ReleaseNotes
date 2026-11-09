@@ -18,6 +18,7 @@
 * Fixed symbol imports (TSV, CSV, XLSX) allowing an empty maker priority list when "Allow Makers only from Priority list" is enabled. Invalid files are now rejected entirely with a clear error message.
 * Fixed takers allowing themselves or nonexistent takers as drop-copy targets. Existing self-referencing takers now receive execution reports only once and can be deleted.
 * Fixed 100% B-Book risk profiles being rejected when rules or symbol overrides have an empty B-Book %. Empty values now inherit the parent setting.
+* Risk profile API now rejects create and update requests with missing required fields, preventing unintended values from being set to 0. Missing fields return a 400 error, while roundDirection remains optional.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
