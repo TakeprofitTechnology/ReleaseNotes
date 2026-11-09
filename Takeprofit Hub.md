@@ -8,6 +8,7 @@
 ## Version 2026.11.3.1146 (3 November, 2026)
 * Revoked WebGUI sessions remain invalid after re-login, preventing old cookies from regaining access following password or user access changes.
 * Revoked WebGUI sessions can no longer establish new SignalR connections. Invalid cookies are cleared, and users are redirected to the login page.
+* Fixed execution trees returning empty results for unknown orders instead of 404. Archived order chains now display correctly, with improved error messages and Buy/Sell direction colors.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
