@@ -3,6 +3,7 @@
 ## Version 2026.11.5.483 (5 November, 2026)
 * Maker trade sessions now disable sending-time checks by default to prevent lost fills. When enabled, late reports are re-requested on the next logon. Added rejection logging and metrics.
 * Account "Digits" can no longer be reduced below the precision of the balance, credit, closed P/L, commission, or swap. This prevents hidden amounts that could block account deletion. An error message identifies the affected amount and explains how to resolve it.
+* Fixed SQLite replication from paths with spaces and improved Windows service installer path handling. Existing services require reinstallation.
 
 
 ## Version 2026.11.3.1146 (3 November, 2026)
