@@ -19,6 +19,7 @@
 * Fixed takers allowing themselves or nonexistent takers as drop-copy targets. Existing self-referencing takers now receive execution reports only once and can be deleted.
 * Fixed 100% B-Book risk profiles being rejected when rules or symbol overrides have an empty B-Book %. Empty values now inherit the parent setting.
 * Risk profile API now rejects create and update requests with missing required fields, preventing unintended values from being set to 0. Missing fields return a 400 error, while roundDirection remains optional.
+* Risk profile makers API now rejects duplicate makers and null entries with a clear 400 error instead of a server error or silently accepting invalid data.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
