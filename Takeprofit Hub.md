@@ -15,6 +15,7 @@
 * Fixed numeric formatting in Deals, Positions, Positions History, and Account History TSV exports by removing thousands separators. Renamed the Deals export column "CommentStr" to "Comment" and fixed missing or duplicate deals in reports during archiving.
 * Fixed Positions and Positions History TSV exports downloading error responses as files when ID filters are invalid. Positions History exports now include archived positions and indicate incomplete reports when archive data is unavailable.
 * Fixed MT5 and BP symbol imports to apply the same validation as symbol saving, skipping invalid rows and displaying errors. All symbol imports now normalize and clean input values, with improved error messages and line references.
+* Fixed symbol imports (TSV, CSV, XLSX) allowing an empty maker priority list when "Allow Makers only from Priority list" is enabled. Invalid files are now rejected entirely with a clear error message.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
