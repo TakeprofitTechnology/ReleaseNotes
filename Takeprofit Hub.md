@@ -2,6 +2,7 @@
 
 ## Version 2026.11.5.483 (5 November, 2026)
 * Maker trade sessions now disable sending-time checks by default to prevent lost fills. When enabled, late reports are re-requested on the next logon. Added rejection logging and metrics.
+* Account "Digits" can no longer be reduced below the precision of the balance, credit, closed P/L, commission, or swap. This prevents hidden amounts that could block account deletion. An error message identifies the affected amount and explains how to resolve it.
 
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
