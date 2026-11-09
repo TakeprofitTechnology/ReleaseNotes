@@ -21,6 +21,7 @@
 * Risk profile API now rejects create and update requests with missing required fields, preventing unintended values from being set to 0. Missing fields return a 400 error, while roundDirection remains optional.
 * Risk profile makers API now rejects duplicate makers and null entries with a clear 400 error instead of a server error or silently accepting invalid data.
 * Risk profile Symbol Overrides TSV imports now apply the same validation as the editor, rejecting invalid commissions, bucket volumes, B-Book percentages, and margin rates with clear errors.
+* Risk profile Symbol Overrides TSV imports now reject duplicate symbols, including case-insensitive matches, with a clear error identifying the symbol and line numbers. Invalid files are rejected entirely.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
