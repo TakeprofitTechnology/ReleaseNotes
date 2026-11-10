@@ -36,6 +36,7 @@
 * Improved list table layouts by removing extra space around row action buttons and optimizing column widths. Report expiration days are now rounded up for accurate display.
 * Risk profile EOD Offset now displays the actual rollover time in UTC, clarifying that it is a shift from 00:00 UTC rather than a time zone. Rollover behavior remains unchanged.
 * Risk Profile rule saves now reject outdated changes to prevent overwriting another user's edits. Reloading is required before retrying. API saves now require baseRulesVersion.
+* Risk Management pages and APIs now require Hub authentication with Administrator role and "View configuration" permission, preventing unauthorized access to the Risk Profiling Panel.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
