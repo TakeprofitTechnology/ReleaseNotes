@@ -40,7 +40,7 @@
 
 
 ## Version 2026.10.30.854 (30 October, 2026)
-Orders crossing zero net exposure must now end within the NOP limit, preventing excessive positions on the opposite side. Orders reducing exposure without crossing zero remain unaffected.
+* Orders crossing zero net exposure must now end within the NOP limit, preventing excessive positions on the opposite side. Orders reducing exposure without crossing zero remain unaffected.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
