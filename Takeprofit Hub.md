@@ -45,6 +45,7 @@
 * Overnight scheduled event windows now follow the weekday on which they start. For example, Friday 22:00–02:00 runs through Saturday 02:00. Existing overnight event schedules should be reviewed after the update.
 * Fixed Prometheus metrics retaining stale series for deleted or renamed accounts, Hub symbols, takers, and makers. Their metrics are now removed within approximately 5 seconds, while active entities remain unaffected.
 * Failed webhook alerts are no longer counted as sent and are retried on the next check cycle, with a single error log. Alerts are now sent only for Administrators with "View configuration" permission.
+* Maker TIF conversion saves now reject duplicate takers with a clear 400 error instead of a server error. The TIF Conversions tab displays the error in a single toast and preserves unsaved changes.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
