@@ -39,6 +39,10 @@
 * Risk Management pages and APIs now require Hub authentication with Administrator role and "View configuration" permission, preventing unauthorized access to the Risk Profiling Panel.
 
 
+## Version 2026.10.30.854 (30 October, 2026)
+Orders crossing zero net exposure must now end within the NOP limit, preventing excessive positions on the opposite side. Orders reducing exposure without crossing zero remain unaffected.
+
+
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
 * With the option on, all other actions of the rule are ignored. Their values are kept and apply again if the option is turned off.
