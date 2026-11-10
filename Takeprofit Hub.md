@@ -33,6 +33,7 @@
 * Failed WebGUI login attempts are now logged with the client IP, username (if known), and failure reason, without exposing passwords.
 * Risk profiles without makers now reject rules and symbol overrides with a B-Book share below 100%, identifying the invalid entries. Retargeted orders also require makers on the target account's risk profile.
 * Improved public REST API Swagger documentation for price channels, including response schemas and Dynamic spread band rules.
+* Improved list table layouts by removing extra space around row action buttons and optimizing column widths. Report expiration days are now rounded up for accurate display.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
