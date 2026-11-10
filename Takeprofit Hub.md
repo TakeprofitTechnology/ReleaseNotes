@@ -49,7 +49,7 @@
 * Improved Symbols import validation errors to identify invalid fields and symbols instead of showing generic messages. List page element counters now appear next to the search box.
 * Maker FIX routing imports now reject rules with all FIX tags empty, preventing unintended overrides of default routing. Creating, editing, or importing routing rules for unknown or B-Book Accounts is also rejected with clear errors.
 * Price channel rule validation now consistently rejects taker symbols mapped to different Hub symbols, including disabled rules. Conflicts are highlighted before saving, and invalid API saves return 400 instead of 500.
-
+* NOP limit rules now reject duplicate accounts, price channels, or takers with a clear 400 error instead of a server error. Imports also identify the affected row, column, and ID.
 
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
