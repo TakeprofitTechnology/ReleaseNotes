@@ -41,6 +41,7 @@
 
 ## Version 2026.10.30.854 (30 October, 2026)
 * Orders crossing zero net exposure must now end within the NOP limit, preventing excessive positions on the opposite side. Orders reducing exposure without crossing zero remain unaffected.
+* Searchable dropdowns now display all matching options instead of silently limiting results to 50. Symbol filters in Deals, Orders, and Active Orders now indicate when more matches are available.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
