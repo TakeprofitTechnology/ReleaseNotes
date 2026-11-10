@@ -26,6 +26,7 @@
 * Risk profile Symbol Overrides TSV imports now accept files with only the three required columns. CommissionPerMillion and BucketVolume are optional, and column headers are case-insensitive and trimmed.
 * Invalid list filters now return a clear 400 error instead of being ignored, preventing unfiltered results and unintended bulk actions. The WebGUI displays errors and disables affected actions.
 * Invalid Direction and Order Type filters now return a clear 400 error, preventing inconsistent results and unintended Cancel All / Reject All actions.
+* Fixed Symbol filtering on Positions and Active Orders to support lists, exclusions, and wildcard patterns consistently. Cancel All / Reject All now respect these filters, and Consumer External Data supports case-insensitive partial matching.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
