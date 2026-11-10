@@ -55,6 +55,7 @@
 * Scheduled events now save and display weekdays without duplicates, sorted in chronological order. Previously saved events also display each weekday only once.
 * Scheduled event names are now limited to 100 characters and cannot contain tabs or line breaks. Invalid names are rejected with clear validation errors, preventing issues with rule override backups.
 * Prevented deletion of price channels and rules used by scheduled events. The WebGUI now warns when configuration changes may leave open positions unclosable.
+* Hub symbols used in scheduled event overrides can no longer be deleted. Bulk deletion skips protected symbols, and error messages now clearly identify what blocks deletion.
 
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
