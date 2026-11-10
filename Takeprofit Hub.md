@@ -47,6 +47,7 @@
 * Failed webhook alerts are no longer counted as sent and are retried on the next check cycle, with a single error log. Alerts are now sent only for Administrators with "View configuration" permission.
 * Maker TIF conversion saves now reject duplicate takers with a clear 400 error instead of a server error. The TIF Conversions tab displays the error in a single toast and preserves unsaved changes.
 * Improved Symbols import validation errors to identify invalid fields and symbols instead of showing generic messages. List page element counters now appear next to the search box.
+* Maker FIX routing imports now reject rules with all FIX tags empty, preventing unintended overrides of default routing. Creating, editing, or importing routing rules for unknown or B-Book Accounts is also rejected with clear errors.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
