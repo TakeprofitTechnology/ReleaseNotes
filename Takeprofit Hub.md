@@ -28,6 +28,7 @@
 * Invalid Direction and Order Type filters now return a clear 400 error, preventing inconsistent results and unintended Cancel All / Reject All actions.
 * Fixed Symbol filtering on Positions and Active Orders to support lists, exclusions, and wildcard patterns consistently. Cancel All / Reject All now respect these filters, and Consumer External Data supports case-insensitive partial matching.
 * Logout now invalidates the session on the Hub, preventing reuse of signed-out cookies. Other active sessions remain unaffected.
+* Password expiration dates must now be after today, preventing immediate lockouts. The selected date is treated as the first day without access.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
