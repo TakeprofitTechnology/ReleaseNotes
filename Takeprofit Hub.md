@@ -32,6 +32,7 @@
 * Administrators with only "View account data" permission can now access account data pages and land on Positions instead of Access denied. Configuration links are hidden without "View configuration" permission.
 * Failed WebGUI login attempts are now logged with the client IP, username (if known), and failure reason, without exposing passwords.
 * Risk profiles without makers now reject rules and symbol overrides with a B-Book share below 100%, identifying the invalid entries. Retargeted orders also require makers on the target account's risk profile.
+* Improved public REST API Swagger documentation for price channels, including response schemas and Dynamic spread band rules.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
