@@ -25,6 +25,7 @@
 * Risk profile Symbol Overrides TSV imports now reject duplicate symbols, including case-insensitive matches, with a clear error identifying the symbol and line numbers. Invalid files are rejected entirely.
 * Risk profile Symbol Overrides TSV imports now accept files with only the three required columns. CommissionPerMillion and BucketVolume are optional, and column headers are case-insensitive and trimmed.
 * Invalid list filters now return a clear 400 error instead of being ignored, preventing unfiltered results and unintended bulk actions. The WebGUI displays errors and disables affected actions.
+* Invalid Direction and Order Type filters now return a clear 400 error, preventing inconsistent results and unintended Cancel All / Reject All actions.
 
 
 ## Version 2026.10.26.951 (28 October, 2026)
