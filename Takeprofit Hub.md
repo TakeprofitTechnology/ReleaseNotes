@@ -53,6 +53,7 @@
 * NOP limits imports now validate required column headers and their order, rejecting missing or misplaced columns with clear errors instead of silently skipping or misreading rules.
 * NOP limit rules now detect identical filters regardless of symbol pattern order, spacing, or duplicates. Saving or importing rules with identical filters is rejected with a clear error.
 * Scheduled events now save and display weekdays without duplicates, sorted in chronological order. Previously saved events also display each weekday only once.
+* Scheduled event names are now limited to 100 characters and cannot contain tabs or line breaks. Invalid names are rejected with clear validation errors, preventing issues with rule override backups.
 
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
