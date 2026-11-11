@@ -117,6 +117,8 @@
 * Fixed Takers and linked-accounts popups extending beyond the browser window. Popups now adjust their position near screen edges and scroll internally when lists are long.
 * Added "No makers" and "No takers" options to the Symbols filter, allowing users to find symbols without assigned makers or takers and combine them with other selections.
 * Fixed risk profile rule editing and deletion after rolling back to an older Hub version. Unsupported rule settings may reset to defaults when saved by the older version.
+* Fixed the Hub top bar on narrow browser windows. Overflowing menu items now move into a "More" dropdown, keeping the theme toggle and Logout accessible.
+* Fixed Synthetic Liquidity formula previews hanging on slow responses.
 
 ## Version 2026.10.7.899 (7 October, 2026)
 * Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
