@@ -65,6 +65,7 @@
 * The Hub version is now visible on the login page before sign-in and available through the unauthenticated /api/v1/auth/status endpoint for monitoring.
 * Removed "Select Visible" from the Market Watch symbol filter. Improved chart price labels and long Makers list display.
 * Accumulate and Send bucket mode now supports 0% B-Book. Whole maker volume steps are routed directly to makers, while the remaining volume is filled by B-Book and accumulated in the bucket.
+* Fixed Synthetic Liquidity symbol imports overwriting existing settings. Imports now preserve unspecified fields, disabled states, execution redirects, and spread ranges.
 
 ## Version 2026.10.28.224 (28 October, 2026)
 * Accounts can now link only to valid B-Book Accounts. Deleting an account also clears any existing B-Book links to it, preventing errors during subsequent edits or deletions.
