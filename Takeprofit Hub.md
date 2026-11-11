@@ -115,6 +115,7 @@
 
 ## Version 2026.10.14.687 (14 October, 2026)
 * Fixed Takers and linked-accounts popups extending beyond the browser window. Popups now adjust their position near screen edges and scroll internally when lists are long.
+* Added "No makers" and "No takers" options to the Symbols filter, allowing users to find symbols without assigned makers or takers and combine them with other selections.
 
 ## Version 2026.10.7.899 (7 October, 2026)
 * Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
