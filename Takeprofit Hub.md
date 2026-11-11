@@ -60,6 +60,7 @@
 * Fixed multi-day reports excluding the final selected day. Orders, Deals, Slippage, and Account Stats reports now include the full date range without counting entries from the following day.
 * Fixed alert changes triggering repeated Account Balance and Account Margin Level notifications before their Sending Interval expires. Newly created alerts with breached thresholds are still sent immediately.
 * Account Balance and Account Margin Level alerts are now checked every minute, regardless of the Sending Interval. The interval only controls repeat notifications, so new threshold breaches are detected promptly.
+* Failed Quote Monitoring and Connectivity alerts are now retried every minute until delivered. Recovery events are sent together with the original alerts, preventing lost notifications.
 
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
