@@ -121,6 +121,10 @@
 * Added unique passwords for each Hub demo and a login panel with copyable credentials and manual password change indicators. Regular installations remain unchanged.
 * Added confirmation dialogs when enabling or disabling symbols on the Synthetic Liquidity page in both Table and Cards views.
 
+## Version 2026.10.14.687 (14 October, 2026)
+* Fixed Takers and linked-accounts popups extending beyond the browser window. Popups now adjust their position near screen edges and scroll internally when lists are long.
+
+
 ## Version 2026.10.6.1163 (6 October, 2026)
 * Added a structured form for editing FIX maker and taker settings, with Raw INI still available.
 * Added automatic TLS configuration and certificate management for FIX takers.
