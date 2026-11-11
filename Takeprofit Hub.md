@@ -110,6 +110,9 @@
 * The "Reject off-step volume" setting can be turned on only when every symbol of the maker has a Volume Step.
 * Fixed TakeprofitUltra takers using a shared port leaving quote or trade sessions connected after being edited, disabled, or deleted. 
 
+## Version 2026.10.20.364  (20 October, 2026)
+* NOP limit usage now updates every 5 minutes using current USD rates, keeping exposure and alerts aligned with market prices. Pre-trade checks and Adjust use fresh rates, and usage refreshes shortly after restart.
+
 ## Version 2026.10.7.899 (7 October, 2026)
 * Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
 * Improved Risk Profile rule storage to prevent settings loss and protect against outdated clients and Hub rollbacks.
