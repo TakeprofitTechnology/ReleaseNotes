@@ -113,6 +113,9 @@
 ## Version 2026.10.20.364  (20 October, 2026)
 * NOP limit usage now updates every 5 minutes using current USD rates, keeping exposure and alerts aligned with market prices. Pre-trade checks and Adjust use fresh rates, and usage refreshes shortly after restart.
 
+## Version 2026.10.14.687 (14 October, 2026)
+* Fixed Takers and linked-accounts popups extending beyond the browser window. Popups now adjust their position near screen edges and scroll internally when lists are long.
+
 ## Version 2026.10.7.899 (7 October, 2026)
 * Fixed FIX execution reports incorrectly including tag 44 for market orders submitted without a price. Tag 44 is now included only when the taker provides a price, while maker-side routing remains unchanged.
 * Improved Risk Profile rule storage to prevent settings loss and protect against outdated clients and Hub rollbacks.
@@ -121,8 +124,7 @@
 * Added unique passwords for each Hub demo and a login panel with copyable credentials and manual password change indicators. Regular installations remain unchanged.
 * Added confirmation dialogs when enabling or disabling symbols on the Synthetic Liquidity page in both Table and Cards views.
 
-## Version 2026.10.14.687 (14 October, 2026)
-* Fixed Takers and linked-accounts popups extending beyond the browser window. Popups now adjust their position near screen edges and scroll internally when lists are long.
+
 
 
 ## Version 2026.10.6.1163 (6 October, 2026)
