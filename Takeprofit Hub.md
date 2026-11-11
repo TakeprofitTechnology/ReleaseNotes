@@ -66,7 +66,12 @@
 * Removed "Select Visible" from the Market Watch symbol filter. Improved chart price labels and long Makers list display.
 * Accumulate and Send bucket mode now supports 0% B-Book. Whole maker volume steps are routed directly to makers, while the remaining volume is filled by B-Book and accumulated in the bucket.
 
-## Version 2026.10.26.951 (28 October, 2026)
+## Version 2026.10.28.224 (28 October, 2026)
+* Accounts can now link only to valid B-Book Accounts. Deleting an account also clears any existing B-Book links to it, preventing errors during subsequent edits or deletions.
+
+
+
+## Version 2026.10.26.951 (26 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
 * With the option on, all other actions of the rule are ignored. Their values are kept and apply again if the option is turned off.
 * An order is retargeted only once. A retarget set on the target account's rule is not followed.
