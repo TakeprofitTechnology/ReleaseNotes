@@ -70,6 +70,7 @@
 * Accounts can now link only to valid B-Book Accounts. Deleting an account also clears any existing B-Book links to it, preventing errors during subsequent edits or deletions.
 * Accounts can no longer be linked to nonexistent takers. Invalid taker IDs are rejected with a clear 400 error, and duplicate IDs are saved only once.
 * Fixed symbol casing in Adjust, Send Order and Place Order, ensuring positions are correctly priced and included in margin checks. Also prevented premature invalid-position errors during Hub startup.
+* Fixed margin and NOP limit checks for reversed risk-profile rules. Orders are now evaluated on the client's side, preventing position increases without sufficient margin and incorrect rejection of reducing orders.
 
 
 ## Version 2026.10.26.951 (26 October, 2026)
