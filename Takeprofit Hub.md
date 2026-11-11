@@ -57,6 +57,7 @@
 * Prevented deletion of price channels and rules used by scheduled events. The WebGUI now warns when configuration changes may leave open positions unclosable.
 * Hub symbols used in scheduled event overrides can no longer be deleted. Bulk deletion skips protected symbols, and error messages now clearly identify what blocks deletion.
 * Fixed FOK orders displaying an incorrect TIF in Active Orders. TIF filters now correctly exclude pending GTC orders, and Orders no longer fails to load when the pending flag is missing.
+* Fixed multi-day reports excluding the final selected day. Orders, Deals, Slippage, and Account Stats reports now include the full date range without counting entries from the following day.
 
 ## Version 2026.10.26.951 (28 October, 2026)
 * Added the "Use target account's rules" option to the Retarget Account action in Risk Profile rules. With it on, a retargeted order is handled by the target account's own rules, symbol settings and profile defaults.
