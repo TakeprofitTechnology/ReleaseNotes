@@ -68,6 +68,7 @@
 
 ## Version 2026.10.28.224 (28 October, 2026)
 * Accounts can now link only to valid B-Book Accounts. Deleting an account also clears any existing B-Book links to it, preventing errors during subsequent edits or deletions.
+* Accounts can no longer be linked to nonexistent takers. Invalid taker IDs are rejected with a clear 400 error, and duplicate IDs are saved only once.
 
 
 
