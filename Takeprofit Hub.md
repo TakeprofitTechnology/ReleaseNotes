@@ -109,7 +109,8 @@
 * Added Phoenix (TransactCloud) as a new FIX maker type. It supports quotes and IOC and FOK orders.
 * Added the "Reject off-step volume" maker setting. When it is on, orders with a volume that does not match the symbol's Volume Step are rejected with the message "Order volume does not match the volume step".
 * The "Reject off-step volume" setting can be turned on only when every symbol of the maker has a Volume Step.
-* Fixed TakeprofitUltra takers using a shared port leaving quote or trade sessions connected after being edited, disabled, or deleted. 
+* Fixed TakeprofitUltra takers using a shared port leaving quote or trade sessions connected after being edited, disabled, or deleted.
+* Added the ability to duplicate risk profile rules. Copies keep the original settings, are disabled by default, and can be edited and reordered before saving.
 
 ## Version 2026.10.20.364  (20 October, 2026)
 * NOP limit usage now updates every 5 minutes using current USD rates, keeping exposure and alerts aligned with market prices. Pre-trade checks and Adjust use fresh rates, and usage refreshes shortly after restart.
