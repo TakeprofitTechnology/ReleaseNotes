@@ -1,5 +1,10 @@
 # Password override tool MT4
 
+## Version 26.11.10.83 (10 November, 2026)
+### Changes
+* New password history records now use a secure random generator. Passwords already stored keep working.
+* If the secure generator fails, the plugin writes an error to its log and does not add that password to the history.
+
 ## Version 26.11.02.80 (3 November, 2026)
 ### Changes
 * Fixed: "Read only" stayed on after a client changed the password, when another plugin was above Password Override Tool in the plugin list.
