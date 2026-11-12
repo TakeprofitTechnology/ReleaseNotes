@@ -1,5 +1,11 @@
 # TPT PAMM
 
+
+## Version 2026.10.28.375 (28 October, 2026)
+* Added cTrader servers to Settings. Administrators can now choose MT5 or cTrader when adding a server.
+* PAMM can now connect to cTrader servers and reconnect automatically. Account linking and money operations will come in later releases.
+* Profit and loss are now shared based on each participant's current balance, including earned profit. This makes calculations correct after partial withdrawals and new investments.
+
 ## Version 2026.10.12.863 (12 October, 2026)
 * Improved stop-loss execution speed when multiple stop-losses trigger simultaneously and fixed delays caused by other leaders' account history errors.
 * Improved payout reconciliation to prevent retried payouts from being incorrectly marked as paid using another payout's MT5 deal. Conflicting payouts are now sent for manual review instead.
