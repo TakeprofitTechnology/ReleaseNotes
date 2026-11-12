@@ -1,5 +1,12 @@
 # GL Risk Panel
 
+## Version 2026.11.6.855 (11 November, 2026)
+### Changes
+* Fixed: rules with a schedule were applied all day. Now a rule applies only to positions opened inside its time window, as in the bridge.
+* A rule with a schedule the bridge cannot read is no longer applied to any position. The panel writes a warning to the log.
+* The table now appears right after the recalculation finishes, not a few minutes later. The button stays at 99% while corrections are converted to USD.
+* On MT4 servers, CFD and crypto USD values now use the latest quote if it is not older than 3 minutes.
+
 ## Version 2026.11.2.1227 (3 November, 2026)
 ### Features
 * Added the JAFX LIVE server (Pippodrome platform) to the Position Checker as a client and coverage pair, next to the MetaTrader pairs.
