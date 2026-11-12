@@ -1,10 +1,31 @@
 # TPT PAMM
 
-
 ## Version 2026.10.28.375 (28 October, 2026)
 * Added cTrader servers to Settings. Administrators can now choose MT5 or cTrader when adding a server.
 * PAMM can now connect to cTrader servers and reconnect automatically. Account linking and money operations will come in later releases.
 * Profit and loss are now shared based on each participant's current balance, including earned profit. This makes calculations correct after partial withdrawals and new investments.
+
+## Version 2026.10.22.609 (22 October, 2026)
+* The leader dashboard now shows a message when MT5 is unavailable instead of showing "No positions". Balance figures return when the connection is restored.
+* Investment operations are now safely retried if the MT5 connection changes. Leader deposits are also calculated correctly after daylight-saving time changes.
+
+## Version 2026.10.20.647 (22 October, 2026)
+* Reconciliation now reads MT5 accounts in batches to reduce server load.
+* Investor dashboards, admin pages, and the API now share MT5 data to avoid repeated requests.
+* Background checks now read leader accounts in batches, reducing server load.
+* Stop-loss calculations no longer restart unnecessarily after a payment. The 30-day profit shows a dash when server time is unavailable.
+* The online demo now has dedicated accounts, restricted actions, and saved data after restarts. Regular installations are unchanged.
+
+## Version 2026.10.16.534 (16 October, 2026)
+* Failed investment exits can now be retried safely without closing positions twice.
+* A stop-loss now closes only the investment it belongs to.
+* Payouts are no longer sent twice if MT5 responds late. Unconfirmed payouts are held for manual review.
+* Money operations are no longer duplicated after daylight-saving time changes.
+* PAMM no longer crashes if MT5 restarts during a money transfer.
+* The leader positions API now returns HTTP 503 when MT5 is unavailable instead of an empty list.
+* Multiple stop-losses in the same pool are now processed within seconds. Withdrawal payouts are sent immediately.
+* Leader accounts are now created automatically when administrators open the Leaders page or call the API. Leaders do not need to sign in first.
+* Sign-in limits are 10 attempts per minute per IP address and 5 failed attempts per minute per login. These limits can be changed in Settings.
 
 ## Version 2026.10.12.863 (12 October, 2026)
 * Improved stop-loss execution speed when multiple stop-losses trigger simultaneously and fixed delays caused by other leaders' account history errors.
