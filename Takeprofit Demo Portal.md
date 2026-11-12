@@ -1,5 +1,17 @@
 # Takeprofit Demo Portal
 
+## Version 2026.11.11.834 (11 November, 2026)
+### Features
+* The portal now sends leads to sales: events go to a make.com webhook, and the scenario creates a lead in Pipedrive.
+* Events sent: phone verified, demo ordered, extended or ended, and name or company changed.
+* New "Leads to sales" section on the Settings page: webhook address, Check button and sample messages.
+* New Events page: shows every message and its status, and can send it again.
+* With no webhook set, messages are held until the admin sends them from the Events page. A message not delivered within 2 hours is given up.
+* Demo updates on large data no longer fail: the data copy now has 30 minutes instead of 100 seconds.
+### Changes
+* Fixed: a double click on Mark verified showed an error.
+* Mark verified on an already verified phone no longer sends a second message to sales.
+
 ## Version 2026.11.2.745 (2 November, 2026)
 ### Features
 * Product versions (TST, PAMM, Hub) now reach the stand through GHCR. No manual builds are needed.
