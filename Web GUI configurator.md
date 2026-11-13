@@ -1,5 +1,12 @@
 # Web GUI сonfigurator
 
+## Version 2026.11.10.1059 (12 November, 2026)
+### Features
+* MT5 EasyMAM: added the Withdraw command to the investor menu. The window shows the balance and equity and warns that positions will be partly closed.
+* MT5 EasyMAM: the Investors tab shows the "Withdraw … pending" status and withdrawal errors. They can be found with the Status filter.
+* Rules tables of most products: hovering over a red cell now shows why it is refused. A list above the table names each refused cell, and a click on a line jumps to the cell.
+* Rules tables of most products: Save stays off while there are refused cells, and its tooltip shows how many to fix.
+
 ## Version 2026.11.3.1255 (5 November, 2026)
 ### Features
 * MT5 Dealer, MT5 NOP limit, MT5 Flex rebate and MT5 Commission manager moved to the new web interface. The old pages are removed, and old bookmarks open the new product page.
