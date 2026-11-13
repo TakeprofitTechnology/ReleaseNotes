@@ -1,5 +1,22 @@
 # EasyMAM MT5
 
+## Version 2026.11.9.795 (12 November, 2026)
+### Changes
+* Fixed: after a deal was corrected in MT5 and EasyMAM restarted, a withdrawal deal could be split between investors. Now it stays with its investor.
+
+## Version 2026.11.5.1396 (6 November, 2026)
+### Features
+* Added partial withdrawal from an attached investor. The investor stays attached. The same share of each of their positions is closed, then the amount is withdrawn from the balance.
+* A withdrawal can be started from the Web GUI (Withdraw in the investor menu), with the REST command /Command/v2/Withdraw or with the [wd:<amount>] command in the Status field.
+* While a withdrawal is in progress, the investor status shows "Withdraw <amount> <currency> pending".
+* A withdrawal does not affect other investors of the money manager.
+* No profit fee or detach fee is charged on a partial withdrawal.
+* A withdrawal of the whole equity is done as a hot detach.
+* If a withdrawal fails, the status shows the reason: err#13 (invalid command or IgnoreOpenTrades = true), err#14 (amount above equity), err#15 (not enough balance or free margin), err#16 (the server rejected the closing order).
+* After a partial withdrawal, a non-hot detach returns err#1 until the money manager closes the partly closed position.
+* A withdrawal repeated after an error, a cancel or a restart closes only what is still missing. The same amount is never withdrawn twice.
+* The MT5 server checks and debits the funds in one step, so the investor's balance cannot go below zero.
+
 ## Version 2026.4.30.866 (30 April, 2026)
 ### Changes
 * Fixed issue with batch attach
