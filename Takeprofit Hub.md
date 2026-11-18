@@ -5,6 +5,7 @@
 * New and changed Hub user passwords must be 15–128 characters long and differ from the login. Existing passwords remain valid until changed.
 * Moved the "Fill default configuration" button directly below the Maker/Taker Type field. Added confirmation before replacing existing settings.
 * Fixed commission rounding for partially filled orders. Commission is now rounded once per order, ensuring consistent total charges regardless of the number of fills or LP/B-Book split.
+* API keys now expire along with the user's password, preventing further API access. Requests made with expired keys return 401 Unauthorized.
 
 ## Version 2026.11.5.483 (5 November, 2026)
 * Maker trade sessions now disable sending-time checks by default to prevent lost fills. When enabled, late reports are re-requested on the next logon. Added rejection logging and metrics.
