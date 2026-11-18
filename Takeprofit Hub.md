@@ -9,6 +9,7 @@
 * Moved the "Fill default configuration" button directly below the Maker/Taker Type field. Added confirmation before replacing existing settings.
 * Fixed commission rounding for partially filled orders. Commission is now rounded once per order, ensuring consistent total charges regardless of the number of fills or LP/B-Book split.
 * API keys now expire along with the user's password, preventing further API access. Requests made with expired keys return 401 Unauthorized.
+* Fixed Default Volume being reset when editing maker symbols. Added a Default Volume field to the symbol editor and a column to the Symbols table, with API support.
 
 ## Version 2026.11.13.835 (13 November, 2026)
 * Fixed incorrect partial fill volumes reported to takers for orders reversed by negative Volume % risk rules. Reported volumes are now scaled correctly and never exceed the original order volume.
