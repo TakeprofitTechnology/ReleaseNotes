@@ -56,6 +56,8 @@
 * Risk profile EOD Offset now displays the actual rollover time in UTC, clarifying that it is a shift from 00:00 UTC rather than a time zone. Rollover behavior remains unchanged.
 * Risk Profile rule saves now reject outdated changes to prevent overwriting another user's edits. Reloading is required before retrying. API saves now require baseRulesVersion.
 * Risk Management pages and APIs now require Hub authentication with Administrator role and "View configuration" permission, preventing unauthorized access to the Risk Profiling Panel.
+* Unified Symbol filtering across trading and history pages, adding support for comma-separated lists, exclusions, and case-insensitive wildcard patterns.
+* Improved Consumer External Data filtering on Active Orders.
 
 
 ## Version 2026.10.30.854 (30 October, 2026)
