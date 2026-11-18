@@ -11,6 +11,7 @@
 * API keys now expire along with the user's password, preventing further API access. Requests made with expired keys return 401 Unauthorized.
 * Fixed Default Volume being reset when editing maker symbols. Added a Default Volume field to the symbol editor and a column to the Symbols table, with API support.
 * Improved webhook security by preventing sensitive URLs and tokens from appearing in Hub logs. HTTP request details and potentially sensitive error responses are no longer logged.
+* Prevented accidental overwriting of event rule overrides when multiple administrators edit the same event. Outdated changes are now detected, and users are prompted to reload before saving.
 
 ## Version 2026.11.13.835 (13 November, 2026)
 * Fixed incorrect partial fill volumes reported to takers for orders reversed by negative Volume % risk rules. Reported volumes are now scaled correctly and never exceed the original order volume.
