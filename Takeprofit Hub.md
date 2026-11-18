@@ -15,6 +15,7 @@
 * Fixed duplicate error log entries for maker and taker FIX trade and drop-copy sessions. Each error is now logged only once, without affecting FIX session behavior.
 * Updated Swagger documentation to include the ETag response header for price channel rules endpoints, enabling API clients to handle rule versioning correctly.
 * Updated Swagger documentation to clarify that omitted markup fields default to 0 and omitted rules are removed when replacing price channel rules. API behavior remains unchanged.
+* Fixed incorrect execution prices for limit orders converted to market orders by the Limit as Market risk rule. These orders now execute at market prices, with slippage applied correctly.
 
 ## Version 2026.11.13.835 (13 November, 2026)
 * Fixed incorrect partial fill volumes reported to takers for orders reversed by negative Volume % risk rules. Reported volumes are now scaled correctly and never exceed the original order volume.
