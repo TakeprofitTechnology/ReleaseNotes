@@ -15,6 +15,9 @@
 * Added a warning log entry when an FOK order converted to GTC is partially filled, including order details and the affected maker and taker. Trading behavior remains unchanged.
 * Hub now starts even when taker ports are occupied. Affected takers are marked as Bad Configuration, with detailed error messages and the ability to recover without restarting Hub.
 * Risk profile rules can now be reordered by editing their position in the # column, including while searching. Also fixed unsaved changes carrying over when switching between risk profiles.
+ 
+## Version 2026.11.11.891 (11 November, 2026)
+* Fixed Open Time and conversion rate changing after a partial position close. Position timestamps now match their corresponding deals, and swap charges are correctly applied to remaining positions.
 
 ## Version 2026.11.5.483 (5 November, 2026)
 * Maker trade sessions now disable sending-time checks by default to prevent lost fills. When enabled, late reports are re-requested on the next logon. Added rejection logging and metrics.
