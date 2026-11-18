@@ -21,6 +21,7 @@
  
 ## Version 2026.11.11.891 (11 November, 2026)
 * Fixed Open Time and conversion rate changing after a partial position close. Position timestamps now match their corresponding deals, and swap charges are correctly applied to remaining positions.
+* Prevented accidental overwriting of price channel settings and rules during concurrent editing. Added change detection, save conflict warnings, and an option to merge rule changes before saving.
 
 ## Version 2026.11.5.483 (5 November, 2026)
 * Maker trade sessions now disable sending-time checks by default to prevent lost fills. When enabled, late reports are re-requested on the next logon. Added rejection logging and metrics.
