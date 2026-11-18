@@ -1,5 +1,8 @@
 # Takeprofit Hub
 
+## Version 2026.11.18.886  (18 November, 2026)
+* Fixed stale quotes remaining active after the last price source disconnects or stops quoting. Symbols without live prices now have their quotes withdrawn, and B-Book orders are rejected until pricing resumes.
+
 
 ## Version 2026.11.16.701 (16 November, 2026)
 * New and changed Hub user passwords must be 15–128 characters long and differ from the login. Existing passwords remain valid until changed.
