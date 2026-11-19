@@ -1,5 +1,11 @@
 # Kloshira MT5
 
+
+
+## Version 26.11.13.55 (26 November, 2026)
+### Changes
+* Improved symbol table handling to preserve the last known prices when connector symbols are updated, ensuring consistent quote processing during configuration changes.
+
 ## Version 26.09.04.89 (10 September, 2026)
 ### Changes
 * Backups now include every per-LP session file used by an aggregating setup (API=AGGREGATOR), at any nesting depth, so the stored configuration set can fully restore the gateway. Passwords and the RawData field are masked in the stored copies.
