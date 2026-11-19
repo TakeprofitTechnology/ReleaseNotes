@@ -1,5 +1,10 @@
 # Takeprofit Bridge MT5
 
+
+## Version 26.11.10.52 (26 November, 2026)
+### Changes
+* Fixed a potential loss of quotes when changing the symbol list via set_symbols while quotes are flowing. Symbols retained in the new list now preserve their last prices, allowing trading to continue without waiting for the next tick.
+
 ## Version 26.10.28.49 (4 November, 2026)
 ### Changes
 * get_info now reports gui_prices_only as "true" when the licence enables the GUI-prices-only mode. Before, it was always "false".
