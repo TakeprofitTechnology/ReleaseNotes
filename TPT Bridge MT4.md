@@ -1,5 +1,10 @@
 # MT4 Takeprofit Bridge
 
+
+## Version 26.11.10.52 (26 November, 2026)
+### Changes
+* Fixed a potential loss of quotes when changing the symbol list via set_symbols or reload_symbols while quotes are flowing. Symbols retained in the new list now preserve their last prices, allowing trading to continue without waiting for the next tick.
+
 ## Version 26.11.03.70 (5 November, 2026)
 ### Changes
 * A report request now uses about as much MT4 server memory as the report needs. Before, each request reserved 256 MB.
