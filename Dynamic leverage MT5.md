@@ -1,5 +1,7 @@
 # Dynamic leverage MT5
 
+## Version 26.11.18.40 (18 November, 2026)
+Added support for zero and empty Symbol vol. limit and Acc vol. limit values. Zero prevents opening trades that would create exposure, while an empty value disables the corresponding exposure limit.
 
 ## Version 26.10.16.15 (21 October, 2026)
 ### Changes
