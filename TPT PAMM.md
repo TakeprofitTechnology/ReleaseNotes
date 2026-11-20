@@ -131,6 +131,13 @@
 * Added support for linking multiple MT5 accounts to one PAMM login and switching between Investor and Leader accounts without signing out.
 * Added multi-currency support. Account currencies are automatically detected from MT5 groups, and balances, profits, and fees are displayed accordingly.
 
+
+## Version 2026.9.4.696 (4 September, 2026)
+* Fixed inflated Total ROI values caused by trading history recorded before the account's first deposit.
+* Leader performance tracking now starts from the first day the account has sufficient balance and equity.
+* Improved ROI, risk metrics, and equity charts for affected leaders.
+* Added the recordStarts API field to identify track record starting points and chart breaks.
+
 ## Version 2026.9.2.77 (2 September, 2026)
 * Improved daily return calculations to handle deposits and withdrawals correctly.
 
