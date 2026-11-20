@@ -4,6 +4,7 @@
 * The PrimeXM and OneZero acceptors now respond to messages sent on the wrong FIX session or unsupported application messages with a Business Message Reject (35=j) instead of leaving them unanswered. The logs now include the session and rejection reason.
 * Saving an unchanged connector configuration no longer restarts the connector, disconnects LP sessions, or rewrites the configuration file, even if the file was created or edited manually.
 * Improved gateway shutdown handling during startup. Interrupted startups are now logged as INFO instead of misleading FATAL errors, and new orders are rejected once shutdown begins. Improved backup file error handling.
+* Fixed a crash (0xc0000409) during gateway shutdown after a failed startup. The gateway now exits cleanly without generating Windows Application Error events.
 
 ## Version 26.11.10.52 (10 November, 2026)
 ### Changes
