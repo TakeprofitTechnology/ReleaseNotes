@@ -1,5 +1,11 @@
 # TPT PAMM
 
+
+## Version 2026.11.17.788 (17 November, 2026)
+* Fixed a delay in detecting bonuses on cTrader leader accounts. New investments are now rejected immediately when a leader receives a bonus, instead of after up to 5 minutes.
+* Improved investment eligibility checks by fetching the latest leader account data from cTrader before accepting new investments.
+* Investments are also rejected if the leader account cannot be verified.
+
 ## Version 2026.10.28.375 (28 October, 2026)
 * Added cTrader servers to Settings. Administrators can now choose MT5 or cTrader when adding a server.
 * PAMM can now connect to cTrader servers and reconnect automatically. Account linking and money operations will come in later releases.
