@@ -1,5 +1,9 @@
 # Bonus Cashback MT4
 
+
+## Version 26.11.18.40 (18 November, 2026)
+* Improved status message handling in MT4 Administrator. Messages exceeding 127 characters now end with "... (see log)" instead of being silently truncated. The full message remains available in the plugin log.
+
 ## Version 26.09.28.74 (30 September, 2026)
 ### Changes
 * The plugin now refuses to start if a setting is missing or invalid. The Administrator shows a red status naming the setting.
