@@ -1,5 +1,8 @@
 # Web GUI сonfigurator
 
+## Version 2026.11.18.1030 (18 November, 2026)
+* Improved validation of Dynamic Leverage MT5 rule settings in the grid, API, and Export. Invalid values in Profile ID, Rule start/end, Logins, Groups, Symbols, Securities, volume limits, and leverage tiers are now rejected with clear error messages indicating the affected column and row.
+
 ## Version 2026.11.10.1059 (12 November, 2026)
 ### Features
 * MT5 EasyMAM: added the Withdraw command to the investor menu. The window shows the balance and equity and warns that positions will be partly closed.
