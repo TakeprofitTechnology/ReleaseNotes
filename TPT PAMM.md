@@ -11,6 +11,10 @@
 * Implemented unique operation IDs and reconciliation to prevent duplicate transactions, even when cTrader responses are lost.
 * Improved transaction reliability with persistent holds and automatic reconciliation.
 * Leader accounts with bonuses are now excluded from accepting new investments.
+* Added per-request-type rate limiting for cTrader to prevent API bans and keep the connection active.
+* Improved reconciliation by processing accounts in smaller batches with controlled delays.
+* Optimized balance history requests by fetching multiple accounts in a single request, significantly reducing API usage.
+* Improved monitoring and logging of API throttling and deferred requests.
 
 ## Version 2026.10.28.375 (28 October, 2026)
 * Added cTrader servers to Settings. Administrators can now choose MT5 or cTrader when adding a server.
