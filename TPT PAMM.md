@@ -99,6 +99,10 @@
 * Fixed investor statements incorrectly showing a −100% loss while a new investment is still pending.
 * Pending investments now display dashes instead of misleading performance figures, with an explanatory note in PDF and XLSX statements.
 * Actual performance figures appear once the investment becomes active.
+* Fixed the History tab showing gross profit instead of the investor's actual profit after fees.
+* Realized PnL and ROI now reflect the amount actually returned to the investor.
+* Added the realizedPnlNet field to the Investments API while keeping the existing gross PnL field unchanged.
+* Renamed the Statements summary metric to "Realized PnL (gross)" for clarity.
 
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
