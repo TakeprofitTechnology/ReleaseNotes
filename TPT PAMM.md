@@ -94,6 +94,12 @@
 * Updated the confirmation code re-send notice to “Check your inbox. A new code can be sent once per minute.”
 * Fixed sign-in errors during PAMM startup. Unavailable account balances and other figures now show a dash instead of 0.
 
+
+## Version 2026.9.29.832 (29 September, 2026)
+* Fixed investor statements incorrectly showing a −100% loss while a new investment is still pending.
+* Pending investments now display dashes instead of misleading performance figures, with an explanatory note in PDF and XLSX statements.
+* Actual performance figures appear once the investment becomes active.
+
 ## Version 2026.9.25.673 (25 September, 2026)
 * Added downloadable PDF/XLSX statements for selected periods, including opening and closing values, P/L, fees, transactions, daily values, and reconciliation totals.
 * Added system monitoring for disk capacity, CPU, memory, process health, database performance, MT5 latency, e-mail delivery, and HTTP errors.
