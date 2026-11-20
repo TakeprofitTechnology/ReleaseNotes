@@ -68,6 +68,9 @@
 * Fixed an issue where slow or unresponsive MT5 connections could freeze pages and operations. Stuck connections are now automatically replaced.
 * Updated HTTPS support and fixed build issues. HTTPS now uses shared settings, so installations using the old certificate configuration must be updated.
 * Added unique passwords for each PAMM demo and a login panel displaying demo credentials with copy buttons. Regular installations remain unchanged.
+* Fixed false balance mismatch and equity consistency alerts when reconciliation runs shortly after a leader deposits or withdraws their own funds.
+* Reconciliation now accounts for pending leader balance operations before comparing balances with MT5.
+* Improved reconciliation accuracy while preserving alerts for genuine discrepancies and manual MT5 operations.
 
 ## Version 2026.10.8.639  (8 October, 2026)
 * Fixed an issue where leader deposits or withdrawals could be counted twice when an investor exits or an admin rebalances the leader's account.
