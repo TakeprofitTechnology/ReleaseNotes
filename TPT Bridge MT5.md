@@ -1,7 +1,9 @@
 # Takeprofit Bridge MT5
 
+## Version 26.11.18.68 (18 November, 2026)
+* The PrimeXM and OneZero acceptors now respond to messages sent on the wrong FIX session or unsupported application messages with a Business Message Reject (35=j) instead of leaving them unanswered. The logs now include the session and rejection reason.
 
-## Version 26.11.10.52 (26 November, 2026)
+## Version 26.11.10.52 (10 November, 2026)
 ### Changes
 * Fixed a potential loss of quotes when changing the symbol list via set_symbols while quotes are flowing. Symbols retained in the new list now preserve their last prices, allowing trading to continue without waiting for the next tick.
 
