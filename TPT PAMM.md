@@ -20,6 +20,10 @@
 * Added cTrader servers to Settings. Administrators can now choose MT5 or cTrader when adding a server.
 * PAMM can now connect to cTrader servers and reconnect automatically. Account linking and money operations will come in later releases.
 * Profit and loss are now shared based on each participant's current balance, including earned profit. This makes calculations correct after partial withdrawals and new investments.
+* Added per-connection request rate limiting for cTrader to prevent API throttling and bans.
+* Prioritized money operations over background and screen requests when the API budget is limited.
+* Improved request queuing, history pagination, and handling of server throttling.
+* Added four monitoring metrics for API budget usage, throttling, server holds, and deferred requests.
 
 ## Version 2026.10.22.609 (22 October, 2026)
 * The leader dashboard now shows a message when MT5 is unavailable instead of showing "No positions". Balance figures return when the connection is restored.
