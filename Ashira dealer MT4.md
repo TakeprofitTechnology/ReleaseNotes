@@ -1,5 +1,9 @@
 # Ashira dealer MT4
 
+
+## Version 26.11.18.40 (18 November, 2026)
+* Improved status message handling in MT4 Administrator. Messages exceeding 127 characters now end with "... (see log)" instead of being silently truncated. The full message remains available in the plugin log.
+
 ## Version 26.10.27.49 (28 October, 2026)
 ### Features
 * New rule action SR (SLIP_REQUESTED). The deal is filled at the requested price plus the Forced negative slippage, not at the market price.
