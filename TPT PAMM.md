@@ -6,6 +6,12 @@
 * Improved investment eligibility checks by fetching the latest leader account data from cTrader before accepting new investments.
 * Investments are also rejected if the leader account cannot be verified.
 
+## Version 2026.11.13.669 (13 November, 2026)
+* Added support for cTrader balance operations, including investment starts, stops, fees, and payouts.
+* Implemented unique operation IDs and reconciliation to prevent duplicate transactions, even when cTrader responses are lost.
+* Improved transaction reliability with persistent holds and automatic reconciliation.
+* Leader accounts with bonuses are now excluded from accepting new investments.
+
 ## Version 2026.10.28.375 (28 October, 2026)
 * Added cTrader servers to Settings. Administrators can now choose MT5 or cTrader when adding a server.
 * PAMM can now connect to cTrader servers and reconnect automatically. Account linking and money operations will come in later releases.
