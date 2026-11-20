@@ -1,8 +1,9 @@
 # Kloshira MT5
 
+## Version 26.11.18.68 (18 November, 2026)
+*Improved gateway shutdown handling during startup. Interrupted startups are now logged as INFO instead of misleading FATAL errors, and new orders are rejected once shutdown begins. Added validation for malformed routing rules and improved backup file error handling.
 
-
-## Version 26.11.13.55 (26 November, 2026)
+## Version 26.11.13.55 (13 November, 2026)
 ### Changes
 * Improved symbol table handling to preserve the last known prices when connector symbols are updated, ensuring consistent quote processing during configuration changes.
 
