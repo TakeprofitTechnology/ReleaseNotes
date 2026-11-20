@@ -1,4 +1,4 @@
-# Swap control center MT5
+# MT5 Swap Control Center
 
 ## Version 26.10.26.61 (28 October, 2026)
 ### Changes
