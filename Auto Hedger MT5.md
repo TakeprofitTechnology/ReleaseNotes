@@ -1,5 +1,8 @@
 # Auto Hedger MT5
 
+## Version 26.11.18.40 (18 November, 2026)
+* Improved REST server error handling. Hedging now continues when the REST server fails to start, while the plugin status and logs clearly indicate that the REST API is unavailable. Added validation for invalid REST port values and improved runtime configuration handling.
+
 ## Version 26.10.28.49 (30 October, 2026)
 ### Changes
 * The plugin log no longer shows the IntegrationWebhook URL. It now shows `IntegrationWebhook = ***`, or `<empty>` when the parameter is blank.
