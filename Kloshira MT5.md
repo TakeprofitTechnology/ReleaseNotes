@@ -2,6 +2,7 @@
 
 ## Version 26.11.18.68 (18 November, 2026)
 * Improved gateway shutdown handling during startup. Interrupted startups are now logged as INFO instead of misleading FATAL errors, and new orders are rejected once shutdown begins. Added validation for malformed routing rules and improved backup file error handling.
+* Fixed a crash (0xc0000409) during gateway shutdown after a failed startup. The gateway now exits cleanly without generating Windows Application Error events.
 
 ## Version 26.11.13.55 (13 November, 2026)
 ### Changes
