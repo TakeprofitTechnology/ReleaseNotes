@@ -3,6 +3,7 @@
 ## Version 26.11.18.40 (18 November, 2026)
 * The PrimeXM and OneZero acceptors now respond to messages sent on the wrong FIX session or unsupported application messages with a Business Message Reject (35=j) instead of leaving them unanswered. The logs now include the session and rejection reason.
 * Saving an unchanged connector configuration no longer restarts the connector, disconnects LP sessions, or rewrites the configuration file, even if the file was created or edited manually.
+* Improved backup file error handling. Successfully applied configuration changes are no longer reported as failed when saving a backup copy fails.
 
 ## Version 26.11.10.52 (10 November, 2026)
 ### Changes
