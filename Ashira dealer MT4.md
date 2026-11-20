@@ -1,4 +1,4 @@
-# Ashira dealer MT4
+# MT4 Ashira Dealer 
 
 
 ## Version 26.11.18.40 (18 November, 2026)
